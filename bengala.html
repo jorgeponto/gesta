@@ -1,0 +1,186 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt" xml:lang="pt">
+
+<head>
+<title>Colocar scripts na página</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<script type="text/javascript" src="VariaFont.js"></script>
+<style type="text/css">
+.hide {	
+	position:absolute;
+	left:0px;
+	top:-500px;
+	width:1px;
+	height:1px;
+	overflow:hidden;
+}
+</style>
+</head>
+<body>
+<h1>Colocar scripts na página e implementar uma alternativa noscript</h1>
+<address>Jorge Fernandes | última actualização: 28 Julho 2006</address>
+<p>Quando se fala em scripts, uma das diferenças das WCAG 1.0 do W3C e a secção 508 da ADA é precisamente o facto das primeiras exigirem uma alternativa noscript para ser executada por agentes do utilizador que não executem javascript. Em ambos os normativos é exigível que o próprio programa siga as regras de acessibilidade.</p>
+<p>Aconselha-se a executar esta página com java/javascript activo e inactivo para ver as diferenças, as quais se resumem à visualização do que está no script e no noscript.</p>
+<h2>Exemplo 1: um simples script e o seu alternativo noscript</h2>
+
+<pre>
+&lt;script type="text/javascript"&gt; 
+&lt;!-- 
+document.write("Eis a execução com script activo: Olá Mundo!"); 
+//--&gt;
+&lt;/script&gt;
+&lt;noscript&gt;
+&lt;p&gt;O seu navegador não suporta javascript. 
+Se tal fosse possível iria ler Olá Mundo! (para este 
+é fácil dar um alternativo ao utilizador).&lt;/p&gt;
+&lt;/noscript&gt;
+</pre>
+<script type="text/javascript"> 
+<!-- 
+document.write("Eis a execução com script activo: Olá Mundo!"); 
+//-->
+</script>
+<noscript><p>O seu navegador não suporta javascript. Se tal fosse possível iria ler Olá Mundo! (para este é fácil dar um alternativo ao utilizador).</p></noscript>
+
+<h2>Exemplo 2: um script mais complexo: aumentar e diminuir o tamanho da letra</h2>
+<p>Este script foi-me apresentado pelo autor do sítio Web Bengala Legal (http://www.bengalalegal.com), Marco António Queiroz, que pretendia continuar a usar o script mas também não queria violar as directrizes da WAI.</p>
+<p>Numa análise ao script VariaFont.js deu para perceber que o script tem 4 ampliações. Tem também umas singularidades: só amplia parágrafos e elementos de listas e só o faz quando esses elementos se encontram dentro de um bloco div com a identificação VariaFont.</p>
+<p>Como alternativa a este mecanismo poderiamos construir algo do lado do servidor, por exemplo feito em PHP, mas aqui o que pretendemos é não alterar nada e simplesmente posicionar o script de acordo com as directrizes de acessibilidade da WAI.</p>
+<p>Assim, o script original encontrava-se posicionado da seguinte forma:</p>
+<pre>
+<code>
+&lt;script type="text/javascript" src="VariaFont.js"&gt;&lt;/script&gt;
+&lt;noscript&gt;Variar tamanho de fonte&lt;/noscript&gt;
+&lt;a href="javascript:ts('VariaFont',1)" title="Aumenta Texto"&gt;
+     &lt;img src="amais.gif" alt="Aumenta Texto" width="30" height="25"&gt;
+&lt;/a&gt;
+&lt;img src="1px.gif" alt=" " width="1" height="1"&gt;
+&lt;a href="javascript:ts('VariaFont',-1)" title="Diminui Texto"&gt;
+     &lt;img src="amenos.gif" alt="Diminui Texto" width="30" height="25"&gt;
+&lt;/a&gt;
+</code>
+</pre>
+<p>Uma das primeiras alterações, foi colocar a importação do script VariaFont.js no cabeçalho da página: i.e. passou a figurar no elemento &lt;head&gt;.</p>
+<p>Assim ficou:</p>
+<pre>
+<code>
+&lt;head&gt;
+     (...)
+     &lt;script type="text/javascript" src="VariaFont.js"&gt;&lt;/script&gt;
+     (...)
+&lt/head&gt;
+</code>
+</pre>
+<p>No corpo da página <code>&lt;body&gt;</code>, coloquei os links javascript, que fazem uso de funções que se encontram no ficheiro VariaFont.js dentro do elemento <code>&lt;script&gt;</code>. Assim concentra-se todas as chamadas às funções de VariaFont.js dentro do elemento <code>&lt;script&gt;</code>. a lógica é ficar com uma separação completa entre uma execução que depende de uma tecnologia java/javascript e uma execução que é completamente independente desta tecnologia que será afixada no elemento <code>&lt;snocript&gt;</code>.</p>
+<p>Eis, então, o código que coloquei no elemento &lt;body&gt;:</p>
+<pre>
+<code>
+&lt;script type="text/javascript"&gt;
+     &lt;!--
+     document.write('
+        &lt;p&gt;
+        &lt;a href="javascript:ts(\'VariaFont\',1)" 
+                    title="Aumenta Tamanho"&gt;Aumenta Tamanho do Texto
+        &lt;/a&gt; | 
+        &lt;a href="javascript:ts(\'VariaFont\',-1)" 
+                    title="Diminui Texto"&gt;Diminui Tamanho do Texto
+        &lt;/a&gt;
+        &lt;/p&gt;
+     ');
+     //--&gt;
+&lt;/script&gt;
+&lt;noscript&gt;
+     &lt;p&gt;O seu navegador não suporta javascript. 
+        O sítio tem uma funcionalidade implementada em javascript 
+        que lhe permite aumentar e diminuir o tamanho da letra. 
+        Em alternativa, pode usar as funcionalidades do seu navegador
+        para o efeito.
+     &lt;/p&gt;
+&lt;/noscript&gt;
+</code>
+</pre>
+
+<p>Encontra a seguir os 2 links que lhe permitem aumentar e diminuir o tamanho da letra. Para efeitos de teste coloquei apenas os links textuais e que têm efeito sobre o <code>&lt;div id="VariaFont"&gt;</code> que coloquei logo a seguir e que se encontra delimitado por --início div e --fim div.</p>
+
+<script type="text/javascript">
+<!--
+document.write('<p><a href="javascript:ts(\'VariaFont\',1)" title="Aumenta Tamanho">Aumenta Tamanho do Texto</a> | <a href="javascript:ts(\'VariaFont\',-1)" title="Diminui Texto">Diminui Tamanho do Texto</a></p>');
+//-->
+</script>
+<noscript>
+<p>O seu navegador não suporta javascript. O sítio tem uma funcionalidade implementada em javascript que lhe permite aumentar e diminuir o tamanho da letra. Em alternativa, pode usar as funcionalidades do seu navegador para o efeito.</p>
+</noscript>
+
+<div id="VariaFont">
+<p>--início div id="VariaFont"</p>
+<p>O script tem influência neste bloco de informação.</p>
+<p>Este um elemento definidor de parágrafo, sobre qual o script actua.</p>
+<ul>
+<li>Este é um elemento de lista, sobre o qual o script actua.</li>
+</ul>
+<h3>Este é um cabeçalho de nível 3. Confirma-se que o script não o amplia ou reduz, ou seja o script VariaFont.js não tem influência sobre ele.</h3>
+<p>--fim div id="VariaFont"</p>
+</div>
+
+<h2>Exemplo 3: script de som</h2>
+<p>Este exemplo é também do bengala legal. Penso que o bgsound não é um elemento standard HTML, mas proprietário da Microsoft.  Tenho que verificar. O elemento embed também me parece que sofre do mesmo problema. O elemento standard é o object. Penso que o object permite incrustar um elemento como um ficheiro mp3. O Internet Explorer parece não interpretar o elemento object, pelo que será necessário fazer cohabitar ambos os elementos: object e embed. Afinal é a técnica utilizada para incorporar um vídeo, um ficheiro som, numa página Web. Para ver depois...</p>
+<p>Para já, vamos construir um script para colocar esta tralha original e um noscript para colocar simplesmente um link para o ficheiro áudio.</p>
+
+<p>Ouviu uma mensagem? Se sim, veja em baixo por onde passou a execução:</p>
+<p>Agora alterei este script do som - ver a secção seguinte</p>
+
+<!--
+<script type="text/javascript">
+if(navigator.userAgent.indexOf("MSIE") != -1)
+document.write('<bgsound src="http://www.bengalalegal.com/bengala.mp3"><p>Execução específica para Internet Explorer.</p>');
+else
+document.write('<embed src="http://www.bengalalegal.com/bengala.mp3" autostart=true hidden=true><p>Execução para outros navegadores que não IE</p>');
+</script>
+<noscript><p>[ <a href="http://www.bengalalegal.com/bengala.mp3">Som de voz falando: Bem-vindo &agrave; Bengala Legal!</a> ]</p></noscript>
+//-->
+
+<h3>Implementar um ficheiro de som em background com object</h3>
+
+<p>Quando coloquei o ficheiro mp3 com um script, como estava no original, conjecturei que o mesmo poderia ser colocado via um elemento object. E de facto assim é: é possível colocar um ficheiro mp3, e o resultado, parece-me mais simples.</p>
+
+<pre>
+&lt;object data="http://www.bengalalegal.com/bengala.mp3" type="audio/mpeg"&gt;
+Mensagem: Bem-vindo ao bengala legal
+&lt;/object&gt;
+</pre>
+
+<p>Mas ao colocá-lo desta forma fiquei com um problema adicional: o player que executa o MP3 aparece no ecrã. No meu caso o quicktime aparece no local onde coloquei o elemento object. Então como ultrapassar este problema? Ainda tentei colocá-lo no head da página, pois segundo as especificações a execução ficaria invisível. Não resultou, pelo menos com o navegador Opera. A solução passou então por recorrer a um estilo do CSS para esconder o player do object.</p>
+<p>Adicionei então no head da página:</p>
+<pre>
+&lt;style type="text/css"&gt;
+.hide {	
+	position:absolute;
+	left:0px;
+	top:-500px;
+	width:1px;
+	height:1px;
+	overflow:hidden;
+}
+&lt;/style&gt;
+</pre>
+
+<p>E, claro, coloquei a chamada à classe hide no elemento object. Ou seja, ficou assim o elemento object:</p>
+<pre>
+&lt;object class="hide" data="http://www.bengalalegal.com/bengala.mp3" type="audio/mpeg"&gt;
+Mensagem: Bem-vindo ao bengala legal
+&lt;/object&gt;
+</pre>
+
+<p>Resta saber, como se comporta o Internet Explorer, que pelos vistos não gosta do elemento standard object, com esta solução? Não vou poder testar já, pois não uso Windows e por isso também não tenho Internet Explorer! (risos)</p>
+
+<object class="hide" data="http://www.bengalalegal.com/bengala.mp3" type="audio/mpeg">
+Mensagem: Bem-vindo ao bengala legal
+<embed src="http://www.bengalalegal.com/bengala.mp3" autostart=true loop=false volume=100 hidden=true></embed>
+<noembed><bgsound src="http://www.bengalalegal.com/bengala.mp3">Passou pelo noembed</noembed>
+</object>
+<h3>eXaminator</h3>
+<p>Todo este exercício começou porque o autor do sítio Web Bengala Legal, Marco António Queiroz, queria fazer do seu conteúdo um top de boas práticas em termos de construção acessível. Note-se que é isso que o eXaminator procura: boas práticas Web do ponto de vista de acessibilidade para todos. O índice webax para esta página que estamos a ler é agora de 9.2.  O eXaminator diz-me ainda que: não tenho teclas de atalho; que não uso qualquer definição de cor e que não especifico quais os documentos que estão relacionados com este. De facto tudo isto é verdade, mas esta página é apenas uma página isolada. Não pertence ao meu sítio web e por isso estou contente com os meus 9.2. Curioso é o facto do eXaminator deixar de implicar com o ficheiro MP3. Assim, parece-me que sem abdicar de nada, o MAQ vai poder ostentar um webaX de 9.8.</p>
+
+</body>
+</html>

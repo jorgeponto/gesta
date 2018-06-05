@@ -1,0 +1,194 @@
+.imagem_direita{
+	float: right;
+	padding: 2%;}
+
+.imagem_centro{
+	text-align: center;
+	padding: 2%;}
+
+.imagem_esquerda{
+	float: left;
+	padding: 2%;}
+
+body { 
+	color: black;
+	font-family: Verdana;
+	font-size: 1em;
+}
+.centro      { text-align: Center }
+.cabecalho   { 
+	color: #000066 }
+
+.gesta
+{
+	background-color: #E9E9E9;
+	letter-spacing: 4px;
+	padding: 1%;
+	text-align: center;
+	margin-bottom: 2px;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: dashed;
+	border-left-style: none;
+}
+
+.corpo       { background-color: white; color: black; margin-left: 25%; margin-right: 5% }
+
+.rodape      { color: #666666; font-size: 12px; background-color: #C0C0C0 }
+.hide {DISPLAY: none}
+.destaque    { background-color: #FFFF00; border-top-style: solid; border-top-width: 1px; 
+               border-bottom-style: solid; border-bottom-width: 1px; 
+               padding: 3%; width: 20%; float: right;}
+
+.menu        { background-color: #808080; color: #FFFFFF }
+
+.menu a:link, .menu a:visited {
+   background: #808080;
+   color: white;
+   text-decoration: none;
+}
+
+.menu a:hover {
+background: #808080;
+color: yellow;
+text-decoration: none;
+}
+
+h1.gestamp2 {
+font-size:80%; 
+margin-top: -2%;
+}
+
+.gestamp1 {
+margin-top: -1%;
+text-align: center;
+}
+
+/* Nav Button code. Thanks Mike and A List Apart for people who make websites! */
+
+#button {
+	width: 150px;
+	padding: 0px;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: small;
+	color: #E9E9E9;
+	float: left;
+	background-color: #E9E9E9;
+		}
+
+#button ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	border: none;
+}
+
+#button li {
+	border-bottom: 2px solid #E9E9E9;
+	margin: 0px;
+}
+
+#button li.unselected a { 
+	display: block;
+		text-decoration: none;
+        width: 100%;
+	border-left: 10px solid #E9E9E9;
+    border-right: 10px solid #FEFEFE;
+	padding-left: 5px;
+        padding-right: 5px;
+	padding-top: 4px;
+	padding-bottom: 4px }
+
+html>body #button li.unselected a {
+	width: auto;
+}
+
+#button li.selected a {
+display: block;
+padding: 4px 5px 4px 5px;
+border-left: 10px solid #0948a7;
+border-right: 10px solid #407fb4;
+background-color: black;
+color: #fff;
+text-decoration: none;
+width: 100%;
+}
+
+html>body #button li.selected a {
+		width: auto;
+		}
+		
+		
+		
+	#button li a:hover {
+		border-left: 10px solid #1c64d1;
+		border-right: 10px solid #CCCCCC;
+		background-color: black;
+		color: #fff;
+		}
+
+.cleaner {
+	clear: left;
+}
+
+.cleaner_drt {
+	clear: right;
+}
+
+dt {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: x-large;
+}
+
+/* ****************** Estilo para Impressora  ************** */
+
+@media print {
+   h1, h2, h3,
+   h4, h5, h6    { page-break-after: avoid; page-break-inside: avoid }
+   blockquote,
+   pre           { page-break-inside: avoid }
+   ul, ol, dl    { page-break-before: avoid }
+
+body         { background-color: #000066; color: #FFFFFF; font-family: Verdana; font-size: 
+               14px }
+.cabecalho   { background-color: white; color: blue }
+.menu        { background-color: yellow; color: blue }
+.corpo       { background-color: white; color: black; margin-right: 0%; margin-left: 0%}
+.rodape      { background-color: white; color: black; font-size: 12px }
+
+
+:link {
+   background: white;
+   color: blue;
+   font: bold;
+}
+}
+/* ****************** Estilo para Sintetizador de Voz  ************** */
+
+@media aural {
+   h1, h2, h3,
+   h4, h5, h6    { voice-family: paul, male; stress: 20; richness: 90 }
+   h1            { pitch: x-low; pitch-range: 90 }
+   h2            { pitch: x-low; pitch-range: 80 }
+   h3            { pitch: low; pitch-range: 70 }
+   h4            { pitch: medium; pitch-range: 60 }
+   h5            { pitch: medium; pitch-range: 50 }
+   h6            { pitch: medium; pitch-range: 40 }
+   li, dt, dd    { pitch: medium; richness: 60 }
+   dt            { stress: 80 }
+   pre, code, tt { pitch: medium; pitch-range: 0; stress: 0; richness: 80 }
+   em            { pitch: medium; pitch-range: 60; stress: 60; richness: 50 }
+   strong        { pitch: medium; pitch-range: 60; stress: 90; richness: 90 }
+   dfn           { pitch: high; pitch-range: 60; stress: 60 }
+   s, strike     { richness: 0 }
+   i             { pitch: medium; pitch-range: 60; stress: 60; richness: 50 }
+   b             { pitch: medium; pitch-range: 60; stress: 90; richness: 90 }
+   u             { richness: 0 }
+   a:link        { voice-family: harry, male }
+   a:visited     { voice-family: betty, female }
+   a:active      { voice-family: betty, female; pitch-range: 80; pitch: x-high }
+}
