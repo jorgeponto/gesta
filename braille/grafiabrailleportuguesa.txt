@@ -1,0 +1,1579 @@
+ Ministério da Educação
+ Secretaria de Educação Especial
+
+ *GRAFIA BRAILLE PARA A LÍNGUA PORTUGUESA*
+ Aprovada pela portaria nº 2.678 de 24/09/2002
+
+ Brasília, 2006
+ 
+ Ministério da Educação
+ Secretaria de Educação Especial
+ Esplanada dos Ministérios, Bloco L, 6º andar, sala 600
+ CEP 70047-901 – Brasília – DF
+ Fones (61) 2104-8651 / 2104-8642
+ Fax (61) 2104-9265
+ E-mail: seesp@mec.gov.br
+
+ 2ª edição
+ Tiragem: 1000 unidades
+
+ ISBN:978-85-60331-03-1
+Dados Internacionais de Catalogação na Publicação (CIP)
+ BRASIL. Ministério da Educação.Secretaria de Educação Especial.
+Grafia Braille para a Língua Portuguesa / elaboração: Cerqueira, Jonir Bechara... [et al.].
+Secretaria de Educação Especial – Brasília: SEESP, 2006.
+106 p.
+ 1. Educação Especial. 2. Grafia Braille para a Língua Portuguesa.
+3. Braille. I(1). Título.
+ CDU 376.352
+
+ FICHA TÉCNICA
+ Secretária de Educação Especial
+ Claudia Pereira Dutra
+ Diretora do Departamento de Políticas da Educação Especial
+ Claudia Maffini Griboski
+ Coordenadora Geral de Desenvolvimento da Educação Especial
+ Kátia Aparecida Marangon Barbosa
+ Elaboração
+ Edison Ribeiro Lemos
+ Jonir Bechara Cerqueira
+ Maria Gloria Batista da Mota
+ Regina Fátima Caldeira de Oliveira
+ Colaboração
+ Angelin Loro
+ Aristides Antonio dos Santos
+ Claudia Maria Monteiro Sant’Anna
+ Lusia Maria de Almeida
+ Lêda Lúcia Spelta
+ Marcio Neves Penido
+ Maria Gloria Batista da Mota
+ Maria Helena Franco Sena
+ Comissão de Braille de Portugal
+ Revisão
+ Jonir Bechara Cerqueira
+ Maria Gloria Batista da Mota
+ Martha Marilene de Freitas Sousa
+ Regina Fátima Caldeira de Oliveira
+
+ *PORTARIA Nº 2.678 DE 24 DE SETEMBRO DE 2002*
+
+	O MINISTRO DE ESTADO DA EDUCAÇÃO, no uso de suas atribuições e 
+ - considerando o interesse do Governo Federal em adotar para todo o País, uma política de diretrizes e 
+normas para o uso, o ensino, a produção e a difusão do Sistema Braille em todas as suas modalidades
+de aplicação, compreendendo especialmente a Língua Portuguesa;
+ - considerando a permanente evolução técnico-científica que passa a exigir sistemática avaliação e 
+atualização dos códigos e simbologia Braille, adotados nos Países de Língua Portuguesa com o objetivo de
+mantê-los verdadeiramente representativos da escrita comum;
+ - considerando os resultados dos trabalhos técnicos e das ações desenvolvidas pela Comissão Brasileira do 
+Braille, em cumprimento ao que dispõem os incisos II(2), III(3), V(5), VI(6), VIII(8), IX(9) e do Art. 3º 
+da Portaria 319, de 26 de fevereiro de 1999, que institui no Ministério da Educação, vinculada à Secretaria 
+de Educação Especial - SEESP, a referia comissão;
+ - considerando os termos do Protocolo de Colaboração Brasil/Portugal nas Áreas de Uso e Modalidades de 
+Aplicação do Sistema Braille na Língua Portuguesa, firmado em Lisboa, em 25 de maio de 2000, resolve:
+	Art. 1º Aprovar o projeto da Grafia Braille para a Língua Portuguesa e recomendar o seu uso em todo o 
+território nacional, na forma da publicação Classificação Decimal Universal - CDU 376.352 deste Ministério, 
+a partir de 01 de janeiro de 2003.
+	Art. 2º Colocar em vigência, por meio de seu órgão competente, a Secretaria de Educação Especial - SEESP, as 
+disposições administrativas necessárias para dar cumprimento à presente Portaria, especialmente no que
+concerne à difusão e à preparação de recursos humanos com vistas à implantação da Grafia Braille para a Língua 
+Portuguesa em todo o território nacional.
+	Art. 3º Esta portaria entra em vigor na data de sua publicação.
+
+	PAULO RENATO SOUZA
+
+
+ *ÍNDICE*
+
+ Apresentação - 11
+ Prefácio - 13
+ Introdução - 15
+ Capítulo I(1) – Sistema Braille - 17
+ 1. Definição - 17
+ 2. Identificação dos pontos - 17
+ 3. Sinais simples e compostos - 18
+ 4. Referencial de posição - 20
+ 5. Ordem Braille - 20
+ 6. Escrita Braille - 22
+ 7. Aplicação à Língua Portuguesa - 22
+ Capítulo II(2) – O Código Braille na grafia da Língua Portuguesa - 23
+ A. Valor dos Sinais
+ 8. Introdução -  23
+	1 – Alfabeto - 23
+	2 – Letras com diacríticos - 23
+	3 – Pontuação e sinais acessórios - 24
+	4 – Sinais usados com números - 25
+	5 – Sinais exclusivos da escrita Braille - 25
+ B. Observações e normas de aplicação
+ 9. Introdução - 26
+	1 – Sinal de letra maiúscula - 26
+ 10. Maiúscula com uma ou mais letrs - 26
+ 11. Siglas - 27
+	2 – Números e sinais com eles usados - 28
+ 12. Representação de algarismos - 28
+ 13. Vírgula decimal - 28
+ 14. Ponto separador de classes - 29
+ 15. Números ordinais - 29
+ 16. Articulações de números e letras - 29
+ 17. Frações - 30
+ 18. Cifrão - 31
+ 19. Por cento, por mil - 32
+ 20. Parágrafo jurídico - 32
+ 21. Datas - 33
+ 22. Sinais de operação e de relação - 33
+ 23. Unidades de medida - 36
+ 24. Medidas angulares - 36
+ 25. Medidas de temperatura - 37
+ 26. Medidas de tempo - 37
+ 27. Índice superior - 37
+ 28. Índice inferior - 38
+ 29. Numeração romana - 38
+	3 – Sinal de itálico e outras variantes tipográficas - 39
+ 30. Itálico, sublinhado e negrito - 39
+	4 – Pontuação e sinais acessórios - 42
+ 31. Introdução - 42
+ 32. Ponto - 43
+ 33. Apóstrofo - 43
+ 34. Reticências - 44
+ 35. Parênteses e colchetes - 45
+ 36. Aspas - 48
+ 37. Travessão - 50
+ 38. Círculo- 51
+ 39. “E” comercial - 52
+ 40. Barras - 52
+ 41. Setas horizontais - 53
+ 42. Sinal restituidor - 53
+ 43. Diacríticos - 54
+ 44. Sinal Braille não-codificado - 54
+ Capítulo III(3) – Disposição do Texto Braille - 55
+ 45. Introdução - 55
+ 46. Títulos e subtítulos - 55
+ 47. Referências ao texto - 56
+ 48. Parágrafo - 56
+ 49. Destaque de textos - 58
+ 50. Textos em versos - 58
+ 51. Estrofes - 61
+ 52. Versos em um texto em prosa - 61
+ 53. Separadores de textos - 63
+ 54. Paginação - 63
+ 55. Sinal de transpaginação - 64
+ 56. Notas ao texto - 65
+ Apêndices
+ Apêndice 1
+ Escrita Braille em contexto informático - 67
+ Apêndice 2
+ Alemão - 71
+ Dinamarquês - 72
+ Espanhol - 72
+ Francês - 73
+ Inglês - 73
+ Italiano - 73
+ Latim - 74
+ Sueco - 74
+ Apêndice 3
+ Alfabeto grego - 75
+ Alfabeto hebraico - 77
+ Alfabeto russo ou cirílico moderno - 78
+ Apêndice 4
+ Sinais convencionais usados em esperanto e outras línguas - 79
+ Anexos
+ Anexo 1 
+ Vocabulário de Termos e Expressões Empregados no Domínio do Sistema Braille - 81
+ Anexo 2
+ Parecer sobre a Grafi a da Palavra Braille - 91
+ Anexo 3
+ Portarias Ministeriais - 95
+ Bibliografia - 106
+
+
+ *Apresentação*
+
+	O Sistema Braille foi adotado no Brasil, a partir de 1854, com a criação do Imperial Instituto dos Meninos 
+Cegos, hoje Instituto Benjamin Constant. Esse sistema inventado por Louis Braille, em 1825, foi utilizado
+em nosso país, na sua forma original, até a década de 40 do século 20.
+	A reforma ortográfica da Língua Portuguesa, ocorrida à época, impôs algumas modificações no Braille, de 
+origem francesa, aqui utilizado.
+	Pela ausência de uma definição governamental, as alterações no Sistema Braille, posteriormente ocorridas, 
+ficaram a mercê dos esforços de professores, técnicos especializados e de instituições ligadas à educação de cegos e à
+produção de livros em braille, que procuraram manter o sistema acessível e atualizado até a última década do século 20.
+	Com a publicação da Grafia Braille para a Língua Portuguesa, o Ministério da Educação, além de reafirmar o compromisso 
+com a formação intelectual, profissional e cultural do cidadão cego brasileiro, contribuirá significativamente para a unificação da 
+grafia braille nos países de língua portuguesa, conforme recomendação da União Mundial de Cegos – UMC e UNESCO.
+	Este documento é produto de um trabalho criterioso desenvolvido conjuntamente pelas Comissões de Braille do Brasil e de 
+Portugal desde 1996, hoje com amparo legal no Protocolo de Colaboração Brasil/Portugal nas Áreas de Uso e Modalidades de 
+Aplicação do Sistema Braille, firmado em Lisboa no dia 25 de maio de 2000.
+	Trata-se de um documento normatizador e de consulta, destinado especialmente a professores, transcritores, revisores e usuários do Sistema Braille.
+	As edições da Grafia Braille para a Língua Portuguesa no Brasil e em Portugal, em tinta e em braille, beneficiarão, certamente, todas as pessoas
+cegas dos países de língua oficial portuguesa (PALOPS), parcela de um contingente populacional de cerca de 215 milhões de pessoas.
+	Esperamos que esta publicação venha a atingir seus objetivos, permitindo que os educandos cegos tenham acesso aos componentes curriculares
+e que os profissionais da área sintam-se preparados para atender, com qualidade, os usuários do Sistema Braille.
+
+ CLAUDIA PEREIRA DUTRA
+ Secretária de Educação Especial – MEC
+
+
+ *PREFÁCIO*
+ PREFÁCIO À 2ª EDIÇÃO BRASILEIRA DA GRAFIA BRAILLE PARA A LÍNGUA PORTUGUESA – BRAILLE INTEGRAL
+
+	A Grafia Braille para a Língua Portuguesa – Braille Integral é um documento normalizador e de consulta destinado 
+especialmente a professores, transcritores, revisores e outros profissionais, bem como a usuários do Sistema Braille.
+	Este documento é fruto de um criterioso trabalho desenvolvido conjuntamente pela Comissão Brasileira do Braille 
+e pela Comissão de Braille de Portugal ao longo de três anos.
+	Além de símbolos já consagrados na escrita braille, a Grafia traz algumas alterações, novos símbolos e um conjunto 
+de normas para a aplicação de toda essa simbologia. Exemplos variados ilustram a Grafia e fornecem aos profissionais e 
+usuários as informações complementares sobre o emprego adequado dos símbolos.
+	As alterações e a adoção de novos símbolos basearam-se principalmente nos seguintes critérios:
+ 1. Ajustar a grafia básica à nova realidade da representação braille.
+ 2. Favorecer o intercâmbio entre pessoas cegas e instituições de diferentes países.
+ 3. Adequar a escrita braille às modificações realizadas nas representações gráficas decorrentes do avanço científico e
+tecnológico e do emprego cada vez mais freqüente da Informática.
+ 4. Atender às recomendações da União Mundial de Cegos (UMC) e da UNESCO quanto à unificação das grafias por grupos lingüísticos.
+ 5. Evitar a duplicidade de representação de símbolos braille.
+ 6. Ajustar a grafia básica, considerando o Código Matemático Unificado (CMU), adotado no Brasil desde 1997.
+ 7. Garantir a qualidade da transcrição de textos para o Sistema Braille, especialmente dos livros didáticos.
+	Ao uniformizar a grafia básica, a Comissão Brasileira do Braille e a Comissão de Braille de Portugal consideraram 
+as diversidades culturais e as legislações vigentes em seus respectivos países.
+	O principal objetivo dos técnicos que elaboraram este documento foi permitir que o Sistema Braille continue 
+sendo o instrumento fundamental na educação, reabilitação e profissionalização das pessoas cegas.
+
+ *Comissão Brasileira do Braille*
+
+ Foto: Posse da 1ª Comissão Brasileira do Braille, 10/06/99
+
+
+ *Introdução*
+
+	A Grafia Braille da Língua Portuguesa consiste no conjunto do material signográfico e das 
+instruções/recomendações orientadoras da sua utilização na escrita. O conhecimento completo do respectivo código e a sua
+correta utilização devem constituir um objetivo permanente para todos, porque a boa qualidade gráfica dos textos 
+exerce nos leitores uma saudável influência educativa, facilitando a assimilação de padrões propiciadores da
+melhoria do nível de desempenho, quer na leitura, quer na escrita.
+	A matéria desta Grafia está exposta em três capítulos, que compreendem 56 parágrafos, e em quatro apêndices.
+	O primeiro capítulo, "Sistema Braille", integra 7 parágrafos. Neles se define e apresenta este Sistema, assim 
+como se procede à sua caracterização. 
+	O segundo capítulo, "O Código Braille na Grafia da Língua Portuguesa", se estende do parágrafo 8 ao 44 e 
+compreende as seguintes partes:
+ A. "Valor dos Sinais": inclui apenas o parágrafo 8, em que se apresentam os quadros do material signográfico.
+ B. "Observações e Normas de Aplicação": estende-se do parágrafo 9 ao 42 e incorpora as regras que enquadram o 
+emprego dos sinais constantes dos quadros apresentados no parágrafo 8.
+ C. Alguns diacríticos necessários à escrita de palavras em outras línguas e na própria Língua Portuguesa: parágrafo 43.
+ D. Recomendações sobre a criação de sinais não previstos nesta Grafia: 
+parágrafo 44.
+	O terceiro capítulo, "Disposição do Texto Braille", expõe, do parágrafo 45 ao 56, as normas sobre esta 
+matéria. Vários exemplos ajudam a interpretar as normas e ilustram a sua aplicação.
+	Quatro apêndices e três anexos completam esta publicação:
+ - Apêndice 1: inclui um conjunto de símbolos e de regras referentes à escrita em contexto informático.
+ - Apêndice 2: nele figuram conjuntos de símbolos braille empregados em alemão, dinamarquês, espanhol, francês, 
+inglês, italiano, latim e sueco, não coincidentes com os portugueses ou inexistentes na Língua Portuguesa.
+ - Apêndice 3: nele se encontram os alfabetos grego, hebraico e russo ou cirílico moderno.
+ - Apêndice 4: apresenta alguns sinais convencionais usados em esperanto e em outras línguas.
+ - Anexo I(1): Vocabulário de termos e expressões empregados no domínio do Sistema Braille.
+ - Anexo II(2): Parecer sobre a grafia da palavra Braille
+ - Anexo III(3): Portarias Ministeriais que tratam da instituição e regulamento interno da CBB.
+	Esta publicação apresenta, ainda, um Índice Geral de Assuntos.
+
+ Foto: Reglete de mesa e punção
+
+
+ *Capítulo I(1)*
+ *Sistema Braille*
+
+ 1. O sistema de escrita em relevo conhecido pelo nome de "Braille" é constituído por 63 sinais formados por 
+pontos a partir do conjunto matricial (123456). Este conjunto de 6 pontos chama-se, por isso, sinal fundamental.
+	O espaço por ele ocupado, ou por qualquer outro sinal, denomina-se "cela braille" ou "célula braille" e, quando 
+vazio, é também considerado por alguns especialistas como um sinal, passando assim o Sistema a ser composto com 64 sinais.
+
+ 2. Para facilmente se identificarem e se estabelecer exatamente a sua posição relativa, os pontos são numerados de 
+cima para baixo e da esquerda para a direita. Os três pontos que formam a coluna ou fila vertical esquerda,
+têm os números 1, 2, 3; aos que compõem a coluna ou fila vertical direita, cabem os números 4, 5, 6.
+	Os números dos pontos dos sinais braille escrevem-se consecutivamente, com o sinal de número apenas antes do 
+primeiro ponto de cada cela.
+
+ Exemplos:
+ p (1234) 
+ ô (1456) 
+ ü (1256) 
+ t (2345) 
+ ê (126) 
+ ã (345) 
+ o (135)  
+ õ (246)
+ â (16) 
+ í (34) 
+ g (1245) 
+ i (24) 
+ x (1346)  
+
+ 2.1 Dois ou mais sinais braille consecutivos são identificados por numerais, precedidos, cada um, pelo 
+respectivo sinal de número, sem espaços.
+ 2.2 Uma cela vazia é identificada pelo numeral 0.
+ Exemplo:
+O sinal de igualdade (2356), entre palavras, deve ser representado entre celas vazias, assim: 0 2356 0.
+
+ 3. Os sinais do Sistema Braille recebem designações diferentes, consoante o espaço que ocupam.
+ 3.1 Os que ocupam uma só cela denominam-se sinais simples.
+
+ Foto: Máquina Braille
+
+ 3.2 Aqueles em cuja constituição figuram os pontos 1 e/ou 4, mas em que NÃO entram os pontos 3 nem 
+6, chamam-se sinais superiores.
+ 3.3 Aqueles que são formados sem os pontos 1 e 4 chamam-se sinais inferiores.
+ 3.4 Os que são constituídos por qualquer conjunto dos pontos 1, 2, 3, dizem-se sinais da coluna esquerda.
+ 3.5 Os que são constituídos por qualquer conjunto dos pontos 4, 5, 6, dizem-se sinais da coluna direita.
+ 3.6 Chamam-se sinais compostos  os que se obtêm combinando dois ou mais sinais simples.
+
+ 4. Quando na transcrição de códigos, tabelas, etc., um sinal inferior ou da coluna direita aparece 
+isolado (entre celas vazias) e há possibilidade de o confundir com outro sinal, coloca-se junto dele o sinal 
+fundamental (123456) que, neste caso, vale apenas como referencial de posição.
+
+ 5. Os 63 sinais simples do Sistema Braille, adiante apresentados numa seqüência denominada ordem braille, 
+distribuem-se sistematicamente por 7 séries:
+ 1ª série:
+(1) (12) (14) (145) (15) (124) (1245) (125) (24) (245)
+ 2ª série:
+(13) (123) (134) (1345) (135) (1234) (12345) (1235) (234) (2345)
+ 3ª série:
+(136) (1236) (1346) (13456) (1356) (12346) (123456) (12356) (2346) (23456)
+ 4ª série:
+(16) (126) (146) (1456) (156) (1246) (12456) (1256) (246) (2456)
+ 5ª série:
+(2) (23) (25) (256) (26) (235) (2356) (236) (35) (356)
+ 6ª série:
+(34) (345) (346) (3456) (3) (36)
+ 7ª série:
+(4) (45) (456) (5) (46) (56) (6)
+ 5.1 A 1ª série é constituída por 10 sinais, todos superiores, pelo que é denominada série superior. Serve 
+de base às 2ª, 3ª e 4ª séries, bem como de modelo à 5ª.
+ 5.2 A 2ª série obtém-se juntando a cada um dos sinais da 1ª o ponto 3.
+ 5.3 A 3ª série resulta da adição dos pontos 3 e 6 aos sinais da série superior.
+ 5.4 A 4ª série é formada pela junção do ponto 6 a cada um dos sinais da 1ª.
+ 5.5 A 5ª série é toda formada por sinais inferiores, pelo que também é chamada série inferior, e 
+reproduz formalmente a 1ª.
+ 5.6 A 6ª série não deriva da 1ª e desenvolve-se pelos pontos 3, 4, 5, 6, e consta apenas de 6 sinais.
+ 5.7 A 7ª série, que também não se baseia na 1ª, é formada unicamente pelos 7 sinais da coluna direita. A 
+sua ordem de sucessão determina-se com o auxílio da mnemônica "ablakba".
+ 6. A escrita braille se faz ponto a ponto na reglete ou letra a letra na máquina braille ou no computador.
+ 7. O Sistema Braille é o processo de escrita em relevo mais adotado em todo o mundo e se aplica não só à 
+representação dos símbolos literais, mas também à dos matemáticos, químicos, fonéticos, informáticos,
+musicais, etc.
+	Na sua aplicação à Língua Portuguesa, quase todos os sinais conservam a sua significação 
+original. Apenas algumas vogais acentuadas e outros símbolos se representam por sinais que lhe são exclusivos.
+
+ Foto: Menino realizando leitura por meio do Sistema Braille
+
+
+ *Capítulo II(2)*
+ *O Código Braille na Grafia da Língua Portuguesa*
+
+ A. VALOR DOS SINAIS
+ 8. Os sinais que se empregam na escrita corrente de textos em Língua Portuguesa têm a significação seguinte:
+
+ 1 – Alfabeto
+ a(1)  b(12)  c(14)  ç(12346)  d(145)  e(15)  f(124)  g(1245)  h(125)  i(24)  j(245) l(123)
+m(134)  n(1345)  o(135)  p(1234)  q(12345)  r(1235)  s(234)  t(2345)  u(136)  v(1236)  x(1346)  z(1356)
+ Observação.: O c com cedilha é representado pelo sinal (12346).
+ Observação: As letras k, w e y encontram-se freqüentemente em textos portugueses, embora não pertençam ao alfabeto português.
+
+ 2 – Letras com diacríticos
+ Vogais: a(1) e(15) i(24) o(135) u(136)
+ Acento agudo: á(12356) é(123456)  í(34) ó(346)  ú(23456)
+ Acento grave: à(1246)
+ Acento circunflexo: â(16) ê(126) ô(1456)
+ Til: ã(345) õ(246)
+ Trema: ü (1256)
+
+ 3 – Pontuação e Sinais Acessórios
+ (2) vírgula
+ (23) ponto-e-vírgula
+ (25) dois-pontos
+ (3) ponto; apóstrofo
+ (26) ponto de interrogação
+ (235) ponto de exclamação
+ (3 3 3) reticências
+ (36) hífen ou traço de união
+ (36 36) travessão
+ (246 135) círculo
+ (126)(345)ou (126 3) (6 345) abre e fecha parênteses
+ (12356)(23456)ou (12356 3)(3 23456) abre e fecha colchetes
+ (236) abre e fecha aspas, vírgulas altas ou comas
+ (6 236) abre e fecha aspas angulares
+ (56 236) abre e fecha outras variantes de aspas (aspas simples, por exemplo)
+ (35) asterisco
+ (12346) e comercial
+ (6 5) barra
+ (456) barra vertical
+ (25 135) seta para a direita
+ (246 25) seta para a esquerda
+ (246 25 135) seta de duplo sentido 
+
+ 4 – Sinais Usados com Números
+ (4 15) Euro
+ (56) cifrão
+ (456 356) por cento
+ (456 356 356) por mil
+ (234 234) parágrafo(s) jurídico(s)
+ (235) mais
+ (25) menos
+ (236) multiplicado por
+ (256) dividido por, traço de fração
+ (2356) igual a
+ (5 256) traço de fração
+ (135) maior que
+ (246) menor que
+ (356) grau(s)
+ (1256) minuto(s)
+ (1256) (1256) segundo(s)
+
+ 5 – Sinais Exclusivos da Escrita Braille
+ (46) sinal de maiúscula
+ (46 46) sinal de maiúscula em todas as letras da palavra
+ (25 46 46) sinal de série de palavras com todas as letras maiúsculas
+ (5) sinal de minúscula latina; sinal especial de translineação de expressões matemáticas
+ (56) sinal restituidor do significado original de um símbolo braille
+ (3456) sinal de número
+ (16) sinal de expoente ou índice superior
+ (34) sinal de índice inferior
+ (35) sinal de itálico, negrito ou sublinhado
+ (5 25) sinal de transpaginação
+
+ B. OBSERVAÇÕES E NORMAS DE APLICAÇÃO
+ 9. Os sinais do Código Braille empregam-se geralmente em conformidade com os preceitos da ortografia 
+oficial e com os textos que representam. No entanto, devem ter-se em conta as observações e 
+normas de aplicação que se seguem.
+
+ 1 – Sinal de Letra Maiúscula
+
+ 10. As letras maiúsculas representam-se pelas minúsculas precedidas imediatamente do sinal (46), 
+com o qual formam um símbolo composto.
+ Exemplos:
+ (46 1)A (46 12)B (46 14)C (46 145)D (46 15)E (46 124)F
+ 10.1 Para indicar que todas as letras de uma palavra são maiúsculas, utiliza-se o sinal (46 46) antes da primeira.
+ 10.2 Quando o número de palavras com todas as letras maiúsculas é superior a três, pode empregar-se antes da 
+primeira o sinal composto (25 46 46) e antes da última o sinal composto (46 46).
+
+ 11. As siglas, constituídas por iniciais maiúsculas, representam-se antepondo-lhes o sinal composto (46 46).
+ 11.1 Quando, no original em tinta, as iniciais das siglas são seguidas de ponto abreviativo, antepõe-se a 
+cada uma delas o sinal simples (46).
+
+ Foto: Mulher escrevendo no Sistema Braille com uso de Máquina Braille.
+
+ Foto: Impressora Braille computadorizada de médio porte (interponto).
+
+ 2 – Números e Sinais com eles Usados
+
+ 12. Os caracteres da 1ª série, precedidos do sinal (3456), representam os algarismos de um a zero. Quando um 
+número é formado por dois ou mais algarismos, só o primeiro é precedido deste sinal.
+ Exemplos:
+ (3456 1) um
+ (3456 12) dois
+ (3456 14)  três
+ (3456 145) quatro
+ (3456 245) zero
+ (3456 12 245) vinte
+ (3456 1 125 1) cento e oitenta e um
+ (3456 15 145 14) quinhentos e quarenta e três
+ (3456 125 245 24) oitocentos e nove
+
+ 13. O sinal (2) representa a vírgula e o ponto que em tinta se empregam para, num numeral decimal, separar 
+a parte inteira da parte decimal.
+
+ 14. O ponto 3 representa o ponto separador de classes. É corrente, contudo, só efetuar tal separação em números 
+constituídos por mais de quatro algarismos, na parte inteira ou na parte decimal.
+
+ 15. Os números ordinais representam-se pelos caracteres da 5ª série, precedidos do sinal (3456) e seguidos de uma 
+das terminações o, a, os, as.
+ Exemplos:
+ (3456 2 135) 1º 
+ (3456 2356 1) 7ª
+
+ 16. Quando números ou letras e números se articulam numa só sucessão, os números são sempre precedidos do 
+sinal (3456) e as letras devem ficar claramente distintas em relação aos algarismos. A articulação de números
+com as dez primeiras letras do alfabeto exige que estas sejam precedidas do sinal de letra latina minúscula (5).
+ a) Números articulados com números:
+ (3456 1 1245 36  3456 245 24 36 3456 15 145) 17-09-54
+ b) Números articulados com letras maiúsculas:
+ (3456 12 125 36 46 1) 28-A
+ (3456 145 46 145) 4D
+ c) Números articulados com letras minúsculas:
+ (3456 145 245 36 12) 40-b
+ (3456 15 13465) 5x
+ (3456 1 1245 5 1) 17a
+ d) Letras articuladas com números:
+ (46 1 36 3456 1) A-1
+ (24 36 3456 12) i-2
+
+ 17. Na escrita de frações, os sinais (256) e (5 256) representam o respectivo traço horizontal.
+ Exemplos:
+(3456 14 256 3456 145) (3456 14 5 256 3456 145) 3/4
+ 17.1 No caso de números fracionários em escrita abreviada, o numerador pode representar-se pelos 
+sinais da 5ª série e o denominador pelos sinais da 1ª série, sem repetição do sinal de número.
+ Exemplos:
+ (3456 25 145) 3/4  três quartos
+ (3456 26 124) 5/6  cinco sextos
+ (3456 2 12) 1/2  meio
+ 17.2 Nos números mistos, a parte fracionária segue imediatamente a parte inteira.
+ Exemplos:
+(3456 15 3456 23 14) 5 2/3 cinco inteiros e dois terços
+
+ 18. O cifrão (56) é usado para expressar a unidade monetária de numerosos países, incluindo-se 
+Brasil e, até 28 de fevereiro de 2002, Portugal. Em Portugal, quando não há algarismo correspondente 
+à unidade, o sinal (3456) precede imediatamente o cifrão.
+ Exemplos:
+ (46 1235 56 3456 145 15 2 245 245) R$45,00  45 reais
+ (3456 145 15 56 245 245) 45$00 45 escudos
+ 18.1 O euro é representado pelo sinal composto (4 15) e precede ou segue imediatamente o número.
+
+ 19. Os sinais compostos (456 356) e (456 356 356) representam, respectivamente, por cento e por 
+mil. Estes sinais ficam sempre ligados aos números a que se referem.
+Exemplos:
+ (3456 15 456 356) 5% (5 por cento)
+ (3456 145 2 15 456 356 356) 4,5‰ (4,5 por mil)
+
+ 20. O sinal composto (234 234) representa parágrafo e parágrafos jurídicos. Emprega-se imediatamente antes 
+de um número e é seguido de espaço antes de uma palavra.
+ Exemplos:
+ (234 234 3456 2 135) § 1º parágrafo 1º
+ (234 234) (23456 1345 24 14 135) § único parágrafo único
+
+ 21. A representação de datas sob a forma inteiramente numérica deve obedecer às seguintes regras:
+ a) Os elementos constitutivos da data devem ser colocados pela ordem dia-mês-ano, utilizando-se dois 
+algarismos para o dia, dois para o mês e dois ou quatro para o ano.
+ b) A representação deve ser feita com algarismos arábicos.
+ c) Na representação do ano não se emprega o ponto separador de classes.
+ d) Os elementos constitutivos da data devem ser separados por barra ou hífen.
+ e) O sinal de algarismo deve ser repetido antes de cada elemento.
+ Exemplos:
+ (3456 12 12 36 3456 245 145 36 3456 1 15 145 145) 22-04-1500
+ (3456 245 1245 6 2 3456 245 24 6 2 3456 1 125 12 12) 07/09/1822
+
+ 22. Os sinais de operação e de relação podem transcrever-se, na generalidade dos casos, sem espaços.
+ Exemplos:
+ (3456 1245 235 3456 12) 7 + 2
+ (3456 124 36 3456 15) 6 – 5
+ (3456 24 236 3456 14) 9 x 3
+ (3456 125 256 3456 145) 8 ÷ 4
+ (1345 235 3456 1) n + 1
+ (3456 1 15 36 3456 1 15 2356 3456 245) 15 – 15 = 0
+ (1 235 12 2356 12 235 1) a + b = b + a
+ (46 1 235 46 12 2356 46 14) A + B = C
+ 22.1 A translineação das expressões far-se-á, preferentemente, após um sinal de operação ou de relação, o qual 
+se repetirá no início da linha imediata. Quando este processo não for possível, emprega-se o sinal (5) 
+que não se repetirá na linha seguinte.
+
+ Foto: Impressora Braille computadorizada de médio porte.
+
+ 22.2 Se uma expressão contiver palavra ou palavras, para maior clareza ou uniformidade de representação, os sinais 
+operatórios e de relação podem usar-se entre espaços.
+
+ 23. Os símbolos das unidades de medida escrevem-se sem ponto abreviativo e ficam separados por um espaço 
+dos números que, em geral, os precedem.
+ Exemplos:
+ (3456 1 15) (14 134) 15 cm 
+ (3456 12 1245) (145 134) 27 dm 
+ (3456 1 15 245) (134)150 m
+ (3456 145 1245 12) (13 134) 472 km
+ (3456 12) (134 123) 2 ml
+ (3456 14 125 1245) (123) 387 l
+ (3456 12 245 245) (1245) 200 g
+ (3456 15 24 145) (13 1245) 594 kg
+ (3456 12 245) (2345) 250 t
+ (3456 1245) (125) 7 h
+ (3456 1245 15) (46 2456) 75 W
+ (3456 14 145 245) (134 6 2 234) 340 m/s 
+
+ 24. Na representação de amplitudes de arcos e ângulos, expressas em graus sexagesimais, o sinal (356) emprega-se 
+como símbolo da unidade grau; o sinal (1256), como símbolo da unidade minuto; o sinal  (1256 1256), como símbolo da 
+unidade segundo.
+ Exemplos:
+ (3456 24 245 356) 90°  90 graus
+ (3456 145 245 1256) 40'  40 minutos
+ (3456 15 1245 1256 1256) 57" 57 segundos 
+
+ 25. O sinal (356) emprega-se também como símbolo da unidade grau, na representação de temperaturas, e pode ser 
+combinado com outros símbolos.
+ Exemplos:
+ (356 46 14) °C  graus centígrados
+ (3456 245 356) 0°  0 grau
+ (36 3456 12 15 356 46 14) –25°C  menos 25 graus Celsius
+ (3456 1245 1245 356 46 124) 77°F  77 graus Fahrenheit
+ (3456 1 245 245 356 46 14 2356 3456 12 1 12 356 46 124) 100°C = 212°F  100 graus centígrados igual a 212 graus Fahrenheit
+ (14 1 123 6 2 1245 6 2 356 46 14) cal/g/°C  caloria por grama e por grau centígrado
+
+ 26. As medidas de tempo e de arcos e ângulos se escrevem com espaços intermediários.
+ Exemplos:
+ (3456 14 124 24 1) (234) (2356) (3456 1) (125) (3456 1) (134 24 1345) (3456 14 1) 3691 s = 1 h 1 min 31 s
+
+ 27. O sinal (16) confere aos elementos que o seguem o significado de expoente  ou índice superior.
+ Exemplos:
+ (3456 1245 16 3456 12) 7²    7 elevado ao quadrado
+ (14 134 16 3456 14) cm³  centímetros cúbicos
+
+ 28. O sinal (34) confere aos elementos que o seguem o significado de índice inferior.
+
+ 29. Para escrever a numeração romana empregam-se letras maiúsculas.
+ Exemplos:
+ (46 1236) nº5
+ (46 1346) nº 10 
+ (46 123 nº 50
+ (46 14) nº 100
+ (46 145) nº 500
+ (46 134) nº 1000
+ 29.1 Quando o número é constituído por duas ou mais letras, emprega-se
+o sinal  (46 46) antes da primeira.
+ Exemplos:
+ (46 46 24 24) II  2
+ (46 46 1346 123) XL  40
+ (46 46 14 145 1346 24 1346) CDXIX  419
+ (46 46 134 14 134 1346 1346 1346 1236) MCMXXXV  1935
+ 29.2 O traço horizontal que multiplica por mil a parte coberta do número romano, e o duplo traço que a 
+multiplica por um milhão, representam-se, respectivamente, pelos sinais (25) e (25 25), colocados 
+imediatamente depois da última letra afetada pelo(s) traço(s).
+
+ Foto: Impressora Braille computadorizada (face única).
+
+ 3 – Sinal de Itálico e outras Variantes Tipográficas
+
+ 30. O sinal (35) é o correspondente braille do itálico, sublinhado, negrito e da impressão em outros 
+tipos (cursivo, normando, etc.). Antepõe-se e pospõe-se imediatamente a texto, fragmento de texto, 
+palavra ou elemento de palavra a destacar.
+
+ 30.1 Se o texto a destacar é constituído por mais de um parágrafo, o sinal (35) antepõe-se a cada 
+um deles e pospõe-se apenas ao último.
+
+ 30.2 Quando uma variante tipográfica se emprega em todo um excerto e este se compõe de um ou mais parágrafos, 
+o sinal (35) é substituível com vantagem por barra vertical, simples ou dupla, que acompanhe na margem esquerda 
+o conjunto de linhas necessárias para transcrever o texto.
+	Se duas variantes tipográficas são alternadamente aplicadas em todo o excerto, uma com caráter mais geral 
+(por exemplo, letra miúda) e outra em apenas alguma ou algumas das suas palavras (por exemplo, letra inclinada), 
+o correspondente braille do itálico (35) deverá continuar a empregar-se (35), em conjunto com a barra 
+vertical, como se observa neste parágrafo. 
+	O texto do presente número encontra-se ilustrado com três modalidades de barra vertical. Note-se a 
+necessidade de texto e barra ficarem suficientemente afastados.
+	As linhas do texto acima são iniciadas por três tipos diferentes de barras verticais do Braille, 
+sendo representadas pelos seguintes pontos:
+ (456)
+ (123456)
+ (456 123)
+
+ Foto: Thermoform – duplicador de textos e formas em relevo em lâminas de PVC.
+
+ 4 – Pontuação e Sinais Acessórios
+
+ 31. Ressalvadas as exceções referidas em algumas normas desta alínea, os sinais de pontuação e acessórios 
+não devem separar-se da palavra a que dizem respeito.
+
+ Foto: Impressora Braille computadorizada médio porte (face única).
+
+ 32. O sinal (3), além de ponto final, tem o valor de ponto abreviativo, tanto no interior como no fim dos vocábulos.
+ Exemplos:
+ (46 1236 3) (46 15 1346 3 1) V. Exª
+ (46 1 123 1236 15 234)(12346)(13 14 24 1 3) Alves & Cia.
+ 32.1 Escrevem-se sem espaços intermediários as abreviaturas de expressões correntes.
+ Exemplos:
+ (1 3)(46 14 3) a.C.
+ 32.2 Escrevem-se com espaços intermediários as abreviaturas de nomes de pessoas.
+ Exemplos:
+ (46 245 3)(46 245 3)( 46 1236 15 24 1245 1) J. J. Veiga
+
+ 33. O sinal (3) representa também o apóstrofo. Em caso de translineação, ele não deve ser seguido de hífen.
+
+ 34. As reticências, representadas pelo sinal composto (3 3 3), podem aparecer isoladas quando significam 
+omissão de texto; podem também ser antecedidas ou seguidas de outros sinais.
+
+ 35. Os parênteses e os colchetes (parênteses retos), em contextos literários podem assumir duas formas distintas 
+de representação: a forma simples e a forma composta.
+ 35.1 Formas simples:
+ (126) (345) abre e fecha parênteses
+ (12356) (23456 ) abre e fecha colchetes
+	Nos contextos literários, para manter a uniformidade com o Código Matemático Unificado (CMU), 
+se empregam as formas simples em duas circunstâncias:
+ a) Se o sinal de abertura for seguido imediatamente por um numeral e o sinal de fechamento for precedido por um numeral.
+ b) Se o sinal de fechamento suceder um numeral, geralmente indicando uma enumeração ou enumerações de itens.
+
+ Foto: Impressora Braille computadorizada grande porte
+
+ 35.2 Formas compostas:
+ (126 3) (6 345) abre e fecha parênteses
+ (12356 3) (6 23456 ) abre e fecha colchetes 
+
+ 36. As aspas (236), abre e fecha, que em tinta aparecem sob a forma de  vírgulas em posição natural ou 
+invertidas, representam-se com o símbolo braille já referido; as aspas sob a forma de pequenos ângulos, 
+simples ou duplos, têm como correspondente braille o sinal composto (6 236); outras variantes de aspas 
+são representadas pelo sinal composto (56 236).
+ 36.1 Quando num texto em colunas, se pretende usar aspas por baixo de palavra ou palavras, significando 
+"igual, idem, a mesma coisa", etc., usa-se em braille o sinal de aspas duplo (236 236), a fim de facilitar a sua identificação.
+ 36.2 Mesmo quando não seja possível ou prático reproduzir em braille um texto disposto em colunas, o 
+sinal de aspas duplo pode, ainda assim, ser empregado, desde que o elemento por ele representado ocorra 
+em início de linha e duas ou mais vezes consecutivas.
+
+ 37. O travessão pode ser antecedido ou seguido de outros sinais; mas deve ficar sempre isolado em relação a palavras anteriores e seguintes.
+
+ 38. O sinal (246 135) representa um círculo e serve para destacar certa forma de enumeração.
+
+ 39. O “e” comercial (&) representa-se por meio do sinal (12346), que deve ficar sempre entre espaços.
+ Exemplos:
+(46 12 1235 24 2345 135)(12346)(46 1245 135 134 15 234)Brito & Gomes
+
+ 40. Os sinais (6 2) e (456) representam, respectivamente, a barra e a barra vertical. Em geral, não há 
+espaços antes ou depois das barras, sendo que a barra vertical deve ser seguida de, pelo menos, meia cela em branco.
+ 40.1 Se as barras ocorrerem em final de linha, torna-se necessário repeti-las no início da linha imediata.
+
+ 41. As setas horizontais para a direita (25 135), para a esquerda (246 25) e de sentido duplo (246 25 135) 
+empregam-se isoladamente e, se ocorrerem no fim de uma linha, não se repetem no início da linha seguinte.
+
+ 42. O sinal restituidor do significado original de um símbolo braille representa-se por (56). Emprega-se 
+em contexto estenográfico, imediatamente antes de palavras para indicar que todos os seus caracteres têm o valor original.
+ 42.1 Quando necessário, emprega-se igualmente para fazer cessar um significado atribuído a novos sinais, 
+criados em conformidade com o disposto no parágrafo 44, restituindo assim a qualquer sinal o seu significado próprio.
+
+ 43. Na escrita de textos em línguas estrangeiras emprega-se a Grafia Braille dos respectivos idiomas. (V. Apêndices.) Porém, 
+em palavras estrangeiras isoladas e pouco freqüentes, ou ainda na grafia de palavras portuguesas que contenham vogais acentuadas 
+para as quais não haja sinal braille correspondente neste Código, antepõem-se às letras os diacríticos seguintes:
+ (35) acento agudo  
+ (26) acento grave 
+ (4) acento circunflexo 
+ (45) trema 
+ (5) til  
+
+ 44. Sempre que em alguma obra a transcrever ocorram sinais cuja grafia não haja sido prevista e normalizada neste 
+Código, deve o transcritor atribuir-lhes o correspondente sinal braille, evitando toda a possibilidade de confusão 
+com os sinais e as normas aqui determinados. Os sinais que tiverem de ser criados deverão ser objeto de nota de rodapé 
+em que se indique o seu significado, quando se empreguem pela primeira vez; sendo muitos estes sinais, devem figurar em 
+lista própria e em página(s) exclusiva(s) no início do volume onde se encontram.
+
+
+ *Capítulo III(3)*
+ *Disposição do Texto Braille*
+
+ 45. Na transcrição para braille deve seguir-se o mais possível a disposição de qualquer texto em tinta, tendo sempre em conta, 
+no entanto, as especificidades da leitura tátil.
+
+ 46. Os títulos, subtítulos, etc. devem ficar bem destacados em relação aos respectivos textos. O destaque pode 
+ser-lhes conferido através de uma ou mais linhas em branco ou de traço para sublinhar, processos que substituem, 
+com vantagem, o itálico e a caixa alta, correntemente usados nas edições em tinta.
+ 46.1 Os títulos, subtítulos, etc. não devem ser escritos em página diferente daquela em que os respectivos 
+textos começam; pelo contrário, devem ser seguidos de, pelo menos, duas linhas de texto.
+ 46.2 Um texto só deve terminar num princípio de página, se nela figurarem, pelo menos, duas linhas de texto. A observância deste preceito é de 
+particular importância, se na mesma página começar novo texto, pois assim se evitará tomar por título deste o final do texto anterior.
+
+ 47. Especiais cuidados devem ser tomados para a inserção de referências no final de textos. Assim, autores, obras 
+de onde os textos foram extraídos, etc., nunca deverão ficar em página diferente daquela em que o texto terminar.
+
+ 48. Os parágrafos devem ser claramente destacados. A abertura pode variar, mas tem de fazer-se pelo menos no terceiro 
+espaço. O parágrafo americano, que consiste em não fazer qualquer abertura e deixar uma linha em branco entre parágrafos, 
+embora muito utilizado em tinta, não é recomendável em braille, por provocar a descontinuidade do texto e prejudicar a economia de espaço.
+ 48.1 Quando há necessidade de economizar espaço (em apontamentos, publicações periódicas, etc.), pode usar-se o "parágrafo compacto". O 
+sinal de pontuação pelo qual um parágrafo termina é seguido de três espaços em branco; o novo parágrafo principia a seguir, 
+na mesma linha, e a linha imediata começa, pelo menos, no terceiro espaço.
+ 48.2 O processo de parágrafo compacto  não se aplica circunstancialmente quando o início de cada parágrafo 
+não puder ser claramente assinalado pela reentrância da linha imediata e quando os parágrafos estiverem referenciados 
+com números, letras, etc. Faz-se então a abertura do parágrafo conforme se estabelece no número 48 e retoma-se depois o parágrafo compacto.
+
+ 49. As molduras (caixas) em que se destacam pequenos textos podem e devem ser reproduzidas em relevo, utilizando para isso linhas horizontais e verticais.
+
+ 50. A transcrição dos textos em versos começa-se na margem, procurando sempre seguir a disposição do texto em tinta. Se 
+o verso for muito extenso e ocupar mais de uma linha em braille, o excesso não deverá começar, na
+linha imediata, antes do terceiro espaço.
+
+ Foto: Educando com máquina Braille (duas pessoas segurando uma máquina braille).
+ 
+ 50.1 Quando um texto tem versos que se iniciam mais à direita e versos começados mais à esquerda, aqueles não deverão 
+iniciar-se antes do quinto espaço. Se forem muito extensos, a sua continuação não deverá ter lugar antes do sétimo espaço.
+
+ Foto: Prensa elétrica para matrizes em liga de alumínio
+
+ 51. As estrofes separam-se entre si geralmente por linha em branco. No caso de poemas formados por estrofes com número variável de versos, sempre
+que o final de uma estrofe coincida com a última linha da página braille, deve deixar-se em branco a primeira linha da página seguinte.
+
+ 52. Quando num texto em prosa ocorrem versos, deve dar-se-lhes a disposição adotada no original.
+ a) Tratando-os como prosa, separados uns dos outros por barras.
+ b) Escrevendo-os linha a linha.
+	Alguns poetas usam a minúscula no princípio de cada verso quando a pontuação permite.
+
+ Foto: Profissional efetuando revisão de textos em Braille.
+
+ 53. Na escrita em tinta empregam-se, às vezes, separadores de textos ou de partes de um texto. Nas edições braille, para 
+o mesmo efeito, podem usar-se diversos grafismos.
+ Exemplos:
+ Combinações de sinais:
+ (46 246 46 246)
+ (246 135 246 135)
+ (246 25 25 135)
+ (3 3 3 3 3 3)
+ (25 25 25 25)
+ (2356 2356 2356) 
+
+ 54. Para paginar os textos braille reserva-se a primeira ou a última linha da página. O número coloca-se, geralmente, no extremo 
+direito da linha ou no meio dela, podendo, nesta última posição, ser dispensado o emprego do sinal de número.
+ 54.1 Sempre que se quiser aplicar ao livro braille a forma mais comum de numerar as páginas do livro em tinta, ou seja, nos extremos mais
+afastados da lombada, os números deverão manter, pelo menos, três espaços em branco à esquerda.
+ 54.2 Quando sobre a página braille se indica o número da que lhe corresponde no texto em tinta – o que é sempre vantajoso nas obras
+didáticas – esta indicação deve figurar na mesma linha utilizada para a paginação braille, a partir da terceira cela. Se a página braille
+contiver texto de duas ou mais páginas do original em tinta, podem-se escrever os números da primeira e da última, ligados por hífen.(V. 55.)
+ 54.3 Se os extremos da linha se ocupam com a paginação do livro braille e do livro em tinta, a parte central pode ser aproveitada para a
+inclusão de quaisquer referências; se a paginação do original não for representada e a paginação braille se faz somente nas páginas da
+direita, o restante da linha pode ser preenchido com texto. Num caso como em outro, é necessário manter uma distância não inferior
+a três espaços entre o texto e os números das páginas.
+
+ 55. Sempre que o fim das páginas braille e em tinta não for coincidente, pode-se indicar a mudança de página do texto em transcrição, colocando,
+entre espaços, o sinal de transpaginação (5 25).
+ 55.1 Se a página em tinta terminar por uma palavra translineada, o sinal de transpaginação será colocado somente depois de toda a palavra escrita.
+ 55.2 Quando se utilizam ambas as faces do papel e não se inclui a paginação do original em tinta, basta numerar as páginas ímpares.
+
+ 56. As notas ao texto devem escrever-se, sempre que possível, no rodapé da página braille em que ocorrem as respectivas referências.
+ 56.1 As notas podem ser referenciadas por meio de números, letras, asteriscos, etc. Em braille, as referências colocam-se sempre entre
+parênteses e isoladas, por espaço em branco, relativamente à palavra ou expressão que é objeto da nota.
+ 56.2 Nas transcrições para braille, as notas à margem devem ser convertidas em notas de pé de página. Para isso, é necessário
+referenciá-las, escolhendo-se um tipo de referência que permita distingui-las de outras notas de pé de página porventura existentes.
+ 56.3 O texto das notas deve observar uma margem diferenciada de dois ou três espaços e ser separado do texto principal por uma linha de
+pontos que, partindo do primeiro espaço, preencha, pelo menos, um terço da linha.
+ 56.4 Cada nota deve começar em novo parágrafo, com a indicação da respectiva referência.
+ 56.5 Quando o texto de uma nota já não puder ser inserido no pé da página em que a referência aparece ou aí não couber integralmente,
+escreve-se, total ou parcialmente, no pé da página seguinte, também separado do texto principal por uma linha de pontos.
+ 56.6 Pode acontecer que, na mesma página onde se insere total ou parcialmente uma nota com referência na página anterior, outras
+referências apareçam. Então, todas essas referências deverão formar uma seqüência ordenada que só terminará quando o final do texto
+da última nota ocorrer no final da página.
+ 56.7 Se as notas forem extremamente freqüentes ou muito extensas, também podem inserir-se no fim do capítulo ou do volume. Se for
+inserido no fim do volume, o texto das notas deverá então figurar em página nova e ser introduzido pelo título "notas".
+
+ Foto: Impressora Braille computadorizada grande porte.
+
+
+ *Apêndice 1*
+ *ESCRITA BRAILLE EM CONTEXTO INFORMÁTICO*
+	
+	Versão atualizada, de acordo com a Grafia Braille para a Informática elaborada pela comissão Brasileira do Braille e pela
+Comissão de Braille de Portugal – maio de 2003.
+	A ocorrência crescente de expressões informáticas na literatura cotidiana – endereços de Internet, correio eletrônico, nomes de arquivos,
+etc. – gerou a necessidade de criar condições brailográficas que tornem fácil e clara sua leitura e escrita.
+	Para se alcançar esta finalidade, foi extraído da Grafia Braille para Informática - adotada a partir de 2004 - o conjunto de 
+símbolos e de regras mais freqüentes, o qual figura neste apêndice.
+	Por outro lado, a especificidade da simbologia informática desaconselha que os respectivos símbolos e regras se misturem com os demais símbolos e
+regras da escrita braille. Por isso, foi criado o sinal delimitador de contexto informático.
+
+ Foto: Educando em uso de computador (mulher utilizando o computador).
+
+ 1. Símbolos Usados em Contexto Informático  (ordem alfabética)
+ (6) ’ apóstrofo
+ (156) @ arroba
+ (256) / barra 
+ (5 3) \ barra invertida
+ (456 123) | barra vertical
+ (3456 13) # cardinal
+ colchetes:
+ (5 12356) [ abrir
+ (5 23456) ] fechar
+ (5 2) delimitador de contexto informático
+ (5 12346) & e comercial
+ (5 135) > maior
+ (5 246) < menor
+ parênteses:
+ (5 126) ( abrir
+ (5 345) ) fechar
+ (56) restituidor
+ (46 36) _ sublinhado autônomo
+ sublinhado:
+ (456 36) __ início
+ (456 25) __ fim
+ (2346) ~ til autônomo
+ (5) translineação
+
+ 2. Observações e Normas de Aplicação
+ 2.1 O sinal (5 2) delimita a expressão informática que enquadra. No início desta, tem de ser precedido de 
+espaço, se não ocorrer no princípio de uma linha; no fim da expressão, tem de ser seguido de espaço, caso 
+não coincida com fim de linha.
+ Obs.: Em Portugal, só se usa quando nessa expressão existir qualquer símbolo deste apêndice, cujo significado não seja 
+o que já estava normalizado nesta grafia. 
+ Exemplos:
+ (5 2 2456 2456 3 1 14 1 1234 135 3 1234 2345 5 2) www.acapo.pt
+ 2.2 Considera-se til autônomo aquele que não afeta qualquer caractere. Escreve-se, portanto, explicitamente.
+ 2.3 O sinal (46 36) representa o caractere sublinhado  que não afeta qualquer outro caractere.
+ 2.4 O sinal (456 36) e (456 25) indica o início e o fim de sublinhado, seja de um
+caractere, seja de uma expressão.
+ 2.5 O sinal restituidor (56) restabelece o significado original dos sinais que o seguirem.
+
+
+ *Apêndice 2*
+ *SÍMBOLOS USADOS EM OUTROS IDIOMAS, INEXISTENTES EM PORTUGUÊS OU REPRESENTADOS POR SINAIS BRAILLE DIFERENTES*
+ – Alemão
+ – Dinamarquês
+ – Espanhol
+ – Francês
+ – Inglês
+ – Italiano
+ – Latim
+ – Sueco 
+
+ Alemão
+ (345) a umlaut (a com trema – ä)
+ (246) o umlaut (o com trema – ö)
+ (1256) u umlaut (u com trema – ü )
+ (6) apóstrofo ( ' )
+ As vogais com trema encontram-se algumas vezes representadas, respectivamente, por ae, oe, ue.
+(2346) sz – Quando em tinta o sz for representado por ss, também o deverá ser em Braille.
+
+ Dinamarquês
+ (345) ae acoplados
+ (246) o cortado
+ (16) a com pequeno círculo por cima (å – da família dos circunflexos) 
+
+ Espanhol
+ (2346) é e com acento agudo
+ (12456) ñ n com til
+ (36) – traço curto (Nota:Este sinal se emprega sem espaços em branco antes e depois dele.)
+ (36 36) traço longo, travessão (Nota:Este sinal se emprega sem espaços em branco antes e depois dele.)
+ (126) ( abertura de parênteses
+ (345) ) fechamento de parênteses
+ (12356) [ abertura de colchetes ou parênteses retos
+ (23456) ] fechamento de colchetes ou parênteses retos
+ (26) ¿ abertura de interrogação
+ (26) ? fechamento de interrogação
+ (235) ¡ abertura de exclamação
+ (235) ! fechamento de exclamação
+ (345) indicador de início de verso em escrita contínua
+ (126) indicador de final de verso em escrita contínua
+ (126 126) indicador de final de poesia em escrita contínua
+ (3456 2 1235) primer
+ (3456 25 1235) tercer
+
+ Francês
+ (12356) a grave (à)
+ (156) u circunflexo (û)
+ (2346) e grave (è) 
+ (1246) e com trema (ë)
+ (23456) u grave (ù) 
+ (246) oe acoplados (oe)
+ (146) i circunflexo (î)
+
+ Inglês
+ (34) / barra oblíqua (Nota:Este sinal se emprega sem espaços em branco antes e depois dele.)
+ (36 36) travessão (Nota:Este sinal se emprega sem espaços em branco antes e depois dele.)
+ (256) . ponto final; ponto abreviativo
+ (236)(356) “” abre e fecha aspas
+ (236) ? ponto de interrogação
+ (2356) (2356) ( ) abre e fecha parênteses
+ (6) sinal de letra maiúscula
+ (6 6) todas as letras maiúsculas
+ (46) itálico, sublinhado, negrito e impressão em outros tipos
+ (56) sinal de letra 
+
+ Italiano
+ (12356) a grave (à) 
+ (346) o grave (ò)
+ (34) i grave (ì) 
+ (23456) u grave (ù) 
+
+ Latim
+ (1 15) ae acoplados (æ)
+ (135 15)oe oe acoplados (oe)
+ (4) acento tônico Ex.: (145 4 135 134  24  1345 136 234) (dominus)
+ (25) longa Ex.: (145 25 135 134  24  1345 136 234) (d:ominus)
+ (6) breve Ex.: (145 135 134 6 24  1345 6 136 234) (dom'in'us)
+
+ Sueco
+ (16) a com pequeno círculo por cima (å – da família dos circunflexos)
+ (345) a com trema (ä)
+ (246) o com trema (ö) 
+
+ Foto: Máquina de Esteriotipia para produção de matrizes em liga de alumínio.
+
+
+ *Apêndice 3*
+ Alfabeto Grego
+ Alfabeto Hebraico
+ Alfabeto Russo ou Cirílico Moderno 
+
+ 1.* Alfabeto Grego Clássico*
+ 1.1.Tabela: nome de letra –maiúscula –minúscula:
+ alfa -(45 1) -(4 1);
+ beta  -(45 12) -(4 12);
+ gama -(45 1245) -(4 1245);
+ delta -(45 145) -(4 145);
+ épsilon -(45 15) -(4 15);
+ zeta -(45 1356) -(4 1356);
+ eta -(45 156) -(4 156) ;
+ teta -(45 1456) -(4 1456);
+ iota -(45 24) -(4 24);
+ capa -(45 13) -(4 13);
+ lambda -(45 123) -(4 123);
+ mi ou mu -(45 134) -(4 134);
+ ni ou nu -(45 1345) -(4 1345);
+ xi -(45 1346) -(4 1346);
+ omicron -(45 135) -(4 135);
+ pi -(45 1234) -(4 1234);
+ rô -(45 1235) -(4 1235);
+ sigma -(45 234) -(4 234);
+ tau -(45 2345) -(4 2345);
+ úpsilon -(45 136) -(4 136);
+ fi -(45 124) -(4 124);
+ khi -(45 12346) -(4 12346);
+ psi -(45 13456) -(4 13456);
+ ômega -(45 2456) -(4 2456); 
+
+ 1.2 Letras Arcaicas
+ digama (456 1236) 
+ copa (456 12345)
+ stigma (456 23456) 
+ sampi (456 2346) 
+
+ 1.3 Sinais Diacríticos
+ O sinal (123456) tem aqui a função de referencial de posição.
+ iota subscrito (123456 35) 
+ diérese ou trema (5 123456)
+ iota adscrito (45 123456 24) 
+ longa (25 123456)
+ koronis ou crase (356 123456) 
+ breve (6 123456)
+ espírito suave (356 123456) 
+ longa ou breve (26 123456)
+ espírito áspero (125 123456) 
+
+ 1.4 Vogais Acentuadas
+ Tabela: -Vogais – Agudas – Graves - Circunflexas: 
+ a (1), -‘(345), -` (12356), -^ (16).
+ e (15), -‘(1246), -` (14), -não consta.
+ ù (156), -‘(123456), -` (2346), -^ (126).
+ i (24), -‘(12456), -` (34),), -^ (146).
+ o (135), -‘(246), -`(346), - não consta.
+ u (136), -‘(1256), -` (23456), -^ (1236).
+ w (2456), -‘(245), -`(12345), -^(3456).
+ 
+ 2. *Alfabeto Hebraico*
+ Tabela: -nome de letra -sinais braille –expressão:
+ alef -(1) – vazio.
+ bet -(12) - vazio.
+ ghimel -(1245) - vazio.
+ dalet -(145) - vazio.
+ hé -(125) - vazio.
+ vau -(2456) -u, v.
+ zaïn -(1356) - vazio.
+ het, chet -(1346) -kh, ch, h guttural.
+ tet -(2345) - vazio.
+ iod -(245) -i, y.
+ caf -(13) –ch.
+ lamed -(123) - vazio.
+ mem -(134) - vazio.
+ nun -(1345) - vazio.
+ samec -(234) - vazio.
+ haïn, aïen -(1246) -a, ho gutural.
+ pé -(1234) –ph.
+ tsadi -(2346) -ts, tz, ç.
+ cof -(12345) -c, khh.
+ resh -(1235) - vazio.
+ shin -(146) -s, ch.
+ taf -(1456) –th.
+
+ Obs.: vazio indica que a célula da tabela não contém dados.
+
+ 3. *Alfabeto Russo ou Cirílico Moderno*
+ As maiúsculas e minúsculas representam-se, respectivamente, pelos sinais (45) e (5).
+ Tabela: -nome da letra - sinais em braille -letras em tinta
+ a -(1) –– (Nota 1: O travessão significa que as letras em tinta são as mesmas que os sinais braille representam.)
+ bõ -(12) –– 
+ wõ -(2456) -v 
+ gõ -(1245)  –– 
+ dõ -(145) –– 
+ e -(15) -ie (Nota 2: Soa como uma semiconsoante seguida de um e semiaberto.) 
+ â -(16) -io (Nota 3: Soa como uma semiconsoante seguida de um o semiaberto.) 
+ jõ -(245) –– 
+ zõ -(1356) –– 
+ i -(24) –– 
+ i kratkoe -(12346) -i (Nota 4: É um i pós-vocálico.) 
+ ka -(13) –– 
+ õlú -(123) –– 
+ õm -(134) –– 
+ õn -(1345) –– 
+ o -(135) –– 
+ põ -(1234) –– 
+ õr -(1235) –– (Nota 5: É um r simples.)
+ õs -(234) ––
+ tõ -(2345) ––
+ u -(136) ––
+ õf -(124) ––
+ ha -(125) -kh (Nota 6: Soa como um h muito aspirado.)
+ cõ -(14) -ts
+ qe -(12345) -tch
+ ùa -(156) -ch
+ xa -(1346) -^sh (Nota 7: O ponto 4 representa uma vírgula por cima da letra.)
+ twârdèç znak -(12356) –– (Nota 8: É o sinal duro. Não tem representação em português.)
+ è -(2346) -i (Nota 9: Soa entre i e e mudo.)
+ màgkiç znak  -(23456) -h, i (Nota 10: É o sinal brando. O h encontra-se depois de l e de n; o i depois 
+de outras consoantes. Podem também ser grafados com uma vírgula por cima da letra ou, ainda, não ter representação.)
+ õ oborotnoe -(246) -e
+ ü -(1256) -iu (Nota 11: Soa como uma semiconsoante seguida de um u.)
+ à -(1246) -ia (Nota 12: Soa como uma semiconsoante seguida de um a.)
+
+
+ *Apêndice 4*
+ *SINAIS CONVENCIONAIS USADOS EM ESPERANTO E OUTRAS LÍNGUAS*
+ (4) acento agudo (simples ou duplo)
+ (45) acento grave ou barra horizontal
+ (5) acento circunflexo ou espécie de pequeno v por cima da letra
+ (25) um ou dois pontos por cima da letra
+ (256) linha ondulada ou til
+ (56) círculo completo ou arco de círculo por cima da letra
+ (35) traço oblíquo ou horizontal atravessando a letra
+ 
+
+ *Anexo 1* 
+
+ *VOCABULÁRIO DE TERMOS E EXPRESSÕES EMPREGADOS NO DOMÍNIO DO SISTEMA BRAILLE*
+ Introdução
+	O Sistema Braille, criado por Louis Braille em 1825, na França, constituiu-se, desde então, o 
+meio fundamental de leitura e escrita para as pessoas cegas em todo o mundo.
+	A escrita braille, com suas especificidades, favoreceu naturalmente o desenvolvimento
+de uma terminologia própria, nem sempre de pleno domínio pelos que atuam no campo da educação de 
+pessoas cegas, no da produção de textos em braille e mesmo entre os usuários do Sistema.
+	No âmbito da sociedade, em geral, predomina o emprego de expressões equivocadas, como:
+“linguagem braille”
+“traduzir para o braille”, e outras.
+	O presente trabalho foi elaborado com base em experiências de usuários e de profissionais atuantes 
+nas áreas de educação de pessoas cegas e na de produção de textos em braille.
+
+ *VOCABULÁRIO*
+ *Primeira Parte*
+
+ *Conceituação Básica*
+	Sistema Braille -- Processo de leitura e escrita em relevo, com base em 64
+(sessenta e quatro) sinais resultantes da combinação de 6 (seis) pontos, dispostos
+em duas colunas de 3 (três) pontos. É também denominado Código Braille.
+	Anagliptografia -- Do grego, anáglyptos, “cinzelado em relevo” + graf(o)
++ ia -- S. f. Sistema de escrita em relevo, inventado pelo francês Louis Braille,
+cego (1809-1852), para os cegos lerem; braile. Cf. ectipografia.
+Fonte: Aurélio Buarque de Holanda Ferreira (Novo Dicionário da Língua Portuguesa -- 2ª 
+edição, revista e aumentada.)
+	Alfabeto Braille -- Apresentação gráfica dos 64 sinais do Sistema Braille, distribuídos
+em 7 (sete) linhas ou séries, organizadas de acordo com critérios definidos.
+	Ordem Braille -- Seqüência ordenada, conforme a disposição das sete séries
+do Alfabeto Braille.
+	Modalidades de Aplicação do Braille -- Formas específicas de emprego do Braille, segundo 
+uma determinada área do conhecimento humano: 
+Literatura, Ciências, Música, Informática, etc.
+	Grafia Braille -- Diz-se da representação específica, de acordo com uma
+área de conhecimento: Grafia Básica (de uma determinada língua); Grafia Matemática;
+Grafia Química; Grafia Musical ou Musicografia Braille, etc.
+	Braille Integral ou Grau 1 -- Escrita braille em que se representa cada caractere
+correspondente no sistema comum de escrita.
+	Braille Abreviado ou Estenografado (Grau 2) -- Escrita braille em que um
+caractere pode representar duas ou mais letras ou mesmo uma palavra inteira (abreviatura braille).
+	Cela ou Célula Braille -- Espaço retangular onde se produz um sinal braille.
+	Sinal Fundamental ou Universal -- Sinal formado pelo conjunto dos seis
+pontos numa cela (cela cheia). Também é chamado de sinal gerador.
+	Cela Vazia ou Espaço -- É aquela onde não foi produzido qualquer ponto braille.
+	Numeração dos Pontos -- A numeração dos pontos de uma cela braille se
+faz de cima para baixo, da esquerda para a direita:
+
+	Imagem: Cela braille ampliada com os pontos que a compõem:
+	1  4
+	2  5
+	3  6
+
+	Em certas situações, como na produção de tabelas de sinais, por exemplo,
+existe a necessidade de se descrever um símbolo braille pela numeração de seus
+pontos. Modernamente, indica-se a descrição de um sinal por um único numeral,
+independentemente do número de pontos que ele possua. A leitura, entretanto,
+deve ser feita algarismo por algarismo para tornar clara a descrição. Ex.:
+é (123456) e se lê: pontos um, dois, três, quatro, cinco, seis. Uma cela vazia é
+representada pelo numeral 0 (zero).
+	Série Superior da Cela Braille -- Parte da cela que compreende os pontos 1, 2, 4 e 5.
+	Série Inferior da Cela Braille -- Parte da cela que compreende os pontos 2, 3, 5 e 6.
+	Coluna da Esquerda -- Parte da cela braille que compreende os pontos 1, 2 e 3.
+	Coluna da Direita -- Parte da cela braille que compreende os pontos 4, 5 e 6.
+	Sinal Referencial de Posição -- Sinal formado pelos seis pontos de uma
+cela, o qual antecede certos sinais braille, especialmente os das séries inferior e
+da coluna da direita, quando aparecem isolados, para indicar-lhes a exata posição na cela braille.
+	Sinal Simples -- Aquele que é produzido em uma única cela.
+	Sinal Composto -- Aquele que é produzido em duas ou mais celas.
+	Prefixo de um Sinal Composto -- Sinal da coluna da direita (pontos 456),
+geralmente, que precede um outro sinal, formando com ele um sinal composto.
+	Sinais Exclusivos do Braille -- Aqueles que não têm correspondentes no
+sistema comum de escrita e funcionam, geralmente, como prefixos de símbolos
+principais. Exemplos: prefi xos de letras maiúsculas, sinal de número (prefixo
+numérico), sinal de índice superior (expoente) e de índice inferior, parênteses
+auxiliares, e outros.
+	Braille em Negro -- Representação de sinais braille com pontos em tinta.
+Pode ser produzido à mão ou em computadores, utilizando-se “fontes braille”.
+	Escrita em tinta; Escrita comum; Escrita em negro; Sistema comum – Forma
+de escrita utilizada normalmente pelos que possuem suficiente acuidade visual para lê-la.
+
+ *Segunda Parte*
+
+ *Produção do Braille*
+	Braille de Seis Pontos -- Escrita em relevo com base em seis pontos, dispostos
+em duas colunas de três pontos. Permite a produção de sessenta e quatro sinais diferentes.
+	“Braille de Oito Pontos” -- Escrita em relevo com base em oito pontos, dispostos
+em duas colunas de quatro pontos. Permite a produção de duzentos e cinqüenta e
+seis sinais diferentes.
+	Braille Jumbo -- Braille de seis pontos, produzido em celas de tamanho superior
+ao normalmente utilizado, com maior afastamento entre os pontos.
+	Escrita Interpontada (interponto) -- Representação em Braille que ocupa as
+duas faces de uma folha de papel, com superposição de linhas.
+	Escrita Interlinha -- Antiga forma de escrita em Braille que ocupa as duas faces
+de uma folha de papel, sem superposição de linhas.
+	Braille Descartável -- Impresso braille em papel de gramatura inferior à normalmente
+usada, permitindo pouca durabilidade. Emprega-se em trabalhos de simples revisão de textos.
+	Papel Braille -- Papel de gramatura superior àquela normalmente usada para a
+escrita em tinta. Utiliza-se, geralmente, a gramatura 120 (cento e vinte) gramas.
+	Gramatura -- Medida que se expressa em gramas, resultante do peso de uma
+folha de papel com um metro quadrado de superfície.
+	Reglete -- Dispositivo metálico ou plástico, constituído de uma placa frisada
+ou com cavidades circulares rasas e de uma régua ou placa com retângulos vazados,
+para a produção manual de sinais braille.
+	Punção -- Estilete constituído de uma ponta metálica e de um cabo em plástico,
+madeira ou metal, usado especificamente para a produção de pontos em relevo em
+regletes. Apresenta-se em variados formatos.
+	Apagador de Pontos Braille -- Instrumento para apagar pontos braille em papel
+ou em clichês.
+	Máquina Braille -- Equipamento mecânico ou elétrico, no qual seis teclas produzem
+pontos em relevo. Apresentam, ainda, teclas para avanço de espaço, retrocesso
+e mudança de linha.
+	Máquina de Estereotipia -- Equipamento que produz escrita braille em matrizes
+de liga de alumínio ou plástico, para posterior impressão em papel. É geralmente
+ligada a um microcomputador.
+	Clichê -- Lâmina de liga de alumínio ou plástico, utilizada em máquinas de estereotipia.
+	Impressora Braille Computadorizada -- Equipamento que produz em papel,
+textos em braille. São conectadas a um microcomputador através de porta serial ou
+paralela. Podem ser de pequeno, médio e grande portes. Imprimem em folhas avulsas,
+em formulários contínuos ou em ambas as formas.
+	Adaptação de Textos para Transcrição -- Processo referente às adequações e
+ajustes prévios que devem ser feitos num texto, antes de sua transcrição, considerando
+as características do conteúdo e as especificidades da leitura tátil.
+	Transcrição para o Braille -- Reprodução em caracteres do Alfabeto Braille, do
+conteúdo de um texto originalmente impresso no sistema comum de escrita.
+	Revisão Braille -- Verificação, através de leitura tátil, de possíveis incorreções
+cometidas no processo de transcrição.
+	Impressão Braille -- Produção de pontos salientes em prensas, a partir de matrizes
+de liga de alumínio ou plástico. Produção de pontos em relevo em folhas de
+papel, através de impressoras braille computadorizadas.
+	Diagramação de um Texto Braille -- Configuração da escrita numa página,
+considerando, por exemplo, o número de linhas, o número de caracteres por linha e a
+disposição destas no espaço disponível.
+	Margens (esquerda, direita, superior, inferior) -- Espaços compreendidos entre
+os limites máximos (esquerdo, direito, superior, inferior) da escrita e as bordas da
+folha de papel. Sua regulagem numa impressora computadorizada é de fundamental
+importância para a configuração correta da escrita numa página.
+	Nota de Transcrição (Nota do Transcritor) -- Registro feito no início ou em
+meio a um texto, para dar esclarecimentos ou orientações indispensáveis aos leitores.Emprega-se, 
+comumente, quando se atribuisignificado a determinado símbolo braille não convencionado, ou para 
+justificar uma omissão necessária, para descrição de fatos visuais, e ainda outras situações.
+	Tabela de Sinais -- Relação de caracteres braille e de seus respectivos
+significados, colocada, comumente, no início de uma obra transcrita, para esclarecimento ao leitor.
+	Translineação -- Passagem de uma linha de texto para a linha seguinte.
+	Transpaginação -- Diz-se da mudança de página. Na transcrição braille, este fato
+pode ser assinalado por um sinal, indicando a mudança de página no original em tinta.
+	Pontos Apagados -- Aqueles cujo relevo não apresenta suficiente nitidez para
+serem percebidos pelo tato com presteza.
+	Pontos a mais, a menos -- Pontos excessivos ou insuficientes em letras
+do Alfabeto Braille. Ocorrem, comumente, nas escritas em regletes ou em máquinas braille.
+	Empastelamento de um Texto Braille -- Junção ou superposição de linhas,
+impossibilitando inteiramente, por vezes, a leitura de um texto.
+
+ *Terceira Parte*
+
+ *Pessoal*
+	Usuário -- Diz-se de todo aquele que se utiliza do Braille como sistema
+básico de leitura e escrita.
+	Braillista -- Usuário ou profissional que domina com profundidade diferentes
+aspectos do Sistema Braille.
+	Transcritor Braille -- Profissional que realiza a reprodução de textos do
+sistema comum no Sistema Braille.
+	Copista -- Denominação genérica do voluntário que realiza serviços de
+transcrição em cópia única.
+	Revisor Braille -- Profissional que realiza a revisão de textos transcritos
+para o Braille.
+	Consultor Braille -- Profissional especialista que domina com profundidade
+diferentes modalidades de aplicação do Sistema Braille, funcionando como
+orientador em trabalhos de adaptação, transcrição e revisão braille.
+
+ *Quarta Parte*
+
+ *Diversos*
+	Linha Braille ou Display Braille -- Equipamento informatizado que dispõe
+de uma linha de pontos em relevo que se destacam ou desaparecem, mediante
+determinado comando. Apresenta-se com 20, 40 ou 80 caracteres, em braille de 8 pontos.
+	Braille Falado -- Equipamento informatizado de pequeno porte, com sete
+teclas, na disposição convencional de uma máquina braille. Dispõe de sintetizador
+de voz e funciona como editor de textos, agenda, calculadora, cronômetro e outras funções.
+	Braille Light -- Equipamento informatizado, semelhante ao Braille Falado.
+Dispõe de uma linha braille de 20 ou 40 celas.
+	Cecograma -- Categoria de artigos, principalmente impressos braille, que
+goza de isenção postal em muitos países, de acordo com o art. 15 do Regulamento
+de Execução da UPU -- Congresso de Tóquio, 1969.
+
+
+ *Anexo 2*
+
+ *PARECER SOBRE A GRAFIA DA PALAVRA “BRAILLE”*
+	A Comissão Brasileira do Braille – CBB, instituída pela Portaria Ministerial
+nº 319, de 26/02/1999, empenhada em assuntos referentes à padronização do
+uso do Braille no Brasil, inclusive na terminologia concernente à matéria, considerando
+dúvidas por vezes suscitadas sobre a grafia correta da palavra “braille”
+(braile), em reunião ordinária realizada nos dias 08, 09 e 10 de junho de 2005, na
+cidade do Rio de Janeiro, elaborou o presente Parecer que, inicialmente esclarece
+e, afinal, recomenda o que se segue:
+	1. O Sistema Braille foi inventado pelo francês Louis Braille no ano de
+1825. Na Institution Roayale des Jeunes Aveugles, de Paris, onde foi criado, desenvolvido,
+experimentado, e de onde foi difundido, recebeu inicialmente a denominação de “Procédé de L. Braille”.
+	2. Expandiu-se pela Europa, América Latina, Estados Unidos, Ásia e
+África, a partir dos anos 50 do século XIX(19), identificado sempre como “Sistema
+Braille”. Hoje é o processo de leitura e escrita tátil adotado em todo o mundo e
+reconhecido oficialmente pela UNESCO com a criação do Conselho Mundial
+do Braille em julho de 1952, com caráter de órgão assessor daquela organização mundial.
+	3. O Sistema Braille foi trazido para o Brasil por José Álvares de Azevedo,
+um jovem cego, ex-aluno do Instituto de Paris, no ano de 1850, empregado
+oficialmente em nossa pátria, a partir da instalação do Imperial Instituto dos
+Meninos Cegos (hoje Instituto Benjamin Constant), em 1854, prevalecendo a
+grafia original francesa: “braille”.
+	4. Além do Brasil, Portugal e os demais Países de Língua Oficial Portuguesa
+(PALOPs) mantiveram historicamente a grafia: “braille”.
+	5. O Formulário Ortográfico da Língua Portuguesa estabelece em suas
+“Instruções para a Organização do Vocabulário Ortográfico da Língua Portuguesa”,
+aprovadas unanimemente pela Academia Brasileira de Letras, na sessão de
+12 de agosto de 1943: “(...) 5. Os derivados portugueses de nomes próprios estrangeiros
+devem escrever-se de acordo com as formas primitivas”.
+	6. Com base nestas instruções, a Academia Brasileira de Letras registra
+em seu Vocabulário Ortográfico da Língua Portuguesa:
+“braile adj. 2 g. s. m.: braille
+braille adj. 2 g. s. m.”
+(fonte: www.academia.org.br)
+	7. O Protocolo de Colaboração Brasil-Portugal nas Áreas de Uso e Modalidades
+de Aplicação do Sistema Braille na Língua Portuguesa, celebrado em
+Lisboa, aos vinte e cinco dias do mês de maio de 2000, assinado pelos presidentes
+da Comissão Brasileira do Braille e da Comissão de Braille (Portugal), representando
+os governos dos dois países, emprega a palavra “braille” com a grafia
+original, em todo aquele documento oficial.
+	8. No âmbito de organizações e serviços ligados ao ensino, à produção
+e ao uso do Sistema Braille no Brasil vem utilizando, há 150 (cento e cinqüenta)
+anos, a palavra “braille” em sua grafia original francesa, como no Instituto
+Benjamin Constant, Fundação Dorina Nowill para Cegos, Sociedade Pró-Livro
+Espírita em Braille, imprensas de inúmeras instituições brasileiras, nos CAPs
+(Centros de Apoio Pedagógico para Atendimento às Pessoas com Deficiência
+Visual), NAPPBs (Núcleos de Apoio Pedagógico e Produção Braille), bibliotecas
+e setores especializados de bibliotecas públicas e particulares em todo o Brasil.
+	9. Finalmente, os dispositivos legais e documentos normatizadores
+adiante relacionados empregam, exclusivamente, a palavra “braille” em sua
+grafia original:
+	9.1 Lei nº. 4169, de 04 de dezembro de 1962, publicada no DOU de 11
+de dezembro de 1962, que “OFICIALIZA AS CONVENÇÕES BRAILLE PARA USO NA ESCRITA E LEITURA 
+DOS CEGOS E O CÓDIGO DE CONTRAÇÕES E ABREVIATURAS BRAILLE.”
+	9.2 Código Matemático Unificado (CMU), aprovado na “Reunión de
+Representantes de Imprentas Braille de Habla Hispana”, Montevidéu, junho de 1987.
+	9.3 Lei nº. 9.610, de 19 de fevereiro de 1998, que Altera, atualiza e consolida
+a legislação sobre direitos autorais e dá outras providências, Art. 46, inciso
+I(1), alínea d, publicada no DOU de 20 de fevereiro de 1998.
+	9.4 PORTARIA/MEC Nº. 319, de 26 de fevereiro de 1999 que institui no
+Ministério da Educação, vinculada à Secretaria de Educação Especial e presidida
+pelo titular desta, a Comissão Brasileira do Braille, de caráter permanente, publicada
+no DOU de 02/03 de 1999.
+	9.5 Grafia Braille para a Língua Portuguesa, CDU 376.352, aprovada
+pela Portaria/MEC nº. 2.678, de 24 de setembro de 2002, com vigência a partir
+de 01 de janeiro de 2003.
+	9.6 Normas Técnicas para a Produção de Textos em Braille, Ministério
+da Educação/Secretaria de Educação Especial, 2002, publicação CDU 655.532-056.262.
+	9.7 Grafia Química Braille para uso no Brasil, Ministério da Educação/
+Secretaria de Educação Especial, 2002, publicação CDU 376.32.
+RECOMENDAÇÃO
+	Pelas razões históricas, culturais, lingüísticas e legais, anteriormente explicitadas,
+a Comissão Brasileira do Braille recomenda que a palavra “braille” seja sempre grafada com dois “l”, 
+segundo a forma original francesa, internacionalmente empregada.
+
+ *Comissão Brasileira do Braille*
+
+
+ *Anexo 3*
+
+ MINISTÉRIO DA EDUCAÇÃO
+ GABINETE DO MINISTRO
+ *PORTARIA Nº 319, DE 26 DE FEVEREIRO DE 1999*
+	O MINISTRO DE ESTADO DA EDUCAÇÃO, no uso de suas atribuições e
+ - considerando o interesse do Governo Federal em adotar para todo o País, uma política de diretrizes e 
+normas para o uso, o ensino, a produção e a difusão do Sistema Braille em todas as modalidades de aplicação,
+compreendendo especialmente a Língua Portuguesa, a Matemática e outras Ciências, a Música e a Informática;
+	considerando a permanente evolução técnico-científica que passa a exigir sistemática avaliação, alteração 
+e modificação dos códigos e simbologia Braille, adotados nos Países de língua portuguesa e espanhola;
+	e, finalmente, considerando a necessidade do estabelecimento de permanente intercâmbio com comissões de 
+Braille de outros Países, de acordo com a política de unificação do Sistema Braille, a nível internacional, resolve
+	Art. 1º - Fica instituída no Ministério da Educação, vinculada à Secretaria de Educação Especial/SEESP e 
+presidida pelo titular desta, a Comissão Brasileira do Braille, de caráter permanente.
+	Art 2º - A Comissão Brasileira do Braille será constituída de 08 (oito) membros sendo:
+ I(1) - 1 representante do Instituto Benjamin Constant - IBC;
+ II(2) - 1 representante da União Brasileira de Cegos - UBC;
+ III(3) - 1 representante da Fundação Dorina Nowill para Cegos - FNDC;
+ IV(4) - 5 representantes de instituições de e para cegos, escolhidos em fórum convocado pela União Brasileira de Cegos 
+- UBC.
+ § 1º - Os membros referidos nos itens I(1), II(2) e III(3) terão um mandato de
+3 anos e os no item IV terão mandato de 2 anos.
+ § 2º - Os representantes do Instituto Benjamin Constant - IBC, da União Brasileira de Cegos - UBC e da Fundação Dorina 
+Nowill para Cegos - FNDC, referidos nos incisos I(1); II(2) e III(3) deste artigo, constituirão a Consultoria
+Técnico Científica da Comissão.
+ § 3º - Os cinco representantes escolhidos no fórum referido no inciso IV(4) deste artigo, deverão preferencialmente 
+atender as áreas de aplicação do Sistema Braille especificados no parágrafo subsequente.
+ § 4º - Os membros da Comissão Brasileira do Braille deverão ser pessoas de notório saber e larga experiência no uso 
+do Sistema Braille, nas seguintes áreas:
+ a) Braille integral e abreviado (grau I(1) e grau II(2)) da língua portuguesa e conhecimentos específicos de simbologia 
+Braille usada em outras línguas, em especial espanhol, francês e inglês.
+ b) Simbologia Braille aplicada à matemática e ciências em geral;
+ c) Musicografia Braille;
+ d) Simbologia Braille aplicada à informática, produção Braille (transcrição, adaptação de textos, gráficos e desenhos 
+em relevo e impressão).
+ § 5º - Os trabalhos da Comissão serão considerados relevantes e as funções exercidas por seus membros não serão 
+remuneradas, sendo vedada a percepção de vantagens pecuniárias de qualquer natureza, exceto despesas eventuais de 
+passagens e diárias.
+	Art. 3º - Compete à Comissão Brasileira do Braille: 
+ I(1) - Elaborar e propor a política nacional para o uso, ensino e difusão do Sistema Braille em todas as suas modalidades 
+de aplicação, compreendendo especialmente a língua portuguesa, a matemática e outras ciências exatas, a música e a 
+informática;
+ II(2) - Propor normas e regulamentações concernentes ao uso, ensino e produção do Sistema Braille no Brasil, visando a 
+unificação das aplicações do Sistema Braille, especialmente nas línguas portuguesa e espanhola.
+ III(3) - Acompanhar e avaliar a aplicação de normas, regulamentações, acordos internacionais, convenções e quaisquer 
+atos normativos referentes ao Sistema Braille.
+ IV(4) - Prestar assistência técnica às Secretarias Estaduais e Municipais de Educação, bem como a entidades públicas 
+e privadas, sobre questões relativas ao uso do Sistema Braille.
+ V(5) - Avaliar permanentemente a Simbologia Braille adotada no País, atentando para a necessidade de adaptá-la ou 
+alterá-la, face à evolução técnica e científica, procurando compatibilizar esta simbologia, sempre que for possível com 
+as adotadas nos Países de língua portuguesa e espanhola.
+ VI(6) - Manter intercâmbio permanente com comissões de Braille de outros Países de acordo com as recomendações de 
+unificação do Sistema Braille em nível internacional.
+ VII(7) - Recomendar, com base em pesquisas, estudos, tratados e convenções, procedimentos que envolvam conteúdos, 
+metodologia e estratégias a serem adotados em cursos de aprendizagem no Sistema Braille com caráter de especialização, 
+treinamento e reciclagem de professores e de técnicos, como também nos cursos destinados a usuários do Sistema Braille e 
+à comunidade geral.
+ VIII(8) - Propor critérios e fixar estratégias para implantação de novas Simbologias Braille que alterem ou substituam 
+os códigos em uso no Brasil, prevendo a realização de avaliações sistemáticas com vistas a modificações de procedimentos 
+sempre que necessário.
+ IX(9) - Elaborar catálogos, manuais, tabelas e outras publicações que facilitem o processo ensino-aprendizagem e o 
+uso do Sistema Braille em todo o território nacional.
+ Parágrafo Único - Os itens IV(4), V(5), VI(6) e IX(9), poderão constituir matéria de apreciação e deliberação da 
+Consultoria Técnico Científica.
+	Art. 4º - A SEESP assegurará o apoio técnico, administrativo e financeiro indispensável ao funcionamento da
+Comissão.
+	Art. 5º - A instalação da Comissão Brasileira do Braille dar-se-á no prazo de até 60 (sessenta) dias da data 
+de publicação desta Portaria.
+	Art. 6º - A Comissão elaborará o Regulamento Interno no prazo de 60 (sessenta) dias a partir de sua instalação.
+	Art. 7º - Esta Portaria entra em vigor na data de sua publicação.
+ PAULO RENATO DE SOUZA
+ Publicada no DO de 02.03.1999
+ 
+ *PORTARIA Nº 554 DE 26 DE ABRIL DE 2000*
+ O Ministro de Estado da Educação, no uso de suas atribuições, tendo em vista o disposto no art. 6º da Portaria nº 
+319, de 26 de fevereiro de 1999, que instituiu a Comissão, resolve:
+	Art. 1º Aprovar o Regulamento Interno da Comissão Brasileira do Braille, na forma do Anexo a esta Portaria.
+	Art. 2º Esta Portaria entra em vigor na data de sua publicação. 
+ PAULO RENATO SOUZA
+
+  (Anexo à Portaria nº.319, de 26 de fevereiro de 1999)
+ *REGULAMENTO INTERNO DA COMISSÃO BRASILEIRA DO BRAILLE.*
+
+ *CAPÌTULO I(1)*
+ DA NATUREZA E DA COMPETÊNCIA
+	Art.1º A Comissão Brasileira do Braille, vinculada à Secretaria de Educação Especial – SEESP, do Ministério da 
+Educação, instituída pela Portaria nº 319, de 26 fevereiro de 1999, tem por competência:
+ I(1) - elaborar e propor diretrizes para o uso, ensino e difusão do Sistema Braille em todas as modalidades de 
+aplicação, compreendendo especialmente a língua portuguesa, a matemática e outras ciências exatas, a música e a 
+informática;
+ II(2) - propor normas e regulamentações concernentes ao uso, ensino e produção do Sistema Braille no Brasil, 
+visando a unificação das
+aplicações do Sistema Braille, especialmente nas línguas portuguesa e espanhola;
+ III(3) - acompanhar e avaliar a aplicação de normas, regulamentações, acordos internacionais, convenções e quaisquer 
+atos normativos referentes ao Sistema Braille;
+ IV(4) - prestar assistência técnica às Secretarias Estaduais e Municipais de Educação, bem como às entidades públicas 
+e privadas, sobre questões relativas ao uso do Sistema Braille;
+ V(5) – avaliar, permanentemente, a simbologia Braille adotada no País, atentando para a necessidade de adaptá-la ou 
+alterá-la, face à evolução técnica e científica, procurando compatibilizar esta simbologia, sempre que for possível, 
+com as adotadas nos países de língua portuguesa e espanhola;
+ VI(6) - manter intercâmbio permanente com comissões de Braille de outros países, de acordo com as recomendações de 
+unificação do Sistema Braille em nível internacional;
+ VII(7) - recomendar, com base em pesquisas, estudos, tratados e convenções, procedimentos que envolvam conteúdos, 
+metodologia e estratégias a serem adotados em cursos de aprendizagem do Sistema Braille, com caráter de especialização, 
+treinamento e atualização de professores e técnicos, como também nos cursos destinados aos usuários do Sistema Braille 
+e à comunidade geral;
+ VIII(8) - propor critérios e fixar estratégias para implantação de novas Simbologias Braille, que alterem ou 
+substituam os códigos em uso no Brasil, prevendo a realização de avaliações sistemáticas, com vistas a modificações 
+de procedimentos sempre que necessário; e  IX(9) - elaborar catálogos, manuais, tabelas e outras publicações que 
+facilitem o processo ensino-aprendizagem e o uso do Sistema Braille em todo o território nacional.
+
+ *CAPÌTULO II(2)*
+ DA COMPOSIÇÃO
+	Art. 2º A Comissão Brasileira do Braille é constituída por nove membros, sendo:
+ I(1) - um representante da Secretaria de Educação Especial – SEESP; 
+ II(2) - um representante do Instituto Benjamin Constant – IBC;
+ III(3) - um representante da União Brasileira de Cegos – UBC;
+ IV(4) - um representante da Fundação Dorina Nowill para Cegos –FDNC;
+ V(5)- cinco representantes de instituições de e para cegos, escolhidos em fórum, convocado pela União Brasileira de 
+Cegos – UBC.
+ § 1º A escolha dos representantes para a Comissão Brasileira do Braille deverá recair sobre pessoas de notório 
+saber e larga experiência no uso do Sistema Braille.
+ § 2º Os representantes do IBC, da UBC e da FDNC terão mandato de três anos e poderão ser reconduzidos uma única vez, 
+observando-se as formalidades legais exigidas para a sua primeira indicação.
+ § 3º Os representantes referidos no item V, deste artigo, terão mandato de dois anos.
+ § 4º Ocorrendo, por qualquer motivo, o afastamento definitivo do representante na Comissão, a entidade representada 
+terá direito a indicar outro representante, para completar o mandato;
+ § 5º Haverá perda de mandato quando o representante deixar de comparecer a duas reuniões consecutivas, sem justificativa 
+aceita pela Comissão.
+ § 6º Os representantes do Instituto Benjamin Constant – IBC, da União Brasileira de Cegos – UBC e da Fundação Dorina 
+Nowill para Cegos – FDNC, constituem a Comissão Técnico - Científica de Trabalho da Comissão Brasileira do Braille.
+
+ *CAPÍTULO III(3)*
+ DO FUNCIONAMENTO
+	Art.3º As reuniões da Comissão Brasileira do Braille realizar-se-ão nas dependências da SEESP/MEC, em Brasília, 
+ou em outras localidades, quando houver conveniência administrativa e/ou financeira e, serão presididas pelo
+representante da SEESP.
+ § 1º Na ausência do presidente, este indicará um membro da Comissão para presidir a reunião.
+ § 2º Fazendo-se presente em qualquer etapa da reunião, o presidente assumirá, automaticamente, a direção dos trabalhos.
+	Art. 4º A Comissão Brasileira do Braille reunir-se-à ordinariamente, na primeira quinzena dos meses de março, 
+junho, setembro e dezembro de cada ano, e extraordinariamente, sempre que necessário, cabendo ao
+presidente convocar e fixar as datas das reuniões.
+ § 1º A convocação para as reuniões ordinárias deverá ocorrer com antecedência mínima de vinte dias e, para as reuniões 
+extraordinárias a antecedência deverá ser de, no mínimo, dez dias, mediante comunicação escrita aos membros da Comissão 
+e aos dirigentes das entidades representadas.
+ § 2º A cada reunião, os membros da Comissão elegerão um relator, para registrar e divulgar os resultados das reuniões, 
+com a colaboração da SEESP, segundo o previsto no art. 4º, da Portaria nº 319, de 26 de fevereiro de 1999.
+ § 3º O quorum mínimo para a instalação de cada reunião da Comissão será de cinco membros e as decisões serão tomadas 
+por maioria simples dos votos dos membros presentes, sendo que em caso de empate, o presidente exercerá o voto de qualidade
+	Art. 5º A Comissão Técnico- Científica de Trabalho reunir-se-á com o quorum mínimo de, pelo menos, mais dois 
+membros da Comissão, sendo aplicáveis às suas reuniões, no que couber, as normas previstas neste capítulo 
+	Art. 6º Quaisquer encaminhamentos deverão ser dirigidos à SEESP, que os encaminhará às áreas especializadas e 
+transmitirá as respostas aos consulentes.
+
+ *CAPÍTULO IV(4)*
+ DAS ATRIBUIÇÔES
+	Art. 7º Ao presidente incumbe..
+ I(1) - adotar todas as providências administrativas necessárias para o bom funcionamento da Comissão;
+ II(2) - convocar as reuniões ordinárias e extraordinárias da Comissão Brasileira do Braille;
+ III(3) – designar substituto para presidir, em seus impedimentos, as reuniões previstas no inciso anterior;
+ IV(4) – representar, ou em seus impedimentos designar substitutos, a Comissão Brasileira do Braille junto ao Ministro 
+de Estado da Educação,bem como em suas relações externas.
+ 	Art.8º. Aos membros da Comissão incumbe:
+ I(1) – cumprir e fazer cumprir este Regulamento;
+ II(2) – participar das reuniões da Comissão, sempre que convocados, ou justificar sua ausência;
+ III(3) – estudar, discutir e votar matéria submetida a exame da Comissão;
+ IV(4) – participar dos grupos de trabalho para os quais tenham sido designados.
+
+ *CAPÍTULO V(5)*
+ DO APOIO ADMINISTRATIVO E FINANCEIRO
+	Art. 9º. A SEESP manterá, em Brasília, o apoio administrativo necessário ao funcionamento da Comissão 
+Brasileira do Braille, inclusive providenciará suporte financeiro para as despesas da Comissão, bem como 
+passagens e diárias para seus membros, quando oficialmente convocados para as reuniões, fora da cidade de seu domicílio.
+	Art.10. Os membros da Comissão Brasileira do Braille, indicados pela Fundação Dorina Nowill para Cegos e 
+pelo Instituto Benjamin Constant manterão o acervo técnico da Comissão, que compreende catálogos, manuais, tabelas 
+e demais publicações de interesse para o uso do Sistema Braille, no Brasil e no exterior.
+Parágrafo único. As publicações de que trata este artigo deverão, sempre que possível, ser conservadas em duplicata, 
+nas duas entidades, a fim de facilitar o trabalho de seus técnicos e as consultas dos membros da Comissão.
+
+ *CAPÍTULO VI(6)*
+ DAS DISPOSIÇÕES GERAIS
+	Art.11. Compete à Comissão Técnico - Científica de Trabalho, sem prejuízo da liberdade de iniciativa da 
+Comissão, tomar as decisões técnicas relativas aos incisos IV(4), V(5), VI(6) e IX(9) do artigo 1º, deste Regulamento, 
+cabendo à Comissão fixar as orientações para o desenvolvimento dos trabalhos.
+	Art. 12. Os casos omissos serão resolvidos, em primeira instância, pelo titular da SEESP e, em segunda 
+instância, pelo Ministro de Estado da Educação.
+
+
+ *Bibliografia*
+ COMISSÃO BRASILEIRA DO BRAILLE. Código Matemático Unificado para a Língua Portuguesa. Fundação Dorina 
+Nowill para Cegos, São Paulo, 1998.
+ COMISSÃO DE BRAILLE. Compêndio de Grafia Braille da Língua Portuguesa – Braille Integral. 2ª ed. Associação 
+de Cegos e Amblíopes de Portugal, Lisboa, 1992.
+ FRANCISCO RODRIGO DOMÍNGUEZ. Escrituras y Alfabetos en Relieve. Organización Nacional de Ciegos Españoles, 
+Madri, 1980.
+ FRANCISCO RODRIGO DOMÍNGUEZ. Notación "U" del Sistema Braille. Organización Nacional de Ciegos Españoles, Madri, 1978.
+
