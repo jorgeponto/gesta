@@ -1,0 +1,187 @@
++++Boletim E-ACCESS
+Acesso à Tecnologia para Todos, independentemente da Capacidade
+- Edição 123, Março 2010.
+
+Uma Publicação Headstar.
+http://www.headstar.com/eab/ .
+
+Reenvie, por favor, para outros este boletim gratuito (os detalhes de subscrição encontram-se no final).
+
+++Índice da edição 123.
+
+01: Exclusivo: UE Empurra Regras sobre Produtos Acessíveis para a Sarjeta.
+- Reino Unido faz parte da maioria que pretende recuar para uma menos conseguida Directiva para a Igualdade de Tratamento.
+
+02: Elogio ao Progresso da Acessibilidade Web dos Municípios
+- "Espantosa" melhoria, mostra relatório.
+
+03: Tecnológica Trust para Lançar Interface Online para Produto Social
+- Rede tem por objectivo partilhar aprendizagem de projectos sociais de TI.
+
+Notas Breves: 04: Miscelânea de Mensagens - sobre acessibilidade do Governo Australiano; 05: Surfar Livremente - dias de aprendizagem web; 06:
+Fala Portátil - equipamento livro DAISY móvel.
+
+Secção Dois: Relatório Especial - Sítios Web Municipais.
+07: Melhor do que Parecem? A última revisão anual de todos os sítios Web das autoridades locais do Reino Unido - Better Connected 2010 da Society of IT Management (Socitm) - parece mostrar que a maioria dos sítios das Câmaras Municipais continuam a não ser completamente acessíveis a todos aqueles que têm incapacidades. No entanto, um olhar por detrás dos padrões quantitativos revelam um significativo acréscimo nos níveis da acessibilidade 'funcional', reporta Tristan Parker.
+
+[Fim do índice].
+
+
+++Secção Um: Notícias.
+
++01: Exclusivo: UE Empurra Regras sobre Produtos Acessíveis para a Sarjeta.
+
+A União Europeia procura formas para recuar na legislação anteriormente proposta que iria requerer acessibilidade a pessoas com deficiência de todos os produtos de consumo fabricados, desde as televisões digitais às máquinas de lavar, ficou a saber o Boletim E-Access.
+
+Espera-se uma reunião, esta semana em Bruxelas, para confirmar alterações ao rascunho da Directiva sobre Igualdade de Tratamento (DIT), inicialmente proposta pela Comissão Europeia em 2088 para banir a discriminação no acesso aos produtos e serviços, expressa na exacta medida do seu exaustivo título: Proposta para Directiva do Conselho sobre a implementação do princípio da igualdade do tratamento entre pessoas, independentemente da sua religião ou crença, incapacidade, idade ou orientação sexual
+( http://bit.ly/9IFqXc ).
+
+Na sua forma original, a directiva iria requerer que todos os dispositivos deveriam ser acessíveis, e que, por exemplo, não poderiam ser operados apenas por controlos visuais ou ecrãs-tácteis inacessíveis a pessoas cegas. 
+
+Desde 2008, todavia, os estados-membros alteraram o texto retirando-lhe quaisquer requisitos específicos. Na última correcção (disponível apenas em PDF em 
+http://bit.ly/anrdqs ), 
+diz-se: "Esta Directiva não deve ser aplicada ao design e à fabricação de produtos". A nova versão diz simplesmente que os estados-membros devem ter em conta "medidas que assegurem a acessibilidade para as pessoas com incapacidades. [e] promover a investigação e o desenvolvimento de produtos concebidos universalmente, promover a sua disponibilidade e utilização, e promover o design universal no desenvolvimento de standards e directrizes." No entanto, não se encontram especificados detalhes sobre as formas de actuação, ou seja quais as acções a empreender.
+
+A nova versão a ser discutida em Bruxelas é apoiada pela maioria dos estados-membros incluíndo o Reino Unido. Um pequeno número de estados, nos quais se inclui a Austria, pronunciaram-se contra a redução das propostas, todavia, e para que a directiva se transforme em lei, a unanimidade deverá ser alcançada. 
+
+Carine Marzin, do departamento de campanhas Europeias no Royal National Institute of Blind People (RNIB), disse ao Boletim E-Access que a continuada confiança na boa vontade dos fabricantes para distribuirem produtos acessíveis ao mercado não irá resolver o problema. "Na prática, nada irá mudar se os estados-membros não estiverem prontos para endereçar este assunto com legislação," disse Marzin. "Esta é uma oportunidade única para acabar com a discriminação que muitas pessoas com incapacidade se confrontam quando tentam aceder aos produtos; uma oportunidade que nós não podemos deixar escapar."
+
+Por outro lado, a União Europeia de Cegos (UEC) alerta que falhar na implementação das propostas de acessibilidade originalmente escritas pode fragilizar a relação comercial em concorrência com áreas fora da Europa onde hajam regras mais restritas (veja a resposta da UEC em formato Microsoft Word em: 
+http://bit.ly/bowvGU ). 
+Nos EUA, por exemplo, foi proposta uma lei que tem por objectivo forçar os fabricantes a criar produtos de tecnologia de consumo acessível (veja Boletim E-Access, edição 122 - 
+http://bit.ly/cRZVrs ).
+
+Uma campanha conjunta de oposição à posição do Reino Unido sobre a ETD (DIT - Directiva sobre Igualdade de Tratamento) foi agora lançada por um grupo de associações inglesas, representantes de pessoas com deficiência:
+http://bit.ly/d1EP2R ).
+
+Pode comentar esta matéria, no blogue EAB Live:
+http://bit.ly/aKG4es
+
+
++02: Elogio ao Progresso da Acessibilidade Web dos Municípios.
+
+Os sítios web das autarquias locais do Reino Unido estão "muito mais acessíveis, como nunca estiveram antes", de acordo com uma especialista que trabalhou no mais recente estudo de avaliação a todos os sítios Web das autarquias locais do Reino Unido levado a efeito pela Society of IT Management (Socitm) 
+(http://bit.ly/dltkU5 ).
+
+Bim Egan, consultora-sénior em acesso web no Royal National Institute of Blind People (RNIB), disse ao Boletim E-Access que a diferença encontrada na análise feita aos sítios Web municipais deste ano com relação a 2009 é "espantosa". "Uma maior proporção de [autarquias] perceberam a mensagem e estão a implementar processos para tornarem os seus sítios web muito mais acessíveis", disse ela. 
+
+Os comentários de Egan são proferidos apesar de este ano haver menos autarquias locais em conformidade "formal" para com o nível 'A' das Directrizes Internacionais de Acessibilidade para o Conteúdo da Web, versão um (WCAG 1.0) - 32 comparado com 36 em 2009. Todavia, em adição a este estudo, o RNIB levou a efeito o seu próprio levantamento sobre a "acessibilidade funcional" o qual classificou 187 municípios (43%) como "satisfatório" ou "excelente", classificação que no ano passado apenas contemplou 136 municípios (33%).
+
+Apesar do progresso, Egan disse que a excessiva dependência de PDFs (ficheiros no formato de documento portátil da Adobe), os quais são muitas vezes inacessíveis a leitores de ecrã e outros tipos de tecnologia de apoio, continua a ser um problema de acessibilidade significativo para os sítios das autarquias locais.
+
+"Não interessa muito saber se muitos municípios não fazem um uso intensivo do formato PDF, mas... se os disponibilizam de forma não acessível, poderá haver situações em que as pessoas não consigam, sequer, saber quais as taxas de imposto cobradas pelo município," diz Egan.
+
+Para uma análise completa dos resultados de acessibilidade do "Better Connected 2010" veja a secção três desta edição.
+
+E pode comentar esta história no blogue EAB Live:
+http://bit.ly/9N5KGG
+
+
++03: Tecnológica Trust Lança Interface Online para Produto Social.
+
+Em Junho vai ser lançado, pela associação Nominet Trust, um novo centro de conhecimento online para organizações que trabalham no campo dos produtos sociais e de tecnologia, ficou a saber o Boletim E-Access.
+
+A trust 
+(http://bit.ly/aXFbxD ), 
+a maior associação do Reino Unido que disponibiliza fundos para projectos TI, foi criada com 8 milhões de libras oriundos da Nominet, a entidade responsável pelo registo de domínios de Internet do Reino Unido, para financiar iniciativas sedeadas no Reino Unido e iniciativas internacionais relaciondas com Internet nos sectores da educação, investigação e desenvolvimento, segurança e inclusão indo ao encontro das necessidades dos jovens, dos idosos, das pessoas com incapacidades e doentes, em desvantagem e outros grupos vulneráveis.
+
+A sua nova rede online, a ser lançada em Junho, irá incluir um centro de monitorização que dará conta de todos os seus investimentos e permitirá a todas as entidades financiadas disponibilizarem online os seus relatórios trimestrais; e um 'centro de conhecimento' que permitirá a interacção entre os diversos grupos. Tem por objectivo tornar-se em um dos maiores pontos de ligação para a partilha de boas práticas nas suas áreas de financiamento, disse o presidente da trust, Jonathan Welfare, ao Boletim E-Access na conferência "Digital Inclusion" ocorrida na semana passada em Londres (http://bit.ly/aFvYk7 ).
+
+A Nominet Trust tem vindo a investir desde Fevereiro de 2009 com 36 financiamentos até ao momento, totalizando 1.9 milhões de libras. Até ao momento o financiamento mais pequeno foi de mil libras entregues a uma escola primária em Derbyshire para ajudar a produzir um folheto sobre os potenciais perigos da Internet, desenhado pelos seus alunos e distribuído pelas outras escolas através das autoridades locais de educação; e o maior financiamento foi de meio milhão de libras atribuído à associação UnLtd ('unlimited') 
+( http://bit.ly/cKD3Qy ) 
+a qual, por seu turno, financia projectos de TI social mais pequenos em todo o Reino Unido.
+
+Um dos primeiros financimantos da trust, realizado em Abril de 2009, foi feito à British Computer Association of the Blind (BCAB), para financiar assistência técnica remota a pessoas com deficiência da visão. Outros grupos igualmente financiados foram a Screenreader.net, criador do leitor de ecrã gratuito 'Thunder'; ACE Centre Advisory Trust, para o SpeechBubble, um sítio web que compara ajudas à comunicação para pessoas com incapacidade; AbilityNet, para apoio a um projecto de recursos educativos digitais acessíveis; e Citizens Online, para um projecto de levantamento e resolução de problemas de acessibilidade de sítios web.
+
+Qualquer grupo pode solicitar, a qualquer momento, um pedido de financiamento, sendo que os novos financiamentos são decididos trimestralmente.
+
+Pode comentar esta história, no blogue EAB Live:
+http://bit.ly/beZNon
+
+
+++Notas Breves:
+
++04: Miscelânea de Mensagens: sítios web do governo Australiano terão que estar, até 2015, em conformidade para com a última versão das internacionais Directrizes de Acessibilidade para o Conteúdo da Web, WCAG 2.0, do Consórcio World Wide Web (W3C), anunciou o Secretário Parlamentar para as Incapacidades:
+( http://bit.ly/cTUNu7 )
+Todavia, a decisão não irá receber qualquer suporte legal para além do que já é fornecido pela Australian Human Rights Commission (Comissão Australiana dos Direitos Humanos). Para além disso, o consultor em TI, Tom Worthington, fez notar no seu blogue que a página web que publicitou o anúncio, ela própria, não cumpre os requisitos mínimos de acessibilidade: ( http://bit.ly/bwYWQU ).
+
++05: Surfar Livremente: fazer uma pesquisa no Google e aceder ao sítio web do British Museum são algumas das habilidades de Internet a serem ensinadas a pessoas com deficiência da visão ou cegas numa série de 50 'dias de aprendizagem web' gratuitos que terão lugar em todo o país durante os próximos quatro meses. Organizados pela associação Screenreader.net com financiamento governamental de 70 mil libras, as sessões irão fazer uso do programa gratuito de leitura de ecrã Thunder para demonstrar como podem os utilizadores de computador com deficiência da visão surfar na Internet: ( http://bit.ly/cJipz4 ).
+
++06: Fala Portátil: Livros falados em formato DAISY (Digital Accessible Information System - Sistema de Informação Digital Acessível) podem agora ser transferidos directamente de um CD para um dispositivo móvel portátil, sem necessidade de um computador. O leitor Victor Stream CD Edition, desenvolvido pela HumanWare, permite que os utilizadores cegos ou com baixa visão copiem os livros falados e outro tipo de áudio directamente para o dispositivo para um acesso móvel usando apenas um único botão:
+( http://bit.ly/a2NZTC ).
+
+[Fim da secção Um].
+
+++Secção Dois: Reportagem Especial
+- Sítios Web Municipais.
+
++07: Melhores do que Parecem?
+por Tristan Parker.
+
+À primeira vista, os resultados de acessibilidade da análise 'Better Connected' deste ano feita pela Society of IT Management (Socitm) de todos os sítios web dos municípios do Reino Unido 
+( http://bit.ly/dltkU5 ) 
+parecem sugerir que o acesso online às autarquias locais por parte dos utilizadores que fazem uso de tecnologias de apoio ao computador não é uma prioridade.
+
+Este ano, por exemplo, foram menos as entidades locais que se encontram em conformidade com o nível 'A' das Directrizes internacionais de Acessibilidade para o Conteúdo da Web, versão um (WCAG 1.0 
+http://bit.ly/cmbc4g ) 
+do que no último ano - 32 comparado com 36 - e pelo segundo ano consecutivo nenhum município alcançou o nível mais exigente 'AA'.
+
+Mas as aparências podem iludir, e estes dados não nos mostram a totalidade da fotografia, segundo Bim Egan, consultora-sénior em acesso web no Royal National Institute of Blind People
+( RNIB: http://bit.ly/a5Jz3i ).
+
+Egan, que efectuou trabalho de avaliação para o relatório "Better Connected" disse ao Boletim E-Access que os sítios web que não alcançaram sequer o nível básico das WCAG, não estão necessariamente completamente inacessíveis às pessoas com incapacidades.
+
+As WCAG são, em larga medida, um diagnóstico quantitativo de vários aspectos de um sítio, aos quais pelo segundo ano o RNIB adicionou uma avaliação qualitativa sobre os sítios web dos municípios para obter uma mais ampla fotografia da acessibilidade. Esta verificação dos factores "efeito" tais como "os utilizadores podem ou não navegar, usar e comunicar com o sítio de forma relativamente fácil se tiverem necessidades especiais ou necessidade de usarem tecnologias de apoio", disse Egan.
+
+Estes testes usam a sua própria escala de 0 a 3, em que 0 representa uma frequente falta de acessibilidade e 3 representa um sítio que é, funcionalmente, integralmente acessível. Baseado neste sistema, 187 municípios (43%) foram classificados pelo RNIB como satisfatório ou excelente, comparado com 136 municípios (33%) do último ano.
+
+Isto parece encorajante, mas porque não é isto reflectido no sistema baseado nas WCAG 1.0? "Nós nunca acreditamos que os testes de conformidade representam uma mensuração real da acessibilidade", disse Egan. "Não é apenas o que faz, mas como o faz, e os testes de conformidade basicamente procuram coisas como cabeçalhos utilizados, e não de que forma são [os sítios web] bons."
+
+Para além disso a pesquisa sugere que os sítios web dos municípios incrementaram a sua acessibilidade funcional, disse Egan, apesar de terem incorporado novas tecnologias e técnicas que os faz descer nos níveis de conformidade para com os standards.
+
+Quais são então essas novas técnicas que têm impedido a conformidade para com os standards?
+
+Não pela primeira vez, mas o JavaScript - uma linguagem de programação comum utilizada em páginas de sítios web - surge como o criminoso. A utilização de JavaScript lidera várias vezes o aumento das dificuldades na navegação de uma página web quando se utiliza tecnologia de apoio ou um teclado, ao disponibilizar, por exemplo, conteúdo 'escondido' que pode não ser apanhado pelas mesmas tecnologias de apoio. Por outro lado, o JavaScript pode, por vezes, ser utilizado para incrementar a acessibilidade - fornecendo informação adicional ao utilizador - aparecendo contudo como um problema recorrente para a conformidade da acessibilidade.
+
+"A principal coisa que afecta os testes de conformidade para com as WCAG 1.0 é que muitos mais sítios dispõem de um maior número de funcionalidades, e muitas dessas funcionalidades estão construídas em JavaScript," diz Egan. "Se não tivermos JavaScript para verificar, teremos um considerável aumento do nível de conformidade 'A'."
+
+Egan avisa também que a equipa que procede à análise dos sítios web do "Better Connected" deve adoptar a versão 2.0 das WCAG (a última versão das directrizes) para efectuar o seu levantamento no próximo ano, o que vai obrigar à implementação de mais algumas técnicas para assegurar a conformidade com o standard básico. "Se olharmos para as WCAG 2.0, a mensagem é que os municípios terão de deixar de disponibilizar tanta informação em PDFs", disse ela.
+
+PDFs (ficheiros 'documento em formato portátil' da Adobe, utilizado largamente pelas autarquias locais e outras entidades públicas) são frequentemente não integralmente acessíveis aos leitores de ecrã e a outras tecnologias de apoio. Existem formas para criar PDFs acessíveis usando novas versões do formato que podem disponibilizar texto marcado para imagens, por exemplo, mas as autarquias continuam ainda a usar versões antigas inacessíveis.
+
+"Não interessa muito saber se muitos municípios não fazem um uso intensivo do formato PDF, mas... se os disponibilizam de forma não acessível, poderá haver situações em que as pessoas não consigam, sequer, saber quais as taxas de imposto cobradas pelo município," disse Egan.
+
+Apesar destas preocupações, Egan está entusiasmada em sublinhar o aumento na acessibilidade demonstrada pelo levantamento qualitativo feito pelo RNIB. "Este é o meu quinto ano a trabalhar no "Better Connected" e a diferença é estrondosa. Os sítios web municipais atingiram um nível de acessibilidade que nunca alcançaram até hoje," diz ela.
+
+Talvez surpreendemente, Egan também acredita que uma legislação forte não é a melhor forma para alcançar maiores resultados, sendo preferível, em vez disso, tornar visíveis aqueles que são bem sucedidos e encorajá-los a liderar pelo exemplo. "Não penso que mais legislação o vai fazer" diz ela. "Tivemos algumas pequenas horríveis penalidades, como a perda do domínio '.gov.uk', e não sabemos o que mais poderá vir a ser feito para encorajar os sítios a tornarem-se mais acessíveis senão mostrar pelo exemplo, relembrando e aplaudindo todos aqueles que o fazem correctamente. Vamos dar-lhe mais tempo de antena."
+
+Ela solicita a todos aqueles que não alcançaram, de qualquer forma, bons níveis de acessibilidade até agora a despoletarem a mudança. "Aqueles sítios web que não alcançaram as WCAG 1.0 ou obtiveram um índice de 1 ou 2 no nosso próprio [RNIB] sistema não devem desencorajar - Prefiro que eles sintam a necessidade de mudar", diz Egan. "Acessibilidade não é onde está, é o caminho que está a seguir."
+
+Pode agora comentar esta história, no blogue EAB Live:
+http://bit.ly/aQQNiy
+
+[Fim da secção Dois].
+
+++Fim das Notícias.
+
++Como Receber o Boletim.
+
+Para subscrever este boletim mensal gratuitamente, email eab-subs@headstar.com com 'subscribe eab' no assunto. Pode listar outros endereços de email para subscrição no corpo da mensagem. Anime, por favor, todos os seus colegas a subscrever! Pode deixar de subscrever o boletim a qualquer momento, colocando 'unsubscribe eab' no assunto da mensagem.
+
+Envie, por favor, comentários sobre notas de reportagem para Dan Jellinek através de:
+dan@headstar.com .
+
+Copyright 2009 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this copyright notice are included, and as long as people are always encouraged to subscribe with us individually by email. Please also inform the editor when you are reproducing our content. Sections of the bulletin may be quoted as long as they are clearly sourced as 'taken from e-access bulletin, a free monthly email newsletter', and our web site address:
+http://www.headstar.com/eab 
+is also cited.
+
++Equipa:
+Editor - Dan Jellinek.
+Redactor: Tristan Parker.
+Conselheiro editorial - Kevin Carey.
+Tradução para português - Jorge Fernandes.
+
+ISSN 1476-6337.
+
+[Fim da edição 123.]

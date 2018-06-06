@@ -1,0 +1,246 @@
+Boletim E-Access
+Boletim electrónico on-line de notícias sobre tecnologia para pessoas com deficiência visual.
+Endereço do Boletim E-Access: 
+<http://www.e-accessibility.com>
+
+Patrocinado pelo Royal National Institute for the Blind:
+<http://www.rnib.org.uk>
+o National Library for the Blind (Biblioteca Nacional para os cegos):
+<http://www.nlbuk.org>
+e a Guide Dogs for the Blind Association (Associação de Cães-Guia para cegos):
+<http://www.guidedogs.org.uk>
+
+Versão Portuguesa: cortesia do GESTA-MP (Grupo de Estudos Sociais, Tiflológicos e Associativos)
+<http://www.gesta.org>
+
+Divulgue, por favor, este boletim pelos seus amigos e colegas, e diga-lhes que o podem subscrever em Português, bastando para tal enviar uma mensagem para o endereço electrónico: <mailto:eab-pt-subs@headstar.com>. Veja os pormenores na parte final deste boletim.
+
+Quantos mais subscritores tivermos, melhor será o nosso serviço!
+
+[início DO BOLETIM]
+
+BOLETIM 19. JULHO DE 2001
+NESTE BOLETIM: 
+
+Secção Um: Notícias.
+- A oportunidade bateu à porta do VisuGate: portal da deficiência visual recebe 190,000 libras Inglesas da Lotaria Nacional.
+- Pedido de parceiros para todos os idiomas: organizações Portuguesa e Espanhola juntam-se à rede do Boletim E-Access.
+- Lei anti-discriminação do Reino Unido pode estender-se à net.
+- Margaret Bennett deixa a National Library for the Blind (Biblioteca Nacional para os Cegos): ex-chefe executiva vai para cargo governativo.
+- As grandes empresas falham na acessibilidade à Web, demonstra estudo.
+- Mágico "Remédio" para a secção 508: foi encontrada uma cómica solução.
+- Notícias breves: JustVanilla; Telefones de texto, a última palavra; Techsharers precisam-se; Seminário em São Paulo. 
+
+Secção Dois: Respostas a um apelo 
+- sensibilidade à luz do sol. Os leitores do Boletim oferecem os seus conselhos ao pai de uma criança que padece de hiper sensibilidade à luz solar.  
+
+Secção Três: Resposta do Leitor 
+- a chave está na cooperação. O leitor do Boletim E-Access, Matt King, recusa a argumentação de Kevin Carey relativamente ao facto dos actores do nicho de mercado das acessibilidades estarem condenados ao fracasso. 
+
+Secção Quatro: Perfil 
+- Charles Bennett: retrato de um artista on-line.
+Tamara Fletcher faz o perfil do novo "escritor virtual residente" da National Library for the Blind - Biblioteca Nacional dos Cegos. 
+
+[Fim do índice.] 
+
+SECÇÃO UM - NOTÍCIAS. 
+
+A OPORTUNIDADE BATEU À PORTA DO VISUGATE. 
+VisuGate (http://www.nlbuk.org/common/Visugate.html), um portal nascente na área da deficiência visual, recebeu 190,000 Libras inglesas do Fundo de Novas Oportunidades da Lotaria Nacional dando-lhe a oportunidade de entrar já em grande no próximo verão nas auto-estradas da informação. 
+
+O projecto está a ser executado pelo consórcio de 20 fortes organizações, liderado pela National Library for the Blind (Biblioteca Nacional dos Cegos), incluindo também o departamento de investigação em Bibliotecas do RNIB; a Action for Blind People (Acção para as pessoas cegas); The British Journal of Visual Impairment (O Jornal Britânico da Deficiência Visual); o International Centre for Eye Health (Centro Internacional para a Saúde dos Olhos); o departamento de Educação da Universidade de Birmingham e a BT Soundings. 
+
+De acordo com o gestor do projecto, David Egan, o recrutamento já está a decorrer e a fase de desenvolvimento activo começará brevemente até ao final de Agosto deste ano. Os testes estão agendados para a próxima primavera, deixando alguns meses para fazer os ajustamentos finais antes do seu lançamento no verão. 
+
+PEDIDO DE PARCEIROS PARA TODOS OS IDIOMAS. 
+Dando seguimento ao nosso apelo de parceria para tradução, o Boletim E-Access deu início a uma parceria de colaboração com uma rede Europeia e Mundial de institutos da cegueira, grupos e associações para produzir a sua newsletter em diversos idiomas.  
+
+O nosso primeiro parceiro, já anteriormente noticiado (ver Boletim E-Access, Abril 2001), é o Instituto Cavazza com sede em Bolonha.
+Informações sobre a nossa versão italiana pode ser encontrada em: 
+http://www.cavazza.it/eab e para subscrever a versão Italiana use o e-endereço: eab-it-subs@headstar.com 
+
+Subsequentemente ficámos em condições de lançar a versão Portuguesa e Espanhola. A edição Portuguesa está a ser produzida em associação com o GESTA (http://www.gesta.org), um subgrupo da Associação dos Cegos e Amblíopes de Portugal (ACAPO), com o suporte da Escola de Cães-Guias Portuguesa. O projecto está a ser coordenado por Jorge Fernandes, técnico em acessibilidade à Web do governo Português. 
+
+O GESTA tem membros não só em Portugal, mas também no Brasil e nos países de língua oficial Portuguesa espalhados pelo Mundo. O boletim em língua Portuguesa e o respectivo arquivo pode ser encontrado em: http://www.gesta.org/eaccess/eaccess.htm e para subscrever a versão Portuguesa use o e-endereço: eab-pt-subs@headstar.com  
+
+A nossa versão Espanhola é produzida por um grupo Argentino "Rede de Integração Especial", com a ajuda da Organização Nacional de Cegos Espanhóis (ONCE) que encontra em http://www.once.es. O projecto é liderado na Argentina por Graciela Caplan, professora de filosofia e literatura na Universidade de Buenos Aires, e o nosso consultor da parte da ONCE é Pedro Zurita Fanjul, ex-Secretário Geral da União Mundial de Cegos. Um arquivo pode ser encontrado em:
+http://www.redespecialweb.org/eaccess.htm e para subscrever a versão espanhola use o e-endereço: 
+eab-es-subs@headstar.com 
+
+Estamos imensamente gratos a todos os nossos parceiros de tradução, e ficaremos muito felizes se recebermos pedidos de outros potenciais colaboradores que estejam disponíveis para produzir versões noutros idiomas. São precisos parceiros para traduzir ou cobrir os custos de tradução do boletim de cerca de uma semana de forma a mantermos a periodicidade mensal, e para manter uma página Web simples com detalhes sobre a versão do Boletim nesse idioma e um arquivo. Qualquer interessado deverá contactar o editor Dan Jellinek em dan@headstar.com 
+
+LEI ANTI-DISCRIMINAÇÃO DO REINO UNIDO PODE ESTENDER-SE À NET. 
+A legislação Inglesa pode ajudar na negociação da discriminação contra as pessoas com deficiência com os desenhadores de sítios Web, de acordo com um documento publicado este mês no Jornal da Informação, Lei e Tecnologia da Escola de Direito da Universidade de Warwick.  
+
+O seu autor, Martin Sloan, argumenta que as directivas de acessibilidade emanadas pelo Disability Discrimination Act de 1995 pode ser estendido aos serviços disponíveis na Internet. "A ser de outra forma parecerá anómalo ao diferenciar entre o cliente que opta visitar o agente de viagens e outro que deseja usar o seu serviço de reservas on-line." disse Sloan. 
+
+Ele fundamentou o seu caso referenciando importantes marcos legais dos Estados Unidos e da Austrália. 'Acessibilidade à Web e o DDA' pode ser encontrado em: http://elj.warwick.ac.uk/jilt/01-2/sloan.html 
+
+MARGARET BENNETT DEIXA A NLB 
+Margaret Bennett deixou o seu lugar de chefe executiva da National Library for the Blind (Biblioteca Nacional de Cegos de Inglaterra) este mês para ocupar o lugar de coordenadora da Divisão de Aprendizagem ao longo da vida e Tecnologia do Departamento de Educação e Recursos em Sheffield. 
+
+Bennett ocupava o lugar de topo da NLB desde 1996, onde implementou um conjunto de projectos inovadores planeados para criar uma biblioteca flexível combinando múltiplos formatos incluindo braille, caracteres ampliados, texto digital e serviços Web, sempre de acordo com as necessidades de todo o tipo de utilizadores com deficiência visual. Antes de ter chegado à instituição, foi professora de contabilidade e trabalhou na West Midlands Arts, na North West Arts e na Nottingham Community Housing Association. 
+
+No seu novo posto ela vai trabalhar em iniciativas como as da Universidade da Indústria (http://www.ufiltd.co.uk), centros de aprendizagem on-line Ingleses e projectos relacionados com o acesso à tecnologia e ensino on-line.  
+
+Entretanto a vice-chefe executiva da NLB, Helen Brazier, está agora interinamente a exercer funções de chefe executiva até ao recrutamento de um substituto de confiança da organização. 
+
+GRANDES EMPRESAS FALHAM NA ACESSIBILIDADE À WEB. 
+Todas, com excepção de apenas seis das 100 maiores empresas do Reino Unido, falharam nas soluções preconizadas para os seus sítios Web em termos de desenho acessível, de acordo com a análise da "Aspect Internet". 
+
+A porta-voz da "Aspect", Sarah Gooding, não quis revelar a lista completa dos resultados, dizendo: "Nós não queremos nomear nomes ou fazer exercícios vexatórios." Mas Gooding disse que dirá ás firmas mencionadas no estudo o seu resultado caso estas entrem em contacto com a "Aspect": (http://www.aspectgroup.co.uk). 
+
+A companhia revelou, no entanto, o nome das seis empresas que obtiveram um resultado positivo superior a 85%: Tesco, Alliance & Leicester, Lloyds TSB, Amvescap, Royal Bank of Scotland e Vodafone. 
+
+MÁGICO 'REMÉDIO' PARA A SECÇÃO 508. 
+Foi encontrada uma imaginativa solução para o caos causado pela "Secção 508", a legislação Norte Americana para a aquisição de tecnologias por parte dos organismos estatais que entrou em vigor em 21 de Junho e que obriga o uso das directivas de acessibilidade na Web: a "Bola Mágica 508". 
+
+O sólido de 12 faces feito em cartão foi uma ideia de Jim Tobias, presidente da empresa do sector da acessibilidade Inclusive Technologies. As diversas faces contém as normas da secção 508, "do 1194.21 na Sub parte B até ao 1194.41 na Sub parte D". 
+
+Apesar do seu "aspecto banal com que trata a legislação", Tobias diz que ele dá uma boa perspectiva para todos aqueles que estão obrigados a lidar com a complexidade da legislação. Até agora já 180 pessoas foram levadas a encomeninflamávelo e enflamável dodecaedro, apesar de ainda não existir nenhuma versão acessível em braille.  
+
+Para mais informações sobre a confusão que envolve a Secção 508 veja o Boletim E-Access de Janeiro e Junho. Para saber mais sobre a Bola Mágica 508 visite: http://www.inclusive.com/info_tech/magic_508_ball.htm 
+
+Notícias Breves: 
+
+## ACEDER A TODAS AS ÁREAS: No mês passado anunciámos o lançamento do JustVanilla, um sítio Web a partir do qual os utilizadores podem navegar na Internet usando as suas próprias configurações de visualização. Ao navegar indirectamente através deste sítio os utilizadores deficientes visuais já não precisam de se cansar a efectuar configurações particulares nas máquinas. Veja: 
+http://www.justvanilla.com 
+
+## TELEFONES TEXTO, A ÚLTIMA PALAVRA: Um guia de como comprar um telefone de texto foi colocado na Internet pela Ricability, a organização de estudos de mercado do consumidor com deficiência. Ver no link "Communication" (Comunicações) em http://www.ricability.org.uk/reports.asp 
+
+## TECHSHARERS PRECISAM-SE: Techshare 2001, uma conferência patrocinada pelo RNIB, sobre educação, trabalho, sociedade digital e tecnologia que decorrerá nos dias 27 e 28 de Novembro em Birmingham, abriu a inscrição para quem queira fazer apresentações dos seus trabalhos em 45 minutos. Use o e-Endereço techshare@rnib.org.uk ou preencha o formulário em http://www.techshare.org.uk 
+
+## SEMINÁRIO SÃO PAULO: Um seminário em língua Portuguesa intitulado 'Acessibilidade, Tecnologia da Informação e Inclusão Digital' irá decorrer 28 e 29 de Agosto em São Paulo, Brasil: http://www.fsp.usp.br/acessibilidade 
+
+[Fim da secção Um.] 
+
+SECÇÃO DOIS: RESPOSTAS A UM APELO  
+
+- SENSIBILIDADE À LUZ SOLAR.
+Encandeamento: um incómodo muito sério. 
+No seguimento de um apelo feito no mês passado por um leitor do E-Access solicitando informações sobre dispositivos que pudessem ajudar a sua filha, que tem baixa visão e sofre de sensibilidade à luz solar, recebemos um grande número de respostas muito úteis de leitores, incluindo ligações a um número significativo de fontes de informação na Web, o que agradecemos a todos.  
+
+Chris Mcmillan, membro da Lista de Discussão Americana de Nistagmo , escreve-nos para dizer o seguinte: "se a criança tem acromatopsia (cegueira total à cor) existe um grupo de auto-ajuda mesmo à sua porta na Califórnia. Frances Futterman é a senhora que o criou, e uma das coisas que ela fez foi compilar uma vasta lista de tipos de óculos de sol com "cobertura em toda a volta". O sítio Web da Rede de Acromatopsia encontra-se em: http://www.achromat.org/" 
+
+Ele sugere ainda os óculos de sol Eschenbach que estão equipados com o sistema de controlo de brilho Corning (detalhes <http://www.eschenbach.com/> e veja também abaixo os comentários de Jen Hensil), e afirma que lojas como a Toys"R"us e a Walmart também vendem óculos de sol indicados para crianças.  
+
+No entanto, Jen Hensil afirma: "eu não recomendaria as lentes Corning para as crianças. As Corning são de vidro, correndo por isso o risco de se partirem. A opção mais sensata para as crianças com muita sensibilidade à luz seria o protector solar NoIR da NoIR Medical Technologies. Estes são produzidos numa maior variedade de tons e cores do que os da Corning, são bastante mais baratos e mais seguros uma vez que são de plástico." 
+
+"Eu também recomendaria uma consulta a um médico especializado em baixa visão, de forma a avaliar a extensão do encandeamento à luz." 
+
+Outro membro da lista Americana de Nistagmo concorda: "os protectores solares da NoIR são seguros e bastante robustos, estando disponíveis diversos tipos de sombras de lentes, podendo escolher os que melhor se adequam à sua criança. Quanto mais confortáveis se sentirem com as cores e com a sombra produzida pela lente mais eles estarão dispostos a usá-los. [Os do meu filho] são grandes com uma lente de sombra com cobertura a toda a volta, o que significa que a sombra produzida é contínua de ambos os lados e que as hastes da armação não lhe perturbam a visão lateral."  
+
+A nossa leitora, Jane Fleming, afirma: "Eu tenho afecção dos cones, o que em parte explica o facto de ter que fechar muito os olhos quando estou presente da luz solar. Dos óculos de sol prescritos, os de protecção do tipo "cobertura em toda a volta" são os melhores. Durante um evento comprei um par de óculos da neve - os que são utilizados para cortar o efeito de cegueira da neve. São simples, baratos e disponíveis em qualquer lado."  
+
+"No meu computador também mudei a cor de fundo dos documentos do Word para cores escuras e navego na Internet com fundo cinzento e gráficos de cor brilhante. Uso ainda para a Internet uns óculos de sol e possuo um monitor anti-reflexo." 
+
+David Porter escreve-nos com uma refrescante sugestão não-tecnológica. "Provavelmente já experimentaram, mas para o caso, ficaria maravilhado se um vulgar chapéu com pala pudesse ajudar. Eu vejo melhor na claridade da luz solar quando tenho alguma sombra - não necessariamente provocada por óculos de sol. " 
+
+John Sanders, vice-presidente da Rede Nistagmo do Reino Unido, diz que a filha do nosso leitor deverá ter nistagmo. "Não existe cura para o nistagmo, mas existem uma série de coisas que poderão ajudar. Por exemplo, a filha dele poderá beneficiar do uso de óculos de sol com "cobertura a toda a volta" bem como de um chapéu de basebol. Ela poderá também necessitar de uns óculos para correcção da miopia, da qual deve padecer - idealmente, caso ela necessite de óculos, deveria ter-lhe sido já prescrito uns, mas sabemos que isso nem sempre acontece e em alguns casos existem mesmo erros de prescrição."  
+
+A Rede Nistagmo tem um sítio Web em: 
+http://www.btinternet.com/~lynest/nystag01.htm 
+
+Sue Allard escreve-nos para dizer que tem uma retinite pigmentar e sofre bastante com problemas de encandeamento. "Todos os óculos de sol, sejam eles quais forem, bloqueiam bastante a luz solar, diminuindo-me muito a visão. Não sei o que é pior; o encandeamento ou a cura!" 
+
+"Finalmente encontrei umas lentes que me ajudam. Foram testadas e recomendadas pela British Retinitis Pigmentosas Society (Socieade Britânica de Retinite Pigmentar)." (<http://www.brps.demon.co.uk>). São lentes bloqueadoras do azul, que, como o nome indica, bloqueiam apenas o azul, ou seja os comprimentos de onda que causam problemas. 
+Para mais informação escreva para Ian Pyzer em Media-view eyepyzer@aol.com  
+
+O encandeamento parece ser um grande problema em muitas doenças de olhos. Julgo, da minha experiência de Gloucestershire Count Associatiation for the Blind (Associação de Cegos de Gloucestershire County) que muitas pessoas normovisuais não compreendem nem se apercebem a utilidade que um resíduo visual, mesmo baixo, tem para um deficiente visual se os problemas de encandeamento forem resolvidos.  
+
+"Já trabalhei com pessoas na produção de avisos, e foi muito difícil fazê-las compreender que uma superfície branca brilhante com caracteres pretos não é correcta! Gostaria de ouvir as opiniões de outras pessoas com problemas de encandeamento, para saber de que modo isto os afecta, e como o resolvem!" As respostas a este novo apelo são bem-vindas e podem ser enviadas ao editor deste boletim Dan Jellinek dan@headstar.com. 
+
+[Fim da secção Dois]  
+
+SECÇÃO TRÊS: RESPOSTA DO LEITOR. 
+
+ACESSO UNIVERSAL 
+No artigo do boletim do mês passado "O sector comercial tem de ser conduzido no sentido da construção acessível", Kevin Carey argumentou que seria preferível para os principais construtores de software desenvolverem configurações de acessibilidade nos seus produtos em vez das pessoas terem que contar com o nicho do mercado dos fornecedores de acessibilidades. 
+
+Com toda a sua força, Carey disse, o mercado especializado em acessibilidade é frágil e desmoronado e definitivamente o investimento e a segurança são mais importantes do que o improviso e o entusiasmo. Concluiu dizendo que se a lei actual de incapacidades era inadequada para forçar os fornecedores a fabricarem os seus produtos acessíveis então a lei deveria ser completamente alterada. 
+
+Pelo menos um leitor, Matt King, pediu para diferir: publicamos em baixo, a sua resposta. Se alguém quiser continuar o debate, é favor enviar um e-mail ao editor Dan Jellinek dan@headstar.com . 
+
+A CHAVE É A COOPERAÇÃO 
+Por Matt King mattking@us.ibm.com 
+
+Em primeiro lugar, eu não consigo imaginar que qualquer um dos exemplos práticos no artigo de Kevin Carey - o fracasso em adicionar uma linha Braille a um pacote que produzia síntese de voz e o fracasso em tornar acessível um novo computador portátil num novo sistema operativo incompatível com o antigo software acessível - ficariam melhor servidos no futuro que ele sugere. 
+
+Saberá ele como é que empresas com a dimensão da Microsoft trabalham? Quando foi a última vez que se conseguiu obter êxito com uma configuração do "nicho" de um produto MS (ou um produto de um outro qualquer construtor de software para computadores) tendo em conta a rapidez e um melhor preço do que se consegue com a GW Micro ou a Freedom Scientific? 
+
+Segundo, será que ele se apercebe como é que as grandes empresas respondem a soluções legisladas? É de lembrar que em relação ao ambiente que ele está a sugerir os grandes construtores de software não terão quaisquer receitas, em toda a corrente, que estejam dependentes da qualidade da solução de acesso construída nos seus produtos. 
+
+Com uma dificuldade excruciante, poderá ser desenvolvida no Reino Unido ou em qualquer outra parte, legislação local para garantir um nível mínimo de qualidade. Além de sair caro fazer pressão, manter a legislação em curso será quase impossível. Isso seguramente abrandaria o progresso em relação ao verdadeiro desenho universal mais avançado.  
+
+Terceiro, os utilizadores normovisuais têm uma maneira diferente para ler uma linha, palavra ou carácter em cada pacote de software? Imagine-se ter que aprender como fazer estas coisas para cada diferente comerciante de produtos. Não se pense que ainda se teria consistência entre os produtos oferecidos pela mesma empresa. Ou ele está a sugerir que legislação de 100,000 páginas fique obsoleta em poucos anos cada vez que mínimos detalhes forem surgindo para cada operação de acessibilidade e a maneira como deveria ser implementada? 
+
+Finalmente, se estamos a fazer este pedido para uma deficiência, não deveríamos também fazer para todas? Qual a definição para todas? Onde é que se pára? A que pequena parte do nicho se chega para forçar as empresas a nos servir? Paramos nas condições específicas para incapacidades experimentadas por x % da população ou menos? Então quanto seria "x"? 
+
+Eu encorajaria qualquer pessoa a pensar na forma em como poderíamos influenciar o mercado e a tecnologia a trabalhar a nosso favor. Por exemplo, existe uma enorme falha na normalização da indústria de acessibilidades. Em vez de se trabalhar com organismos legislativos incoerentes e relativamente ineficazes em todo o mundo, que tal concentrar essa mesma energia no desenvolvimento da normalização para a compatibilidade e comunicações entre as tecnologias de apoio e o software comum?  
+
+Existem excelentes fóruns para se fazer isso nos vários organismos uniformizados das Tecnologias da Informação (TI) e da indústria electrónica. Penso que a indústria de TI está preparada e disposta a cooperar.  
+
+* Esta resposta é do leitor Matt King, advogado do departamento do utilizador final de acessibilidades (Accessibility End User) da IBM Business Transformation. Os pontos de vista expressos são pessoais e não necessariamente os da IBM. 
+
+[Fim da secção Três] 
+
+SECÇÃO QUATRO: PERFIL.
+- VERSOS VIRTUAIS. 
+
+CHARLES BENNETT: retrato dum artista on-line. 
+Por Tamara Fletcher (tamara@headstar.com) 
+
+"Como o pensamento, as mensagens viajam através de impulsos eléctricos. Um de nós pensa e tudo se ilumina com as nossas palavras. Tenho 47 anos, sou casado e não queria contar a minha história da forma usual. Eu nasci". 
+
+Assim escreveu Charles Bennett numa biografia poética escrita no seu apontamento para a NATIONAL LIBRARY FOR THE BLIND, deste mês, como o quinto escritor virtual residente da organização. 
+
+Depois de Matther Sweeney, Susan Everest, Jean Sprackland e Syed Manzurul Islam terem ocupado esta posição, será ele o residente no sítio Web da biblioteca (http://www.nlbuk.org), tomando parte no programa interactivo "Read On" (Leia), para cegos amantes de livros. O projecto é financiado pela Lotaria Nacional. 
+
+Bennett é um apaixonado por todas as coisas criativas, especialmente pela poesia, o que deve ao seu professor de Inglês. A escola não foi de forma alguma uma experiência agradável, a qual ele suportou bravamente. "Era como um raio de luz numa floresta escura - suponho que deveria ter 14 anos, mas pensar: "continuarás a descobrir a poesia ao longo de toda a tua vida." conta ele. 
+
+Tendo deixado a escola com a idade de 16 anos, trabalhou na indústria durante 14, antes de se matricular na universidade para estudar drama e teatro. Depois de se licenciar, enveredou pelo ensino do Inglês. 
+
+Desistiu da sua carreira de professor, porque queria concentrar-se na poesia e tornou-se num "leitor residente" em Blackpool, com a missão de fomentar o interesse pela leitura naquela área. Ele desenvolveu diversos projectos incluindo o "Blackpool Beach Library" (Biblioteca da praia de Blackpool). 
+
+"Eu transportava a mais pequena biblioteca ambulante do mundo; transportava os livros num carrinho de mão, subindo e descendo Blackpool, recolhendo e entregando os livros nas espreguiçadeiras." Conta Bennett. 
+
+Em Janeiro de 2000, foi designado promotor para o desenvolvimento da literatura no concelho do condado de Staffordshire, onde trabalhou com os bibliotecários e o público no sentido de promover a literatura. Um dos projectos em que participou centrava-se na leitura ao vivo de poesia em imobiliárias e as próprias imobiliárias deveriam escrever a sua própria poesia como parte dos "lugares da poesia". O Projecto foi suportado pela Sociedade da poesia.  
+
+Bennett interessou-se pela possibilidade de utilizar os computadores no seu trabalho, quando visitou o Smith College nos Estados Unidos no longínquo Outono de 1986. Ele encontrou aquilo que ele descreve como um "verdadeiro achado electrónico". Lá os estudantes ensinaram-no a passar os seus trabalhos do papel para o ecrã. 
+
+"Para um poeta, um dos benefícios em usar um computador, é o facto de se poder manipular o texto escrito mais facilmente. É benéfico para os amblíopes ou para os cegos, na medida em que podem ter acesso a muita informação sem terem de sair de casa." 
+
+Como poeta virtual residente na NLB o seu papel será "estimular o interesse pela poesia, pela literatura e pela vida", e estimular o interesse pela criatividade individual , bem como pela poesia contemporânea. 
+
+As exigências do seu papel estão ainda a ser definidas, mas é certo que ele será responsável por escolher um livro todos os meses e entrará em diálogo com os leitores via Web, bem como disponibilizará no site ficheiros de áudio com leituras suas para descarregar. 
+
+Ele irá também encorajar a escrita de poesia por parte dos visitantes. 
+
+"Eu fico feliz por falar de bananas e de grão-de-bico, cricket ou poesia; entrar num debate; ou dar uma visão do mundo ou das capacidades extra-sensoriais. Os amblíopes e os cegos têm uma maneira especial de interagir; de uma forma quase extra-sensorial. Penso que incapacidade é uma palavra errada; trata-se mais de uma capacidade extra." Diz ele. 
+
+Uma das maiores desvantagens para as pessoas cegas, segundo ele, "é não poderem aceder aos textos actuais, uma vez que não os podem ler tão prontamente. Suponho que os deficientes visuais estão em vantagem por serem mais sensíveis à cadência e variação da voz. Ver, poderá ser um ruído visual que perturba a concentração." 
+
+Como organizador do Festival de poesia de Ledbury (http://www.poetry-festival.com), ele disse que gostaria também de pensar em desenvolver no evento do próximo ano, num projecto visando uma poesia acessível aos cegos. 
+
+O festival deste ano acabou de ter lugar e Bennett está a recuperar de algo como uma "ressaca de poesia". Assim, a residência virtual será o recomeço. Os leitores do Boletim E-Access estão desde já convidados a visitar a sua página da Web em http://www.nlbuk.org.readon/wir/current.html e ajudá-lo a recuperar-se. 
+
+[Fim da Secção Quatro] 
+
+COMO RECEBER ESTE BOLETIM.
+
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com> Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos para assinar!
+
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com
+
+Copyright 2001 Headstar Ltd. http://www.headstar.com O Boletim no seu todo ou em parte pode ser reproduzido incluindo este aviso. As Secções do relatório devem ser colocadas entre aspas de forma a ficar claro a sua fonte: 'retirado do Boletim E-Access, uma newsletter mensal distribuída por email', e ainda a referência do nosso endereço do sítio Web http://www.e-accessibility.com.
+
+PESSOAL:
+Director - Dan Jellinek dan@headstar.com
+Vice-director - Phil Cain phil@headstar.com
+Redactor - Tamara Fletcher tamara@headstar.com
+Conselheiro Editorial - Kevin Carey humanity@atlas.co.uk 
+
+[fim da edição.]

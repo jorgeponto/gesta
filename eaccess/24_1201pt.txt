@@ -1,0 +1,318 @@
+Boletim E-Access
+Boletim electrónico on-line de notícias sobre tecnologia para pessoas com deficiência visual.
+Endereço do Boletim E-Access: 
+<http://www.e-accessibility.com>
+
+Patrocinado pelo Royal National Institute for the Blind:
+<http://www.rnib.org.uk>
+o National Library for the Blind (Biblioteca Nacional para os cegos):
+<http://www.nlbuk.org>
+e a Guide Dogs for the Bliind Association (Associação de Cães-Guia para cegos):
+<http://www.guidedogs.org.uk>
+
+Versão Portuguesa: cortesia do GESTA-MP (Grupo de Estudos Sociais, Tiflológicos e Associativos)
+<http://www.gesta.org> 
+
+Divulgue, por favor, este boletim pelos seus amigos e colegas, e diga-lhes que o podem subscrever em Português, bastando para tal enviar uma mensagem para o endereço electrónico: <mailto:eab-pt-subs@headstar.com>. Veja os pormenores na parte final deste boletim.
+
+Quantos mais subscritores tivermos, melhor será o nosso serviço!
+
+NOTA: Para facilitar a navegação a todos aqueles que utilizam leitores de ecrã, todos os cabeçalhos agora iniciam-se com um asterisco e terminam com um ponto final. Diga-nos, por favor, se existe mais alguma coisa que possamos fazer de forma a facilitar a consulta do boletim.
+
+[início DO BOLETIM]
+
+* BOLETIM 24. DEZEMBRO DE 2001
+* ÍNDICE. 
+
+Notícias: 
+
+Indústria de Telemóveis promove grupo em acessibilidade
+- primeira reunião em Janeiro. 
+
+Financiamento para centro de ensino on-line
+- NLB recebe 120,000 libras de subsídio. 
+
+Suporte prometido para os utilizadores da Lernout & Hauspie
+- MediaGold prometeu fazê-lo antes da falência. 
+
+CAST rompe com o seu modelo gratuito
+- utilizadores precisam de pagar para verificar a acessibilidade. 
+
+Serviço Book 'Forager' (Livro Procura-se) lançado
+- um sítio Web para ajudar as pessoas a navegar. 
+
+De volta ao básico
+- Cassetes sobre acessibilidade ao Windows. 
+
+Notícias breves: Operador de comboios ganha prémio; Workshop de Cambridge; Testes a um navegador com código fonte disponível. 
+
+Secção dois: 'A Receber' fórum dos leitores
+- procurou-se resultados nos leitores de ecrã; conflito das placas de som; indexação de documentos. 
+
+Secção três: Software livre
+- Linux: O dia do GNU. 
+
+Secção Quatro: Educação
+- Em fase de desenvolvimento inicial: Caixas de jogos interactivas. 
+
+Secção cinco: Panorama
+- Jogos acessíveis: Jogos sem fronteiras. 
+
+[Fim do índice.] 
+
+* Secção um: Notícias. 
+
+* INDÚSTRIA DE TELEMÓVEIS PROMOVE GRUPO EM ACESSIBILIDADE. 
+
+O primeiro grupo de trabalho em acessibilidade da indústria de telemóveis irá realizar a sua reunião inaugural em Janeiro, apurou o Boletim E-Access. 
+
+O grupo é coordenado pela Vodafone, sendo os seus membros fundadores todos os operadores de telemóveis com presença no mercado do Reino Unido, de seu nome BT Cellnet, One2One, Orange e Vodafone. Posteriormente operadores de redes móveis de outros países serão convidados a juntarem-se ao grupo, bem como fabricantes de equipamentos móveis, de forma a criar uma organização global. 
+
+Mike Duxbury, director do departamento "acesso e deficiência" da Vodafone, o qual foi o obreiro do projecto, disse que o grupo irá ter uma acção concertada mas realista sobre "o que é que temos que fazer, e não apenas, o que é que as pessoas querem que façamos" ao nível da acessibilidade por parte das pessoas com deficiência à rede de telemóveis e aos respectivos equipamentos. 
+
+Este tom de realismo foi reforçado por Nancy Valley, directora de mercados especiais e produtos acessíveis do fabricante de equipamento móveis Motorola, aquando da sua apresentação na conferência RNIB Techshare no passado mês. 
+
+"A Motorola está longe de conseguir atingir o patamar onde possa garantir que todos os seus produtos serão acessíveis a todos," disse Valley. "Não podemos colocar tudo num só produto, e continuar a oferecê-lo a um preço que as pessoas possam suportar. Por isso teremos que ter uma gama mais vasta de produtos." 
+
+As características de acessibilidade introduzidas já em alguns equipamentos incluem: "notas por voz", através das quais o utilizador pode gravar alguns memorandos ou instruções; ampliação de caracteres; activação de números a partir da voz, embora algumas destas características estejam apenas disponíveis nos Estados Unidos. "Está para vir" o controlo total dos menus a partir da voz, disse, embora só possa prometer esta característica para daqui a "um par de anos". 
+
+Duxbury disse que a Vodafone está também a trabalhar nos serviços de transcrição texto em voz, incluindo as mensagens de texto SMS, mas também não foi capaz de dar uma data concreta para lançamento do sistema. Disse que para oferecer SMS para voz, aspectos de compatibilidade terão que ser primeiro resolvidos entre os quatro operadores da rede móvel do Reino Unido. 
+
+* FINANCIAMENTO PARA CENTRO DE ENSINO ON-LINE. 
+
+A National Library for the Blind - Biblioteca Nacional de Cegos - (http://www.nlbuk.org) recebeu 120,000 libras de subsídio do PPP Healthcare Medical Trust (http://www.ppptrust.org), para criar um novo centro de recursos para o ensino on-line de pessoas cegas e amblíopes. 
+
+VILC - the Visual Impairment Learning Centre (Centro de ensino de Deficientes Visuais) - irá criar e coordenar os recursos educativos com base na Web, trabalhando em conjunto com o RNIB, o portal educativo Digital Brain (Cérebro Digital) (http://www.digitalbrain.com) e o VICTAR, o Visual Impairment Centre for Teaching and Research - Centro de ensino e pesquisa para deficientes visuais - da Universidade de Birmingham (http://www.education.bham.ac.uk/research/victar). 
+
+A fase piloto do projecto irá decorrer de Maio até ao Verão de 2002 e a primeira fase de pesquisa até meados de 2003. 
+
+VILC é um dos projectos que resultaram inesperadamente do trabalho da NLB relacionado com a programação de uma porta de acesso única à Web com recursos para a deficiência visual, de seu nome 'Visugate'. O segundo projecto inesperado, o Visual Impairment Library of 
+
+Research - Biblioteca de Recursos em Deficiência Visual - (VILOR), foi anunciada no mês passado como o primeiro ponto de acesso para qualquer pessoa interessada na investigação na área da deficiência visual. O projecto terá como objectivo construir um "mapa" da investigação o qual será personalizável aos campos de interesse do utilizador. 
+
+O Visugate por sua vez está configurado para ser testado na próxima Primavera e está programado para ser lançado em Setembro. O portal irá inicialmente comportar breves descrições e ligações para cerca de 1,500 documentos devidamente controlados on-line do ponto de vista da sua qualidade e investigações levadas a efeito por projectos de 21 parceiros incluindo a 
+
+RNIB's Research Library - Biblioteca de Investigação do RNIB; Action for Blind People - Acção para pessoas cegas; The British Journal of Visual Impairment - Jornal Inglês da Deficiência Visual; e o International Centre for Eye Health - Centro Internacional para a Saúde do Olho. 
+
+Para mais informações veja http://www.nlbuk.org/common/Visugate.html 
+
+NOTA: O projecto irá eventualmente operar a partir de sítio Web acessível localizado em: http://www.visugate.org mas ele ainda não está no ar. 
+
+* SUPORTE PROMETIDO AOS UTILIZADORES DA LERNOUT & HAUSPIE. 
+
+Os utilizadores de software de síntese de voz e línguas desenvolvidas pela, agora, falida gigante belga da área da tecnologia, Lernout & Hauspie, irão poder continuar a receber suporte aos produtos, de acordo com a Scansoft (http://www.scansoft.com), a empresa americana que comprou os seus activos levados a leilão no passado mês. 
+
+A empresa de software de digitalização disse ao Boletim E-Access esta semana que o serviço de suporte irá ser levado a cabo pela empresa de desenvolvimento de negócios MediaGold (http://www.mediagold.com) de acordo com um protocolo negociado antes da compra do software. 
+
+O futuro dos produtos é mais incerto, com o director de marketing para a Europa da Scansoft,  Mark Erwich, incapaz de dizer se vai haver a descontinuação de um ou mais produtos. Outro representante da Scansoft disse: "Actualmente, não existem planos em curso para integrar a respectiva tecnologia. No entanto, nós iremos continuar a olhar para as possibilidades de fusão ou acoplamento dos produtos." 
+
+Os três maiores produtos de acesso adquiridos pela Scansoft são os softwares de reconhecimento de voz Dragon Naturally Speaking e o Voice Xpress, e o sintetizador de voz Realspeak. Os produtos de digitalização e leitura Kurzweil que também pertenciam à Lernout & Hauspie não fazem parte do pacote adquirido pela Scansoft, os quais foram adquiridos em meados de Novembro pelos directores que actualmente formaram a Kurzweil Educational Systems (http://www.kurzweiledu.com). Entre os directores está o detentor da marca da tecnologia de acesso, Ray Kurzweil. 
+
+Lernout & Hauspie, em tempos considerada a mais reconhecida empresa da tecnologia de ponta Europeia, foi declarada falida em Novembro de 2000 por um tribunal Belga, depois de ter sido descoberto irregularidades nas suas contas nas suas operações com a Korea. Em Maio deste ano os fundadores da companhia, Jo Lernout e Pol Hauspie foram presos na sequência de uma investigação relativa a fraude e manipulação de preços. 
+
+* CAST ROMPE COM O SEU MODELO GRATUITO. 
+
+CAST, uma organização sem fins lucrativos americana que promove tecnologias para todos, começou a cobrar pelos downloads do seu novo verificador da acessibilidade de páginas Web, com o nome Bobby Worldwide. 
+
+As versões anteriores do internacionalmente conhecido sistema Bobby, desenvolvido com donativos vindos das maiores empresas e disponível para download gratuito a partir do sítio Web da CAST (http://www.cast.org), onde permanece gratuitamente para verificar só uma página de cada vez. 
+
+O Bobby Worldwide custa 99 dólares para um utilizador, ou 3,000 dólares para um servidor, com um desconto de 2,000 dólares para 10 ou mais servidores. 
+
+As empresas que desejarem explicitamente se associarem à campanha do Bobby através de literatura promocional também o podem fazer, a um preço de: 5,000 dólares para um pacote de patrocinador 'Booster' (de valia) ou 10,000 para um pacote de 'Booster Premium' ("valia de excelência"). 
+
+"O retorno das vendas do Bobby Worldwide irão ser canalizados para desenvolvimento, infra-estrutura, administrativo, e custos de suporte," de acordo com sítio Web da CAST. A principal novidade do Bobby Worldwide relativamente às edições anteriores é que está preparado para testar as regras da "Secção 508", legislação americana que se aplica aos sítios governamentais nos Estados Unidos relativamente à acessibilidade para todos. 
+
+* SERVIÇO BOOK 'FORAGER' (Livro Procura-se) LANÇADO. 
+
+Um serviço on-line para pessoas cegas e amblíopes simulando o processo de navegação pelos livros de uma biblioteca foi lançado pela National Library for the Blind (Biblioteca Nacional para Cegos). 
+
+O "NLB Book Forager" é uma versão acessível de um sistema desenvolvido pela Applied Psychology Research (http://www.youmeus.com) a pedido da 'Branching Out' (http://www.branching-out.net), um projecto levado a efeito pela Society of Chief Librarians in England and Wales. 
+
+A NLB disse que o projecto é invulgar pois representa uma das poucas ocasiões em que uma tecnologia é posta à disposição em simultâneo para pessoas cegas e normovisuais, e em que a acessibilidade esteve presente desde o início. 
+
+Uma série de menus de janela, permitem ao utilizador especificar o nível do livro pretendido de entre 11 diferentes qualificações possíveis, que vão desde sexo e violência até ao mais optimista e realista cenário possível. Podem também especificar a idade, o sexo e a orientação sexual. 
+
+Até hoje, o programa "Forager" apenas comporta 1,000 trabalhos de ficção publicados desde 1998, os quais estão todos disponíveis em Braille grau II a partir da NLB. Depois de um conjunto de características seleccionadas o programa fornece uma lista de títulos apropriados, e os utilizadores podem pedi-los por correio electrónico. 
+
+Para as pessoas deficientes visuais, escolher livros no passado significava muitas vezes a necessidade de ler as sinopses, e a necessidade de falar com outras pessoas que nos poderiam levar a escolhas mais conservadoras. O novo sistema tem por objectivo modificar isto, apesar dos seus criadores admitirem que ele funciona bem melhor se forem introduzidas opções extremas, e nem sempre funciona bem quando se introduzem demasiadas características conjuntamente. 
+
+* DE VOLTA AO BÁSICO. 
+
+O escritor de programas tutoriais de acessibilidade, John Wilson, produziu um guia em cassete sobre os fundamentos da computação em base Windows, 'VIPs introduction to computers' (DVs Introdução aos computadores). 
+
+As duas cassetes áudio, que custam 12 libras incluindo os portes, foram desenhadas para oferecer a informação necessária a todos aqueles que são novos relativamente ao conhecimento de um computador ou apenas relativamente ao Windows por forma a ajudá-los na decisão de comprar ou não comprar um novo sistema de computador. 
+
+Um terço das três horas do guia são dedicadas à introdução de diferentes tipos de computadores e periféricos, em particular aos teclados. Outro terço das três horas são dedicadas às utilidades chave do Windows usando uma variedade de leitores de ecrã. Para saber mais telefone ao Wilson através do número +44 (0)113 257 5957 ou através do email jwjw@onetel.net.uk 
+
+* NOTÍCIAS BREVES: 
+
+* TRANSPORTE DE DELEITAR: O sítio Web da Translink, o maior fornecedor de serviços de transporte de autocarro e comboio do Norte da Irlanda, ganhou um dos quatro prémios do "Breaking Barriers" no dia Europeu da pessoa com deficiência a 3 de Dezembro. Para além do sítio Web ser acessível, ele fornece informação sobre as características de acessibilidade dos seus autocarros, das estações de comboio e das funcionalidades disponíveis em cada paragem: http://www.translink.co.uk 
+
+* CWUAAT'S THIS (CWE É ISTO): Acesso a programas de computador e periféricos acessíveis serão alguns dos tópicos em discussão na 'CWUAAT', um workshop sobre acesso universal e tecnologias de apoio que ocorrerá em Março do próximo ano em Trinity Hall, Cambridge: http://rehab-www.eng.cam.ac.uk/cwuaat 
+
+* MOZILLA UNLEASHED: As versões teste do Mozilla, o programa fonte que está na origem do navegador Netscape, está a ser oferecido numa base diária, ou melhor todas as noites, para quem esteja interessado em efectuar os testes de acessibilidade. Aos verificadores está a ser pedido para se concentrarem na navegação via teclado e no sistema Active Accessibility, o padrão da Microsoft que permite aos programas comunicar com as ajudas técnicas. Para mais sobre o Mozilla veja: http://www.mozilla.org 
+
+E para efectuar o download da última versão teste visite: http://ftp.mozilla.org/pub/mozilla/nightly/latest/mozilla-win32-installer.exe 
+
+[Fim da secção um.] 
+
+* SECÇÃO DOIS - "A RECEBER"
+- FÓRUM DOS LEITORES
+- Por favor envie todas as contribuições ou respostas para inbox@headstar.com 
+
+* Utilização de software: Andy Berry, um profissional da reabilitação do Concelho de Lewisham (próximo de Londres), escreve para perguntar se algum leitor do boletim tem experiência na utilização do leitor de ecrã "LookOut" ou do ampliador de ecrã Magnice da Choice Technology (http://www.screenreader.co.uk). [Responda para: inbox@headstar.com] 
+
+* Resolução de conflito: Katy Dymoke de Touchdown Dance enviou uma mensagem dizendo que as respostas ao seu pedido publicado em Outubro, confirmaram que os requisitos colocados num computador para um programa de som que permite ouvir música do CD-ROM, podem entrar em conflito com o software de sintetizador de voz utilizado pelos leitores de ecrã. Dymoke diz que no futuro irá colocar a possibilidade de clarificar tais problemas através da listagem dos requisitos do sistema para acessibilidade completa, no caso do CD-ROM. Tal como Andy Berry (no parágrafo anterior) Dymoke está também interessada em aprender a utilizar o leitor de ecrã LookOut. [Responda para: inbox@headstar.com] 
+
+* Indexação Digital: Em resposta ao pedido do mês passado de Anthony Bernard do Sri Lanka, para ideias na utilização do software que possam servir para indexar livros que digitalizou para CD, o professor Val Lawson responde: "Já pensou em utilizar o Adobe Acrobat? Eu penso que a versão 5 está preparada para leitores de ecrã. " [Para mais ideias, escreva para:  inbox@headstar.com] 
+
+[fim da secção dois] 
+
+* SECÇÃO TRÊS: SOFTWARE DE ACESSO LIVRE
+- LINUX. 
+
+* OS DIAS DO GNU. 
+
+O uso de software de livre distribuição como o Sistema operativo Linux não está muito divulgado entre os deficientes visuais, em parte devido ao facto do desenvolvimento de tecnologias de acessibilidade geralmente se centrar no Microsoft Windows. Mas isto poderá em breve mudar, devido à  crescente acessibilidade, ao baixo preço e à grande flexibilidade   do software gratuito. 
+
+Muitas pessoas comparam o software de distribuição livre ao software aberto (software passível de ser adaptado ou aperfeiçoado), mas nem todo o software de livre distribuição é gratuito, tal qual é definido pela fundação de Richard Sallman para o software de livre distribuição "Free Software Foundation" (http://www.fsf.org). 
+
+Stallman é também o criador do GNU, um sistema operativo de livre distribuição que combinado com um núcleo "kernel" chamado Linux forma o GNU/Linux (geralmente chamado simplesmente Linux). 
+
+A definição de software de livre distribuição "free software" (http://www.gnu.org/philosophy/free-sw.html) apela a um software desenvolvido sob a licença pública geral do GNU (protegido pelo sistema legal vinculativo denominado por "Copyleft" uma espécie de "Anti-copyright), realçando que é muito mais que uma questão de dinheiro: "Free as in freedom" ("Livre como em liberdade") é o mantra preferido. Na verdade, o "free software" pode ser vendido se alguém lhe acrescentar algo que o possa valorizar, como por exemplo, escrever manuais. 
+
+A definição tem quatro princípios básicos: a liberdade para correr o programa, seja qual for o objectivo (freedom 0 - "liberdade 0"); a liberdade de estudar o funcionamento do programa e de o adaptar (freedom 1); liberdade para redistribuir cópias do programa (freedom 2) e a liberdade de melhorar o programa, bem como tornar públicos tais melhoramentos (freedom 3). O acesso aos códigos fonte do software - "open source" - é uma condição prévia para a "freedom 1 e 3”. 
+
+Na recente conferência do RNIB, Techshare 2001, (http://www.rnib.org.uk/techshare) Janina Sajka, directora para a investigação e desenvolvimento de novas tecnologias da American Foundation for the Blind (http://www.afb.org),  disse que a comunidade activa de desenvolvimento de "Free software" conta neste momento com cerca de 300.000 pessoas em todo o mundo. 
+
+"O software de livre distribuição ganhou verdadeiramente o seu espaço, sobretudo a partir do ano passado, inclusive no mundo empresarial - a IBM gasta um milhão de dólares no desenvolvimento do Linux," disse Sajka. "Geralmente trata-se duma qualidade duradoura." 
+
+Uma das formas mais fáceis para um utilizador de leitor de ecrã ficar com uma ideia do que é o GNU/Linux, é um pacote gratuito chamado Speakup(http://www.linux-speakup.org), disse, o qual trabalha com o Linux para ler todos os ecrãs de informação, bem como todas as mensagens.       
+
+Não foi aceite ainda o Speakup como parte integrante do núcleo do Linux. Contudo, existem três versões do Linux que vêm com o Speakup incluído no pacote - Debian (http://www.debian.org), Red em (http://www.redhat.com) e a  Slackware (http://www.slackware.com). 
+
+"Através do Speakup, um cego ou um surdocego utilizando o TTY Braille pode - pela primeira vez - instalar e configurar o sistema operativo do computador a partir do zero." afirmou Sajka. 
+
+Uma vez instalado o Linux, existem três softwares disponíveis que permitem ao utilizador executar todo um leque de tarefas disponibilizadas para quem trabalha no Windows - afirmou ela. O conteúdo é primeiramente digitado numa linha dum editor de texto e em seguida, é formatado como um documento dum processador de texto ou como página Web ou qualquer outro formato; é um sistema que aumenta a acessibilidade. 
+
+Existe um software de livre distribuição equivalente ao conjunto de pacotes do Microsoft Office. Trata-se do Openoffice (http://www.openoffice.org), que corre no Gnome (http://www.gnome.org),um dos maiores interfaces gráficos para Linux. Quer o Gnome quer o Openoffice foram desenvolvidos pela Sun Microsystems numa tentativa para acabar com o monopólio da Microsoft no mercado dos PCs. 
+
+Pelo facto de ser um ambiente gráfico - tal como o Windows - para "apontar e clicar", o Gnome não é tão acessível quanto o tipo de "linha de comandos" básica do Linux. Contudo, afirmou Sajka, a Sun reconheceu que teria de torná-lo acessível, quanto mais não seja, pelo facto de estar conforme com a Lei dos Estados Unidos e assim poder concorrer aos contratos federais. 
+
+Em Novembro foi divulgado o projecto "Gnopernicus", liderado pela empresa Alemã Baum (http://www.baum.de), para desenvolver um conjunto de recursos combinando a ampliação de caracteres e a leitura de ecrã para o Gnome (http://developer.gnome.org/projects/gap/AT/Gnopernicus). 
+
+Há outra interface gráfica para o Linux que na Europa é geralmente mais utilizado - é o KDE (http://www.kde.org). Este tem também um projecto de acessibilidade em andamento, contudo, não está tão desenvolvido  quanto o trabalho para o Gnome, afirmou Sajka. 
+
+Para além das aplicações comuns para PC, o Linux também é excelente no campo da Internet e outros programas de comunicação - disse ela - "a AT&T utiliza-o para correr o World's Telephone System (Sistema Mundial de Telefones)." 
+
+A acessibilidade do sistema da linha de comandos do Linux mostra que o Linux é o sistema alternativo para os programadores cegos – afirmou ela - e, existem de facto muitos programadores cegos a trabalhar nesta área. Mas deverão os utilizadores comuns, cegos ou amblíopes, usar o Linux? 
+
+"Por enquanto a resposta é - talvez", disse Sajka. "Todos aqueles que gostavam do DOS irão gostar do Linux - é muito acessível. Pode ouvir um ficheiro áudio ou navegar na Internet através duma linha de comando em formato de texto em vez dum interface gráfico. É também muito estável - é óptimo trabalhar todo o dia no computador, ir e voltar sem ter que reiniciar o computador. Há também uma flexibilidade acrescida - retiramos o que gostamos e deixamos o resto. 
+
+"Eu penso que, se as ajudas técnicas fossem inventadas hoje, visariam apenas o Linux. Isto não aconteceu, porque quando elas começaram a ser desenvolvidas, UNIX (o precursor do Linux) não era de livre distribuição, tornando-se o Windows universalmente utilizado nos negócios." 
+
+É chegado o momento de apoiar o Linux para entrar na comunidade de acessibilidade. 
+
+Brevemente o formato standard de livros digitais "Daisy", será tornado compatível com o Linux e, no próximo ano, pela primeira vez, na Conferência anual sobre as Novas Tecnologias e as pessoas com deficiências, que decorrerá na California State University Northridge, CSUN (http://www.csun.edu/cod/conf2002), haverá um painel sobre acessibilidade no Linux coordenado pela Sun. 
+
+No entanto, a razão realmente determinante para que o software de livre distribuição se possa tornar o futuro para a comunidade da acessibilidade, tem a ver com uma questão de independência - disse ela."  "com o software de livre distribuição, tornar-se-á irrelevante convencer os gigantes da Informática a tornar os seus produtos acessíveis. Nós não necessitamos de advogados; precisamos de engenheiros. 
+
+Nota: para mais informação sobre o Linux e acessibilidade, veja a secção de documentos do site de Saqib Shaikh, que contém o "Linux Softwqare Map" uma magnífica apresentação do software disponível para Linux: http://www.sakibshaikh.com 
+
+Veja ainda, a "Talking Penguin" do programador John Jucker em: http://www.poetsroads.demon.co.uk/sa/talking_computers.html 
+
+[Fim da Secção três]    
+
+* SECÇÃO 4: EDUCAÇÃO
+- EM FASE DE DESENVOLVIMENTO INICIAL 
+
+* O BRINQUEDO INTERACTIVO PARA CRIANÇAS 
+
+Por Tanara Fletchertanara@headstar.com 
+
+Os jogos de computador e os programas educacionais podem ser um excelente meio para as crianças aprenderem a interagir com computadores. No entanto a maioria dos softwares para crianças implicam a visão, por isso as crianças cegas ou ambliopes ficam em desvantagem. 
+
+“O problema é que a maior parte do texto no software para crianças não é realmente texto, mas sim  imagens de letras -  mapas de bits de texto -  e é muito difícil de converter em texto real”, afirma o  criador de software para crianças Ronald Cooper. Para piorar as coisas, mesmo quando o texto não é apresentado como imagem, existe uma carência de softwares de leitura de ecrã destinados a crianças. Para ultrapassar este problema, a firma de Cooper, RJ Cooper & Associates (http://www.rjcooper.com), está a desenvolver  um leitor de ecrã para crianças, “Keyread”. 
+
+O processo de desenvolvimento deste software tem implicado a visita a crianças deficientes  em diferentes partes dos EUA. A motivação de uma destas visitas foi uma parte do software  chamado “Find the Buttons” (Encontra o Botão), que ensina às crianças cegas o conceito de uma interface gráfica de utilizador usando um rato. 
+
+À medida que a criança move o rato  sobre painéis de tamanhos diferentes no ecrã, ouvem-se sons diferentes, que dependem do facto do cursor estar  dentro ou fora do painel. Entrando nos vários painéis  e clicando, ouvem-se  histórias ou jogos. Uma versão do software, que foi desenvolvida  com a colaboração de uma criança de  New Jersey chamada Jimmy, para “download”, pode ser encontrada em http://www.rjcooper.com/find-the-buttons. 
+
+Apesar de pouco habitual, a Cooper’s Products não é a única a dirigir as suas atenções para as necessidades das crianças deficientes visuais. 
+
+Na tentativa de desenvolver capacidades de operação do teclado em crianças cegas, a R-E-L  (http://www.r-e-l.co.uk/specialneeds) produz software de leitura de ecrã  com o conceito de teclado, no qual teclas diferentes produzem sons diferentes quando são premidas. Esta firma também produz  software e equipamento  como teclados acessíveis que são grandes ajudas para crianças em idade pré-escolar  utilizarem computadores. 
+
+A Northern Grid for Learning (http://www.northerngrid.org), consultora das autoridades da educação no norte de Inglaterra, produziu recentemente software de desenvolvimento educacional grátis, no qual o imaginário visual é muito estimulante para crianças pequenas e jovens, no sentido de ajudar os seus pais e os professores em questões de acessibilidade. Denominado “Sensewitcher” (Mago dos Sentidos) o software selecciona combinações de cores contrastantes e formas, gravando as respostas da criança. Através da interacção, ajuda de uma maneira divertida as crianças a aprenderem os conceitos de causa e efeito. 
+
+Recentemente, o World Renowned Massachusetts Institute of Technology (MIT) Media Lab entrou neste campo com um protótipo tecnologicamente sofisticado de um brinquedo  denominado  “Bricket” (http://llk.mediamit.edu/projects/bricket), uma espécie de blocos de construção inteligentes  com sensores, que emitem sons. No centro de cada bloco  existe um pequeno microcomputador que é programável para o qual programas de  computador que utilizam software de leitura de ecrã e uma linguagem   simples de programação podem ser transferidos.  Então o “Bricket” pode controlar e interagir com uma grande variedade de sensores, por exemplo tocar uma canção  quando alguém entra por uma porta. 
+
+O “Bricket” não está especificamente concebido para crianças, apesar  dos cientistas da MIT terem  já compreendido que blocos inteligentes  podem ajudar as crianças deficientes visuais a brincarem, a desenvolverem-se e a aprenderem com Lego optimizado: http://el.www.media.mit.edu/groups/el/progectws/legologo 
+
+O estudante graduado da  MIT, Rahul Bhargava  espera que o “Bricket” se torne  útil como uma ferramenta  de aprendizagem: “a experiência de conceber  aplicações para computadores  tem trazido pequenos desafios  que requerem  bastante estudo para serem ultrapassados. A ideia de computação não deve de maneira nenhuma  estar limitada  ao computador e às interfaces de ecrã. Espero adaptar esta tecnologia  para ajudar os cegos e ambliopes  a terem uma nova maneira de entender o poder da informática”. 
+
+[Fim da secção quatro] 
+
+* SECÇÃO CINCO: PANORAMA
+- JOGO ACESSÍVEL. 
+
+* JOGOS SEM FRONTEIRAS.
+por Saqib Shaikh ss@saqibshaikh.com 
+
+A ideia de utilizar um computador para jogar jogos remonta aos anos oitenta, quando os jogos de aventura eram populares. Porque estes jogos eram baseados em texto, as pessoas cegas podiam jogar, mas como os computadores se foram desenvolvendo as empresas começaram progressivamente a produzir jogos  tendo em conta os aspectos visuais. 
+
+Esta tendência significa que até a alguns anos atrás, os jogos de aventura baseados em texto continuaram a ser quase os únicos jogos que uma pessoa cega podia jogar. Até hoje ainda existe uma pequena, mas activa comunidade de entusiastas de jogos baseados em texto, que arquivam e desenvolvem novas aventuras. Duas destas maiores colecções podem ser encontradas em ftp://ftp.gmd.de/if-archive e http://interactivefiction.about.com 
+
+No final dos anos noventa uma empresa com sede em New Jersey chamada Personal Computer Systems (PCS - http://www.pcsgames.com) começou a alterar a matriz através do lançamento duma série de jogos conduzidos por som - e texto - a funcionar com o sistema operativo DOS. Os jogos variavam entre os jogos de cartas e de mesa e os jogos desportivos e de acção, incluindo um jogo de corrida de carros. 
+
+Nos anos que se seguiram, as pessoas cegas, juntamente com a maioria das outras pessoas, começaram a migrar para o Windows. A PCS encontrou este mercado crescente ao converter os seus jogos para Windows e a gravar ficheiros de som para substituir a informação textual, que anteriormente tinha sido lida por um leitor de ecrã do DOS. 
+
+Estes jogos continuavam relativamente estáticos e crus, comparados com os seus vulgares duplicados, mas passados uns ano ou dois deram-se avanços significativos. 
+
+Esta primeira tentativa em fazer jogos mais excitantes para o Windows foi da responsabilidade da gamesfortheblind.com (http://www.gamesfortheblind.com).  Esta empresa produziu uma variedade de jogos, incluindo jogos de cartas, jogos educativos e uma versão da Batalha Naval. Originalmente os programas eram escritos para trabalhar com o leitor de ecrã JAWS, mas as versões mais recentes também trabalham com o WindowEyes, e a empresa está agora a trabalhar na produção de versões com voz própria que utilizem o software do sintetizador da Eloquence. A gamesfortheblind.com foi também quem produziu o primeiro jogo acessível que pode ser jogado através da Internet (http://gamesfortheblind.com/aig/star.html). Esta é uma versão de Batalha Naval utilizando naves espaciais em vez de navios. Os utilizadores inscrevem-se num servidor de salas de conversa e encontram um adversário para jogar à distância. 
+
+No ano passado o entretenimento por computador foi revolucionado com o lançamento dum jogo do Oeste Selvagem chamado Grizzly Gulch da Bavisoft (http://www.bavisoft.com). Tem voz própria, e utiliza clips com som estéreo para produzir um ambiente real. A missão é prevenir um crime para impressionar o xerife, e depois desta o xerife vai enviar o jogador para missões generosas. 
+
+No decorrer do jogo a principal tarefa é combater os maus, participando nas lutas com pistolas. Ouvem-se os maus a injuriar de diferentes direcções, e tem que se ir girando  para os alvejar. Nalgumas cenas também se ouvirá espectadores assustados a quem se deverá tentar não alvejar. 
+
+Também existe um casino, onde se poderá jogar jogos tais como as slot machines, o Poker, o Blackjack ou o jogo da concha, onde existem três conchas, onde uma delas esconde uma moeda por debaixo. Uma concha que está de fora é trocada repetidamente com a concha do centro, e no fim tem que se adivinhar onde está a moeda. Isto é representado por um som emitido para o lado esquerdo quando a concha da esquerda é trocada e um barulho para o lado direito quando a concha da direita é trocada. Tem que haver uma forte concentração e ir-se seguindo as trocas. 
+
+Uma outra empresa que recentemente entrou na arena dos jogos para cegos é a GMA Games (http://www.gmagames.com), com o Lone Wolf e o Treck 2000. O mote do jogo é a II Guerra Mundial em que se pilota um submarino escutando o som dos motores e dos sensores. Uma agradável e particular característica deste jogo é que à medida que melhor se for jogando missões predefinidas, os jogadores podem criar as suas próprias missões, e algumas das missões definidas pelos jogadores estão incluídas no sítio Web da GMA. O Trek 2000 é baseado no Star Trek, e mais uma vez é complementado com efeitos de som e sinais dos sensores. 
+
+A GMA lançou recentemente no mercado um terceiro jogo que muitos, inclusive eu próprio, acreditam que é o melhor jogo acessível lançado até à data - Shades of Doom, uma versão áudio do popular jogo Doom (para uma descrição completa deste jogo veja "Guerra Biológica", secção cinco, Boletim E-Access de Novembro 2001). 
+
+Uma outra empresa a produzir jogos para cegos é a ESP Softworks (http://www.espsoftworks.com). Esta lançou recentemente o seu primeiro jogo, o ESP Pinball. Este jogo baseia-se no clássico jogo de mesa de "flippers", tendo cada nível um novo tema, tal como o Pacman ou o futebol. Enquanto se joga ouve-se a bola a rolar da esquerda para a direita. São utilizados diferentes efeitos de som para simbolizar diferentes acontecimentos. Por exemplo, na mesa do Pacman existem diferentes sons para informar que a comida apareceu ou está a ser devorada, ou para indicar a posição dos fantasmas. 
+
+Para se empurrar a bola para cima dá-se uma tacada numa espécie de remos com pá larga. De vez em quando a bola parará de rolar - possivelmente quando for de encontro a uma espécie de "pára-choques" - e então começará a ser feita uma verificação. Ouvir-se-á um "beeping" enquanto o quadro é verificado num ângulo igual a uma volta do relógio da posição das 9h às 3h. Durante a verificação ouvir-se-ão sons por cada objecto encontrado, que se transformam em pontos que dão direito a atirar novamente a bola. No entanto, é preciso tomar cautela, pois se um fantasma estiver escondido atrás de algo este não será apanhado durante a verificação. 
+
+A ESP tem também uma demonstração do seu segundo jogo no sítio Web, que está para sair brevemente, chama-se "Monkey Business", um jogo de estilo arcada. Os planos, para um dispositivo de poder de movimento através da mente, foram roubados do patrão por macacos disfarçados e controlados pelo malvado Dr. Wobble. Em cada nível tem que se apanhar todos os macacos e recuperar as páginas do documento do plano, com a assistência dum leitor coordenado e dum detector de objectos. 
+
+Finalmente, existem mais duas empresas que entraram na cena dos jogos para cegos. A empresa de software educativo - MindsEye2 (http://www.mindseye2.com) lançou um puzzle áudio de palavras cruzadas para crianças. A Zform, a outra empresa (http://www.zform.com), é uma organização sem fins lucrativos que tem por objectivo produzir jogos que possam ser desfrutados tanto por jogadores cegos como por normovisuais. 
+
+Com o tão esperado lançamento do segundo título da Bavisoft, também esperado no início do Ano Novo - desta vez baseado numa aldeia assombrada - e um jogo de corrida de carros vinda da ESP, parece que os jogos de computador para cegos "atingirão finalmente a maioridade". 
+
+[fim da secção cinco] 
+
+COMO RECEBER ESTE BOLETIM. 
+
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com> Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos para assinar! 
+
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para: <eab-pt-unsubs@headstar.com>. 
+
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com  
+
+Copyright 2001 Headstar Ltd. http://www.headstar.com O Boletim no seu todo ou em parte pode ser reproduzido incluindo este aviso. As Secções do relatório devem ser colocadas entre aspas de forma a ficar claro a sua fonte: 'retirado do Boletim E-Access, uma newsletter mensal distribuída por email', e ainda a referência do nosso endereço do sítio Web http://www.e-accessibility.com (versão inglesa) e http://www.gesta.org/eaccess/eaccess.htm (versão portuguesa). 
+
+-**- 
+
+Nota à edição Portuguesa: Caso os leitores portugueses estejam interessados em enviar os seus comentários e sugestões, bem como enviar alguns artigos que abordem as questões de acessibilidade à Sociedade da Informação podem remetê-los, em Inglês ou Português, para o seu editor Dan Jellinek através do e-endereço: dan@headstar.com, ou mesmo para gesta@gesta.org 
+
+-**- 
+
+PESSOAL:
+Director - Dan Jellinek dan@headstar.com
+Vice-director - Phil Cain phil@headstar.com
+Redactor - Tamara Fletcher tamara@headstar.com
+Conselheiro Editorial - Kevin Carey humanity@atlas.co.uk
+
+
+[fim da edição.]

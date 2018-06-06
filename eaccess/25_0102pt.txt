@@ -1,0 +1,280 @@
+* Boletim E-Access
+
+Boletim electrónico on-line de notícias sobre tecnologia para pessoas com deficiência visual.
+Endereço do Boletim E-Access: 
+<http://www.e-accessibility.com>
+
+Patrocinado pelo Royal National Institute for the Blind:
+<http://www.rnib.org.uk>
+o National Library for the Blind (Biblioteca Nacional para os cegos):
+<http://www.nlbuk.org>
+e a Guide Dogs for the Blind Association (Associação de Cães-Guia para cegos):
+<http://www.guidedogs.org.uk>
+
+Versão portuguesa: cortesia do GESTA-MP (Grupo de Estudos Sociais, Tiflológicos e Associativos)
+<http://www.gesta.org>
+
+Divulgue, por favor, este boletim pelos seus amigos e colegas, e diga-lhes que o podem subscrever em Português, bastando para tal enviar uma mensagem para o endereço electrónico: <mailto:eab-pt-subs@headstar.com>. Veja os pormenores na parte final deste boletim.
+Quanto mais subscritores tivermos, melhor será o nosso serviço!
+
+NOTA: Para facilitar a navegação a todos aqueles que utilizam leitores de ecrã, todos os cabeçalhos agora iniciam-se com um asterisco e terminam com um ponto final. Diga-nos, por favor, se existe mais alguma coisa que possamos fazer de forma a facilitar a consulta do boletim. 
+
+[início DO BOLETIM]
+
+* BOLETIM 25, JANEIRO 2002.
+
+* ÍNDICE.
+
+Notícias:
+
+Sítios Web das autarquias locais são "um saco de miscelâneas"
+- relatório anual dos sítios Web camarários do Reino Unido.
+
+Indústria de telemóveis conduz-se a si própria
+- empresas trocam ideias sobre boas práticas.
+
+Filme clássico capturado em palavras
+- 'Ocean's Eleven' estreia em meados de Fevereiro.
+
+Pedido para rever Tratado Europeu
+- para encorajar a filosofia do desenho para todos.
+
+Sítio Governamental actualizado, finalmente
+- relançado o disability.gov.uk.
+
+Notícias breves: Carta da deficiência na Irlanda; ensino do teclado; monitorar a acessibilidade.
+
+Secção dois: 'A receber'
+- Correspondência dos Leitores. 
+
+Secção três: Em foco. Matemáticas: Por detrás do lápis e do papel.
+- Digitalizar o processo de se fazer matemática está a revelar-se surpreendentemente difícil, mas os computadores estão a facilitar a interacção entre os matemáticos cegos e os seus colegas normovisuais.
+
+Secção quatro: Relatório de Conferência. Desenho para todos: Motivando o desenho universal. 
+- Activistas europeus concordam que é necessário fazer algo para promover o "desenho para todos". Mas não existe consenso sobre qual a melhor forma de o fazer. 
+
+Secção cinco: Jurisprudência. Vaivém da legislação de acesso próximo do fim.
+- Martin Sloan examina de que forma a combinação da envolvente da legislação do Reino Unido e da normalização internacional se ajustam e de que forma aquela se pode tornar uma solução para os problemas de acessibilidade à Web. 
+
+[Fim do índice.]
+
+* SECÇÃO UM - NOTÍCIAS.
+
+* SÍTIOS DAS AUTARQUIAS LOCAIS 'UM SACO DE MISCELÂNEAS'.
+
+Este ano o relatório anual dos sítios Web das autarquias locais do Reino Unido, será publicado em Março pela Society for IT Management (Sociedade Gestora das TI), e irá incluir considerandos relativos a 30 sites camarários relativamente à acessibilidade à Web por parte das pessoas com deficiência.
+
+Os 30 sítios camarários foram escolhidos dum lote considerado dos mais bem desenvolvidos e dos que mais facilitam o processo de transacção, permitindo por exemplo o pagamento de impostos, reservar livros na biblioteca ou interagir com outros serviços públicos directamente através da Web. 
+
+Para além disso, conforme constatou o boletim E-Access, os sítios camarários são um saco de miscelâneas. 
+Os problemas encontrados incluem a não existência de etiquetas nos gráficos; bugigangas visuais; links gráficos; inconsistência geral de desenho e sistema de navegação; uso de frames; o uso de animações "flash" sem alternativas; problemas com a cor do texto e do fundo.
+
+Mas muitos mostram uma boa adesão à acessibilidade incluindo texto bem definido e de dimensão adequada; informações úteis sobre a forma de se navegar no sítio; páginas dedicadas à acessibilidade e convite ao envio de sugestões sobre as matérias de acessibilidade. De todo em todo, o relatório conclui que os sítios Web camarários estão no topo dos sites comerciais no que diz respeito à acessibilidade. 
+
+A avaliação da acessibilidade foi levada a cabo pela SOCITM da organização social AbilityNet (http://www.abilitynet.co.uk). Para mais informações e para reservar um exemplar do relatório 'Better connected 2002 - a snapshot of 
+council web sites' (Melhor conexão 2002 - fotografia dos sítios Web camarários), envie um email a Martin Greenwood através de socitmInsightUK@cs.com
+
+* INDÚSTRIA DE TELEMÓVEIS CONDUZ-SE A SI PRÓPRIA.
+
+As empresas de telefones móveis do RU concordaram em colaborar na elaboração de uma lista de boas práticas que as ajude a tornar os seus serviços mais acessíveis, mas, segundo constatou o boletim E-Access, não irão recolher input de grupos externos. 
+
+A decisão de desenvolver normas foi tomada a semana passada na reunião inaugural de um novo grupo de acessibilidade da indústria de telemóveis, do qual fazem parte as operadoras da rede móvel do RU: Vodafone, BT Cellnet, One2One e Orange (veja também Boletim E-Access, Dezembro 2001).
+
+De acordo com o presidente do grupo, Mike Duxbury da Vodafone, o documento irá "fornecer uma panorâmica de onde estamos, e onde estaremos [no futuro]". 
+
+A próxima fase do processo irá ter lugar numa reunião prevista para Abril, em que serão convidados fabricantes de equipamentos móveis e fornecedores de outros mercados que não o do Reino Unido. No entanto, os contributos de grupos de pressão de consumidores ou do regulador governamental das telecomunicações OFTEL não serão levadas em conta. 
+
+De acordo com a Duxbury a presença de grupos de pressão neste tipo de reuniões pode ser contraproducente. E diz que a OFTEL não tem visão do que vai acontecer, e que o seu papel se limita a regular com base nas "tecnologias de ontem". 
+
+* FILME CLÁSSICO CAPTURADO EM PALAVRAS.
+
+'Ocean's Eleven', um dos filmes clássicos de Gangster dos anos 60 está a ser reposto pela Warner Brothers, preparando-se para ser o terceiro filme com áudio descrição a ser lançado em 11 salas de cinema do RU por meados de Fevereiro. 
+
+O filme é o último em 6 meses de testes de uma tecnologia digital chamada de Cinema Subtitling System (Sistema de legendagem Cinematográfica) de autoria da DTS sedeada nos Estados Unidos(http://www.dtsonline.com ) a qual permite aos cinemas adicionar uma pista extra de som a um filme, que neste caso contem descrições da acção posicionadas entre os diálogos para pessoas cegas e amblíopes. O mesmo sistema pode ser utilizado para sobrepor legendagem para benefício das audiências constituídas por pessoas surdas e para pessoas de língua estrangeira. 
+
+Uma versão contendo áudio descrição do filme de fantasia de Harry Potter foi lançado em Dezembro e Rat Race, uma comédia de estrelas da estrada, será lançada na próxima semana. David Mann, um dos colaboradores do RNIB que tem alguns resíduos visuais, disse depois de ter assistido a uma sessão de Harry Potter em Belfast: "Não penso que Harry Potter seja o meu género, mas acho que ele foi brilhante."
+
+Para saber mais sobre as exibições que se aproximam ligue para a equipa de Rede difusão do RNIB através do número 020 7391 2398.
+
+* PEDIDO PARA REVER TRATADO EUROPEU.
+
+O Tratado Europeu, o documento estratégico da União Europeia, necessita de ser modificado para encorajar a filosofia do "desenho para todos" nos produtos e serviços, incluindo os que são fornecidos pela Internet, disse um líder, membro do Parlamento Europeu.
+
+De acordo com Richard Howitt, membro do parlamento europeu (MEP) para o Este de Inglaterra e presidente do Grupo All-Party Disability dos MEPs 
+(http://www.richardhowitt.labour.co.uk), a declaração 22 do artigo 95 do Tratado de Amesterdão, a versão mais recente do Tratado da Europa, precisa de se transformar num artigo por si só. 
+
+Esta modificação significa que o serviço civil da Comissão Europeia seja obrigada a assegurar que "as instituições da Comunidade deverão ter em conta as necessidades das pessoas com deficiência" mais que simplesmente clamem para o fazer, como sucede com a actual legislação. Crucialmente, a necessidade de fazer cumprir esta consideração fará com que a mesma se alargue aos standards para produtos e serviços feitos a nível Europeu. 
+
+O pedido de Howitt foi feito numa conferência realizada em Bruxelas o mês passado para considerar o que deve ser feito para encorajar os desenhadores a adoptar a filosofia do desenho universal. Para um relatório completo sobre a conferência veja a secção quatro deste boletim. 
+
+* SÍTIO WEB GOVERNAMENTAL ACTUALIZADO, FINALMENTE.
+
+O governo do RU descerrou esta semana uma longa espera pela actualização do seu Web contendo informações sobre deficiência (http://www.disability.gov.uk), o qual foi negligenciado por quase um ano(veja Boletim E-Access, Novembro 2001).
+
+O sítio actualizado é composto por uma introdução à legislação protectora das pessoas deficientes, e links para documentos de consulta e informação sobre campanhas em curso pelo Departamento do Trabalho e Pensões(DWP), o proprietário do sítio. Uma das funcionalidades mais úteis acrescentadas é uma caixa de pesquisa de texto. 
+
+O porta-voz do DWP disse que o sítio continua em desenvolvimento, e que o departamento teve em atenção para o fazer o mais acessível e fácil de usar possível. "As sugestões sobre acessibilidade e conteúdos do sítio são bem-vindas", disse. 
+
+* NOTÍCIAS BREVES:
+
+CARTA DA DEFICIÊNCIA 2001: O governo Irlandês publicou a Carta da Deficiência a qual será ouvida no parlamento no final deste ano. Se passar na sua actual forma irá permitir o estabelecimento de um Centro de Excelência em Desenho Universal o qual irá cobrir os sistemas electrónicos:
+http://www.gov.ie/bills28/bills/2001/6801/default.htm
+
+TECLADO ABCs: John Wilson, escritor e narrador de uma série de cassetes sobre o acesso ao computador por cegos, lançou nova informação sobre uma série de manuais e manuais da colecção "From the keyboard" ("Sobre o teclado"). As cassetes contêm lições passo a passo sobre como utilizar o Windows, editores de som, copiar CD's e usar programas de digitalização e leitura usando apenas o teclado:
+http://web.onetel.net.uk/~fromthekeyboard/ 
+
+AVALIAR SITES: Um serviço de teste à acessibilidade à web foi lançado pela empresa americana de software HiSoftware. O serviço, o qual se iniciou a 50 dólares/mês, testa sítios Web relativos à conformidade com os padrões de acessibilidade americanos e internacionais:
+http://www.accessibilitywatch.com
+
+[Fim da secção um.]
+
+* SECÇÃO DOIS - 'A RECEBER
+- Fórum dos Leitores
+- Por favor envie por e-mail todos os contributos ou respostas para
+inbox@headstar.com
+
+* LookOUT - Em resposta ao pedido feito o mês passado na secção "A Receber" por
+Andy Berry sobre informações a propósito do leitor de ecrã e ampliador de caracteres 'LookOUT', da Choice Technology (http://www.screenreader.co.uk),
+Chris McMillan escreve: "Acabei esta manhã de receber por correio de caracol um pedido de uma amiga que não está na net, por isso vou perceber nas próximas semanas quais as vantagens desse facto, que me chamou a atenção para saber mais pormenores sobre isto. Ela é totalmente caloira, e eu não estou certa se ela tem sequer computador - mas sei que ela quer que a aconselhe de que forma poderá ser isto útil, uma vez que não está para comprar pacotes cheios de campainhas e assobios (apelativos) como seja o caso do JAWS".
+
+A senhora McMillan continua: "Soa como se fosse aquilo que todos estávamos à espera, mas como o vosso correspondente, gostaria de saber o que é que os utilizadores vulgares como eu pensam dele. Estou mais do lado da ampliação por questões de uso pessoal, mas uma versão combinada tem as suas atracções para determinadas tarefas.
+[respostas a inbox@headstar.com]
+
+* ONDAS DE SOM: António Guimarães escreve: "Um dos vossos recentes artigos ['Ondas de som invadem a Europa', Setembro] afirma que
+BeVocal (http://www.bevocal.com), Tellme (http://www.tellme.com),
+HeyAnita (http://www.heyanita.com), e outros portais de voz oferecem acesso
+à web. Penso que isto é enganador. Tenho usado alguns deles, e o Tellme que é aquele com que me sinto mais familiarizado, e que tem diversas funcionalidades tais como notícias, tempo, trânsito, serviços de despertar, mas não consigo navegar na Internet usando estes serviços. 
+
+"Não quero antecipar que nós teremos um dia acesso ilimitado à utilização da Web via telefone. Esqueçam! Como podemos gravar uma marca num livro, navegar pelos links, marcar texto para o enviar para a pasta temporária, gravar uma página Web, ler tabelas e assim sucessivamente? Existe algo chamado de Net pelo Telefone (http://www.net-by-phone.com) o qual é extremamente caro, e que reclama dar acesso fácil à internet através do telefone, mas nunca me vão apanhar a gastar dinheiro em serviços como estes". 
+
+E conclui "Os cegos apenas precisam de treino adequado e então já não
+precisarão de alguém que torne a Internet acessível via telefone".
+[Outros pensamentos a propósito de portais de voz devem ser enviados para inbox@headstar.com].
+
+* ACESSO AO XP: Paul Evans, do Programa de Tecnologias para a Aprendizagem e Emprego do RNIB está a compilar informação acerca do Windows XP e da sua acessibilidade. Os leitores que tenham quaisquer conhecimentos nesta área estão convidados a enviar um e-mail para inbox@headstar.com
+
+[Fim da secção dois.]
+
+SECÇÃO TRÊS: EM FOCO
+- MATEMÁTICAS.
+
+* POR DETRÁS DO LÁPIS E DO PAPEL
+
+por Phil Cain phil@headstar.com
+
+Os matemáticos estão muito orgulhosos pelo facto da sua disciplina ter ganho tanta influência apenas com um lápis, papel e um cesto de papéis. Mas, apesar de estas serem as ferramentas eleitas pela disciplina, os pontos e rabiscos, que são as notas e suportes da matemática, são bastante inacessíveis para os cegos, tanto em papel como num ecrã de computador.
+
+Tal como Alistair Edwards, investigador no "Department of Computer Science" (Departamento de Ciência Computacional) da Universidade de York, disse na última Techshare, a conferência levada a cabo pelo RNIB: "Não há nenhuma razão para que as pessoas cegas não desenvolvam os seus bits cerebrais com a matemática... mas o problema é o manuseio do papel". Para provar isto mesmo, está o grande número de cegos licenciados em matemática - pessoas como Leonhard Euler, Nicholas Saunderson, Lev Pontryagin, Alfred Loewy, Stephen Smale, WG Bickley, Bernard Morin e Joseph Plateau.
+
+No entanto, o sucesso destas pessoas excepcionais, não pode obscurecer os problemas de acesso levantados pela notação matemática, terminologia inexpressiva usada pelos matemáticos, "pouco usual". A solução para este problema não significa que passe a haver um pouco mais de pessoas cegas a tornarem-se matemáticos capazes de provar que "a esfera pode rodar sobre si própria de forma suave", como o fez Smale em 1959, mas que haverá mais pessoas capazes de calcular os totais das suas contas de gás.
+
+A dificuldade fundamental enfrentada aqui é que a leitura da escrita matemática depende da interpretação de posições relativas dum vasto conjunto de símbolos numa perspectiva bidimensional, ao passo que a representação braille, mesmo que computorizado, revela o seu significado por ordenação simples de um número relativamente limitado de símbolos numa única dimensão. Para descrever expressões matemáticas em braille ou para que um leitor de ecrã as interprete é necessário um processo de transcrição e codificação extremamente complexa. 
+
+No caso do Braille, o problema da transcrição levou ao aparecimento de códigos rivais, cada um com o seu grupo de apoiantes. Esta fragmentação significa, que ao contrário dos seus pares normovisuais, as pessoas que escrevem e lêem o código braille matemático não estão a usar uma mesma linguagem. Para ajudar a resolver este problema, existem movimentos no sentido da sua unificação no Reino Unido, onde o código Nemeth, que é já um padrão nos Estados Unidos desde 1952, recolhe já a intenção da maioria dos utilizadores.
+
+Apesar da falta de um padrão internacional, o braille em papel continua a ser o processo mais prático para os alunos manipularem a matemática, da mesma maneira que o lápis e o papel batem os computadores no seio dos matemáticos normovisuais. Isto acontece, porque o braille escrito permite aos matemáticos cegos moverem os seus dedos de uma linha para a outra e organizarem assim os seus raciocínios à semelhança do que acontece com a movimentação dos olhos por parte dos normovisuais. 
+
+Para tomar conhecimento duma tentativa frustrada de produzir um computador alternativo ao antigo Brailler, veja as notas sobre "Acesso às Matemática" de Alistair Edwards:
+http://www-users.cs.york.ac.uk/~alistair/Techshare.rtf
+
+Mas para progredir na matemática, sozinho ou de forma partilhada, o uso do mesmo código braille não é suficiente: para participar de forma integral no discurso matemático, os cegos têm de ter acesso ao trabalho dos seus colegas normovisuais. É aqui que os computadores se têm mostrado muito úteis, pois também estes manipulam a matemática e as suas expressões de forma unidimensional, e a sua inter conectividade proporcionada pela Internet está a levar à padronização da sua escrita. 
+
+Os matemáticos desejam comunicar as expressões matemáticas em texto integral usando correio electrónico o que levou à criação em 1985 da linguagem de notação LaTeX (http://www.latex-project.org) como um padrão de facto, mantido por um grupo de trabalho internacional. 
+
+Embora possa parecer à primeira vista uma solução extremamente útil, o LaTeX não é a solução completa para os cegos, tendo-se mesmo revelado mais pesado e ineficiente, e nada intuitivo na sua forma linear. Para piorar as coisas, não existe uma forma automática de o converter em discurso corrente ou mesmo em código braille padronizado da mesma forma que o converte em símbolos gráficos. Chegou mesmo a provar-se matematicamente que era impossível desenvolver um software capaz de transcrever todas as fórumulas do LaTeX em braille de forma não ambígua. 
+
+Existem programas com algumas limitações para transcrever o LaTeX para Braille, sendo o MegaDots, desenvolvido pela empresa americana Duxbury, um dos mais populares, (http://www.duxburysystems.com).
+
+Foram também desenvolvidas soluções parciais para a transcrição do LaTeX para discurso oral. Uma das mais recentes, dá pelo nome de Audio System for Technical Reading (ASTER) (Sistema Áudio para Leitura Técnica), e foi desenvolvido pelo matemático cego sedeado nos EU, 'TV' Raman. Apesar de não estar livremente disponível pode aceder a uma versão de demonstração na página Web do Raman: http://www.cs.cornell.edu/Info/People/raman/aster/aster-toplevel.html
+
+Finalmente, o organismo que dita os padrões da Web, o "World Wide Web Consortium", está empenhado num programa para criar um padrão para apresentar expressões matemáticas em sítios Web, chamado de MathML (http://www.w3.org/Math). Isto revela-se de extremamente útil para as pessoas com deficiência visual, uma vez que o consórcio afirma no seu último lançamento que: "O MathML 2.0 permite capturar algo sobre o significado que está por detrás das equações mais do que se concentrar inteiramente na forma como elas vão ser formatadas no ecrã." 
+
+O esforço conjunto daqueles que estão interessados no desenvolvimento do MathML vai prosseguir em Junho do corrente ano, em Chicago. Veja: http://www.mathmlconference.org/2002
+
+Nota: O Boletim E-Access iria adorar ficar a saber as opiniões e pontos de vista de alunos, professores ou matemáticos sobre este tópico. Podem enviar os seus comentários para o Email: inbox@headstar.com
+
+[Fim da secção três.]
+
+* SECÇÃO QUATRO: REPORTAGEM DE CONFERÊNCIA
+- DESENHO PARA TODOS.
+
+* MOTIVANDO O DESENHO UNIVERSAL.
+por Phil Caine phil@headstar.com
+
+A Comissão Europeia e o Fórum Europeu da Deficiência, um organismo internacional que congrega as organizações dos países da União Europeia, promoveram recentemente um grupo de trabalho para uma reunião ao mais alto nível, para discutir medidas a tomar com vista a alertar os desenhadores de bens e serviços comuns, incluindo os meios electrónicos, para terem em linha de conta as necessidades das pessoas portadoras de deficiência.
+
+Todos os delegados na reunião estiveram de acordo quanto aos benefícios de uma filosofia de desenho universal, conhecida como desenho para todos ou desenho universal. Entre os benefícios mencionados está o facto de ser importante, quer para as pessoas deficientes, quer para as não-deficientes, bem como o facto de as empresas que o adoptaram terem sido recompensadas com uma maior quota de mercado e aumento de receitas.
+
+Contudo, os delegados também concordaram que a filosofia do desenho para todos até agora não tem conseguido impor-se junto do sector comercial europeu. Jan Steyaert (http://www.steyaert.org/jan), docente na Universidade de Educação Profissional de Fonty, na Holanda, disse que os resultados de um estudo indicam que o desconhecimento, a resistência e a total negligência estão entre as principais razões para o baixo número de empresas que adoptam esta filosofia do desenho universal. Steyaert disse: "Falámos - por exemplo - com a companhia que produz as versões electrónicas dos 21 jornais regionais da Holanda. Eles têm toda a população da Holanda como público-alvo, mas o editor não sabia nada sobre desenho para todos: ele não conhecia o conceito nem a sua necessidade".
+
+Outro problema salientado por Steyaert é a "implementação arbitrária". como o uso inconsistente de pontos salientes nas teclas dos telemóveis ou o uso do preto ou verde no visor dos mesmos. As conclusões de Steyaert foram baseadas num estudo feito para um projecto apoiado pela Comissão Europeia chamado Dissimination Action Suporting Design-for-All (http://www.dasda.org).
+
+Muitos pensam que a legislação é a melhor forma de assegurar a adopção do desenho para todos. Bas Treffers, membro Holandês do Fórum Europeu da Deficiência (FED) disse que a UE deveria lutar pela criação de normas que tornassem o requisito da acessibilidade obrigatório, não como acontece agora, um mero critério opcional. Treffers diz mais concretamente, que todos os projectos financiados pela União Europeia, deveriam estar obrigatoriamente em conformidade com o desenho para todos.
+
+O desenvolvimento nos Estados Unidos foi uma fonte de inspiração para o Lobby pro-legislativo. Muitos citaram o Americans with Disabilities Act (ADA) e a Secção 508 da lei Federal US Rehabilitation Act de 1973 (http://www.section508.gov), como exemplo de quanto as alterações legislativas são uma política de intervenção no sentido da promoção do desenho para todos. Outras medidas regulamentares defendidas na conferência incluem a introdução do desenho para todos de uma forma normalizada nos bens de consumo; um processo que está agora, em vias de ser implementada na Europa. 
+
+O FED está também a apelar à criação de uma Directiva Europeia para a não-discriminação, tornando ilegal a discriminação contra pessoas portadoras de deficiência. "Nós precisamos duma Directiva que inclua sanções contra empresas públicas ou privadas que não a cumpram, dando o direito às ONGs ou às pessoas portadoras de deficiência de apresentar queixa no tribunal contra essas empresas."
+
+Kevin Carey, Director da instituição social para acessibilidade digital HUMANITY está céptico quanto à possibilidade da criação de legislação para forçar a adopção do desenho para todos. De acordo com Carey, a noção de desenho para todos e a crença de que esta tentativa poderá responder, até certo ponto, às necessidades da pessoa portadora de deficiência são exageradas. "Não importa o quanto os desenhadores são bons, como pessoa cega, ninguém poderá dar-me a oportunidade de apreciar a Mona Lisa."
+
+Carey disse mais, "nenhuma destas duas afirmações deverão ser mencionadas por um advogado decente". Devido a esta falta de rigor, Carey disse que estava mais interessado na ideia do deputado do parlamento europeu, Richard Howitt, que propunha a alteração da declaração 22 do artigo 99 do Tratado da Europa em algo mais concreto (veja este assunto nas notícias).
+
+[Fim da secção quatro.] 
+
+* SECÇÃO CINCO: JURISPRUDÊNCIA
+- DISABILITY DISCRIMINATION ACT (DDA) 
+
+* VAIVÉM DA LEGISLAÇÃO DE ACESSO PRÓXIMO DE UM FINAL?
+por Martin Sloan martin.sloan@orange.net
+
+A combinação da lei do Reino Unido, com as directrizes internacionais e outros precedentes internacionais legais ou de tribunais podem finalmente juntar-se para ajudar a assegurar que a Internet seja acessível a todos.
+
+A terceira parte do Disability Discrimination Act (DDA), do Reino Unido de 1995, chegou em força em Outubro de 1999, impondo uma série de obrigações legais aos fornecedores de serviços que incluem:
+
+- Não recusar fornecer ou deliberadamente não fornecer um serviço, que habitualmente se forneça ou que se está preparado para providenciar ao público, a uma pessoa deficiente [secção 19(1)(a)]
+
+- Não fornecer um tipo ou forma inferior do serviço a uma pessoa deficiente [secção 19(1)(c)]
+
+- Fazer razoáveis ajustamentos nas circunstâncias em que o efeito dessa falha que o torna impossível ou excessivamente difícil para a pessoa com deficiência fazer uso de tal serviço [secção 19(1)(b)]
+
+Embora os operadores dos sítios Web não estejam especificamente incluídos na definição de "fornecedor de serviços", um termo deixado deliberadamente vago, é provável que a ela fiquem sujeitos. De facto, parece impossível diferenciar racionalmente entre um serviço fornecido por um retalhista convencional e um com base "on-line".
+
+Como "os serviços de informação" estão especificamente incluídos na secção 19(3)(c), é também discutível que todos os sítios Web estejam sujeitos, devido à Internet ser isso mesmo - um serviço de informação extremamente amplo e variado. Quer sejam horários de comboios, avisos sobre os impostos ou um sítio Web promocional da última campanha de publicidade, estas são todas fontes de informação.
+
+A primeira obrigação legal imposta pelo DDA - "não recusar fornecer ou deliberadamente não fornecer um serviço" - poderá discutivelmente ser aplicada onde um fornecedor de serviço escolheu deliberadamente não integrar acessibilidade no seu sítio web. Isto pode ocorrer onde um filme em Flash é utilizado sem uma opção de "saltar por cima", impedindo desta maneira que as pessoas utilizem leitores de ecrã para avançarem mais na página. Embora alguns possam argumentar que esta secção é de aplicação limitada, porque é necessário que o fornecedor de serviços tenha algum conhecimento, existe uma obrigação legal para se tirar informações aceitáveis sob o código de prática que acompanha o DDA.
+
+A segunda obrigação legal - o "tipo de serviço" - proíbe os fornecedores de serviços de fornecer um tipo de serviço inferior a uma pessoa deficiente, comparado com aquele que é oferecido às pessoas ditas "normais". Existe um franco argumento que os grandes retalhistas, com loja aberta, oferecem serviços de compras on-line inacessíveis, estando assim a infringir esta regra.
+
+A terceira, e talvez a mais interessante das obrigações legais relevantes, é a dos "ajustamentos razoáveis". A questão de converter um sítio Web inacessível num sítio Web acessível foi um ajustamento bastante razoável para que a Austrália fosse considerada sob legislação semelhante.
+
+No caso de Maguire contra o Comité Organizador dos Jogos Olímpicos de Sidney (SOCOG), a Comissão Australiana dos Direitos Humanos (http://www.hreoc.gov.au) ficou a favor do queixoso, Bruce Maguire, onde o Comité infringiu as suas obrigações legais como fornecedor de serviços ao fornecer um sítio web inacessível (ver o boletim E-Access de Maio 2001). A Comissão rejeitou o argumento que ao introduzir acessibilidade seria um excesso de carga em termos de custos e de mão-de-obra, e favoreceu o argumento das testemunhas peritas, que afirmaram que os custos do assentimento seriam mínimos. A Comissão também fez referência ao Consórcio das directrizes de acessibilidade, World Wide Web (http://www.w3c.org/wai), tendo sido a primeira vez que estas foram mencionadas em tribunal, como um conjunto de directrizes reconhecidas que devem ser seguidas.
+
+Embora os casos Australianos não sejam vistos como autoridade pelos tribunais do Reino Unido, não há dúvidas que podem ser persuasivos na tomada de decisões quando considerando casos semelhantes. Esta situação surge especialmente em países onde a legislação é semelhante àquela do Reino Unido (como neste caso com a legislação sobre deficiência) e quando surgem questões levantadas pelas novas tecnologias. É portanto aceitável esperar que, quando uma acção for apresentada contra um fornecedor de serviços no Reino unido, os tribunais sigam a precedência começada na SOCOG, e esperar também que os fornecedores de serviços entrem em concordância com as directrizes do W3C ao fornecer um sítio Web acessível.
+
+Assim, os fornecedores de serviços ficariam bem avisados para seguirem os conselhos do código de prática do DDA, que os obriga continuamente a rever as suas obrigações e a ter em conta os "desenvolvimentos tecnológicos [que] poderão providenciar novas ou melhores soluções aos problemas dos serviços inacessíveis" [parágrafo 4.9]. Esta obrigação pode ser lida da seguinte forma: mesmo que um sítio web tenha sido desenhado antes da introdução das directrizes da WAI, estas deverão ser tidas em conta do mesmo modo, visto serem um novo "modelo".
+
+À causa da acessibilidade é provável que seja dado um novo ímpeto por um projecto do código de prática, para acompanhar a parte final do DDA que chegará em força em 2004. Actualmente a situação é esta, antes de ir ao Parlamento, e espera-se que quando for publicado na sua forma final, em Fevereiro, contenha referências mais explícitas no que concerne à acessibilidade à Web. Esta lei não actuará só como um aviso para os fornecedores de serviços, mas possivelmente levará ao crescimento da consciencialização dos direitos entre a comunidade dos incapacitados. Estes factores, combinados, deverão assegurar que, finalmente, seja dada à acessibilidade o reconhecimento que merece. 
+
+Nota: Este artigo é baseado no artigo de Martin Sloan "Acessibilidade à Web e o DDA" que foi publicado no ano passado no "Journal of Information, Law and Technology": http://elj.warwick.ac.uk/jilt/01-2/sloan.html
+
+[Fim da secção cinco.]
+
+COMO RECEBER ESTE BOLETIM.
+
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com> Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos para assinar!
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com
+Copyright 2001 Headstar Ltd. http://www.headstar.com O Boletim no seu todo ou em parte pode ser reproduzido incluindo este aviso. As Secções do relatório devem ser colocadas entre aspas de forma a ficar claro a sua fonte: 'retirado do Boletim E-Access, uma newsletter mensal distribuída por email', e ainda a referência do nosso endereço do sítio Web http://www.e-accessibility.com.
+
+-**-
+Nota à edição Portuguesa: Caso os leitores portugueses estejam interessados em enviar os seus comentários e sugestões, bem como enviar alguns artigos que abordem as questões de acessibilidade à Sociedade da Informação podem remetê-los, em Inglês ou Português, para o seu editor Dan Jellinek através do e-endereço: dan@headstar.com, ou mesmo para gesta@gesta.org 
+-**-
+
+PESSOAL:
+Director - Dan Jellinek dan@headstar.com
+Vice-director - Phil Cain phil@headstar.com
+Redactor - Tamara Fletcher tamara@headstar.com
+Conselheiro Editorial - Kevin Carey humanity@atlas.co.uk 
+
+[Fim da edição.]

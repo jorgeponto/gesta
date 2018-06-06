@@ -1,0 +1,303 @@
+* Boletim E-Access
+
+Boletim electrónico on-line de notícias sobre tecnologia para pessoas com deficiência visual.
+Endereço do Boletim E-Access: 
+<http://www.e-accessibility.com>
+
+Patrocinado pelo Royal National Institute for the Blind:
+<http://www.rnib.org.uk>
+o National Library for the Blind (Biblioteca Nacional para os cegos):
+<http://www.nlbuk.org>
+e a Guide Dogs for the Blind Association (Associação de Cães-Guia para cegos):
+<http://www.guidedogs.org.uk>
+
+Versão portuguesa: cortesia do GESTA-MP (Grupo de Estudos Sociais, Tiflológicos e Associativos)
+<http://www.gesta.org>
+
+Divulgue, por favor, este boletim pelos seus amigos e colegas, e diga-lhes que o podem subscrever em Português, bastando para tal enviar uma mensagem para o endereço electrónico: <mailto:eab-pt-subs@headstar.com>. Veja os pormenores na parte final deste boletim.
+Quanto mais subscritores tivermos, melhor será o nosso serviço!
+
+NOTA: Para facilitar a navegação a todos aqueles que utilizam leitores de ecrã, todos os cabeçalhos agora iniciam-se com um asterisco e terminam com um ponto final. Diga-nos, por favor, se existe mais alguma coisa que possamos fazer de forma a facilitar a consulta do boletim. 
+
+[início DO BOLETIM]
+
+* BOLETIM 27, MARÇO 2002.
+
+* ÍNDICE.
+
+Notícias:
+- 'Talking Link' ("Link Falante") portal define lançamento para Setembro.
+- Macromedia permite que as animações sejam legendadas.
+- 'Dolphinaccess' enfrenta problemas no seu serviço de Internet.
+- Governo recua nas excepções aos direitos de autor para deficientes visuais.
+- Código implica que a Lei da Deficiência do RU se aplique à web.
+- Iniciativa dos Meta dados revê normas de acesso.
+
+Notícias breves: O seu a seu dono; Sítio Web das Olimpiadas de Atenas; Novo leitor de ecrã baratinho.
+
+Secção dois - 'A Receber'
+- Fórum dos Leitores
+
+Secção três: Em foco. Música: Apanhando as notas.
+- Muitos deficientes visuais têm vocação musical, mas o seu progresso na área é por vezes coarctado pela pesada notação braille. Derek Parkinson investiga algumas alternativas tecnológicas.
+
+Secção quatro: Teste de estrada de Produto. Leitores de E-book (livros electrónicos): Louvores para o Victor?
+- Com o alargamento da adopção dos e-books disponíveis ao virar da esquina, Saqib Shaikh testa três tecnologias de leitura actuais.
+
+Secção cinco: Comunicações. Regulação: Um acto de difícil execução para o super omnipresente regulador. 
+O governo está a gerar os fundamentos para um único super regulador dos media e das telecomunicações, de seu nome Ofcom, mas a recente experiência Norte Americana demonstra que as dificuldades estão longe de terminar por aí. Derek Parkinson relata.
+
+[Fim do índice.]
+
+
+* SECÇÃO UM - NOTÍCIAS.
+
+
+* "TALKING LINK" (Link Falante) DEFINE A DATA DO SEU TRIPLO LANÇAMENTO.
+
+O projecto "Talking link" (Link falante), financiado pelo RNIB, definiu o mês de Setembro como a data para lançar os seus três maiores componentes: um índice de pesquisa para sítios Web acessíveis; um fornecedor de serviços de Internet acessível; e um novo método de enviar e receber som através da Internet.
+
+Não se tendo mostrado surpreendido, Chris Knowles, director executivo da empresa Five Links, sedeada em Chorley, e que se encontra por detrás do projecto, disse que a sua equipa está a trabalhar dentro dos prazos programados e que tudo estará operacional a horas. 
+
+Uma vez concluído, o sítio Web "Talking Link" (http://www.talkinglink.com ) irá conter um directório de sítios Web que satisfazem os principais padrões internacional de acessibilidade. Knowles disse que está muito esperançado que o sítio possa vir a ser um dos galardoados com o prémio de acessibilidade do RNIB: 'See it right'.
+
+O sítio irá oferecer aos novatos a possibilidade de efectuarem "downloads" gratuitos de pacotes básicos de leitores de ecrã e ampliadores de caracteres. Knowles disse que estes são suficientemente fáceis para se aprenderem em minutos.
+
+"Five Links" também desenvolveu um algoritmo de compressão que permite que ficheiros áudio sejam tocados em tempo real através de vulgares modems, e está a usar isto como a parte mais importante de um novo sistema de distribuição de áudio. 
+
+Como terceiro projecto, a "Talking Link" irá arrancar com um serviço de fornecimento de Internet, e prepara-se para assinar um protocolo com uma empresa de cabo, a Telewest, para fornecer conteúdos acessíveis através das "set-top boxes".
+
+O RNIB já providenciou apoio financeiro e prático ao projecto. 
+
+A empresa recebeu também apoio do Departamento do Trabalho e Pensões, do Departamento de Comércio e Indústria e do Gabinete governamental e-Envoy, e têm a esperança de vir a receber fundos da parte de pequenas empresas a partir do Prémio de Mérito para a Investigação e Tecnologia (http://www.smartwise.org.uk).
+
+
+* NOTÍCIAS FLASH.
+
+Os desenhadores Web que usam a tecnologia "Flash", da Macromedia, para desenhar gráficos Web animados podem agora adicionar legendas em texto, permitindo assim aos utilizadores deficientes visuais, pela primeira vez, aceder a animações através de leitores de ecrã.
+
+A empresa de Silicon Valley lançou o Flash MX (http://www.macromedia.com/software/flash), uma nova versão do software no qual os desenhadores podem adicionar descrições de texto às animações. A última versão do "plug-in" para o navegador Web, de seu nome "Flash Player 6", que permite às pessoas ver as animações neste formato, também suporta agora os leitores de ecrã utilizados pelas pessoas deficientes visuais. 
+
+"Isto vai fazer com que surjam mais sites acessíveis a pessoas deficientes porque até agora só havia possibilidade de os tornar acessíveis através de versões paralelas. Até agora titínhamosites em Flash ou em HTML," disse Matthew Carey, um desenhador da agência de desenho Text Matters (http://www.textmatters.com). Por detrás da nova funcionalidade de legendagem de animações encontram-se ferramentas que permitem dividir as animações em sequências separadas. A animação flúi sequencialmente quando tocada, mas pela primeira vez dá ao utilizador a possibilidade de navegar através do pressionar do botão "retroceder" do navegador, característica essencial para a acessibilidade.
+
+GW Micro tornou-se o primeiro fabricante de leitores de ecrã a responder a estes desenvolvimentos, tendo lançado um pacote de actualização do seu produto "Window Eyes" o qual é totalmente compatível com as novas ferramentas do Flash.
+
+* DOLPHIN ENFRENTA PROBLEMAS DE ACESSO.
+
+A Dolphin Computer Access, a qual disponibiliza um serviço de fornecimento de Internet dedicado às pessoas deficientes visuais com o nome dolphinaccess.net, dirigiu esta semana uma mensagem à atenção do Boletim E-Access para explicar algumas anomalias no seu serviço que têm provocado insatisfação por parte de alguns leitores deste boletim.
+
+A empresa Affinity Internet Holdings, ISP parceiro da empresa Dolphin Computer Access, disse ter já sido contactada e que está a tratar do assunto. Affinity foi dizendo que irá disponibilizar novas portas já no final de Março e que o seu pessoal do HelpDesk vai aumentar.
+
+"Isto significa que vamos poder ver novos desenvolvimentos já nas próximas semanas," conclui a nota da Dolphin. Quando contactada pelo boletim E-Access, a Affinity disse que os problemas de conexão foram causados por "anomalias do software de rede" e será ultrapassado ainda esta semana. 
+
+A Dolphin não está a pensar compensar os seus clientes de Internet pelos problemas por que passaram pelo serviço por mais de seis semanas. Muitos foram os que assinaram o pacote "anytime" (sempre que queiras) com um custo mensal de 14.99 libras, mas que só conseguiram efectuar a conexão durante as horas de expediente, equivalente ao serviço "Worktime" (Há hora do trabalho) que custa 9.99 libras. 
+O gestor de produto da Dolphinaccess.net, Mark Hill, encorajou os clientes descontentes a escreverem-lhe directamente para o correio electrónico mark.hill@dolphinuk.co.uk
+
+Um subscritor zangado com o serviço que tem vindo a ter dificuldades de conexão desde Janeiro disse: "Da perspectiva deles, enquanto empresa, é o que têm que dizer, mas isso não me resolve o facto de eu ter tido comida somente porque fui capaz de ir às compras a partir do trabalho."
+
+* GOVERNO RECUA NAS EXCEPÇÕES AOS DIREITOS DE AUTOR.
+
+O governo do RU, na segunda leitura de hoje, disse que irá apoiar uma proposta de um membro individual para legalizar a produção limitada de versões digitais acessíveis de material sob direitos de autor numa base não lucrativa. A proposta foi trazida ao parlamento pelos deputados independentes, neste caso, mais precisamente pela deputada Trabalhista Rachel Squire.
+
+Se for votada, a proposta dos direitos de autor (Pessoas com Deficiência Visual) irá passar a uma comissão onde irá sofrer as emendas necessárias.
+
+Embora o recuo do governo possa significar uma melhor oportunidade de fazer entrar nos estatutos dos livros este assunto, não existem garantias de sucesso, avisa o director de campanha do RNIB, David Mann. "Continua a ser uma proposta de um membro particular e que será anulada caso outras negociações sejam entretanto desenvolvidas."
+
+Mas se tudo correr bem, as secções da legislação propostas que permitiram a distribuição de cópias digitais únicas pelos indivíduos qualificados pode tornar-se já em Julho força de lei, disse Mann. Isto trará de imediato enormes benefícios, particularmente para os estudantes, disse ele.
+
+* A LEI APERTA NA ACESSIBILIDADE À WEB.
+
+Um novo código de conduta, em fase de rascunho, para o "Disability Discrimination Act" (Acto da Discriminação da Deficiência) do RU sugere que as organizações devem legalmente ser obrigadas a disponibilizar sítios Web acessíveis a pessoas com deficiência. 
+
+O acto por si só não faz referências específicas sobre sítios Web mas o novo código, que é composto por algumas directrizes em secções que devem ser impulsionadas até Outubro de 2004, faz algumas referências aos sítios Web da área do e-comércio. Nele se escreve: "Uma companhia de aviação permite a reserva e marcação de serviços ao público no seu sítio Web. Isto trata-se de uma prestação de serviços e por isso sujeito ao acto."
+
+De acordo com os observadores, não sendo o código uma interpretação infalível do acto os tribunais poderão levá-lo em conta como um guia. Pode por isso ajudar a resolver questões sobre se os sítios Web podem ou não ser sujeitos a determinadas leis que obrigam a que o fornecimento de serviços assegurem que "não exista um entrave que torne impossível ou de difícil usufruto por parte de uma pessoa com deficiência, sem que para isso exista uma justificação plausível".
+
+Para ler o código veja:
+http://www.drc.org.uk/drc/InformationAndLegislation/Page331a.asp 
+
+* NORMALIZAÇÃO SOBRE ACESSO ALCANÇA O ÂMAGO DA META DATA.
+
+O 'núcleo duro de Dublin' da Iniciativa Meta data, fórum internacional que se dedica ao desenvolvimento de padrões de meta dados, criou um grupo de interesse para trabalhar os assuntos da acessibilidade.
+
+O grupo (http://dublincore.org/groups/access) tenciona ser um fórum aberto, congregando participantes de todos os países e sectores, especialmente "aqueles que têm experiência no desenvolvimento e uso de meta dados relacionados com acessibilidade". O grupo criou uma lista de distribuição a partir da qual serão feitas as discussões. Para se associar veja:
+http://www.jiscmail.ac.uk/lists/dc-accessibility.html
+
+O núcleo duro de Dublin, rotulado depois de Dublin, uma vez que o primeiro Workshop realizado pelo grupo, em 1995, foi em Ohio, submeteu recentemente uma proposta à Comissão Europeia para a criação de uma rede de grupos que trabalhem na implementação de padrões de meta dados por toda a Europa. Desde 1995 já foram realizados oito workshops que tiveram lugar na Inglaterra, na Austrália, na Finlândia, na Alemanha, no Canadá e nos Estados Unidos. Fazem parte da iniciativa actualmente 53 membros institucionais.
+
+* Notícias breves:
+
+* O SEU A SEU DONO: Na nossa edição de Fevereiro nós mencionámos incorrectamente que Jim Fruchterman tinha desenvolvido o leitor de ecrã de computador 'JAWS', o qual foi na verdade desenvolvido por Ted Henter, fundador da Henter-Joyce e actualmente consultor sénior da Freedom Scientific. De entre as criações de Fruchterman conta-se também o desenvolvimento do OpenBook, o líder mundial de software de reconhecimento de caracteres e leitura para pessoas com deficiência visual. As nossas desculpas a ambas as partes.
+
+* CONQUISTA OLÍMPICA: O Comité Organizador dos Jogos Olímpicos de Atenas de 2004 informou o Boletim E-Access que o sítio Web oficial dos jogos (http://www.athens.olympic.org ) se encontra conforme com as directrizes de acessibilidade à Web. Estas são óptimas notícias e sempre benvidas e demonstra uma notável evolução desde o sítio Web inacessível das Olimpíadas de Sidney 2000, o que leva a crer uma mudança legal com sucesso (veja o Boletim E-Access 9, 10, 11, 17 e 23).
+
+* LEITOR DE ECRÃ RJ: RJ Cooper e Associados, uma pequena empresa norte americana que se dedica ao sector das tecnologias de apoio, está a desenvolver um leitor de ecrã para PC e Macintosh que irá custar 99 dólares:
+http://www.rjcooper.com 
+
+[Fim da secção um.]
+
+* SECÇÃO DOIS - 'A RECEBER'
+- FÓRUM DOS LEITORES.
+- Envie, por favor, todas as suas respostas e contributos para inbox@headstar.com
+
+* MAIS MATEMÁTICA: Na sequência da nossa peça sobre acesso à matemática em computador, John Gardner, director do Projecto Acesso à Ciência do Departamento de Física, da Universidade Estatal de Oregon, escreveu-nos para nos dar alguns dados adicionais de quem vive este campo do conhecimento por dentro. 
+
+Das investigações do seu departamento, diz-nos: "Nós ainda não terminámos, mas temos métodos através dos quais as pessoas cegas e amblíopes podem actualmente partilhar a informação matemática e científica em formatos electrónicos que ambos podem ler e escrever. Idealmente as pessoas cegas e normovisuais irão brevemente usar formatos Web tais como HTML/MathML".
+
+"Até há muito pouco tempo isto não era muito útil, nem mesmo para as pessoas normovisuais, mas o panorama está a mudar dramaticamente. Estamos a enfrentar de novo a mudança fazendo do MathML possível de ser lido e escrito por parte das pessoas cegas, mas posso mesmo confidenciar-lhes que nós seremos capazes de o fazer dentro dos próximos anos. Nessa altura todas as barreiras desaparecerão".
+
+Gardner e quatro dos seus estudantes irão apresentar um trabalho na Conferência Califórnia sobre acesso - CSUN, que terá já lugar na próxima semana 
+(http://www.csun.edu/cod) o qual irá demonstrar a forma como os estudantes "são capazes de fazer coisas que ninguém já alguma vez tinha sonhado antes". O trabalho encontra-se on-line em:
+http://www.csun.edu/cod/conf2002/proceedings/299.htm
+
+E ainda um outro trabalho sobre a forma de ensinar estudantes com deficiências que os impossibilitam a ter acesso à escrita/leitura impressos a tinta encontra-se em:
+http://dots.physics.orst.edu/~gardner/ScienceEd.html
+
+* INCURSÃO EDUCACIONAL: Juan Carlos Benito, um professor do ensino especial em Santander, Espanha, diz: "Penso que este seja o fórum apropriado para partilhar as preocupações e procurar soluções para um dos meus alunos que tem paralisia cerebral. O Bruno tem 18 anos e encontra-se agora no quarto ano do secundário. Nasceu com paralisia cerebral e por isso tem que usar constantemente uma cadeira de rodas. Não pode falar e não consegue controlar o movimento dos seus lábios - apenas os olhos.
+
+"Com todas estas limitações, ele conseguiu atingir o nível educacional que já referenciei graças à sua grande inteligência e a um plano educacional de integração de pessoas com deficiência num normal centro. O jovem rapaz necessita de todo o tipo de ajuda mas, especialmente nos campos académico e relacional, ele quer adquirir um novo mundo de auto-suficiência se para isso conseguir ter uma tecnologia que lhe permita através do seu movimento dos olhos, através de ondas cerebrais ou outro meio que não seja necessário manipulação, usar um computador.
+
+"Apesar das suas pupilas cegas este jovem tem olhos funcionais mas não sabe como tirar partido deles. Ficaríamos agradecidos se pudéssemos obter informação sobre experiências, tecnologias ou organizações que possam dar ao Bruno soluções." 
+
+
+* DILEMA DE MAPEAMENTO: Finalmente, Kate Page que faz parte do governo - fundador do corpo de conservação English Nature disse que a organização "está toda voltada para a acessibilidade à Web mas parece que ficámos um pouco paralisados perante os mapas na Web - o software utilizado para o produzir não permite a utilização do atributo 'alt'. Alguém tem uma solução?"
+
+[Fim da secção dois.]
+
+* SECÇÃO TRÊS: EM FOCO
+- MÚSICA
+
+* APANHANDO AS NOTAS. 
+por Derek Parkinson derek@headstar.com
+
+É frequente os deficientes visuais terem aptidão para a música: o próprio Louis Braille era um talentoso músico de violoncelo e de instrumentos de teclas. Mas curiosamente, nos dias de hoje, não existe um sistema de notação de música amplamente aceite como um modelo que vá de encontro às necessidades das pessoas cegas.
+
+Embora as versões em Musicografia Braille se tenham desenvolvido, foi só em 1997 que se produziu um acordo internacionalmente aceite e a sua adopção foi lenta.
+
+Existem duas razões prováveis para este facto: baixos níveis de literacia do Braille em geral e as limitações intrínsecas da própria Musicografia Braille. "Somente uma pequena proporção de pessoas cegas utilizam o Braille. O RNIB produziu estatísticas que mostram que algo como dois por cento dos jovens sabem ler Braille," diz Alistair Edwards, um professor de informática da Universidade de York que investigou notações alternativas. "A Musicografia Braille é bastante pesada: é uma notação linear visto que a notação convencional utiliza as duas dimensões da página," diz ele.
+
+Na prática, isto significa que a notação Braille força o leitor a memorizar toda a informação de uma partitura ou então nada. Não há flexibilidade que permita ao leitor mudar entre examinar de uma maneira geral e concentrar-se em detalhes particulares. "Existem problemas em agrupar notas, por exemplo," diz Edwards. "Na pauta a tinta isto é feito com sinais de frase - o que se torna fácil de apanhar - mas em Braille, consegue-se algo como 'a frase começa aqui', e mais adiante 'a frase termina aqui', e sem qualquer aviso".
+
+Por todas as dificuldades, a notação é essencial se os deficientes visuais estão a estudar música fora da escola, ou querem seguir uma carreira compondo orquestras para um filme ou para a televisão, por exemplo. "Se se quiser ir para o Royal College of Music (Colégio Real de Música) ou frequentar um curso geral, o nível de detalhe necessário só pode ser providenciado pela Musicografia Braille ou outro tipo de notação, diz Jacqueline Clifton, fundadora da Musicians In Focus (Músicos Em Foco) (http://www.musiciansinfocus.org), uma organização que dá formação e apoio aos músicos deficientes visuais.
+
+"Estamos preocupados em promover a utilização da Musicografia Braille, mas existe um problema de disponibilidade: porque é difícil conseguir uma continuidade, há uma relutância em aprender, especialmente entre os jovens," diz ela.
+
+Apesar desta dificuldade, o Músicos Em Foco tem cerca de 10 estudantes com idades compreendidas entre os 8 e os 16 anos, que frequentam as aulas ao Sábado no colégio Real de Música. "É muito mais fácil quando se começa em pequeno," diz Clifton. Um dos seus estudantes de 10 anos sabe Musicografia Braille fluentemente só com um ano de aprendizagem, outros 10 estudam em colégios de ensino superior e dois estudantes estão matriculados em cursos gerais. 
+
+O Músicos Em Foco pretende ser reconhecido como uma National Training Organisation for arts (Organização Nacional de Formação em artes), mas entretanto Clifton está concentrada em iniciar um esquema de aprendizagem em Setembro do próximo ano. O plano é permitir que estudantes adequados se tornem eles próprios formadores, oferecendo ensino de Musicografia Braille e ajuda aos principiantes no domínio da tecnologia. 
+
+Os músicos cegos são altamente dependentes da tecnologia para criar partituras, quer sejam fluentes em Musicografia Braille ou não. De momento, isto consegue-se através da gravação de uma peça num ficheiro em formato digital tal como o MIDI (Musical Instrument Digital Interface) e editar num PC utilizando software de sequenciação e um leitor de ecrã.
+
+"Deste modo podem-se produzir partituras muito precisas, mas tem o inconveniente de reproduzir tudo do ficheiro MIDI, portanto quaisquer imprecisões ou marcas são trazidas e têm que ser editadas," diz Clifton. Outro inconveniente para esta aproximação é que comprime toda a informação duma peça de música em longas listas de símbolos - exactamente o mesmo tipo de problema que atormenta a Musicografia Braille.
+
+Na Universidade de York, Edwards está interessado em repensar a aproximação à notação. Recentemente supervisionou o "Wesel" (http://www.benchallis.com/research.htm#Weasel), um projecto de investigação para desenvolver um interface feito com uma superfície táctil revestida por uma almofada sensível ao toque. Utilizando a almofada os músicos cegos podem digitalizar uma peça para uma estrutura geral e depois escolher aspectos, tais como, uma nota tónica ou ritmos quer individuais ou em combinação, ou olhar para específicas séries de marcações como por exemplo a posição dos dedos ou instruções para a actuação.
+
+Em vez da saída de Musicografia Braille, o Weasel pode produzir música ou uma descrição áudio da passagem seleccionada. De momento a interface do Weasel é utilizado mais para ler música do que para a escrever, embora Edwards esteja confiante de que será adaptado para escrever.
+
+Mas embora a tecnologia possa não ser um problema, já o financiamento de mais projectos o poderá ser. Edwards está interessado em construir uma versão kit do Weasel para os professores de música mas descobriu que projectos deste tipo saem fora da apreciação das entidades de financiamento. "Não existem fundos oficiais, por isso temos que o abordar como qualquer outro projecto de investigação. O projecto original do Weasel foi financiado pelo Engineering and Physical Sciences Research Council (Conselho de Investigação de Engenharia e Ciências Físicas), mas tendemos a perder uma oportunidade devido a falta de decisão: somos vistos como estando a trabalhar em algo que é mais virado para a educação do que para a engenharia ou vice-versa." 
+
+Mas se, com os aborrecimentos suficientes, a equipa conseguir descobrir maneira de financiamento, o Weasel viverá novamente.
+
+[Fim da secção três.]
+
+* SECÇÃO QUATRO: TESTE DE ESTRADA DE PRODUTOS:
+- LEITORES DE LIVROS ELECTRÓNICOS.
+
+* AS VANTAGENS VÃO PARA O VICTOR?
+por Saqib Shaikh ss@saqibshaikh.com
+
+Com uma isenção para as pessoas cegas enviarem e receberem material digital com direitos de autor, parecendo provável que se venha a tornar Lei no Reino Unido (ver notícias nesta edição), a era do livro electrónico acessível pode estar mesmo ao virar da esquina. Mas o software e o hardware disponíveis serão suficientemente vantajosos para inspirar esta renascença na leitura?
+
+O consórcio DAISY (http://www.daisy.org) é possivelmente o principal formato da nova geração de livros a ser distribuído, mas podemos esperar uma multidão de dispositivos especializados para a leitura.
+
+Aqueles que já possuem computadores podem optar por leitor através de software porque não será necessário equipamento extra. Mas aqueles que não podem utilizar computadores, ou os utilizadores de computadores que desejem ouvir livros enquanto se movem, podem optar por um leitor através de hardware.
+
+Cada leitor oferecerá diferentes maneiras de navegação, tais como saltar secções ou páginas específicas, procurar palavras-chave e ignorar alguns elementos tais como figuras, notas de rodapé ou barras laterais.
+
+O boletim E-Access testou três protótipos dos leitores de livros electrónicos do DAISY: dois exemplos de software e um de hardware. Foram o LPPlayer, o software da Dolphin Computer Access filial da Labyrinten Data AB (http://www.labyrinten.se); o Victor Reader Soft que é um software da Visuaide do Canada (http://www.visuaide.com); e o Victor Reader Pro, a última máquina portátil da Visuaide para ler livros electrónicos em CD.
+
+O LPPlayer tem embutido um sistema de voz, utilizando voz Inglesa com um perceptível sotaque Escandinavo, tal como se esperava duma empresa Sueca. Enquanto todos os diálogos são falados, outras partes do programa, tais como os menus, não o são e para aceder a estes será preciso um leitor de ecrã. Contudo, as partes não faladas não são cruciais para a operação do programa.
+
+Tal como se lê um livro, o LPPlayer tem a possibilidade de mostrar o texto e as imagens durante a leitura. O utilizador pode mudar a letra e o tamanho do texto.
+
+O LPPlayer oferece uma variedade de métodos para navegar num livro. Tanto se pode passar de secção em secção; passar uma página ou parágrafo de cada vez; ou mover-se no livro página a página, ou saltar para uma determinada página. É também possível procurar um livro por uma palavra ou frase específica. Não existe método para avançar depressa ou voltar atrás no livro manualmente - em vez disso será preciso navegar por parágrafo.
+
+O programa também permite fazer nove marcações no livro, às quais se poderá voltar mais tarde. Mais, podem-se tomar notas áudio (até 60 segundos) ou notas de texto (até 80 caracteres) para gravar pensamentos em passagens específicas. 
+
+O Victor Reader Soft (VRS) contém todas as funções do LPPlayer excepto a possibilidade de gravar notas áudio, e muitas outras características extra.
+
+Uma das maiores diferenças entre o VRS e o LPPlayer é que o primeiro tem praticamente voz própria, utilizando uma voz masculina Canadiana. Para aqueles utilizadores que preferem usar o seu leitor de ecrã, o VRS disponibiliza configurações para alguns leitores, incluindo o JAWS. 
+
+O VRS disponibiliza também um melhor conjunto de funções de navegação. É mais fácil o movimento através de períodos mais longos, entrar e sair das secções, e até mesmo obter um esboço total do documento. O VRS tem também funções completas de avançar rapidamente e recuar, assim como a capacidade de avançar ou recuar durante um determinado período de tempo. Há uma função de história que guarda uma gravação dos últimos cinco sítios que se esteve a ouvir no livro, e pode-se saltar para trás e para a frente através da história.
+
+O VRS também disponibiliza mais funções do que o LPPlayer para tirar anotações num livro, incluindo mais facilidades em fazer marcações nas páginas do livro. Disponibiliza também mais informação sobre o livro, e permite ao utilizador construir uma "estante de livros" no seu disco rígido. Existem muitas outras funções extra, tais como um maior controlo na voz de leitura e no ecrã. Os utilizadores podem até mesmo criar os seus próprios perfis para armazenar as suas preferências pessoais.
+
+Finalmente, uma das mais agradáveis funções do VRC é o seu compreensivo sistema de ajuda. O software inclui um modo de "tecla descritiva" que é útil para se aprender todos os controlos. Há também um guia de iniciação, um guia de referência e um guia de referência rápida. Todos os três estão disponíveis no formato DAISY, permitindo a prática utilizando o software enquanto se vão lendo. 
+
+Finalmente, o Victor Reader Pro, o hardware leitor de livros electrónicos da Visuaide, é semelhante ao software seu "companheiro" fixo, mas também tem algumas características extra. A unidade em si tem aproximadamente 20 por 15 centímetros, e pesa cerca de um quilo. Funciona ligado à corrente eléctrica ou com pilhas recarregáveis. 
+
+Os controlos do Victor Pro estão no topo da unidade. No centro há um bloco numérico. A maior parte das funções de leitura são executadas a partir deste bloco. Por baixo do bloco estão as teclas Executar/Parar e Avançar Rápido/Recuar. Para se mover verticalmente para baixo no lado direito, existem um número de botões para alterar o sentido da leitura que a unidade faz, enquanto que para mover para baixo no lado esquerdo existem mais teclas relacionadas com a navegação e com as marcas de livro. Tal como o Victor Reader Soft, o Victor Pro tem também uma tecla de função descritiva. Esta tem ainda mais utilidade nesta unidade de hardware, para se aprender as funções dos vários botões.
+
+A série de funções é muito semelhante à do VRS. A unidade utiliza uma voz feminina Britânica para dizer todos os pedidos de comando e mensagens. Em adição ao controlo de volume e velocidade, o Victor Pro tem também um controlo do tom. A outra característica principal, e extra, é a possibilidade de se ouvir CDs áudio. De facto, desde que se possa utilizar muitas das funções de leitura dos livros electrónicos do Victor com os CDs áudio, torna-se um potente leitor de CDs!
+
+Por outro lado, o Victor Pro não tem ecrã, e por isso não se pode tirar notas de texto dado que não existe teclado, mas podem-se colocar marcas no livro e tirar outras anotações. Outras funções ausentes neste dispositivo hardware incluem o apoio para múltiplos utilizadores e para os leitores de ecrã. 
+
+A minha preferência pessoal é o software e hardware Victor. É certo que embora o LPPlayer tenha uma ampla série de funções, eu achei a interface do Victor mais intuitivo, gostei do facto de ter voz própria, e a função de ajuda é excelente - a ajuda com a tecnologia nunca é demais! 
+
+[Fim da secção quatro.]
+
+* Secção 5: Comunicações
+- Regulação.
+
+* Lei da Discórdia para o "Omnipresente-Regulador".
+por Derek Parkinson derek@headstar.com
+
+Esta semana, foi decretada legislação que lança as bases da Ofcom, um novo super regulador para todo o sector de comunicações, que vai ter um impacto enorme nas vidas das pessoas deficientes. A Ofcom terá de assegurar que as novas tecnologias de comunicação sejam acessíveis a todos. Mas, experiências recentes levadas a cabo nos EUA mostraram que mesmo um regulamento futurista pode não ser suficiente para garantir às pessoas com deficiência todos os serviços que elas merecem.
+
+No Reino Unido, um novo Decreto sobre comunicações já teve as suas alterações finais na Câmara dos Comuns e aguarda a ratificação real. A primeira parte do Decreto expõe as responsabilidades do novo 'Super-Regulador' Ofcom, que reúne os deveres previamente abandonados pelo regulador das telecomunicações, a Oftel, da Radiocommunications Agency (Agência de Radiodifusão), da Broadcasting Standards Commission (Comissão de Normalização das Telecomunicações), da Independent Television Commission (Comissão de Televisão independente), da Advertising Standards Commission (Comissão de Normalização de Publicidade), da Advertising Standards Authority (Autoridade de Normalização de Publicidade) e da BBC Board of Governors (Conselho de Administração da BBC).
+A segunda parte do decreto, que formaliza os objectivos, âmbito e poderes da Ofcom, não se prevê que seja lei antes do segundo semestre de 2003.
+
+O novo regulador tem como objectivo reflectir as convergências entre as tecnologias de comunicação, e irá operar com uma vasta gama de rubricas, combinando o papel de licenciamento e protecção do consumidor presentes nos corpos legais que o antecederam, com poderes acrescidos para fomentar legislação sobre concorrência.
+
+A responsabilidade dos fornecedores de serviços de comunicação foi esboçada num livro branco em separado, editado pelo governo (http://www.communicationswhitepaper.gov.uk) mas isto não encorajou muito os activistas do acesso dos deficientes. O governo compromete-se a assegurar que toda a gente terá um acesso fácil aos serviços de comunicação, tanto de graça - no caso de serviços públicos de difusão - como por preço acessível - no caso de outros serviços de comunicação; mas este compromisso tem de ser equilibrado em oposição ao seu papel de encorajar a competição, o que levou a resultados contraditórios no que diz respeito à Oftel, guarda atento das telecomunicações.
+
+A Oftel estava orgulhosa do seu papel regulador que exercia com uma leve inspiração, o que traduzido livremente quer dizer que só intervinha quando as forças do mercado falhavam. Os críticos da Oftel acusavam o regulador de não fazer nada frequentemente, ou de fazerem muito pouco tarde e a más horas.
+
+Ainda é muito cedo para dizer de que maneira a Ofcom irá equilibrar as suas responsabilidades. Mas já existem sinais de que o forçar os operadores a tornarem os seus conteúdos disponíveis aos deficientes visuais, como por exemplo com o uso da áudio-descrição, é apenas metade da batalha.
+
+Peter Wilkins da National Federation of the Blind (Federação Nacional de Cegos) do Reino Unido
+(http://www.users.globalnet.co.uk/~nfbuk) expressa a sua preocupação perante o facto dos operadores disponibilizarem os seus conteúdos com áudio-descrição, pois muitos cegos não poderão utilizá-los: "pelas nossas estimativas só 45 pessoas, leia-se mesmo quarenta e cinco pessoas, no Sudeste de Inglaterra têm a tecnologia necessária. A áudio-descrição está disponível nos serviços terrestres digitais, mas é necessário uma set-top box para ter acesso. A questão é - quem as irá pagar ou subsidiar? - O RNIB não pode suportar os custos, restam portanto o governo ou os fabricantes."
+
+De facto, há outros candidatos a patrocinadores: fornecedores de serviços como a Sky receberam subsídios do estado para promoverem set-top boxes de baixo preço, participação do governo para estimular a utilização da televisão digital. Wilkins não está impressionado pelo seu esforço, no entanto: "Os seus guias electrónicos têm menus que listam programas com áudio-descrição, mas uma pessoa cega não consegue aceder ao guia!".
+
+As preocupações de Wilkins foram apoiadas pelo RNIB: "A nossa estimativa é que produzir vinte mil módulos de áudio custará três milhões de libras." Kim Howell (Ministro do Governo) afirma que o departamento da cultura, media e desporto está determinado em aumentar o acesso a estas tecnologias, mas como? - O DCMS (Departamento da Cultura, Media e Desporto) não tem três milhões de libras de sobra, portanto terão de ser retiradas do tesouro".
+
+Se os EUA podem servir de indicador do que espera o Reino Unido no futuro, a Ofcom pode ver o seu trabalho prejudicado assegurando-se que os operadores se cinjam exclusivamente às suas obrigações no fornecimento apenas do que está regulamentado, ou seja, no que diz respeito aos níveis mínimos de acesso. No mês passado, o American Council of the Blind (ACB) (Conselho Americano de Cegos) reagiu violentamente depois de um grupo de companhias de televisão, vídeo e cabo tentarem paralisar os regulamentos da Federal Comunications Comission (Comissão Federal de Comunicações) que tornariam as legendas áudio obrigatórias para uma pequena proporção de conteúdos de televisão nos EUA. 
+
+O Presidente da ACB, Christopher Gray, apelou para a National Association of Broadcasters (Associação Nacional de Operadores), para a National Cable Telcomunications Association (Associação Nacional de Telecomunicações por Cabo) e para a National Motion Picture Association of America (Associação Nacional Americana de Animação) para "pararem este ataque sem sentido às necessidades e direitos dos cegos". A reacção de Gray seguiu-se a uma tentativa das companhias de difusão para bloquear os regulamentos que obrigavam as principais cadeias comerciais a transmitirem 50 horas por cada 25% do horário nobre e/ou programação infantil com áudio-descrição. 
+
+Os regulamentos dos EUA que também regem a difusão de informação de emergência, estiveram disponíveis para consulta desde o fim de 2000. No entanto, um mês antes de entrarem em vigor, as companhias de difusão fizeram uma petição ao Supremo Tribunal do Distrito de Columbia dizendo que os regulamentos eram incompatíveis com o Decreto Lei sobre comunicações de 1934, impondo um esquema de "discurso compulsivo" sobre os membros signatários da petição, e é incompatível com a primeira emenda da Constituição dos EUA. Surpreendentemente, foram acompanhados pela National Federation of the Blind (Federação Nacional de Cegos), que clamou por outro lado que a regra é arbitrária, caprichosa e não está de acordo com a lei. 
+
+Não tem valido de nada o facto deste debate ser mais sobre o acesso do que sobre o entretenimento. Em Abril de 2000, o Presidente da FCC, William Kennard, apoiou as emendas ao Decreto Lei sobre Telecomunicações de 1996, citando o caso de Sharon Mclawhorn, uma surda que não conseguiu aceder a um aviso de inundação nas cadeias de telecomunicação locais por não ter sido transmitido correctamente, tendo ficado presa durante 24 horas antes de receber socorro. 
+
+[fim da secção cinco.]
+
+COMO RECEBER ESTE BOLETIM.
+
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com> Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos para assinar!
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com
+Copyright 2001 Headstar Ltd. http://www.headstar.com O Boletim no seu todo ou em parte pode ser reproduzido incluindo este aviso. As Secções do relatório devem ser colocadas entre aspas de forma a ficar claro a sua fonte: 'retirado do Boletim E-Access, uma newsletter mensal distribuída por email', e ainda a referência do nosso endereço do sítio Web http://www.e-accessibility.com.
+
+-**-
+Nota à edição Portuguesa: Caso os leitores portugueses estejam interessados em enviar os seus comentários e sugestões, bem como enviar alguns artigos que abordem as questões de acessibilidade à Sociedade da Informação podem remetê-los, em Inglês ou Português, para o seu editor Dan Jellinek através do e-endereço: dan@headstar.com, ou mesmo para gesta@gesta.org 
+-**-
+
+PESSOAL:
+Director - Dan Jellinek dan@headstar.com
+Vice-director - Phil Cain phil@headstar.com
+Redactor - Tamara Fletcher tamara@headstar.com
+Conselheiro Editorial - Kevin Carey humanity@atlas.co.uk 
+
+[fim da edição.]

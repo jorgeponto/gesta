@@ -1,0 +1,325 @@
+* Boletim E-Access
+
+Boletim electrónico on-line de notícias sobre tecnologia para pessoas com deficiência visual.
+Endereço do Boletim E-Access, incluíndo os seus arquivos: 
+<http://www.e-accessibility.com>
+
+Patrocinado pelo Royal National Institute for the Blind:
+<http://www.rnib.org.uk>
+o National Library for the Blind (Biblioteca Nacional para os cegos):
+<http://www.nlbuk.org>
+e a Guide Dogs for the Bliind Association (Associação de Cães-Guia para cegos):
+<http://www.guidedogs.org.uk>
+
+Versão portuguesa: cortesia do GESTA-MP (Grupo de Estudos Sociais, Tiflológicos e Associativos)
+<http://www.gesta.org>
+
+Divulgue, por favor, este boletim pelos seus amigos e colegas, e diga-lhes que o podem subscrever em Português, bastando para tal enviar uma mensagem para o endereço electrónico: <mailto:eab-pt-subs@headstar.com>. Veja os pormenores na parte final deste boletim.
+Quanto mais subscritores tivermos, melhor será o nosso serviço!
+
+NOTA: Para facilitar a navegação a todos aqueles que utilizam leitores de ecrã, todos os cabeçalhos agora iniciam-se com um asterisco e terminam com um ponto final. Diga-nos, por favor, se existe mais alguma coisa que possamos fazer de forma a facilitar a consulta do boletim. 
+
+[início DO BOLETIM]
+
+* BOLETIM 32, AGOSTO 2002.
+
+* ÍNDICE:
+
+Secção um: Notícias.
+
+1: Rede de Desenho completa plano de acção Euro
+- centros nacionais de desenho juntam forças.
+
+2: Congresso dos Estados Unidos retoma e-votação acessível
+- voto solene pelos padrões nacionais.
+
+3: Aberta a VISTA para a televisão digital
+- iniciou-se a investigação em guias de programação activados por voz.
+
+4: Revelada base de dados da biblioteca nacional
+- catálogo nacional chegou atrasado.
+
+5: Ver o desenho por dentro das bibliotecas digitais
+- a chave reside numa boa navegação do sítio Web.
+
+Notícias breves: 6: Buscador de E-book - novo arquivo on-line; 7: Trabalhadores cooperativos - lançada base de dados de ferramentas; 8: Directrizes de construção - livro Web acessível.
+
+Secção dois: 'A Receber' - Fórum dos Leitores.
+- 9: Fórum de discussão; 10: Aprendizagem de linguagens; 11: Fogo de artifício. 
+
+12: Secção três: Análise - Carta das Comunicações.
+- Mais ar quente ou vento de mudança? Derek Parkinson descobriu que apenas metade das iniciativas, tomadas com o coração, em prole da acessibilidade, levadas a cabo pelo governo cumpre com a carta de regulação das novas tecnologias.
+
+13: Secção quatro: História da Net - 'phreaking'.
+- As conquistas do telefone: muitos dos últimos 'hackers do telefone' eram cegos. Phil Cain volta a traçar os passos de um pioneiro das redes agora a trabalhar do lado certo da lei.
+
+14: Secção cinco: Competição de Escritores - primeiro prémio.
+Apresentamos o 'OASIS', o trabalho vencedor da nossa criativa competição de escritores, por Neill McBride.
+
+[Fim do índice.]
+
+* SECÇÃO UM: NOTÍCIAS.
+
+*1: REDE DE DESENHO COMPLETA PLANO DE ACÇÃO EURO.
+
+As normas de acessibilidade à Web na Europa receberam um forte impulso com o lançamento, pela Comissão Europeia, do European Secretariat for
+the Design for All e-Accessibility Network (ESDeaN - Secretariado Europeu para o Desenho para Todos - Rede e-acessibilidade). A rede tem por objectivo o estabelecimento de centros nacionais de excelência; servir como fórum de partilha das boas práticas entre desenhadores e engenheiros; e aumentar a consciencialização pública para os assuntos da acessibilidade.
+
+ESDeaN tem cerca de 90 organizações em rede e procura activamente por novos elementos. Os detalhes podem ser encontrados em:
+http://fastlink.headstar.com/esdean
+Até agora, os centros de contacto nacionais foram estabelecidos em 15 países por toda a Europa:
+http://www.e-accessibility.org/national_contact_centres.html
+
+A criação da ESDeaN marca o quinto e último passo no programa de acessibilidade desenhado pela comissão em 2002 no plano de acção social 'eEurope'. Os outros componentes chave levados a efeito em estreita colaboração entre os estados membros, são a adopção das directrizes da Iniciativa pela Acessibilidade à Web para os sítios públicos, a publicação de normalização em relação à acessibilidade e a revisão da legislação. 
+
+Os progressos da iniciativa pela acessibilidade eEurope deverão estar em discussão numa conferência a 9 de Setembro, levada a efeito pela European Telecommunications Standards Institute (instituto Europeu de Normalização das Telecomunicações) em Copenhaga:
+http://www.etsi.org/frameset/home.htm?/cce
+
+*2: CONGRESSO DOS ESTADOS UNIDOS RETOMA E-VOTAÇÃO ACESSÍVEL.
+
+O Congresso dos Estados Unidos prepara-se para adoptar novas normas nacionais para a votação acessível, seguindo um voto solene da Casa dos Representantes para aceitar propostas do Senado baseados na premissa que o novo sistema de voto seja "um meio prático e eficaz para os eleitores com incapacidades físicas exerçam o direito de voto de forma secreta".
+
+Tal como está estatuído, o novo sistema deve estar em funcionamento até 2006, reservando a legislação fundos federais para ajudar os estados a actualizarem os seus sistemas e aumentarem os procedimentos de registo. 
+
+A decisão do Congresso - de 410 votos a dois - é o culminar dos esforços da legislatura Norte Americana para harmonizar duas tendências ambivalentes da lei desenhada para prevenir a repetição do controverso acto eleitoral que envolveu as eleições presidenciais de 2000. Para uma comparação das propostas do Senado e dos Representantes veja:
+http://fastlink.headstar.com/congress
+
+As propostas do Senado foram sustentadas pelo Consórcio para os cidadãos com Incapacidades (http://www.c-c-d.org), uma coligação nacional que inclui a Associação Americana das Pessoas com Incapacidades e o Conselho Americano dos Cegos.
+
+*3: ABERTA A VISTA PARA A TELEVISÃO DIGITAL.
+
+Uma nova aplicação de base voz pode substituir os guias de programas electrónicos de base texto actualmente existentes para a TV Digital, permitindo assim aos utilizadores deficientes visuais interrogar e dar comandos às suas Tvs por voz e receber respostas por voz. O sistema está a ser desenvolvido por investigadores do RU. 
+
+Uma interface virtual para um Agente Set-Top (VISTA) está actualmente a ser testado por um grupo misto de normovisuais e deficientes visuais na Universidade de Londres e na Universidade Victoria, em Manchester.
+De acordo com Jonathan Freeman do Colégio Londrino Goldsmiths, o projecto de 18 meses tem por objectivo construir um sistema independente da plataforma que responda às solicitações naturais e discursivas tais como "A que horas são as notícias?" e não a necessidade de usar um vocabulário especializado de comandos.
+
+Apesar de Freeman ter dito que não existe nenhuma garantia que o VISTA vá chegar à fase de produção, ele pensa que a tecnologia envolvida pode ser altamente adaptável, e isto actua como um valioso primeiro passo em direcção à TV interactiva comandada por voz.
+
+
+O projecto de 18 meses, o qual é liderado pelo Independent Television
+Commission (ITC - Comissão para a Televisão Independente), também inclui a BSkyB, Universidade City, Sensory, Televirtual, a Universidade de East Anglia, a Universidade Victoria de Manchester, e é financiado em parte pelo Department of Trade and Industry e o Economic and Social Research Council (see http://fastlink.headstar.com/itc).
+
+Apesar do ITC estar prestes a ser eminentemente absorvido pelo novo "super-regulador" da indústria das comunicações Ofcom (ver também secção três, deste boletim), isto não irá afectar o progresso com o VISTA, disse Freeman.
+
+*4: REVELADA BASE DE DADOS DA BIBLIOTECA NACIONAL.
+
+O longo atraso do projecto 'Reveal' para criar uma base de dados nacional de recursos de informação em formatos acessíveis parece ter finalmente o seu desenvolvimento para 1 de Outubro, depois da aceitação dos termos por parte dos principais parceiros do projecto, a National Library for the Blind (NLB - Biblioteca Nacional para Cegos) e o RNIB.
+
+O projecto, o qual originalmente deveria ter sido lançado em Abril de 2001, vai compilar centenas de milhares de recursos, com detalhes sobre quem os possui e a forma como eles podem ser obtidos. Também vai conter informação sobre onde é que um dado trabalho está a ser produzido ou em planeamento para futura produção, no sentido de se evitar as duplicações de trabalho por diferentes agências que transformam informação em formatos acessíveis. 
+
+A intenção é fornecer às pessoas deficientes visuais o mesmo acesso ás bibliotecas e outras fontes de informação a nível nacional tão vulgar como o que sucede e está à disposição dos leitores normovisuais, dando-lhes a possibilidade de identificar, localizar e requerer qualquer título.
+
+O sistema estará suportado no programa informático Geac utilizado pela NLB (http://www.library.geac.com), com o trabalho planeado para durar seis meses, aos quais se seguirá um lançamento formal para a Primavera de 2003. Os custos do projecto rondam as 200,000 libras que serão cobertos pela Resource, a agência governamental para as bibliotecas (http://www.resource.gov.uk); pela British Library (http://www.bl.uk); a Fundação John Ellerman (http://www.ncvo-vol.org.uk/jef.html); e o patrocínador privado Lloyds TSB.
+
+Para mais informações sobre o projecto Reveal veja:
+http://www.ukoln.ac.uk/bib-man/projects/stv/reveal.htm
+
+*5: VER O DESENHO POR DENTRO DAS BIBLIOTECAS DIGITAIS.
+
+Os desenhadores de páginas Web para bibliotecas, motores de busca e directórios colocam muito mais ênfase na transcrição texto ou na transformação de imagens em texto do que na disposição dos links de navegação, de acordo com um estudo feito pela Universidade 
+Manchester Metropolitan.
+
+A pesquisa, que compara como é que 40 sujeitos normovisuais e deficientes visuais acedem a uma série de sítios teste, descobriu que mesmo onde a informação foi especialmente desenhada como texto, o uso de frames (molduras) dificultou a pesquisa da informação. 
+
+De acordo com a investigadoraJenny Craven, a acessibilidade pode ser aumentada, em muitos casos, com simples alterações. "Um sítio pode tornar-se mais fácil de navegar para pessoas que utilizem um leitor de ecrã colocando as barras de navegação no topo de uma página ou por ordem alfabética, em vez de as colocar na base ou espalhadas pela página como estão na maior parte das vezes," disse ela.
+
+Os dados encontrados pelo projecto de dois anos, Non-Visual Access (NoVA - Acesso Não Visual http://www.mmu.ac.uk/h-ss/cerlim/projects/nova.htm) será publicado brevemente. O projecto é financiado pelo governo como parte de um projecto nacional para levar as bibliotecas pública on-line. 
+(http://www.resource.gov.uk/).
+
+*NOTÍCIAS BREVES.
+
+*6: BUSCADOR DE E-BOOK: Uma ferramenta de pesquisa, grátis de base Web, para ajudar a encontrar detalhes nos títulos dos livros publicados no formato e-book foi para o ar esta semana.
+O arquivo, diz-se, terá informação sobre dezenas de milhares de edições e-books de mais de 400 editores: http://www.ebooklocator.com
+
+*7: TRABALHADORES COOPERATIVOS: Carpinteiros, serviços de horticultura e mesmo um desenhador Web registaram-se recentemente numa nova base de dados pesquisáveis on-line de pessoas com incapacidades que procuram emprego, criado pela Disabled Workers Co-
+operative sedeada em Wales. O objectivo é ajudar os empregadores locais a encontrar as pessoas com as capacidades que procuram: 
+http://www.disabledworkers.org.uk
+
+*8: DIRECTRIZES DE CONSTRUÇÃO: Um grupo de peritos Norte-americano publicou um livro, 'Constructing accessible web sites' (Construindo Sítios Web Acessíveis), o qual para além de ser um guia técnico detalhado, fornece também uma visão do que está por detrás das directrizes de acessibilidade e das leis em todo o mundo:
+http://fastlink.headstar.com/glasshaus
+
+[Fim da secção um.]
+
+* SECÇÃO DOIS: 'A RECEBER'
+- FÓRUM DOS LEITORES.
+- Envie, por favor, todas as contribuições ou respostas para inbox@headstar.com
+
+*9: FÓRUM DE DISCUSSÃO: Este mês, o Boletim E-Access gostaria de efectuar, ele próprio, um pedido, solicitando informação sobre fóruns de discussão on-line acessíveis. Planeamos desenvolver um software de debate on-line integralmente acessível, que permita a vastos grupos de pessoas juntarem-se em debates ou discussões via Web e via email.
+
+Estamos assim interessados em ouvir da parte de utilizadores da Internet, cegos, que participem regularmente em debates on-line, e gostaríamos de saber quais deveriam ser as nossas "especificações de sonho", para que se torne num software integralmente acessível dentro deste género. Desde já agradecemos muito. Envie a sua sugestão para: inbox@headstar.com
+
+*10: APRENDIZAGEM DE LINGUAGENS: No nosso último número, Samson Perera do Conselho do Sri Lanka para os Cegos escreveu procurando material em braille, cassete ou ASCII que o ajudasse, a saber mais sobre periféricos de computadores, como aceder à configuração da BIOS e também na aprendizagem de linguagens de computador tais como Java e C mais.
+
+Em resposta, Paul Magill da Austrália sugeriu: "Um grande local para começar se está interessado em aprender linguagens de computador e programação é o sítio Blind Programming (Cegos Programando):
+http://www.blindprogramming.com
+
+A equipa do Boletim E-Access desde aí, juntou-se à lista de correio electrónico e apoia vivamente esta recomendação - é um excelente recurso.
+
+Numa segunda valiosa resposta, Sally Hutchinson do RNIB escreveu-nos para nos dizer que a sua organização possui um vasto número de títulos sobre Bios, Java e C Mais disponíveis em Braille ou cassete. Para informações sobre empréstimo ou compra de qualquer um dos seus títulos, contacte Maxine Jones da equipa de exportação do RNIB através de: exports@rnib.org.uk
+
+*11: FOGO DE ARTIFÍCIO: Kate Page, da agência de conservação da natureza, English Nature, gostaria de saber se os menús pop-up (tipo Word), criados usando o software gerador de animações Fireworks da Macromedia, são acessíveis pelo JAWS 4.0: "Não encontro quaisquer teclas de atalho para acedê-los," diz ela. [Respostas para inbox@headstar.com].
+
+[Fim da secção dois.]
+
+*12: SECÇÃO TRÊS: ANÁLISE
+- RASCUNHO DA CARTA DAS COMUNICAÇÕES
+
+* MAIS AR QUENTE DO QUE VENTOS DE MUDANÇA.
+por Derek Parkinson  derek@headstar.com
+
+Quando a tecnologia se prepara para definir um período histórico - como está a acontecer na nossa Era Digital - a sua significância não pode ser medida em conjuntos de fotografias já escorridas. Os sinais da Era Digital, as novas expectativas sobre: a forma fluida como comunicamos, e acedemos à informação; outra pessoa, e instituições.
+
+Neste contexto, a Carta das Comunicações, do governo do RU, tornou-se numa leitura desapontante, paralisada por uma visão de forças de mercado como sendo o agente primordial para mudanças positivas, e com uma crença correspondente que a sua enorme contribuição singular será intervir o menos possível. Isto não é um sinal encorajador para as pessoas deficientes visuais, que deveriam , pelo contrário, esperar que o poder das tecnologias digitais residiria na mudança do quadro das oportunidades, reduzindo o fosso entre eles próprios e as pessoas normovisuais. Os últimos sinais são que o governo irá fazer pouco para encorajar isto, e que a transição para as tecnologias digitais na TV e rádio devem mesmo aumentar ainda mais o fosso.
+
+A recente dissecação das propostas, pelo RNIB concluiu: "Pessoas cegas, surdocegas e amblíopes sentem, e estão no seu direito, que estão a ser alvo de uma grande discriminação e exclusão por parte dos serviços de comunicações digitais. Eles sentem que, largamente, o governo não os está a ouvir ou que não está a actuar de acordo com as suas preocupações nesta área."
+
+A carta define o poder e responsabilidade do novo regulador da indústria das comunicações,  Ofcom, o qual está encarregado de proteger os interesses dos utilizadores do serviço e definir os termos de licença para as telecomunicações, TV e fornecedores de serviço rádio. 
+
+Potencialmente pelo menos, a Ofcom está bem posicionada para levar a acessibilidade mais longe na agenda digital. No entanto, a carta mostra pouca ambição nesta área. Por exemplo, apesar de incorporar objectivos para conteúdos de TV digital áudio-descritos, tal representa apenas dez por cento de todos os serviços. E pior ainda, os fornecedores de serviço têm 10 anos desde o lançamento para atingir esta pequena quota. De acordo com o RNIB, um objectivo de 50 por cento de conteúdos áudio-descritos seria muito mais desejável e alcançável e foi actualmente considerado na etapa final da história da carta.
+
+Mais positivamente, a carta extende as quotas de áudio-descrição desde os serviços terrestres até aos serviços de satélite e cabo. Num considerando, não publicado, o governo reporta que justifica isto no fundamento que o interesse público é mais importante do que qualquer potencial impacto na indústria. De acordo com uma fonte do RNIB, o considerando, conclui: "Enquanto houver custos para a indústria, particularmente no que diz respeito à legendagem, língua gestual e áudio descrição, isto tem de ser definido contra os resultados considerados socialmente benéficos." Claramente, o governo, pelo menos parcialmente, fez saber o princípio que existe um papel a cumprir pelo mercado para fins desejáveis. O argumento expressa como isto deve ser alcançado. O conteúdo é apenas um dos três assuntos que precisam ser levados em conta para atingir verdadeiros serviços digitais acessíveis; os outros dois são a difusão e a recepção. Com a TV digital terrestre, por exemplo, apenas 45 casas, actualmente têm acesso a serviços áudio-descritos através de um módulo protótipo, com a disponibilização comercial ainda longe de acontecer. 
+
+De acordo com o RNIB, os fabricantes resistem na incorporação da tecnologia nas set-top boxes, enquanto os fornecedores do serviço e o governo se mostrarem reticentes na subsidiação de um módulo que poderá ser adquirido separadamente.
+
+Na Casa dos Comuns, recentemente, o deputado trabalhista, Roger Berry, questionou o departamento de Cultura, Media e Desporto de que forma o governo irá assegurar que a futura TV Digital e respectivas set-top boxes comportem áudio-descrição.
+
+O ministro governamental do pelouro, Kim Howells, respondeu que "as características de desenho e produção das set top boxes são assuntos para os fabricantes decidirem". A experiência passada sugere que estas decisões são apenas para quebrar novos fundamentos. "Os fabricantes farão tudo para evitar novas normas," disse Leen Petre do RNIB.
+
+Apesar dos serviços por cabo estarem já à disposição há bastante tempo, fizeram mesmo menos progressos - até ao presente; ninguém é capaz de receber conteúdos áudio-descritos por cabo. Apesar de não existirem significantes barreiras tecnológicas, os últimos desenvolvimentos são dados pela volatilidade da posição dos fornecedores de serviço, com os maiores intervenientes, NTL e Telewest, a estrangular com montes de débitos, com serviço pobre e constantes mudanças de direcção.
+
+Apenas os serviços por satélite têm feito mais progressos, com a Sky Digital a oferecer serviços básicos de conteúdos áudio-descritos, embora os guias de programa electrónico, pertença da Sky terem sido criticados pela pobre acessibilidade. O RNIB pediu ao governo que solicitasse que todos os operadores da rede digital seguissem o exemplo do líder, Sky, e disponibilizassem áudio-descrição a disponibilizar via download de software, e que fosse feita uma actualização das TVs e set-top boxes.
+
+No seu conjunto, a carta é desapontante dada a sua falta de convicção. Ela faz sobressair a importância de um regulador para levar mais longe os interesses das pessoas com incapacidades, mas depois falha ao dar à Ofcom todos os poderes necessários para desempenhar integralmente este papel.
+
+Em particular, equivoca-se face às responsabilidades da Ofcom, dizendo ao capataz 
+para "ter em atenção as"  necessidades das pessoas com incapacidades "onde isto seja relevante". Isto significa apenas tentativas de aumentar a acessibilidade aos conteúdos e efectivamente esconde, como o pato esconde a cabeça, qualquer responsabilidade para assegurar que o equipamento do utilizador seja acessível e alcançável.
+
+[Fim da secção três.]
+
+*13: SECÇÃO QUATRO: HISTÓRIA DA NET.
+- 'PHREAKING'
+
+* AS CONQUISTAS DO TELEFONE.
+por Phil Cain  phil@headstar.com
+
+As tecnologias das comunicações são agora uma fonte de liberdade, educação e entretenimento para milhões de pessoas deficientes visuais. Mas as pessoas cegas também estiveram envolvidas em algumas das alternativas, para não dizer ilegais, de utilização da tecnologia ao longo dos anos; actividades geralmente rotuladas de 'hacking'.
+
+Nos anos sessenta e mais tarde nos anos setenta, por exemplo, os então chamados 'phone phreakers' tiraram vantagem do facto das redes de telefone de então, no Reino Unido e nos Estados Unidos, enviarem um pequeno número de tons interruptores pelo mesmo fio que transmitia o som que saia do bocal do auscultador. Isto significava que um qualquer utilizador de telefone poderia enviar comandos, do tipo interruptor, para a rede através do bocal. A observação dos ruídos do telefone quando em utilização, mais subterfúgios e uma dose generosa de tentativa e erro eram suficientes para dar aos 'phreakers' o reportório dos ruídos necessários para efectuar chamadas grátis, configurar conferências telefónicas ou ouvir as conversas dos outros.
+
+Entre os primeiros a descobrir este buraco, no sistema de telefones dos Estados Unidos, está Joe Engressia, o qual, como uma criança cega, começou a explorar o telefone, usando o seu afinado assobio. Um sistema auditivo altamente afinado, como o de Engressia, de acordo com um tipo pioneiro nestas coisas, Bill Acker, "Ajuda-te a saber em que parte da rede te encontras."
+
+Acker, que é também cego, disse que ama a sua relação com o telefone que começou quando ele descobriu que "o telefone faz uns fantásticos, fantásticos ruídos". Ele era então um jovem da Escola Dominican LaVelle para cegos no Bronx, o seu obsessivo relacionamento foi crescendo. "Eu estava a fazer 'phreaking' quatro, cinco, seis, sete horas por dia. Eu vivia na rede."
+
+No entanto, a convicção de Engressia para anunciar a fraude em meados de 1971 mostrou que o 'phreaking' acarretava consideráveis riscos. Estes riscos aumentaram ainda mais em Outubro de 1971 quando foi chamada a atenção pública para o fenómeno através da publicação de um aviso para a existência da fraude na revista Esquire
+(http://www.webcrunchers.com/crunch/esq-art.html).
+
+Antes do ano de 1971, Acker começou a sentir a sensação que o estavam a tentar comer a ele próprio, com o investigador da Companhia New York Telephone, Tom Duffy, que fez uma chamada para a sua escola, pois tinha ouvido, a uma freira de origem Irlandesa que era professora na escola,  que Acker tinha dito que conseguia efectuar chamadas grátis.
+
+"Ia morrendo de susto," disse Acker. "Mas eu tinha visto suficientemente televisão para dizer 'que tinha o direito de ficar em silêncio' e Duffy saiu então do meu quarto durante alguns minutos, dando-me tempo para pensar. 'Do que é que eu tenho medo?' pensei. 
+'Medo que me leve enjaulado? Porque estou eu tão quente?' No final percebi que estava assustado simplesmente porque eles julgavam que tinham encontrado uma forma de me fazer parar com aquilo."
+
+Acker também encontrou outra razão para o silêncio: "Proteger-me a mim próprio estava muito mais na minha mente, mas proteger os meus irmãos e irmãs do crime foi também, certamente, um elemento importante em agenda."
+
+'Phreakers' apreciam fortemente a camaradagem, regularmente ligados uns aos outros e trocando ideias em chamadas de conferência, configurando uma 'bluebox' - um dos últimos geradores de tons, mais tarde feito e utilizado pelo fundador da Apple Computers, Steve Wozniak
+(http://ei.cs.vt.edu/%7Ehistory/WOZNIAK.HTM).
+
+"Muitas vezes as chamadas 'phreaked' eram feitas para contactar outros 'phreaks'," diz Acker. A fraternidade continua nos nossos dias, continuando muitos a manter o contacto. Outros, no entanto, adormeceram.
+
+Quaisquer que tenham sido as suas razões, o silêncio de Acker levaram Duffy a não ter outra hipótese se não ligar para casa de sua mãe. Aqui, perante a impaciência de Acker, a sua mãe concordou em pegar em algumas das suas ferramentas, incluindo a sua altamente cara 'bluebox', feita de uma tampa de uma máquina de escrever antiga. "A minha mãe ficou contrariada", diz hoje Acker. "Ela tinha consciência que esta [phreaking] era importante para o meu desenvolvimento, mas também sabia que era difícil enfrentar a ilegalidade."
+
+Acker não teve grande problema em lidar com isso, antes pelo contrário, pois rapidamente arranjou um novo equipamento, uma 'bluebox' que cabia num bolso. Mas em 1976 o seu número foi intersectado, e ele foi indiciado por conspiração por tentativa de fraude, tendo sido registado, numa escuta telefónica policial, o seu aconselhamento a um 'phreak' da Florida, chamado Dave, a quem explicava como efectuar uma chamada para o Haiti usando uma plataforma na República Dominicana. Dave estava convicto, mas Acker afastou-se por razões técnicas. Graças à sua boa fortuna, diz ele: "O indiciamento pôs o sentimento de Deus no meu caminho.? 
+
+Do lado mais positivo, o 'phreaking' foi um exemplo recente da forma como a rede de comunicações pode ser utilizada para permitir a um diverso, e disperso geograficamente, conjunto de pessoas, trabalhar em conjunto para resolver problemas técnicos.
+
+E, apesar do advento da telefonia digital ter eliminado o prazer do phreaking do passado, o entusiasmo de Acker para o trabalho colaborativo em rede continua, através da sua participação no projecto, de programação em código aberto, Linux Speakup (http://www.linux-speakup.org). "O meu enfoque continua a estar na rede," disse ele.
+
+[Fim da secção quatro.]
+
+*14: SECÇÃO CINCO: COMPETIÇÃO DE ESCRITORES
+- PRIMEIRO PRÉMIO.
+
+A história seguinte de Neill McBride ganhou o primeiro prémio da nossa competição para trabalhos criativos sobre o tópico 'mantenha-se em contacto com a tecnologia'. Neill ganhou um leitor de e-book, 'Victor', avaliado em cerca de 300 libras, doado pela VisuAide (http://www.visuaide.com). Obrigado a todos aqueles que nos enviaram os seus trabalhos; na generalidade foram realmente excepcionais. No nosso próximo número iremos publicar detalhes sobre os que ficaram em segundo lugar, os quais irão receber, cada um, um conjunto de e-books clássicos em CD.
+
+- 'OASIS', por Neill McBride.
+
+Ano: 2006.
+
+Mary bocejava à medida que folheava página após página o jornal de Domingo, apenas para descobrir, artigo após artigo sobre a heróica esquadra Inglesa. 
+
+A Inglaterra tinha apanhado a Alemanha na Final do Campeonato do Mundo e tinha ganho, mas isto tinha sido há uma semana atrás! 'pensam que agora são os maiores' pensou Mary.  Futebol não era o seu forte.  Desesperada, ela folheou as poucas páginas que restavam para chegar ao fim, as quais inevitavelmente eram dedicadas à secção de desporto, quando os seus olhos captaram um cabeçalho: "Projecto de desenvolvimento OASIS junta público e privado'. Mary leu-o com interesse. 
+
+Ano: 2010.
+
+Eve acordou dum sono profundo ao som do rádio relógio. Tinha tido um fim-de-semana de inimagináveis celebrações, uma vez que a Inglaterra tinha reconquistado o Campeonato do Mundo numa épica final contra o Brasil.
+
+"Mark, que horas são?" perguntou Eve, ainda sonolenta.
+
+"Oito e dezasseis," respondeu Mark.
+
+"Oh não!" Eve bocejou à medida que empurrava para trás os lençóis da cama e destapava os seus pés. "Vou mais uma vez chegar atrasada, a não ser que me despache rapidamente."
+
+Mark abriu as cortinas enquanto Eve tomava conta do chuveiro. Com a luz da manhã a entrar no quarto, Eve chamou, "Mark, podes-me fazer um café? Vou ter que o beber a correr."
+
+"Está bem," retorquiu Mark.
+
+Em vinte minutos Eve tinha tomado banho, tinha-se vestido e estava com uma chávena de café na mão em frente à porta da rua. Mark abriu a porta enquanto Eve pegava rapidamente na sua bengala branca e se dirigiu para o vão da escada. "Não te esqueças, por favor, de organizar as compras," relembrou Eve a Mark, "e é melhor encomendares uma garrafa extra de vinho porque a minha mãe vem visitar-nos esta noite."
+
+"Tratarei para que as compras sejam entregues até às seis da tarde" retorquiu Mark. Mark fechou a porta assim que Eve entrou no elevador.
+
+Nessa noita quando Eve estava a arrumar as últimas compras, ouviu-se tocar a campainha da porta. "É a senhora Stewart," disse Mark ao abrir a porta da frente. "Olá senhora Stewart. Espero que tenha tido um bom dia?"
+
+A senhora Stewart, sem responder, dirigiu-se para a cozinha onde ela ouvira Eve a chamar. "Olá querida, como estás?"
+
+"Bem," apressou-se a responder Eve. "Como foi o teu dia?"
+
+"Oh, mais ou menos igual ao costume mas pelo menos não ouve atrasos!".
+
+"Senhora Stewart e Eve, querem um café?" perguntou, politicamente correcto, Mark. A senhora Stewart olhou em direcção a Eve, com um ar de desprezo, e Eve pode sentir o desconforto da sua mãe.
+
+"Não, obrigado Mark," respondeu Eve, "Em vez disso, vou abrir uma garrafa de vinho. Preferes um copo de vinho, mãe?"
+
+"Sim, iria adorar," retorquiu a mãe de Eve.
+
+Os copos foram rolando e Eve e sua mãe conversaram sobre o pai, a família, a casa, o trabalho e todas aquelas coisas que não têm sentido quando uma criança vive longe de casa. Eve adora a visita mensal da sua mãe. A oportunidade de pôr em dia, frente a frente, todas as novidades numa reunião doméstica, é muito mais interessante do que fazê-lo através de uma conversa telefónica ou do correio electrónico, mas Eve sabia que a sua mãe não se sentia confortável no seu apartamento e, apesar de, a sua mãe não o admitir, ela sabia que era por causa do Mark.
+
+Com o jantar passado, e os copos de vinho novamente cheios, Eve decidiu abordar o assunto do Mark mais uma vez.  "Mãe, sabes que eu gosto de viver aqui, mas continuas a pensar que o Mark não faz aqui qualquer falta?"
+
+"Claro querida," respondeu a senhora Stewart, "não me incomoda de modo algum."
+
+"De certeza mãe?" perguntou Eve.  "Porque não respondeste ao Mark durante a noite toda, e por outro lado eu nunca te ouvi falar, em todas as tuas visitas, com o Mark."
+
+"Desculpa, querida.  é difícil para mim; talvez seja uma questão de gerações. Quando te pus ao corrente do Projecto de Desenvolvimento OASIS não fazia ideia que seria assim," a mãe de Eve interrompeu, procurando pelas palavras correctas, "tão inconvencional."
+
+"Mãe, eu gosto dele aqui e se relaxares e lhe deres uma oportunidade, brevemente vais também adorá-lo. O Mark é fantástico. Ele realmente cuida de mim e eu sinto-me segura aqui no meu apartamento sabendo que o Mark está comigo."
+
+"De coração, eu realmente gostaria que não lhe chamasses de Mark. É apenas um simples computador." Interjectivou a mãe de Eve.
+
+"Mark é um sistema de informação e segurança automático via on-line." corrigiu Eve a descrição feita pela sua mãe. "Mark mantém tudo em ordem para mim e é formidável. Sabes dos problemas que tive em manter todas as coisas em ordem, bem, Mark agora cuida de tudo isso por mim."
+
+"Eu sei querida, mas não penso que alguma vez me sinta confortável a falar com aquilo."
+
+"Mãe, por favor, dá-lhe apenas uma forma," persuadiu Eve.
+
+Então, com outra longa golada de vinho, a mãe de Eve inspirou uma lufada de ar e disse. "Está bem. Mark, se vamos continuar a encontrarmo-nos não me chames mais, por favor, senhora Stewart. Chama-me Mary."
+
+[Fim da secção cinco.]
+
+COMO RECEBER ESTE BOLETIM.
+
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com> Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos para assinar!
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com
+Copyright 2001 Headstar Ltd. http://www.headstar.com O Boletim no seu todo ou em parte pode ser reproduzido incluindo este aviso. As Secções do relatório devem ser colocadas entre aspas de forma a ficar claro a sua fonte: 'retirado do Boletim E-Access, uma newsletter mensal distribuída por email', e ainda a referência do nosso endereço do sítio Web http://www.e-accessibility.com.
+
+-**-
+Nota à edição Portuguesa: Caso os leitores portugueses estejam interessados em enviar os seus comentários e sugestões, bem como enviar alguns artigos que abordem as questões de acessibilidade à Sociedade da Informação podem remetê-los, em Inglês ou Português, para o seu editor Dan Jellinek através do e-endereço: dan@headstar.com, ou mesmo para gesta@gesta.org 
+-**-
+
+PESSOAL:
+Director - Dan Jellinek dan@headstar.com
+Vice-director - Phil Cain phil@headstar.com
+Redactor - Tamara Fletcher tamara@headstar.com
+Conselheiro Editorial - Kevin Carey humanity@atlas.co.uk 
+
+[fim da edição.]

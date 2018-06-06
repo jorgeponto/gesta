@@ -1,0 +1,288 @@
++++Boletim E-ACCESS.
+- EDIÇÃO 40, ABRIL 2003.
+
+Notícias sobre Tecnologia para pessoas com deficiência visual
+(http://www.e-accessibility.com).
+Patrocinado pelo RNIB (http://www.rnib.org.uk)
+e pela National Library for the Blind (http://www.nlbuk.org).
+
+NOTA: Reenvie, por favor, este boletim para outros (os detalhes de subscrição encontram-se no final). O presente boletim está conforme com as normas de acessibilidade para Newsletters de texto enviadas por correio electrónico - Text Email Newsletter (TEN). Por exemplo, todos os itens se encontram numerados. Para mais informações consulte: http://www.headstar.com/ten
+
+A edição Portuguesa é uma cortesia da Rede SACI (http://www.saci.org.br) e do GESTA-MP (http://www.gesta.org). 
+Foram tradutores e revisores para Português desta edição:
+Cláudia Cardoso / GESTA
+Cynthia Berriel / SACI
+Jorge Fernandes / GESTA
+Marta Gil / SACI
+
+++ÍNDICE DA EDIÇÃO 40.
+
+01: Quebrada a inacessibilidade aos 'Thin client'
+- Líderes do mercado trabalham em direcção às soluções.
+
+02: Detectados defeitos no teste de 'Licença de condução'
+- Padrões Europeus ao microscópio.
+
+03: Comissão da deficiência estuda a Web
+- 1,000 sítios Web para revisão.
+
+04: Igualdade de recursos para as universidades
+- Assistência para professores com deficiências.
+
+05: Cynthia says
+- Lançada ferramenta de teste à acessibilidade da Web.
+
+Notícias breves: 06: Prémios expostos - prémios Web para Museus; 07: Troca de literatura - livros de computadores on-line; 08: Rumo à normalização - análise política.
+
+Secção dois: 'A Receber' - Fórum dos leitores.
+09: Referência correcta - debate de terminologia; 10: Resposta rectangular - conselho sobre cursor; 11: Impressora amiga da carteira - questão sobre Braille; 12: De novo Bounce back - correcção.
+
+Secção três: Entrevista - Jakob Nielsen.
+- 13: Um fartote de usabilidade: O guru líder da usabilidade e do acesso à Web fala em exclusivo ao Boletim E-Access sobre os pobres resultados dos serviços públicos on-line a nível mundial.
+
+Secção quatro: Opinião - política governamental.
+- 14: Fora do enfoque: com a reestruturação do serviço civil a política da descriminação da deficiência e do acesso universal poderá tornar-se um grupo fragmentado. Reporta Kevin Carey.
+
+Secção cinco: Ponto de vista - caminhos de carreira.
+- 15: Caminhar em frente: Nolan Crabb faz-nos o desenho do seu trajecto profissional, desde estudante a jornalista de sucesso e editor, pondo as tecnologias de acesso ao serviço da sua carreira.
+[Fim do índice.]
+
+++SECÇÃO UM: NOTÍCIAS.
++01: QUEBRADA INACESSIBILIDADE AOS 'THIN CLIENT'.
+
+Uma profunda reestruturação da tecnologia de leitura de ecrã poderá em breve permitir às pessoas deficientes visuais ter acesso aos terminais de computador 'thin client', as máquinas de rede com memória de reduzida dimensão, as quais até hoje se mostraram incompatíveis com tecnologias de acesso especiais, ficou a saber o Boletim E-Access.
+
+São muitas as grandes organizações que se encontram a instalar redes 'thin client', em que a maior parte da informação e das aplicações se encontram residentes num servidor central. As máquinas 'thin' (finas) que se encontram instaladas em cima das secretárias dos utilizadores são pouco mais do que um teclado e um ecrã, fazendo uso da informação e das aplicações à medida das necessidades, aumentando a segurança e cortando nos custos. 
+ 
+Contudo, a maioria dos softwares relacionados com as tecnologias de acesso estão preparados para serem instalados num computador de secretária completo e por isso não irão funcionar num terminal 'thin client'. Isto levou o RNIB a avisar, no ano passado, que existe o perigo do fenómeno vir a tornar-se num recuo de dez a quinze anos na acessibilidade (veja a edição 37, Janeiro 2003, do Boletim E-Access). 
+  
+A quebra deste fenómeno ocorreu numa reunião levada a efeito durante a Conferência Internacional das Tecnologias de Acesso CSUN ocorrida em Março e que juntou representantes do RNIB e do fabricante de tecnologias de apoio GW Micro (http://www.csun.edu/cod/conf). Na reunião, a GW Micro pôde demonstrar um protótipo totalmente funcional do seu leitor de ecrã Window-Eyes num terminal de computador que corria o software "thin client" da Citrix, ficou a saber o Boletim E-Access.
+
+"É um desenvolvimento significativo. Não era conhecido nenhum leitor de ecrã que fosse compatível com esta tecnologia antes da CSUN", disse Ruth Loebl do departamento de tecnologia do RNIB. De acordo com Loebl, outros fabricantes de tecnologias de apoio como sejam a Freedom Scientific, responsável pelo desenvolvimento do popular leitor de ecrã JAWS, encontram-se também a trabalhar em produtos compatíveis com redes 'thin client'. "Ainda estamos um pouco longe de levar este tipo de produtos para o mercado, mas esta demonstração é importante porque mostra que o problema pode ser solucionado", disse ela.
+
+O especialista Inglês de software de acesso, Dolphin Oceanic, confirmou também ao Boletim E-Access que já desenvolveu um protótipo de um leitor de ecrã compatível 'thin-client'. E Loebl disse que a Microsoft tem em mente desenvolver software para servidores 'thin client' acessíveis, "mas é mais difícil ter conhecimento dos progressos alcançados porque os seus fabricantes se encontram atados a acordos de sigilo", disse Loebl.
+
++02: DETECTADOS DEFEITOS NO TESTE DE 'LICENÇA DE CONDUÇÃO'.
+
+Os sistemas normalizados para formação e exame de pessoas que está a ser utilizado no âmbito da Licença Europeia de Condução de Computadores (ECDL - http://www.ecdl.co.uk), um teste internacional de literacia computacional, contém erros de design que podem colocar os utilizadores deficientes visuais em desvantagem, de acordo com o RNIB.
+
+A licença (http://www.ecdl.co.uk) é uma versão do RU do padrão de formação Europeu levado a efeito pela British Computer Society - Sociedade Britânica de Computadores (BCS), consistindo em sete módulos de aprendizagem on-line em competências básicas tais como o manuseio de processador de texto e folha de cálculo. Está a ser rapidamente adoptado por grandes organizações, da IBM ao National Health Service, como um padrão mínima de competência em TI. Os testes podem ser parcialmente automáticos, o que o torna fácil de usar em larga escala.
+
+O RNIB e outras organizações que trabalham com pessoas cegas encontraram-se o mês passado com representantes da BCS e empresas que distribuem localmente a formação, para identificar potenciais problemas com o sistema.
+
+"Até ao momento recebemos mensagens variadas, em que algumas pessoas cegas dizem ter completado o ECDL, e outras dizendo que existem partes que não são acessíveis," disse Zoe Neumann da unidade de Tecnologia do RNIB ao Boletim E-Access. "Tem que ficar claro como o cristal quais são os pontos de atrito, de forma a podermos fazer algo a esse respeito". 
+
+Os últimos relatos que recebemos sugerem que partes da formação e do exame assumem que o formando pode usar o rato, disse Neumann. Preocupação foi também expressa com relação aos formatos usados para a formação, tais como o PowerPoint. "Alguns testes do ECDL pedem ao utilizador para alterar a cor de fundo do ecrã. Ao usar apenas o teclado, isto pode-se revelar extremamente difícil de fazer em PowerPoint," disse ela.
+
+NOTA: os leitores deficientes visuais que tiraram um curso do ECDL estão convidados a contactar o Boletim E-Access dando-nos conta das suas experiências. Use, por favor, o endereço inbox@headstar.com .
+
++03: COMISSÃO DA DEFICIÊNCIA ESTUDA A WEB.
+
+A Disability Rights Commission - Comissão dos Direitos dos Deficientes (DRC - http://www.drc-gb.org) prepara-se para iniciar uma investigação relacionada com a acessibilidade dos sítios Web por toda a Inglaterra, Escócia e Gales, analisando as causas de dificuldades e recomendando formas de tornar a Web mais inclusiva.
+
+A investigação vai contar com uma amostra aleatória de 1,000 sítios Web seleccionados a partir de organizações do sector público e privado, testando a sua conformidade com os padrões de acessibilidade da indústria tal como emanado pela Iniciativa Internacional de Acessibilidade da Web (http://www.w3.org/WAI). Como novidade, farão parte do painel de avaliação 50 pessoas com deficiência que irão fazer testes com maior profundidade numa amostra destes sítios Web. A comissão vai trabalhar em colaboração com uma equipa do Centre for Human Computer Interaction Design da City University London (http://www-hcid.soi.city.ac.uk), liderado pela Professora Helen Petrie.
+
+O projecto tem por objectivo a elaboração de um relatório até ao final de 2003, não fazendo parte mesmo a identificação de organizações particulares, exemplos de boas ou más práticas de design. "A razão pela qual estamos a levar a cabo esta investigação deve-se a que, na globalidade, suspeitamos que a conformidade com os padrões de acessibilidade são bastante baixos, mas não pretendemos enaltecer ou envergonhar ninguém", disse um porta-voz do DRC.
+
++04: IGUALDADE DE RECURSOS PARA AS UNIVERSIDADES.
+
+Foi colocado on-line um novo recurso para os colégios e universidades do RU que pretende assegurar igualdade de oportunidades para todos os seus trabalhadores com deficiência. São responsáveis por tais recursos a Equality Challenge Unit - Unidade para a Mudança da Igualdade, um organismo patrocinado por fundos para o ensino superior do RU e por organismos representativos da promoção da igualdade de oportunidades.
+
+O sítio Web (http://www.ecu.ac.uk) combina consultoria política com recomendações práticas concebidas para combater a discriminação de todos os tipos e ampla diversidade no sector do ensino superior. Ele contém também recursos legais tais como partes do Disability Discrimination Act relacionados com a empregabilidade e a educação (http://www.ecu.ac.uk/disability), códigos de conduta da Disability Rights Commission (http://www.drc-gb.org/campaign/law/code.asp), e recursos úteis de tecnologia da informação como seja a tecnologia acessível existente na agência de educação Techdis (http://www.techdis.ac.uk).
+
+"Esta é uma área significativa de empregabilidade - cerca de 345,000 pessoas no RU estão empregadas no ensino superior", disse um porta-voz do ECU.
+
+Separadamente, o grupo de campanhas da deficiência Skill (http://www.skill.org.uk) foi chamado pelo governo para rever propostas para o novo Departamento para o Acesso Justo (Fair Access Office), um departamento que irá promover um maior acesso aos colégios e às universidades por parte de estudantes de meios desfavorecidos. "As propostas não fazem qualquer menção a estudantes deficientes", mencionou a Skill a semana passada.
+
++05: CYNTHIA SAYS
+
+Um novo grupo internacional que visa apontar quais são as necessidades que as pessoas com necessidades especiais têm para usar a Internet, lançou um serviço grátis para avaliação da acessibilidade de páginas Web.
+
+O Departamento de Deficiência e Necessidades Especiais da Internet Society (Internet Society Disability and Special Needs Chapter) (http://www.isocdisab.org) é o primeiro departamento de caráter não geográfico desta Sociedade, que é uma organização sem fins lucrativos, composta por 11.000 membros individuais e institucionais, de 182 países.
+
+Em conjunto com a empresa de tecnologia HiSoftware e com o Centro Internacional de Recursos da Internet para a Deficiência (http://www.icdri.org), o Departamento desenvolveu o "Cynthia Says" (http://www.cynthiasays.com), um teste on-line de acessibilidade à Web, semelhante ao conhecido software Bobby (http://bobby.watchfire.com).
+
+O Departamento está atualmente convidando pessoas para contribuir com projetos futuros, que incluem a criação de boletins aos associados e a identificação de assuntos a serem tratados.
+
+Filiar-se ao ISOC e ao Departamento é grátis. Para associar-se ao ISOC consulte: http://www.isoc.org/members . E para participar do Departamento de Deficiência e Necessidades Especiais, envie um e-mail para Michael Burks no endereço: mburks952@att.net
+
+++NOTÍCIAS BREVES.
+
++06: PRÉMIOS EXPOSTOS: As nomeações estão feitas pelo "Museums Computer Group" para os prémios de reconhecimento dos sítios Web de museus mais acessíveis, para ser apresentado em memória de Jodi Mattes, uma pioneira neste campo. Os patrocinadores disseram que estão preparados para reconhecer os sítios Web merecedores independentemente da sua dimensão ou orçamento: http://fastlink.headstar.com/mcg1
+A apresentação vai ser feita durante a conferência a ter lugar a 20 e 21 de Maio que marca o fim do projecto Talking Images - Imagens Falantes - de acessibilidade aos museus e às galerias: http://fastlink.headstar.com/talk1
+
++07: TROCA DE LITERATURA: O'Reilly, o editor líder de livros sobre computadores, celebrou um acordo para fazer cópias acessíveis, dos seus títulos existentes, para pessoas com deficiência da visão no RU através da plataforma de partilha de livros norte americana 'Bookshare.org'. O Boletim E-Access dará notícia aos seus leitores quando o serviço for para o ar: http://www.bookshare.org/web/PressReleaseC.html
+
++08: RUMO AOS PADRÕES: Os sectores público e privado desenvolveram com sucesso razoáveis padrões de acessibilidade, mas eles têm ainda de mostrar que pretendem de facto aderir a eles, de acordo com um novo relatório produzido pela associação de acesso universal HumanITy: http://fastlink.headstar.com/humanity1 .
+[Fim da secção um.]
+
+++NOTÍCIA ESPECIAL: 'ACCESS IT' E 'COMPUTE IT'
+- REVISTAS MENSAIS SOBRE TECNOLOGIA DO RNIB.
+
+'Access IT' fornece informação sobre tecnologias de acesso ao computador de particular interesse para pessoas cegas e com baixa visão. Os assuntos tratados nos seus artigos destinam-se quer a utilizadores experientes quer a novatos. A 'Compute IT' foi desenhada para os entusiastas/amadores de computadores e vai trazer-lhe as últimas informações no desenvolvimento de hardware e software.
+
+Pode subscrever qualquer uma das suas versões com envio por email, em formato braille ou disquete, por um preço de 49 cêntimos de libra/por número. Envie um email para os Serviços de Atendimento ao Cliente do RNIB através do endereço: cservices@rnib.org.uk ou telefone para 0845 702 3153
+[Fim da notícia especial.]
+
+++SECÇÃO DOIS: 'A RECEBER'
+- FÓRUM DOS LEITORES 
+- Por favor envie todas as contribuições ou respostas para inbox@headstar.com .
+
++09: REFERÊNCIA CORRECTA: Trevor Frost, Coordenador de Tecnologias de Apoio no Royal Society for the Blind of South Australia (Real Sociedade para os Cegos do Sul da Austrália), deu o mote na última edição quando fez notar que a expressão "deficiência visual" não estava tão correcta como "deficiência da visão", o termo mais utilizado na Austrália - uma vez que é a visão de uma pessoa que está afectada, e não a sua aparência.
+
+Annette Peter concorda: "Como pessoa cega, fico feliz por ser descrita por aquele termo desde que as pessoas compreendam o seu significado; interessou-me ter lido o artigo do senhor Frost. Tenho que concordar que 'deficiência visual' não é um termo correcto, e é um termo com que nunca me senti muito confortável. 'Deficiência da visão' é um termo muito mais correcto e eu gostaria de o ver adoptado neste país [RU]".
+
+Robin Christopherson, consultor Web na instituição Abilitynet, também concorda: "A observação do Trevor para o termo 'deficiência visual' significar que a pessoa não é atraente para se olhar foi de facto felicitada com grande júbilo por mim como predito por ele. Eu sou um residente do Reino Unido.
+
+"Eu nunca pensei nisso antes, mas agora é óbvio que 'deficiência da visão' é um termo melhor. Eu gostaria de ter começado a alterar as muitas dúzias de referências que existem dentro do sítio Web da AbilityNet e das nossas numerosas brochuras sobre tecnologia para indivíduos com incapacidade".
+
++10: RESPOSTA RECTANGULAR: O mês passado John Loader escreveu em nome da sua sogra perguntando se alguém conhecia software que pudesse alterar o cursor do computador para um grande rectângulo preto.
+
+Terry Balon respondeu: "Em relação à pergunta sobre cursores de grandes dimensões, comprei o conjunto de cursores da Valerix MetaMouse e verifiquei que é absolutamente fabuloso para as necessidades da minha família. Temos a possibilidade de alterar a cor do cursor, dar-lhes um rebordo e assim sucessivamente para cada uma das nossas necessidades individuais sem grande problema. Pode descarregar gratuitamente uma versão de demonstração ou comprar em diferentes sítios inclusive no http://www.regsoft.com ". 
+
+Robin Christopherson acrescenta: "O Windows ME e o Windows XP têm uma característica na opção 'Acessibilidade' (Start Menu/Settings/Control Panel - Iniciar/Configurações/Painel de Controlo) para fazer isto. Vá à página 'Display' - Monitor/Ecrã - desta caixa de diálogo e aí encontra um slider - botão deslizante - para ajustar o tamanho do cursor intermitente.
+
+"Infelizmente, contudo, a alteração não é universal. Consegue-se obter o gordo cursor no Bloco de Notas e em todas as áreas do Windows em que se digita texto (tal como na caixa de diálogo 'Procurar Ficheiros e Pastas') mas não no WordPad ou, mais importante, no Microsoft Word.
+
+"Para um cursor gordo no Word, a única opção que conheço é utilizar um pequeno programa chamado "follow.exe" (que a AbilityNet pode enviar sem custos) e que acopla o cursor do rato ao cursor intermitente. Ao mover o rato ele liberta-se, mas assim que o cursor intermitente se movimenta, o do rato cola-se de imediato àquele e segue-o. Quando o ponteiro do rato se encontra sobre a janela do documento continua a ser uma fina linha, mas pode facilmente redefini-lo para algo realmente com grande visibilidade, como por exemplo uma enorme seta preta.
+
+"Poderá contactar a AbilityNet pelo email enquires@abilitynet.org.uk ou visitar http://www.abilitynet.org.uk". 
+[Para mais respostas use inbox@headstar.com].
+
++11: IMPRESSORA AMIGA-DA-CARTEIRA: Anthony Bernard do Sri Lanka, leitor do Boletim desde há muito, escreve a perguntar a todos os nossos leitores qual, segundo experiência própria, a melhor e mais forte impressora Braille para utilização pessoal, e de igual modo importante, a mais conveniente para a carteira? [Respostas para inbox@headstar.com]. 
+
++12: NOVAMENTE A BOUNCE BACK : Jackie Wright (email wright.jackie@btinternet.com), que escreveu no mês passado a solicitar comentários sobre o currículo de desenho acessível e procura de emprego no sítio 'Bounce Back' (http://www.bounceback.org.uk), gostaria de chamar a atenção para o facto da sua firma Disability Dynamics não ser uma empresa de tecnologia como referimos mas sim de consultoria em deficiência. Ela diz: "Nós aconselhamos organizações de emprego para pessoas deficientes e organizações de provisão de serviços acessíveis. Também aconselhamos escolas sobre leis da acessibilidade".
+[Fim da secção dois].
+
+++SECÇÃO TRÊS: ENTREVISTA
+- JAKOB NIELSEN
+
++13: UM FARTOTE DE USABILIDADE?
+por Dan Jellinek  dan@headstar.com .
+
+Um dos principais defensores da usabilidade na Web, Jakob Nielsen, esteve na Inglaterra em Março deste ano, coordenando uma série de seminários de uma semana de duração. Em conversa com o Boletim E-Access, ele falou sobre as conexões entre usabilidade e acessibilidade, e a falta de dados nos sites do governo, especialmente no que se refere às necessidades dos usuários com deficiência.
+
+Nielsen diz que a área de usabilidade - a facilidade do usuário de encontrar informação em um site e efetuar uma transação - se sobrepõe, em muitos casos, com a da acessibilidade - a facilidade com que as pessoas com diferentes necessidades ou que façam uso de mecanismos de acesso especiais possam ter acesso à informação nos sites.
+
+"Frequentemente, a acessibilidade é vista como algo totalmente diferente da usabilidade, mas, na verdade, o modo como se apresenta a informação é tão importante para a acessibilidade quanto o mero fato de se poder chegar até ela.
+
+Mesmo quando um website é acessível por meio de vários padrões técnicos e, por exemplo, é capaz de ser lido em voz alta com o leitor de telas, se houver uma longa lista de opções de menu, a usabilidade será muito prejudicada."
+
+Tanto a usabilidade quanto a acessibilidade são acessadas do mesmo modo, testando as necessidades reais das pessoas, diz ele. E ambas abrangem não apenas o uso por pessoas com deficiências, mas também por pessoas com diversos níveis de educação e de habilidade no uso de computadores, acrescenta.
+
+Nielsen (http://www.useit.com/jakob) é o diretor da empresa de consultoria de projetos voltados para o usuário, o Grupo Nielsen Norman (NN/g - http://www.nngroup.com) do qual foi o co-fundador, junto com Donald Norman, o ex-vice-presidente de pesquisas da Apple Computer. Antes disso, ele trabalhou como engenheiro senior da Sun Microsystems, tendo auxiliado a empresa a estabelecer seus primeiros serviços na Web.
+
+A NN/g fez testes bem completos de sites governamentais nos EUA e na Austrália, e Nielsen diz que suas próprias revisões informais de sites de serviços públicos em outros países, inclusive na Inglaterra, mostraram que as lições a serem aprendidas são universais. "Os sites governamentais são muito irregulares. Uma vez por outra, nos deparamos com alguns que podem ser considerados bons, mas nem de longe são tão bons quanto deveriam ser," diz ele. "Eles atingem os menores níveis de pontuação em nossos testes de usabilidade".
+O maior problema dos sites de setores públicos é que eles são muito focados em suas próprias estruturas e iniciativas departamentais internas, ou em seus atuais programas de trabalho, e não no tipo de informação que os usuários provavelmente estarão buscando. Diz Nielsen:
+
+"Isto denota um pensamento burocrático. Você vê um pouco disso em sites empresariais, mas este tipo de pensamento é predominante em sites governamentais." Ele diz que as agências governamentais podem ter dificuldade em ver a necessidade de investir dinheiro na melhoria da usabilidade, já que não têm a mesma política de 'retorno sobre o investimento' das empresas" mas o fato é que a maior usabilidade aumenta a satisfação do cidadão, o que é, em minha opinião, o motivo principal de termos um governo."
+
+Na verdade, as agências governamentais têm ainda maior necessidade de pensar sobre usabilidade do que as empresas, afirma ele. "Sites comerciais podem encontrar uma solução de acomodação e decidir atingir apenas alguns clientes, que lhes trarão mais dinheiro. Mas, em relação ao governo, não se pode dizer a mesma coisa, você não pode optar por servir apenas uma parte da população."
+
+A empresa de Nielsen é uma das pioneiras de testes controlados de usuários de sites, que ele acredita ser a única maneira de se avaliar adequadamente a usabilidade de um site. Um grupo de usuários comuns é observado enquanto tenta realizar tarefas na Web, tais como encontrar um formulário de impostos ou uma rota de ônibus. "É muito comum que as pessoas não consigam encontrar o que estão buscando - o que é trágico. E isto porque as agências governamentais que nos procuram são as que se preocupam com a usabilidade. A maioria das agências nem ao menos se preocupa com esse assunto."
+
+Nielsen cita um site do governo americano que tem alto grau de usabilidade, o do Departamento de Segurança Interna, com informações sobre como se preparar para reagir contra diversas formas de ataques terroristas -  http://www.ready.gov
+
+"O site explica o que fazer com palavras claras e simples. Mas é um projeto novo; portanto, foi fácil inserir a usabilidade."
+
+Nos EUA, a exigência de observar padrões de acessibilidade em todos os contratos de tecnologia com o governo, estabelecidos na secção 508 da Lei de Reabilitação (http://www.section508.gov) aumentou o nível de consciência sobre este assunto, diz ele. Mas o progresso é lento, já que afeta principalmente os novos projetos. "A Secção 508 chamou a atenção sobre o assunto da acessibilidade, mas na prática não foi grande o número de sites a serem afetados. Os principais ministérios levaram tempo demais para implementar a acessibilidade."
+
+No que diz respeito aos custos exatos para tornar um site mais usável e acessível, Nielsen afirmou que se pode realmente gastar muito dinheiro nesse projeto, e que foi correto que grandes organizações com sites de acesso ao público fizessem tal investimento, mas que é possível também fazer ao menos algum progresso com um custo baixo.
+
+"Não existe o que se poderia chamar de interface perfeita, um site que seja igualmente usável por todos. E atingir uma situação dessas seria muito caro. Mas as pessoas não devem pensar que existe apenas uma escolha binária entre um site horroroso e um site perfeito. A despeito do orçamento, você sempre pode fazer melhorias em um site. Em três dias você pode fazer alguns testes e fazer uma lista das dez coisas que precisam ser feitas para melhorar a usabilidade. Deve-se atacar primeiro os blocos mais problemáticos."
+[Fim da secção três.]
+
+++SECÇÃO QUATRO: OPINIÃO
+- POLÍTICA GOVERNAMENTAL.
+
++14: FORA DA MIRA
+por Kevin Carey  humanity@atlas.co.uk .
+
+No início do ano redigi um documento a que chamei de a política de acessibilidade deve ser centralizada num só lugar, quer no RU quer na Europa.
+
+O documento argumentava que na UE, a acessibilidade deveria ser responsabilidade da Direcção-Geral da Sociedade da Informação, e no RU ela deveria ser coordenada pelo Departamento do e-Envoy (OeE - http://www.e-envoy.gov.uk), o órgão responsável pela política tecnológica governamental, de carácter transversal, bem como da respectiva implementação sedeada no Conselho de Ministros.
+
+Ainda tenho uma hipótese com relação ao primeiro objectivo, mas tenho estado a re-escrever o documento no que diz respeito à secção dedicada ao RU porque o OeE perdeu um quarto do seu orçamento e, presumo, que três quartos da sua importância na coordenação de funções.
+
+Isto deixa-nos numa posição desvantajosa para lutar pela salvaguarda de algo que não amamos muito, mas o facto é que o OeE é o melhor mecanismo que temos. No RU, não existe pura e simplesmente mais nenhum sítio para onde ir. Devemos tentar a Disability Rights Commission a qual, melhor tarde do que nunca, acabou por se interessar pela acessibilidade à Web (veja as notícias desta edição); ou devemos colocar todas as nossas esperanças no novo regulador da rededifusão e telecomunicações 'Ofcom' (http://www.ofcom.org.uk). Mas quando chegar o momento do próprio governo cumprir com os regulamentos de acessibilidade, o melhor mecanismo é um órgão idêntico ao Departamento e-Envoy, o qual é reconhecido por ser interdepartamental.
+
+O que não queremos é uma situação em que os quatro departamentos governamentais  - o Departamento para a Educação e Ciência, o Departamento para o Trabalho e Pensões, o Departamento para a Cultura, Media e Desporto e o Departamento de Comércio e Indústria - com maior interesse na política tecnológica, se digladiem por obter a honra de coordenar o acesso à deficiência e que lhes falte o tempo para implementar o que quer que seja.
+
+Entretanto, durante os últimos cinco anos o grupo de influência pela acessibilidade não o tem feito de forma suficiente em relação à rededifusão.  
+A UE (tal como foi referenciado na última edição do Boletim E-Access) encontra-se na última volta da legislação em relação à TV digital e ao acesso por banda larga, e o diploma em fase de rascunho não faz sequer qualquer menção ao acesso por parte de deficientes. Nem o Diploma legal das Comunicações do RU, que está prestes a passar pelo Parlamento.
+
+Da mesma forma, do expoente máximo no RU que constitui o e-Envoy, e o seu gestor Andrew Pinder, descendo até ao mais modesto departamento de política social, verificamos que todos cometeram o mesmo erro. Temos vindo a viajar rumo ao futuro com os nossos traseiros virados para o motor, concentrando-nos, na Era da Informação, nos computadores em vez de nos apoiarmos na indústria da informação a qual tem sido conduzida pela rededifusão e que será fornecida através do telefone. Em consequência disso, enquanto a nossa preocupação se tem centrado pura e simplesmente na acessibilidade dos sítios Web, a rededifusão, as telecomunicações e os seus interfaces de utilizador têm vindo progressivamente a ficar fora de controlo como resultado da globalização.
+
+A realidade ao nível político revela que o OeE já não pode fazer muito na luta de cães que trava com a DTI e, começa a revelar-se muito claro, que não existe muito que o OeE possa fazer pela governação transversal, porque existem demasiados interesses departamentais a atrapalhar o caminho. Isto não é surpreendente. Quando fomos chamados a juntarmo-nos ao governo, esquecemo-nos por exemplo que a NHS, como uma das maiores entidades corporativistas do RU, tinha suficientes problemas para encontrar em si uma política tecnológica comum, que por si só incorpora o DfES, ele próprio do tamanho do grupo bancário HSBC.
+
+Por isso, parece que o OeE irá em breve navegar até ao pôr-do-sol tecnológico: uma entidade que chegou tarde, fez muito pouco e partiu muito cedo. Entretanto, precisamos de começar a pensar noutra entidade centralizadora. Poderá ser a Disability Rights Commission, mas o problema é que mesmo esta corporação irá em breve ver-se envolvida com a Equal Opportunities Commission - Comissão pela Igualdade de Oportunidades - e a Commission for Racial Equality - Comissão pela Igualdade Racial - numa comissão pela igualdade de âmbito geral.
+
+Poderá ser que as maiores organizações não governamentais (ONGs) ligadas à deficiência tenham que se juntar e dar início à sua própria agência de pequena dimensão mas cheia de potencial.  
+
+O problema com este percurso prende-se com o facto de ser necessário existir autonomia e as ONGs que gastam grande parte do seu tempo com reivindicações mesquinhas não são muito boas a transformar aquilo que percepcionam em competitividade. Mas já não temos mais tempo para produzir mais papelada sobre esta matéria: é preciso somente fazer.
+
+NOTA: Kevin Carey é Director do HumanITy (http://www.humanity.org.uk), uma organização social que centraliza a sua actividade na tecnologia e na inclusão social.
+[Fim da secção quatro.]
+
+++SECÇÃO CINCO: PONTO DE VISTA
+- CAMINHOS DE CARREIRA.
+
++15: PARA A FRENTE É QUE SE ANDA
+por Nolan Crabb  ncra@teleport.com .
+
+Existe um antigo provérbio chinês que nos ensina que "Uma jornada de mil milhas deve começar com um só passo."
+
+Para mim, a jornada de uma carreira como escritor começou no colegial, com um simples gesto de levantar a mão. Durante uma aula do curso de jornalismo, me ofereci para escrever a coluna semanal de atividades da escola para o Ogden Standard-Examiner, o jornal diário da cidade de Ogden, no estado de Utah, Estados Unidos, onde cresci. Essa coluna me levou a um estágio no jornal enquanto cursava a faculdade e, então, ao meu primeiro emprego como repórter.
+
+Desde essa época, já tive muitos empregos como escritor em várias cidades, por todo o país. Por um breve período, deixei de lado totalmente a escrita para dar aulas de tecnologia. Como poderia eu gerir uma carreira que implica em tantas mudanças e viravoltas? 
+
+O primeiro ponto importante que gostaria de deixar claro é que, seja você uma pessoa cega ou com baixa visão, não tenha medo de correr riscos e siga seus instintos. Já passei por sete empregos e morei em todos os fusos horários dentro dos EUA desde 1982. Muitos diriam que tal estilo de vida é instável ou problemático, mas eu achei que tais mudanças de emprego eram novas oportunidades que me permitiriam melhorar minha vida e a de minha família.
+
+Cada mudança teve seus próprios riscos. Em 1986, mudei de Chicago para o Norte da Califórnia. Soube de um trabalho em uma empresa pequena que fazia boletins para várias empresas. Usei todas as minhas parcas economias para pagar uma passagem de avião para a Califórnia para fazer a entrevista. Tolice? Talvez. No final do dia, porém, tinha uma oferta de emprego e, repentinamente, minha aparente loucura tinha valido a pena.
+
+Não recomendo que todos vivam, como eu, uma vida nômade. Mas após ter se informado sobre o emprego que deseja, talvez precise se mudar para uma cidade maior para garantir esse emprego. Situações conhecidas são maravilhosas, mas também podem sufocar. A alternativa a se arriscar pode ser torna-se um velho amargo, obcecado com empregos e com o que poderia ter sido. É importante planejar-se para a possibilidade de fazer uma entrevista. Querer muito trabalhar não é o suficiente. Na última hora, quando estava saindo de casa para a tal entrevista para o emprego, agarrei o meu Optacon - um aparelho que permite que cegos possam ler material impresso, coloquei-o em minha mala e fui para o aeroporto.
+
+Durante a entrevista, o presidente da empresa me disse que eu deveria fazer um teste escrito. Entregou-me duas páginas, com anotações sobre um negócio na área de imóveis. "Transforme isto em uma notícia interessante," disse ele. "Tenho que fazer uma outra entrevista; não posso ficar aqui e ler essas notícias para você. Talvez alguém da equipe possa fazer isso, mas ..." Eu o interrompi e garanti que se as notas não fossem escritas à mão, eu poderia dar conta do recado. Ainda bem que havia trazido o meu Optacon. 
+
+Não estou aqui sugerindo que se possa planejar todas as possibilidades. Mas pode-se tomar parte ativa na sua entrevista, se anteciparmos algumas das questões que serão perguntadas. Melhor ainda, pense em como apresentar abertamente, do seu ponto de vista, algumas das preocupações que o entrevistador poderá ter receio de perguntar.
+
+Mergulhe em sua carreira. Isso não quer dizer que deva passar todas as suas horas no escritório, deixando de lado sua família e todos os outros vestígios de vida. O que eu quero dizer é: mergulhe nas publicações da área; aprenda o jargão; aprenda algo sobre as pessoas da área. Envolvendo-se com a literatura relativa a sua atividade, você se encontrará mais bem preparado para mudar o modo como faz as coisas, para não correr o risco de se tornar um dinossauro que só traz problemas.
+
+Ler as publicações específicas de sua área é também uma excelente forma de saber a respeito de oportunidades de emprego. Caso você esteja apenas dando uma olhada nos jornais e nos classificados da Internet, poderá estar perdendo algumas excelentes oportunidades que são publicadas em revistas de veiculação específica. O advento da Internet facilitou ainda mais a leitura dessas revistas.
+
+A Tecnologia é uma coisa excelente, porém atitude aliada à tecnologia é ainda melhor. Não há dúvidas de que conseguir e manter um emprego depende muito da tecnologia a qual você tem acesso, e da facilidade de acessar tal tecnologia. 
+
+Minha primeira experiência com computadores em um jornal foi em 1977, enquanto eu ainda fazia faculdade. Aqueles computadores não falavam e não havia dispositivo para leitura em braille. Tive que decorar longas sequências de teclas para poder arquivar uma história no editorial. Mas, à medida que meus empregos mudavam, mudava também minha habilidade no uso da informática.
+
+Durante anos, tive medo de trocar o DOS pelo Windows. Quando estava pensando em fazer essa mudança, eu estava trabalhando no Conselho Americano para os Cegos, na época em que Leroy Saunders era presidente. Conversei com ele sobre meus temores, e ele, com seu modo direto, que é sua marca registrada, disse com um sorriso: "O problema não é a informática, é sua atitude." Ele tinha razão. Em Janeiro de 1997, eu estava usando o Windows com um leitor de tela.
+
+Portanto, se você está buscando a carreira certa ou quer mudar de emprego, comece pelos pequenos primeiros passos. Para mim, tudo começou com um simples gesto de levantar a mão - aquele foi o meu primeiro passo em direção a uma carreira produtiva e agradável.
+
+OBSERVAÇÃO: Nolan Crabb é o diretor assistente da Dialogue (http://www.blindskills.com), uma revista americana para portadores de deficiência visual de todas as idades.
+
+Este artigo foi impresso com a permissão da Dialogue, no inverno de 2002. A revista Dialogue é encontrada em braille, em tipos ampliados, em cassete e disquete. Para obter um exemplar grátis, envie um e-mail para blindskl@teleport.com, ou, se estiver nos EUA, ligue para (800) 860-4224.
+[Fim da secção cinco.]
+
++COMO RECEBER ESTE BOLETIM.
+
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com>. Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos a assinar!
+
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com
+
+Copyright 2003 Headstar Ltd http://www.headstar.com.
+O Boletim pode ser reproduzido desde que todas as partes incluam esta nota de copyright, e desde que as pessoas sejam encorajadas a contactar-nos por email para subscrever de forma individualizada. Informe também o editor quando pretenda reproduzir os nossos conteúdos. As secções deste relatório podem ser citadas desde que estejam claramente referenciadas com a indicação "retirado do boletim e-access, uma newsletter mensal enviada por email gratuitamente", citando também o endereço do nosso sítio Web http://www.e-accessibility.com.
+
+-**-
+Nota à edição Portuguesa: Caso os leitores portugueses estejam interessados em enviar os seus comentários e sugestões, bem como enviar alguns artigos que abordem as questões de acessibilidade à Sociedade da Informação podem remetê-los, em Inglês ou Português, para o seu editor Dan Jellinek através do e-endereço: dan@headstar.com, ou mesmo para gesta@gesta.org 
+-**-
+
+PESSOAL:
+Director - Dan Jellinek dan@headstar.com
+Vice-director - Phil Cain phil@headstar.com
+Redactor - Tamara Fletcher tamara@headstar.com
+Conselheiro Editorial - Kevin Carey humanity@atlas.co.uk 
+
+[fim da edição.]

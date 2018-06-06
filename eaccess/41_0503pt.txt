@@ -1,0 +1,219 @@
++++Boletim E-ACCESS.
+- EDIÇÃO 41, MAIO 2003.
+
+Notícias sobre Tecnologia para pessoas com deficiência da visão
+(http://www.e-accessibility.com).
+Patrocinado pelo RNIB (http://www.rnib.org.uk)
+e pela National Library for the Blind (http://www.nlbuk.org).
+
+NOTA: Reenvie, por favor, este boletim para outros (os detalhes de subscrição encontram-se no final). O presente boletim está conforme com as normas de acessibilidade para Newsletters de texto enviadas por correio electrónico - Text Email Newsletter (TEN). Por exemplo, todos os itens se encontram numerados. Para mais informações consulte: http://www.headstar.com/ten
+
+A edição Portuguesa é uma cortesia da Rede SACI (http://www.saci.org.br) e do GESTA-MP (http://www.gesta.org).
+Aviso: A versão Portuguesa contém artigos mesclados em duas variantes da língua Portuguesa: português europeu e português brasileiro.
+Foram tradutores e revisores para Português desta edição:
+Cláudia Cardoso / GESTA
+Cynthia Berriel / SACI
+Jorge Fernandes / GESTA
+Marta Gil / SACI
+
+++ÍNDICE DA EDIÇÃO 41.
+
+01: Acesso negado
+- falhas encontradas nos testes de votação electrónica.
+
+02: Em teste na escola sistema de assistência controlado remotamente
+- sistema obvia necessidade de visitas pessoais.
+
+03: O Portal 'A-sites' vai para o ar
+- motor de busca de sítios Web acessíveis.
+
+04: Pesquisa revela parca consciencialização no Estado em relação aos temas de acesso.
+- mensagens variadas dos serviços públicos.
+
+Notícias breves: 05: Exibindo a excelência - museu premiado; 06: Techshare 2003 - chamada à apresentação de trabalhos; 07: Comunicado cultural - Iniciativa Europeia.
+
+Secção dois: 'A Receber' - Fórum dos Leitores.
+08: DISCworld - Cartões inteligentes Suffolk; 09: Teste de condução - Ferramentas da licença Europeia; 10: Catalizar debate - teoria de acesso.
+
+Secção três: Entrevista - Michael Burton.
+11: Janela para o mundo: Jemima Kiss fala com o comissário para os direitos dos deficientes numa missão de assegurar os fundamentos agora na linha da frente em todo o mundo dos serviços digitais não representarem desvantagens para as pessoas com deficiência.
+
+Secção quatro: Ronda - internacional.
+12: Acesso a todas as áreas: Os passados 12 meses viram surgir diversos desenvolvimentos em todo o mundo que asseguram que a tecnologia será acessível a todos. Mel Poluck reporta.
+
+[Fim do índice.]
+
+
++INFORMAÇÃO PUBLICITÁRIA: CONFERÊNCIA NADO.
+
+A National Association of Disability Officers (NADO) vai levar a efeito a sua conferência anual na University of Lincoln em 1 e 2 Julho 2003.
+
+A conferência centrar-se-á no papel, responsabilidades, competências, nos termos e condições de emprego das pessoas que trabalham com estudantes com deficiência, nas 16 direcções educativas. Será composta por apresentações e workshops, demonstrações de fornecedores e um jantar, representando uma oportunidade de troca de experiências.
+
+Os delegados estão convidados a darem-nos conta das suas necessidades, as quais faremos todos os possíveis por satisfazer. Estão disponíveis um programa provisório e um formulário de inscrição que podem ser solicitados pelo endereço janepawluk@btopenworld.com ou a partir do nosso sítio Web: http://www.nado.ac.uk .
+
+[Fim da informação publicitária].
+
+++SECÇÃO UM: NOTÍCIAS.
++01: ACESSO NEGADO.
+
+Muitos dos serviços Web fornecidos pelos municípios para os testes de e-votação em Maio de 2003 durante as eleições locais foram difíceis de encontrar e de navegação confusa, e as páginas informativas que explicavam o processo aos votantes eram, na generalidade, ainda piores, de acordo com uma pesquisa levada a efeito pelo RNIB (http://www.rnib.org.uk). 
+O resultado deu em serviços inacessíveis às pessoas com deficiência de visão, as quais precisam de simples sítios Web estruturados para usar interfaces texto para fala e/ou texto para braille.
+
+O teste piloto deste ano, o maior realizado até hoje, disponibilizou tecnologia para cerca de 1,5 milhões de votantes recolhendo os seus votos através da Internet, telefones de tons, mensagens de texto, TV digital e Quiosques. O governo definiu para si próprio como objectivo oferecer o e-votação a nível nacional nas próximas eleições legislativas.
+
+Em 2002, o RNIB solicitou ao governo para incluir testes de acessibilidade no processo de diagnóstico piloto. "Do gabinete do Primeiro-ministro foi-nos dito que não seria necessário pois o assunto tinha sido equacionado e estava em curso. Os nossos resultados sugerem que não foi propriamente o caso," disse o instituto. "No futuro, iremos contactar todos os municípios e lembrar-lhes os seus deveres no respeito pelos direitos humanos e pela lei anti-discriminação. Queremos ver um esquema em que todas as autoridades envolvidas nos testes piloto compilem e partilhem a informação das necessidades dos votantes e partilhem as boas práticas."
+
+O relatório do RNIB será integrado no relatório da Comissão Eleitoral (http://www.electoralcommission.gov.uk) sobre e-votação a ser publicado no final deste ano. O relatório irá também incluir algumas pesquisas da Disability Rights Commission (http://www.drc-gb.org), e da Scope, associação ligada à deficiência motora (http://www.pollsapart.org.uk/survey.asp).
+
+NOTA: Este artigo apareceu originalmente na edição deste mês do Boletim VoxPolitics, a newsletter nossa irmã sobre e-democracia. Para subscrever use o endereço: voxpol-subscribe@voxpolitics.com .
+
++02: ASSISTÊNCIA CONTROLADA REMOTAMENTE EM TESTE NA ESCOLA.
+
+Está em curso um teste de um serviço que permite a uma equipa de suporte técnico aceder remotamente, via Internet, aos computadores instalados nas escolas. A ter sucesso, tal serviço poderá reduzir drasticamente o tempo que as pessoas com deficiência gastam a resolver os problemas com as tecnologias de apoio, de acordo com a associação Abilitynet (http://www.abilitynet.org.uk), um parceiro do projecto.
+
+O serviço, que está a ser disponibilizado a uma escola de alunos com deficiência e que conta com o apoio do projecto, financiado pelo Estado, Communication Aids (Ajudas à Comunicação) (CAP - 
+http://cap.becta.org.uk), permite aos utilizadores de PC contactar a equipa de assistência através de um sítio Web. Se o problema não puder ser resolvido por email ou através do telefone, os utilizadores têm a opção de permitir à equipa de assistência, acesso remoto integral à sua máquina, permitindo-lhes ver e alterar os ficheiros e os sistemas sem terem de fazer uma visita pessoal ao local.
+
+"Isto ainda está numa fase embrionária mas esperamos disponibilizar este serviço a 200 utilizadores, ou algo do género, nos próximos meses," disse o director de operações da Abilitynet, David Bains. De acordo com Bains, o serviço pode ser valioso para a generalidade da comunidade de pessoas com deficiência que dependem dos PCs. "Existe uma grande brecha entre o apoio que recebemos via telefone e o que é recebido localmente - isto pode ajudar a atenuar esta brecha", disse ele. 
+
+O serviço trabalha através de um modem de 56k e não requer a instalação de equipamento especial no PC. O utilizador pode solicitar à equipa de apoio para não aceder aos ficheiros ou aplicações que contém material confidencial e interromper a conexão a qualquer momento. Se o problema não puder ser resolvido, é devolvida ao PC a sua configuração original. "Isto é bastante útil para as pessoas com deficiência da visão que se encontram a usar um computador pela primeira vez, caso por exemplo quando têm problemas na instalação da sua impressora ou da placa de áudio," disse Bains.
+
++03: O PORTAL "A-SITES" INICIA SUAS ATIVIDADES.
+
+O portal "A-sites" (http://www.a-sites.org), um serviço da Web, ansiosamente aguardado, que fornece um banco de dados com possibilidade de busca, foi lançado pela National Library for the Blind (Biblioteca Nacional para os Cegos - NLB - http://www.nlb-online.org).
+
+O serviço contém 750 sites, atualmente, de acordo com informação fornecida pela NLB, que iniciou a sua construção em meados do ano passado (veja matéria publicada na edição 31 do Boletim E-Access, de julho de 2002). A data de lançamento original, programada para Outubro de 2003 foi adiada para contemplar o projeto de reforma do web site principal da biblioteca.
+
+O lançamento do site faz parte da contribuição da NLB para uma campanha do governo federal que encoraja indivíduos e grupos sociais que ainda não façam uso da Internet a se juntarem aos usuários da rede, e a dar o pontapé de saída. Outra missão da biblioteca é organizar sessões de testes de acesso à Internet em bibliotecas de todo o país (ver: http://fastlink.headstar.com/nlbuk2);
+
++04: PESQUISA REVELA PARCA CONSCIENCIALIZAÇÃO NO ESTADO EM RELAÇÃO AOS TEMAS DE ACESSO.   
+
+Uma nova pesquisa revelou que apenas cerca de metade daqueles que trabalham na criação de serviços governamentais on-line (55 por cento) disseram que estão "muito conscientes" das matérias que lhes permitem construir serviços acessíveis para pessoas com deficiências.
+
+36 por cento dos inquiridos disseram já ter ouvido falar sobre o tópico da acessibilidade, apesar de terem grande falta de conhecimento sobre o assunto; e 9 por cento "têm pouco ou nenhum conhecimento sobre o assunto."
+
+A pesquisa foi publicada a semana passada no 'E-Government Outlook 2003-2004,' o primeiro relatório de folgo sobre a situação dos serviços da governação electrónica no RU, publicado pelo Headstar, o mesmo editor do Boletim E-Access. Uma versão acessível do relatório será disponibilizada brevemente - para mais detalhes contacte por favor através do email: access-outlook@headstar.com .
+
+++NOTÍCIAS BREVES.
+
++05: EXIBIR A EXCELÊNCIA: O Museu Nacional da Marinha (http://www.nmm.ac.uk) tornou-se esta semana o primeiro vencedor do prémio do "UK Museums Computer Group's Jodi Mattes award" (Prémio Jodi Mattes do Grupo de Museus Computorizados do RU) para a acessibilidade Web: http://fastlink.headstar.com/mcg2 .
+
++06: TECHSHARE 2003: A conferência anual 'Techshare' sobre tecnologias de acesso, do RNIB, está à procura de potenciais oradores, os quais serão recompensados com uma redução na sua taxa de inscrição. A data de encerramento para as participações é 31 Julho 2003: http://www.techshare.org.uk .
+
++07: DECLARAÇÃO CULTURAL: Um grupo de pressão que tem por objectivo estabelecer os direitos de acesso à vida cultural da Europa para pessoas com deficiência, 'EUCREA International', lançou uma campanha para obter apoio para os seus objectivos: http://fastlink.headstar.com/eucrea .
+[Fim da secção um.]
+
+++SECÇÃO DOIS: 'A RECEBER'
+- FÓRUM DOS LEITORES. 
+
+- Por favor envie todas as contribuições ou respostas para inbox@headstar.com
+ 
++08: DISCWORLD: Geoff Doggett, chefe de projecto no Órgão consultivo do distrito de Mid Suffolk, escreve-nos para pedir a opinião dos leitores no que diz respeito ao projecto 'Suffolk Disc', uma iniciativa planeada para distribuir cartões inteligentes com benefícios concessionados a pessoas registadas no distrito como tendo incapacidades. 
+
+Os fornecedores típicos que terão descontos para os seus serviços serão bibliotecas (que cobram geralmente uma taxa para serviços como: aluguer de cassetes ou CD); centros de lazer; operadores de autocarros; e retalhistas. O cartão também funcionará como fonte de identificação único quando solicitado para prova de morada ou para efeitos de benefícios fiscais concelhios, evitando a necessidade de identificações múltiplas e prova de elegibilidade perante múltiplos departamentos e organizações.
+
+"Gostaria de saber, e compreender, as implicações do uso de cartões inteligentes por pessoas com deficiência da visão, especialmente as características físicas do cartão, como formas de tratar os gráficos existentes na sua superfície e a possibilidade de adicionar uma etiqueta identificadora (ID) em Braille," diz Doggett. 
+
+"Existe também alguma questão acerca da utilização de fotografias em tais cartões? Ficaria muito grato por qualquer conselho." [Por favor enviar respostas para inbox@headstar.com].
+
++09: TESTE DE CONDUÇÃO: Thomas Connole da República da Irlanda escreve-nos, dando resposta à nossa história da secção notícias do mês passado sobre a acessibilidade da Carta Europeia de Condução em Informática ou outra forma de efectuar o teste de literacia em informática. 
+
+"Estou a frequentar o curso de formação da Carta Europeia de Condução em Informática e o único problema com que me confrontei ficou a dever-se à utilização do PowerPoint, que se revelou um pouco inacessível para mim pois tive que ter ajuda para utilizar o rato", diz. [Se tem outras experiências, por favor escreva para inbox@headstar.com].
+
++10: CATALIZAR DEBATE: Jorge Fernandes do Grupo de Estudos Sociais, Tiflológicos e Associativos (GESTA) de Portugal, que também coordena a tradução Portuguesa do nosso Boletim, escreve-nos para ver se consegue pôr em debate algumas das interessantes teorias recentemente publicadas pelo perito em usabilidade Web, Jakob Nielsen.
+
+Na edição de Abril da sua newsletter "AlertBox" (Caixa de Alerta), diz o Jorge, Nielsen escreveu um artigo intitulado 'Alternative interfaces for accessibility' ('Interfaces alternativos para a acessibilidade' -  http://www.useit.com/alertbox/20030407.html). A peça avança com duas ideias principais: primeiro, que "A diferença chave entre 'interfaces de utilizador' para utilizadores normovisuais e utilizadores cegos não está entre o texto e os gráficos; está entre o 2-D e o 1-D [informação estruturada em duas-dimensões e uma-dimensão]," e segundo, que "o grande potencial só é conseguido [para leitores cegos e com baixa visão] quando se cria um design específico, optimizado para apresentações áudio.
+
+O Jorge está interessado em saber se os leitores do Boletim E-Access concordam com esta afirmação, e se assim for, qual será a posição do Braille em tudo isto? [Enviar respostas para inbox@headstar.com].
+[Fim da secção dois].
+
+++SECÇÃO TRÊS: ENTREVISTA
+- MICHAEL BURTON.
++11: JANELAS PARA O MUNDO
+por Jemima Kiss jemimakiss@hotmail.com
+
+O Comitê dos Direitos dos Deficientes da Inglaterra (DCR - http://www.drc.org.uk), em parceria com o Centro de Projetos de Interação Humana com Computação, da Universidade London City, da Cidade de Londres (http://www.hcid.soi.city.ac.uk), anunciou em abril de 2003 que vai fazer um levantamento em mil websites para identificar barreiras de acessibilidade e desenvolver soluções (ver Boletim E-Access de abril de 2003).
+
+O DRC foi criado pelo governo em 2000, para promover igualdade de oportunidades para os portadores de deficiências, através de pesquisa e serviços de apoio pela Net. Apesar da comissão estar atuando há três anos, o novo levantamento será o primeiro trabalho que desenvolverá na área de acessibilidade na WEB.
+
+Michael Burton, o encarregado pelo projeto, se defende, quando questionado sobre o atraso, dizendo que tudo é uma questão de prioridades. Apesar de achar este um assunto importante, os deficientes enfrentam assuntos de maior premência e, portanto, é justo que nossas energias se voltem para os assuntos prioritários.
+
+Burton diz, no entanto, que o DRC reconhece que a Internet vai tornar-se uma ferramenta de comunicação cada vez mais importante para portadores de deficiências. "A Internet é uma ferramenta que pode ser usada pelas pessoas com deficiência, já que o conteúdo pode ser traduzido para um formato que seja adequado ao usuário", afirma. "A Web é uma janela para o mundo, com o potencial de liberar os deficientes e de enriquecer suas vidas de muitas maneiras."
+
+A instituição filantrópica inglesa, da área de computação e deficiência, a AbilityNet (www://www.abilitynet.org.uk) calcula que 90 por cento dos web sites em uso hoje em dia oferecem problemas de acesso para os usuários com deficiência, apesar da aprovação, em 1995, da Lei de Discriminação dos Deficientes (DDA), que tornou ilegal a discriminação contra os deficientes, por parte dos empresários, empresas e organizações.
+
+Desde 1999, a lei exige que as organizações devem "se preocupar em fazer ajustes plausíveis" em seus serviços para permitir o acesso de portadores de deficiências, apesar de não prescrever padrões específicos de acessibilidade na web. O DCR poderia ter uma atuação em qualquer eventual processo de testes da aplicabilidade da DDA para acessibilidade na Web, dando apoio aos queixosos em seu papel de avalista de casos de testes jurídicos relacionados à deficiência.
+
+Porém, a principal finalidade do projeto é simplesmente estabelecer a tecnologia de ponta e identificar quais as medidas gerais que precisam ser adotadas para melhorar a acessibilidade. Estudos prévios em menor escala sugerem que quase todos os sites têm potencial para serem aprimorados e que muitos terão sérios problemas, "diz Burton.
+
+"O DRC visa instigar mudanças sistemáticas no ambiente, ao invés de estabelecer padrões específicos - portanto, o impacto dessas descobertas não virá tão cedo," afirma. Mas eu prefiro pensar que, se fizermos esse trabalho, dentro de três anos haverá uma melhora sensível", diz.
+Uma das dificuldades é que o próprio comitê poderá não estar atuante dentro de três anos. Em agosto de 2002, o governo da Inglaterra iniciou um processo de consultas para estabelecer se um Single Equality Commission - SEC (Comitê de Igualdade Única) poderia ter mais sucesso em implementar novas regras mais rígidas na União Européia no combate a todos os tipos de discriminação.  Entretanto, apesar da especulação da mídia de que tal movimento possa dignificar o fim da DRC, Burton acredita que o futuro da organização não está ameaçado.
+
+"Temos uma forte sensação que os assuntos que dizem respeito a pessoas com deficiência tem focos bastante específicos e que devem ser representados por uma organização especializada. Não importa qual seja a nova estrutura guarda-chuva de uma SEC, deixamos bem claro que precisamos continuar esse trabalho." 
+
+Burton foi escolhido para fiscalizar o projeto de acessibilidade na Web por sua experiência como presidente executivo da LIMNET, uma rede interativa digital que permitia que corretores e subscreventes processassem contratos de seguros. Ele afirma que, para a maioria das empresas, o problema em abordar a acessibilidade na Web é em geral administrativo, e não técnico.  "Não quero pré julgar os resultados de nossa pesquisa, mas suspeito de que precisaremos nos certificar de que, o que pode ser entendido como sendo um assunto secundário, seja alvo de atenção em cada etapa da especificação, desenvolvimento e manutenção dos websites."
+
+Para os testes, alguns web sites chaves serão pré-selecionados, apesar de que muitos serão selecionados ao acaso, tanto dentro do setor privado quanto do público.  A pesquisa usará softwares de teste de acessibilidade padrão junto com testes físicos, feitos por pessoas portadoras de diversos tipos de deficiência, para estabelecer a correlação entre a compatibilidade técnica e a usabilidade prática. A meta é avaliar sistematicamente sites de todas as partes da Inglaterra, Escócia e País de Gales que serão representativos daqueles geralmente usados pelas pessoas com deficiência - tanto no setor público quanto no privado.
+
+O trabalho deve terminar até o final de 2003, e Burton acredita que os resultados terão grande influência na habilitação de deficientes como cidadãos virtuais.
+
+"Temos ainda muitos anos pela frente até que o potencial total da Web seja alcançado, mas sinto-me feliz por ter a oportunidade de assegurar que as bases hoje construídas não vão deixar de lado os deficientes, como ocorre tão freqüentemente no mundo físico."
+[Fim da secção três.]
+
+++SECÇÃO QUATRO: RONDA
+- INTERNACIONAL.
+
++12: ACESSE TODAS AS ÁREAS.
+por Mel Poluck mel@headstar.com
+
+O Comitê Europeu elegeu 2003 como o Ano Europeu das Pessoas com Deficiência, visando encorajar ações, novas iniciativas e alianças entre os países membros para impedir a discriminação. Em Março, medidas que fazem parte de uma iniciativa anti-discriminação européia mais ampla foram propostas pelo grupo European Disability Fórum - Fórum Europeu da Deficiência ( http://www.edf-feph.org) junto com o European Parliament Disability Intergroup - Intergrupo de Deficiências do Parlamento Europeu (http://fastlink.headstar.com/apdg1), um grupo que atua na área de políticas relacionadas com as pessoas com deficiência.
+
+As duas instituições apresentaram um conjunto de propostas visando acabar com a discriminação contra os deficientes usuários de mídia, telecomunicações e serviço on-line. O regulamento exigia que todas as instituições públicas oferecessem serviços de Internet em formato acessível e pedia a todos os serviços de telecomunicação que se tornassem acessíveis no prazo de cinco anos. Se tudo correr conforme o que foi planejado, as medidas poderão ser aprovadas e transformadas em leis na Europa no final de 2003.
+
+Na Irlanda, novos manuais de acessibilidade para tecnologias digitais foram publicados em Julho de 2002 pela Irish National Disability Authority  - Associação Nacional Irlandesa de Deficiências (NDA), o instituto legal independente que fiscaliza a política relativa a pessoas com deficiência no país. Os manuais, que se basearam em consultas tanto com usuários quanto com provedores de serviços, usaram uma abordagem ampla para cobrir os serviços eletrônicos tais como os web sites; terminais de acesso ao público e software de aplicação visando os provedores e os profissionais que desenvolvem tecnologias (http://www.accessit.nda.ie). As autoridades, afirma o manual, e as ferramentas inovadoras associadas à web para auxiliar as instituições a se adequarem, representaram "uma nova dimensão prática para as leis nacionais da Irlanda e da Europa na área de acessibilidade".
+
+Os EUA tem liderado este setor com a promulgação da secção 508 da Lei de Reabilitação de 1973 (emenda de 1998 - http://www.section508.gov) que exige que todos os novos sistemas de informática projetados ou comissionados pelos órgãos governamentais sejam acessíveis aos portadores de deficiência. A lei também abrange programas e serviços subsidiados pelo governo federal, mas não as páginas Web de empresas privadas.
+
+Um Comitê Independente de Acesso criado por lei, regulamenta a acessibilidade e desenvolve tecnologia que ofereça assistência técnica e treinamento das diretrizes e padrões descritas na  secção 508.
+
+No início de 2003, no entanto, a publicação americana "Government Computer News" (Notícias sobre Informática do Governo) relata que iniciativas do governo norte americano apresentavam um progresso lento na implementação das normas da secção 508.  Relatou-se que muitos departamentos estavam adaptando seus serviços um ano após o término do prazo final (ver http://fastlink.headstar.com/gcn). 
+
+Em países de menor renda, os problemas dos portadores de deficiências são maiores, devido à falta geral de recursos para informática e treinamento. 
+
+Tecnologias especiais de acesso, que freqüentemente exigem investimento extra, estão disponíveis muito raramente, o que torna os deficientes duplamente prejudicados. 
+
+Ações para atacar este problema, através da conscientização da comunidade de desenvolvedores, foram lançadas em Março de 2003, em uma reunião realizada nas Filipinas, onde estiveram presentes representantes de dez (10) países asiáticos, EUA e Canadá. Os delegados presentes fizeram um apelo urgente às Nações Unidas para que incluíssem regras básicas de tecnologia de acessibilidade em todos os seus programas de desenvolvimento.
+
+Os países também pediram a realização de um estudo global sobre as normas e padrões de acessibilidade nos países em desenvolvimento. 
+
+O evento, "Habilitando Portadores de Deficiência através de TICs - Tecnologias de Informação e Comunicação" sugeriu que fosse desenvolvida uma ferramenta piloto de avaliação de acessibilidade em web sites e que fossem desenvolvidos materiais de capacitação especialmente para portadores de deficiências de países mais pobres.
+
+Vamos conferir se a ONU, nestes tempos difíceis para a diplomacia mundial, tomará ainda este ano alguma atitude nesta área tão importante.
+
+Observação: Este artigo foi extraído do 'E-Government Outlook 2003- 2004,' o primeiro relatório abrangente sobre as condições dos serviços de governo eletrônico no Reino Unido, pelo editor do  E-Access Bulletin, Headstar. Uma versão acessível deste relatório estará disponível em breve - para maiores detalhes, envie e-mail para: access-outlook@headstar.com para informações sobre cópias em papel, envie um e-mail para outlook@headstar.com .
+[Fim da secção quatro].
+
++COMO RECEBER ESTE BOLETIM.
+
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com>. Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos a assinar!
+
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com
+
+Copyright 2003 Headstar Ltd http://www.headstar.com.
+O Boletim pode ser reproduzido desde que todas as partes incluam esta nota de copyright, e desde que as pessoas sejam encorajadas a contactar-nos por email para subscrever de forma individualizada. Informe também o editor quando pretenda reproduzir os nossos conteúdos. As secções deste relatório podem ser citadas desde que estejam claramente referenciadas com a indicação "retirado do boletim e-access, uma newsletter mensal enviada por email gratuitamente", citando também o endereço do nosso sítio Web http://www.e-accessibility.com.
+
+-**-
+Nota à edição Portuguesa: Caso os leitores portugueses estejam interessados em enviar os seus comentários e sugestões, bem como enviar alguns artigos que abordem as questões de acessibilidade à Sociedade da Informação podem remetê-los, em Inglês ou Português, para o seu editor Dan Jellinek através do e-endereço: dan@headstar.com, ou mesmo para gesta@gesta.org 
+-**-
+
+PESSOAL:
+Director - Dan Jellinek dan@headstar.com
+Vice-director - Phil Cain phil@headstar.com
+Redactor - Tamara Fletcher tamara@headstar.com
+Conselheiro Editorial - Kevin Carey humanity@atlas.co.uk 
+
+[Fim da edição.]

@@ -1,0 +1,266 @@
++++Boletim E-ACCESS.
+- EDIÇÃO 39, MARÇO 2003.
+
+Notícias sobre Tecnologia para pessoas com deficiência visual
+(http://www.e-accessibility.com).
+Patrocinado pelo RNIB (http://www.rnib.org.uk)
+e pela National Library for the Blind (http://www.nlbuk.org).
+NOTA: Reenvie, por favor, este boletim para outros (os detalhes de subscrição encontram-se no final). O presente boletim está conforme com as normas de acessibilidade para Newsletters de texto enviadas por correio electrónico - Text Email Newsletter (TEN). Por exemplo, todos os itens se encontram numerados. Para mais informações consulte: http://www.headstar.com/ten
+A edição Portuguesa é uma cortesia da Rede SACI (http://www.saci.org.br) e do GESTA-MP (http://www.gesta.org). 
+Foram tradutores e revisores para Português desta edição:
+Cláudia Cardoso / GESTA
+Cynthia Berriel / SACI
+Jorge Fernandes / GESTA
+Marta Gil / SACI
+
+++ÍNDICE DA EDIÇÃO 39.
+
+- Secção um: Notícias.
+
+01: Planeada directiva da UE para banir a discriminação tecnológica
+- a proposta rascunho pode-se tornar lei no final do ano. 
+
+02:  Base de dados de apoio à Educação entra em acção
+- guia de apoio às universidades e colégios.
+
+03: Apelo por uma atitude inclusiva na área do acesso à tecnologia
+- directrizes para desenvolvimento do trabalho.
+
+04: Site de Postais áudio ilustrados do nomeado pelo site Bafta 
+- mensagens on-line com poemas.
+
+Notícias breves: 05: Organizei móvel - lançada tecnologia sem fios; 06: Aproximação Digital - prémios à inclusão; 07: Descrição Sky - programação on-line.  
+
+Secção dois: 'A Receber' - Fórum dos leitores.
+08: Definição Visual - uma matéria de terminologia; 09: Bounce back - sítio Web de procura de emprego; 10: Rectângulo preto - procura do cursor; 11: Pinturas Vivas - site de arte convida a respostas.
+
+Secção três: Antevisão da Conferência - CSUN 2003
+- 12: Evidência ao Móvel na exposição tecnológica: Derek Parkinson olha para algumas das novas tecnologias oferecidas na maior exposição anual de tecnologias acessíveis.
+
+Secção quatro: As Artes 
+- 13: Pinturas que verbalizam volumes: as inovações estão a aumentar a acessibilidade das galerias e dos museus às pessoas deficientes visuais. Mel Poluck olha para os novos desenvolvimentos na área.
+
+Secção cinco: Banca - Máquinas Multibanco falantes
+- 14: Independência Financeira: Os Bancos Australianos estão entre os primeiros do mundo a disponibilizarem Caixas Multibanco "falantes". Julia Schofield experimentou.
+
+[Fim do índice.]
+
+++SECÇÃO UM: NOTÍCIAS.
+
++01: PLANEADA DIRECTIVA DA UE PARA BANIR A DISCRIMINAÇÃO TECNOLÓGICA.
+
+Tem vindo a ser elaborado durante este mês, por grupos Europeus ligados à deficiência, uma proposta de regulamentação da UE que visa banir a discriminação contra os utilizadores deficientes de telecomunicações, media e serviços on-line, as quais se espera que sejam transformadas em lei até ao final do presente ano.
+
+O rascunho da directiva requer de todas as organizações privadas e públicas a disponibilização dos seus serviços Internet em formatos acessíveis, assim como todos os serviços de telecomunicações, num prazo máximo de cinco anos.
+
+As medidas fazem parte de uma iniciativa anti-discriminação de maior alcance desenvolvido pelo grupo de cúpula: European Disability Forum - Fórum Europeu da Deficiência (EDF - http://www.edf-feph.org/en/welcome.htm) com o grupo interino para a Deficiência com o Parlamento Europeu (http://www.edf-feph.org/apdg/index-en.htm), um grupo informal composto por deputados que trabalham as políticas da deficiência.
+
+Caso passem, as regras irão representar o primeiro movimento Europeu para proibir a discriminação contra os deficientes em múltiplos sectores e serviços incluindo o posto de trabalho, os cuidados de saúde, os serviços sociais, a educação, os bens, desenho de produtos e serviços. Até ao presente, a maior parte das leis anti-discriminação existentes nos Estados Membros da UE está contida em regulamentações que formam leis mais abrangentes que governam áreas como transportes, educação ou segurança social.
+
+A lei irá também forçar procedimentos, incluindo o direito das pessoas com deficiência recorrerem ao tribunal em qualquer Estado Membro da UE. 
+
+"Esperamos que sejam efectuadas alterações ao rascunho no seu próximo passo, em que vai passar pelas considerações da Direcção do Emprego e Assuntos Sociais da Comissão. Mas o documento demorou dois anos a ser feito e tivemos muito cuidado em não forçar o poder das instituições Europeias. Esperamos que a comissão dê o seu apoio," disse um porta-voz do EDF esta semana.
+
++02: BASE DE DADOS DE APOIO À EDUCAÇÃO ENTRA EM ACÇÃO.
+
+Estudantes com deficiência podem agora verificar que tipo de acessibilidade, facilidades de apoio e serviços são disponibilizados para elas pelos colégios e universidades em 17 países Europeus, consultando o Guia de Acessibilidade ao Ensino Superior (HEAG - sigla em língua inglesa - http://www.heagnet.org), um serviço financiado pela Comissão Europeia lançado no final deste mês.
+
+Os utilizadores do HEAG podem aceder aos recursos informativos on-line em cada um dos países ou procurando os contactos telefónicos dos organismos governamentais e educativos. Na secção do RU, os utilizadores podem procurar todos os colégios e universidades que disponibilizam sebentas e livros em formatos alternativos tais como Braille, caracteres ampliados, cassetes ou disquete.
+
+A maior parte das instituições providenciam links para os seus sítios Web conjuntamente com as informações de contacto para aconselhamento na área da deficiência. "A ideia é dar às pessoas uma visão geral do que se encontra disponível," disse um porta-voz da associação para o apoio ao emprego e educação Skill (http://www.skill.org.uk), o parceiro do RU no projecto HEAG. 
+De acordo com a Skill, um estudante que precise de informação sobre um curso específico deve contactar directamente o serviço de apoio ao deficiente da universidade.
+
++03: APELO POR UMA ATITUDE INCLUSIVA NA ÁREA DE ACESSO À TECNOLOGIA
+
+Um apelo urgente , para que a ONU estabeleça normas básicas de acessibilidade em seus programas de desenvolvimento, foi lançado em reunião internacional realizada nas Filipinas, com a presença de dez países asiáticos, dos EUA e do Canadá, de .3 a 7 de Março de 2003.
+
+O evento, denominado "Seminário Inter Regional e Oficina Regional para Demonstração da Acessibilidade de TIC - Tecnologias de Informação e Comunicação para Pessoas com Deficiência" (Interregional Seminar and Regional Demonstration Workshop on Accessible ICT and Persons with Disabilities) foi organizado pelo Departamento de Bem Estar Social e Desenvolvimento e pelo Conselho Nacional para o Bem Estar das Pessoas com Deficiência da República das Filipinas, em colaboração com o Departamento de Assuntos Econômicos e Sociais da ONU, com o Programa de Desenvolvimento da ONU e com o Departamento de Negócios Exteriores da República das Filipinas. 
+
+O conteúdo técnico deste evento ficou sob a responsabilidade do "WorldEnable" (www.worldenable.net) que é uma iniciativa da Internet que visa apoiar a equalização de oportunidades para, por e com pessoas portadoras de deficiência, no que se refere à acessibilidade digital. O WorldEnable é desenvolvido de forma cooperativa por Vision Office Support Services, Ltd. (Vision Office), do Canadá, Associates for International Management Services (AIMS) e pelo International Center for Disability Resources on the Internet (ICDRI), ambos dos Estados Unidos.
+
+O evento abordou 3 tópicos principais:
+- recomendações sobre TICs acessíveis;
+- aspectos estruturais e institucionais;
+- aspectos tecnológicos.
+
+Também foi oferecida uma Oficina sobre Web design acessível e formulado um plano estratégico para promover TICs acessíveis para todos.
+
+Deste evento resultaram dois documentos, que acreditamos serão considerados marcos nesta área: "Manila Declaration on Accessible Information and Communications Technologies" e sua complementação, "Manila Accessible ICT Design Recommendations". Ambos estão disponíveis para download no site  www.worldenable.net/manila2003
+
+A Declaração de Manila aborda os aspectos normativos das TICs e enfatiza os seguintes pontos:
+a) a acessibilidade é parte de uma abordagem mais abrangente, sobre o direito ao desenvolvimento e as TICs acessíveis - que incluem o conjunto de produtos tecnológicos eletrônicos e de informação - permitem que as pessoas com deficiência possam participar, em bases igualitárias, da vida social e do desenvolvimento;
+b) levar em consideração a brecha digital ("digital divide") também significa considerar as capacidades do ser humano. Assim, iniciativas estratégicas devem levar em conta questões de gênero, de idade e da existência da deficiência;
+c) promover e desenvolver TICs acessíveis pressupõe consultas a todos os níveis de governo e a todos os setores da sociedade.
+
+O documento complementar, "Manila Accessible ICT Design Recommendations", contém princípios e diretrizes de design que permitem estabelecer um "patamar mínimo" que ofereça flexibilidade e capacidade de atender preferências e necessidades individuais dos usuários de produtos e serviços da Internet.
+
+Os problemas de acesso à tecnologia no mundo em desenvolvimento são particularmente graves, devido à falta de recursos e de capacitação, o que faz com que as pessoas com deficiência enfrentem problemas, a menos que decisões favoráveis à acessibilidade sejam tomadas, foi o que se ouviu na conferência. Uma declaração conjunta dos delegados recomendou à ONU que realize um estudo global sobre normas e padrões para acessibilidade à tecnologia nos países em desenvolvimento; desenvolva uma ferramenta de avaliação piloto para acessibilidade a Web sites que possa ser aplicada neste contexto e que desenvolva materiais de capacitação e pesquisas relevantes que possam ser absorvidas por estas nações.
+
+Cynthia Waddell, diretora do Centro Internacional de Recursos da Internet para Pessoas com Deficiência nos Estados Unidos (http://www.icdri.org) e co-facilitadora da conferência disse: " O apelo feito em Manila é para que se atinja um padrão global mínimo de design acessível de todas as tecnologias em geral, e de tecnologias da Web em particular." 
+
+Waddell disse que o comitê já existente da ONU, que trata dos direitos das pessoas com deficiência (http://www.un.org/esa/socdev/enable/ poderia ser expandido, para abranger projetos de tecnologias de informação e comunicação acessíveis.
+
++04: POSTAIS ILUSTRADOS ÁUDIO DO NOMEADO PELO SITE BAFTA.
+
+Um conjunto de postais ilustrados verbalizados acessíveis a pessoas deficientes visuais (http://www.yrguk.com/poetry) foram lançados pela "UK Audio Network" (Rede Áudio do RU), um recurso gratuito criado pelo entusiasta da acessibilidade Bill Teale.
+
+Os utilizadores podem escolher de entre 25 poemas agrupados tematicamente tais como 'humor' e 'dia dos anos', os quais são tocados com o padrão Real Audio e que são compatíveis com a generalidade dos programas leitores de ecrã. Ao usar as teclas numéricas para navegar, instruções áudio que permitem ao utilizador navegar pelas opções, incluindo o envio de uma mensagem personalizada com um poema.
+
+O site da UK Audio Network (http://www.yrguk.com) também fornece links para estações de rádio on-line, notícias, comentários desportivos, elementos áudio interactivos e jogos para pessoas com deficiência visual. Em 2002 o site foi nomeado para um prémio para entretenimento interactivo acessível da British Academy of Film and Television Arts (http://www.bafta.org/interactive), pela carolice de Teale, que executou toda a operação sem financiamento, a partir do seu quarto em Halifax.
+
+++NOTÍCIAS BREVES.
+
++05: ORGANISER MÓVEL: Um inovador telemóvel e "organiser" pessoal com linha braille e teclado, fornecendo mensagens texto, correio electrónico, telefonia móvel e funções de bloco de notas, vai ser lançado pela empresa Holandesa Alva (http://www.alva-bv.nl) este mês, soube o Boletim E-Access. O projecto foi anunciado pela primeira vez o ano passado na Conferência Techshare do RNIB:
+http://www.rnib.org.uk/techshare/phone_weij.htm
+
++06: APROXIMAÇÃO DIGITAL: Este ano os prémios eWell-Being estão a aceitar nomeações até 31 de Março para projectos tecnológicos de "inclusão digital" que tenham contribuído para aumentar o acesso ao emprego, à educação, ao entretenimento e ao lazer a grupos desfavorecidos. Os prémios são uma iniciativa da organização sem fins lucrativos SustainIT:
+http://www.sustainit.org/ewell-being/2003_info.htm
+
++07: DESCRIÇÃO SKY: A rede de televisão digital via satélite - Sky - adicionou à sua agenda que se encontra no sítio Web os programas com áudio descrição. A Sky actualmente já ultrapassa a quota exigida pelo governo de 4 por cento da programação com áudio descrição:
+http://www1.sky.com/disability/tvguide.htm
+
+[Fim da secção um.]
+
+++NOTÍCIA ESPECIAL: 'ACCESS IT' E 'COMPUTE IT'
+- REVISTAS MENSAIS SOBRE TECNOLOGIA DO RNIB.
+
+'Access IT' fornece informação sobre tecnologias de acesso ao computador de particular interesse para pessoas cegas e com baixa visão. Os assuntos tratados nos seus artigos destinam-se quer a utilizadores experientes quer a novatos. A 'Compute IT' foi desenhada para os entusiastas/amadores de computadores e vai trazer-lhe as últimas informações no desenvolvimento de hardware e software.
+
+Pode subscrever qualquer uma das suas versões com envio por email, em formato braille ou disquete, por um preço de 49 cêntimos de libra/por número. Envie um email para os Serviços de Atendimento ao Cliente do RNIB através do endereço: cservices@rnib.org.uk ou telefone para 0845 702 3153
+[Fim da notícia especial.]
+
+++SECÇÃO DOIS: 'A RECEBER'
+- FÓRUM DOS LEITORES
+- Por favor envie por e-mail todas as contribuições ou respostas para inbox@headstar.com
+
++08: DEFINIÇÃO VISUAL: Trevor Frost, Coordenador de Tecnologias de Apoio na Royal Society for the Blind of South Australia (Real Sociedade para os Cegos do Sul da Austrália), escreve-nos por uma questão de terminologia. "Como alguém que tem quase um radical desrespeito pelo politicamente correcto, até me custa a crer que estou a escrever sobre este tema.
+
+Como leitor do Boletim E-Access sou constantemente confrontado com o termo 'visually impaired' (deficiente visual), um termo bastante abrangente mas raramente utilizado aqui na Austrália onde nos referimos às pessoas com perda de visão como sendo 'vision impaired' (deficiente da visão).
+
+"Eu acredito que isto apareceu quando algum pedante decidiu que uma pessoa 'visually impaired' (deficiente visual) significava alguém para quem era desagradável olhar. Quando chamei a atenção disto a quem nos visitava provenientes do Reino Unido tornou-se causa de grande regozijo mas convínhamos que temos que admitir que é a visão que está afectada e não o aspecto do indivíduo. 
+
+"Como pessoa 'vision impaired' (deficiente da visão) estou curioso em saber o que acham disto" [Respostas para inbox@headstar.com]. 
+
++09: BOUNCE BACK: Jackie Wright da empresa de tecnologia, Disability Dynamics, escreve-nos na sequência dos "A Receber" dos últimos meses em que Chris Gregory levantou a questão das modalidades de procura de emprego on-line desenvolvidos pela Action for Blind People.
+
+Diz ela: "Pensei que os leitores pudessem ter interesse em ver o design de um CV acessível e o sítio Web de pesquisa de emprego 'Bounce Back' (http://www.bounceback.org.uk) que desenvolvemos no ano passado com fundos da União Europeia, e que está a ser utilizado pelo Wheatsheaf Trust Employment Access Centre em Southampton e por vários colégios locais. Ficamos satisfeitos que as pessoas o utilizem e desejamos desenvolvê-lo mais, portanto qualquer reacção será bem vinda." Por favor envie para Jackie: wright.jackie@btinternet.com .
+
++10: RECTÂNGULO PRETO: John Loader da DotSix Brailling Services escreve-nos para pedir ajuda em nome de um familiar: "A minha sogra tem degenerescência macular e já não consegue ver o cursor no ecrã do seu computador, mesmo com o tamanho 18. Experimentei o Windows para obter um cursor mais saliente mas em vão, e as pesquisas na Internet parecem só ter cursores animados e divertidos. O que queremos é um grande rectângulo preto. Por favor, alguém tem ideia onde poderei descarregar um?" [Respostas para inbox@headstar.com]. 
+
++11: PINTURAS AO VIVO: Camilla Oldland do "The Living Paintings Trust", que disponibiliza versões tácteis gratuitas de pinturas e ilustrações a pessoas deficientes visuais, procura ajuda para a revisão do sítio Web da instituição (http://www.livingpaintings.org). 
+
+"Queremos incrementar a qualidade das funcionalidades do nosso sítio Web, e por isso procuramos utilizadores de Internet, deficientes visuais, que nos possam guiar neste desenvolvimento. Os profissionais que se encontram a desenvolver o sítio Web juntaram uma série de questões, num breve questionário que não deverá demorar mais do que cinco minutos a responder - todas as respostas serão tratadas com confidencialidade". Para obter uma cópia do questionário escreva por favor para lpt@livingpaintings.org . 
+[Fim da secção dois].
+
+++SECÇÃO TRÊS: CONFERÊNCIA EM ANTEVISÃO
+- CSUN 2003.
+
++12: PONTOS ALTOS DA TELEFONIA CELULAR PARA A FEIRA DE TECNOLOGIA
+por Derek Parkinson  derek@headstar.com 
+
+A maior feira anual global de novas tecnologias para portadores de deficiências foi realizada na Universidade do Estado da Califórnia (http://www.csun.edu/cod/conf), de 17 a 22 de Março deste ano. Neste site, também é possível ter acesso a conteúdos referentes aos eventos anteriores.
+
+Os tópicos de interesse para os portadores de deficiência visual este ano incluem computação móvel, jogos educacionais e o que há de mais novo em treino de informática.
+
+A conferência, que recebeu visitantes de mais de 35 países, contou com uma conferência de Ray Kurzweil, pioneiro na área de informática de máquinas de leitura para portadores de deficiência visual. O texto está disponível neste endereço (http://www.kurzweiltech.com/aboutray.html).
+Dentre os destaques na área de tecnologia móvel, citamos a apresentação de novos avanços para o PAC Mate, um computador portátil fabricado pela Freedom Scientific que combina um leitor de tela JAWS, browser, e-mail, calendário, funções de contatos e documentos ( ver http://fastlink.headstar.com/csun1). A empresa vai demonstrar como conectar o PAC Mate - que usa o sistema operacional Microsoft Pocket PC - a um telefone celular, impressora ou computador doméstico usando a tecnologia sem fio (wireless) Bluetooth. Vai também fazer uma pré estréia dos futuros modelos.
+
+Pulse Data demonstrou o KeyWeb, um web-browser acessível para a agenda eletrônica BrailleNote da empresa e outros aparelhos; e KeySync, que permite acesso móvel acessível ao software de e-mails Microsoft Outlook (ver:  http://fastlink.headstar.com/csun2). Espera-se também que a empresa demonstre que estes produtos podem ser usados em vários idiomas.
+
+VisuAide, um desenvolvedor de produtos avançados de áudio, fez a demonstração do Victor Trekker, que combina a conexão via satélite GPS com guias de áudio navegação (ver http://fastlink.headstar.com/csun3). A empresa vai lançar uma nova versão, mais barata, de seu leitor de e-books Victor Classic (http://www.visuaide.com/victorclassic.html). O recurso detém total funcionalidade e um pacote de baterias recarregáveis; o transformador de energia não está mais no interior do aparelho, mas está planejado para ser utilizado na eletricidade, para reduzir o seu peso quando for usado com as baterias. O Boletim E-Access gostaria de corrigir uma declaração feita em nosso último número, que mencionava uma redução da funcionalidade deste aparelho.
+
+GW Micro anunciou a inclusão de um leitor de animação on-line Macromedia Flash on-line para seu leitor de telas mais vendido, Window-Eyes, que agora também pode acessar conteúdo multimídia em formatos usados pela Real Áudio (ver http://fastlink.headstar.com/csun4).
+
+Freedom Scientific e outras empresas demonstraram como a mais recente versão de seus leitores de tela JAWS para Windows pode navegar por planilhas, tabelas e quadros (frames) nas páginas da Web (ver http://fastlink.headstar.com/csun5).
+
+Como nos anos anteriores, treinamento e educação serão temas chaves e, neste ano, um projeto subsidiado pela Comissão Européia, para explorar jogos educacionais para crianças deve provocar grande interesse. O projeto Tactile Interactive Multimedia (TIM) pretende desenvolver e adaptar jogos para computadores, tornando-os acessíveis através de dispositivos como placas táteis, barras em Braille ou sintetizadores de fala. Mesmo crianças com três anos de idade poderão navegar através de ambientes sonoros para impulsionar seu aprendizado acadêmico, social e emocional (ver  http://fastlink.headstar.com/csun6).
+
+Entre outros, a plenária examinou 'Reader rabbits', adaptação de um famoso jogo de descobertas elaborado para crianças pequenas; 'MudSplat', onde o jogador derrota monstros que atiram lama, com um esguicho de água; 'Tim's journey', um jogo de exploração onde os jogadores resolvem um mistério explorando um ambiente sonoro; e 'X-tune', um jogo musical onde o jogador pode repetir uma sequência sonora e jogar com diferentes ambientes sonoros. 'Tim's magic dictation' é um jogo educacional para o aprendizado de escrita e leitura.
+
+Novas formas de se aprender música serão exploradas pelo desenvolvedor de tecnologias Dancing Dots em uma sessão, onde farão uma demonstração de seu produto Speech-Assisted Learning (http://fastlink.headstar.com/csun7). O programa SAL funciona através da colocação de uma página padrão com relevos em Braille sobre uma tela tátil plana. Quando o aluno pressiona uma célula braille, o SAL dá uma resposta auditiva. O sistema também incorpora um teclado em braille, um motor de fala sintética (synthetic speech engine) e um aparelho de arquivos de áudio (audio file player). Após completar um conjunto de atividades, o aparelho pode relatar os resultados a um tutor.
+
+Finalmente, uma sessão coordenada por Harris Rosensweig da Fundação Royal da Nova Zelândia para Deficientes Visuais; Steve Tyler do RNIB e Shan Sasser do Departamento dos Cegos do Estado de Iowa vão aventar a possibilidade de formar um consórcio internacional que fornecerá, a profissionais de todo o mundo, um acesso a materiais de informação e treinamento para oferecer capacitação na área de computação para os cegos, subvisuais ou surdo-cegos (http://fastlink.headstar.com/csun8). A sessão discutiu as abordagens e materiais atualmente usados pelas três organizações.
+[fim da secção três.]
+
+++SECÇÃO QUATRO: EM FOCO
+- AS ARTES.
+
++13: PINTURAS QUE FALAM OS VOLUMES
+por Mel Poluck  mel@headstar.com .
+
+Muitos museus e galerias estão buscando melhorar o acesso às exibições aos visitantes portadores de deficiência visual, através de uma combinação de experiência tátil com o uso de tecnologias, como sites da Internet e guias auditivos.
+
+O web site da National Gallery de Londres, por exemplo, desde Janeiro de 2003 apresenta um sistema de zoom on-line, através do qual os usuários podem ampliar detalhes de quadros tais como "Os Girassóis" de Van Gogh, (http://www.nationalgallery.org.uk/collection/news/newsitems/zoom.htm). E recentes exposições na Galeria de Arte Newcastle's Laing acoplaram versões em alto relevo de quadros de artistas como Stanley Spencer com descrições de áudio que as acompanham, algumas das quais permanecerão como parte do acervo permanente.
+
+O problema de muitos destes serviços, contudo, é a falta de detalhes de descrições visuais dos canais de áudio. Uma visitante assídua da galeria, portadora de deficiência visual, comentou com o Boletim E-Access que a descrição muitas vezes é superficial e pobre em detalhes. "Eu adoraria poder saber sobre as texturas, perspectivas e informações sobre as técnicas", disse ela. "Estes são detalhes que as pessoas com visão normal absorvem inconscientemente. Eu quero poder sentir a profundidade de um quadro".
+
+Para explorar estes assuntos e estudar possíveis soluções, o Conselho de Artes está subsidiando o projeto "Imagens que falam", que entrevistará 300 deficientes visuais para descobrir e analisar suas atitudes em relação a visitas a museus e galerias. Uma outra parte do projeto de 18 meses conduzido pelo RNIB com a instituição não governamental de artes acessíveis VocalEyes (http://www.vocaleyes.co.uk) está enviando 12 "auditores" deficientes visuais para cerca de 50 instituições culturais, visando testar a acessibilidade dos seus guias auditivos.
+
+Algumas galerias estão tentando ajustar o passo com as artes acessíveis. A Tate Britain (http://www.tate.org.uk/britain) oferece um serviço através do qual os visitantes podem sentir maquetes de telas de quadros de artistas como Jackson Pollock e tocar nas esculturas. Também, no mês passado, começou a oferecer visitas guiadas orais grátis, em associação com a VocalEyes usando aparelhos novos e mais leves. No futuro, a Tate pretende criar um "banco" de descrições em áudio on-line, que gira de acordo com telas móveis.
+
+O projeto Bússola do Museu Britânico (British Museum) (http://www.thebritishmuseum.ac.uk/compass), um web site contendo imagens e informações sobre os principais 5.000 objetos que compõem o acervo deste importante museu, também contempla os deficientes visuais. O usuário pode modificar o tamanho das letras e a cor do texto através de browsers ou ter acesso a uma versão "apenas texto" do serviço (ver http://fastlink.headstar.com/museum1).
+
+Além do projeto Bússola, que no ano passado recebeu o Prémio de Projeto Visionário da Biblioteca Nacional dos Deficientes Visuais (http://fastlink.headstar.com/nlbuk1), um terminal para literatura áudio descritiva sobre as coleções do museu foi instalado no salão de leitura do Museu Britânico, em Fevereiro de 2003.
+
+O gerente do Projeto Bússola, Matthew Cock conversou com o Boletim E-Access: "As pessoas estão percebendo que iniciar um site acessível não é apenas uma questão de oferecer uma opção "apenas texto", mas que a acessibilidade para os deficientes visuais deverá permear todo o site. Não fazer isto é a mesma coisa que colocar uma rampa para cadeiras de rodas apenas no fundo do prédio".
+
+Obs.: Para maiores detalhes sobre acesso a museus e galerias de arte, veja o Boletim E-Access, Seção Quatro, Número 35, Novembro de 2002, e a história quatro na seção de notícias do nosso número de Outubro de 2002.
+[fim da secção quatro.]
+
+++SECÇÃO CINCO: BANCA
+- CAIXAS MULTIBANCO FALANTES.
+
++14: INDEPENDÊNCIA FINANCEIRA
+por Julia Schofield julia.schofield@jsc.co.uk .
+
+Actualmente a Austrália, o Canadá e os Estados Unidos lideram o mundo no que diz respeito ao desenvolvimento de 'ATM's' falantes (automated teller machines) para o sector bancário, dirigidas a utilizadores deficientes visuais (ver Boletim E-Access, edição 31, Julho 2002, artigo 16).
+
+Na Austrália, dois grupos bancários - National Australia Bank, e Westpac que incorpora o Bank of Melbourne e o Challenge Bank - foram os primeiros a disseminar os sistemas em localidades seleccionadas, e no início deste ano tive a oportunidade de aceder a uma destas caixas multibanco em Melbourne.
+
+A ideia é dar acesso, totalmente independente, às ATMs por parte das pessoas com baixa visão ou cegas. As ATMs utilizadas pelo Bank of Melbourne são fabricadas pela NCR e estão preparadas para a utilização normal, com módulos suplementares para as tornar 'falantes'. As alterações visíveis do exterior são as etiquetas transparentes em Braille e auriculares àudio do tipo Walkman colocados por baixo de uma pequena tampa corrediça.
+
+Qualquer pergunta sobre o sistema por parte dos utilizadores deficientes visuais deve ser dirigida para um dos bancos que possui uma máquina falante. Os funcionários do sector receberam formação que lhes permite mostrar as máquinas às pessoas com resíduo visual ou mesmo cegas. Foram também instruídos a não se esquecer de mostrar como localizar a máquina a partir da entrada do banco - as máquinas actuais encontram-se no interior das instituições bancárias. 
+
+As ATMs acessíveis devem estar posicionadas perto duma porta num local onde qualquer pessoa a possa encontrar facilmente, por exemplo seguindo ao longo duma parede num percurso que não tenha mobília ou filas de pessoas no caminho.
+
+A primeira vez que a ATM com voz é utilizada, alguém do pessoal do banco acompanhará o deficiente visual para se certificar que percebeu como funciona. Nesta curta sessão de formação, é fornecido um pequeno auscultador com um gancho para o segurar na orelha para que as duas mãos fiquem livres, mas subsequentemente é conveniente que sejam os utilizadores a trazer os seus próprios auscultadores. Em Melbourne, a formação do pessoal é dada pelo Royal Victorian Institute for the Blind.
+
+Na própria máquina, as ranhuras foram marcadas em Braille mencionando a sua função (por exemplo, "dinheiro", "recibo", "cartão"). Foi colocada uma entrada debaixo duma pequena tampa para que se possam ligar os auscultadores.
+
+O teclado tem marcas tácteis - a tecla '5' encontra-se marcada, como num telefone, e a tecla do 'confirmar' e 'apagar' têm marcas adicionais. E depois, é óbvio, existem instruções faladas - o elemento que faz a máquina ser uma máquina falante.
+
+Para escutar as instruções, o cliente liga os seus auriculares. Instantaneamente a máquina apresenta brevemente o seu funcionamento, numa voz de boa qualidade. Convida o cliente a introduzir o seu cartão, descrevendo a orientação - "coloque o seu cartão na ranhura com a legenda 'cartão' com a impressão em relevo para cima e para a esquerda".
+
+De seguida é pedido ao cliente para digitar o número do código do cartão e pressionar 'confirmar' (é informado que esta tecla está a seguir ao 9 e que tem uma marca táctil). O botão 'Apagar' é também descrito, em caso de erro. Para retirar o dinheiro, é pedido ao cliente que pressione a tecla 1 para 20 dólares Australianos, 2 para 50 dólares, 3 para 100 dólares e por aí fora. Quando há uma pausa, uma mensagem assegura o utilizador que a sua transacção está a ser processada.
+
+No caso do cliente querer um recibo basta confirmar usando as teclas de atalho que se encontram sobre os números; depois o cliente é informado para retirar o seu cartão, o dinheiro e o recibo. Outras transacções funcionam de modo semelhante e se for pedido um extracto da conta, este é dado através dos auriculares, para preservar a privacidade da informação.
+
+Na generalidade, a máquina é bastante funcional. As instruções áudio são cuidadosamente pronunciadas, e a assistência que recebi do pessoal foi eficiente, pertinente e extremamente clara. Máquinas como estas representam um importante passo em frente na independência financeira dos deficientes visuais. 
+
+NOTA: A Dra. Julia Schofield é Fundadora e Directora da empresa Julia Schofield Consultants Limited 
+(http://www.jsc.co.uk).
+[Fim da secção cinco.]
+
++COMO RECEBER ESTE BOLETIM.
+
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com>. Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos a assinar!
+
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com
+
+Copyright 2003 Headstar Ltd http://www.headstar.com.
+O Boletim pode ser reproduzido desde que todas as partes incluam esta nota de copyright, e desde que as pessoas sejam encorajadas a contactar-nos por email para subscrever de forma individualizada. Informe também o editor quando pretenda reproduzir os nossos conteúdos. As secções deste relatório podem ser citadas desde que estejam claramente referenciadas com a indicação "retirado do boletim e-access, uma newsletter mensal enviada por email gratuitamente", citando também o endereço do nosso sítio Web http://www.e-accessibility.com.
+
+-**-
+Nota à edição Portuguesa: Caso os leitores portugueses estejam interessados em enviar os seus comentários e sugestões, bem como enviar alguns artigos que abordem as questões de acessibilidade à Sociedade da Informação podem remetê-los, em Inglês ou Português, para o seu editor Dan Jellinek através do e-endereço: dan@headstar.com, ou mesmo para gesta@gesta.org 
+-**-
+
+PESSOAL:
+Director - Dan Jellinek dan@headstar.com
+Vice-director - Phil Cain phil@headstar.com
+Redactor - Tamara Fletcher tamara@headstar.com
+Conselheiro Editorial - Kevin Carey humanity@atlas.co.uk 
+
+[fim da edição.]

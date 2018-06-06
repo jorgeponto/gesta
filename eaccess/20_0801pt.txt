@@ -1,0 +1,249 @@
+Boletim E-Access
+Boletim electrónico on-line de notícias sobre tecnologia para pessoas com deficiência visual.
+Endereço do Boletim E-Access: 
+<http://www.e-accessibility.com>
+
+Patrocinado pelo Royal National Institute for the Blind:
+<http://www.rnib.org.uk>
+o National Library for the Blind (Biblioteca Nacional para os cegos):
+<http://www.nlbuk.org>
+e a Guide Dogs for the Blind Association (Associação de Cães-Guia para cegos):
+<http://www.guidedogs.org.uk>
+
+Versão Portuguesa: cortesia do GESTA-MP (Grupo de Estudos Sociais, Tiflológicos e Associativos)
+<http://www.gesta.org> 
+
+Divulgue, por favor, este boletim pelos seus amigos e colegas, e diga-lhes que o podem subscrever em Português, bastando para tal enviar uma mensagem para o endereço electrónico: <mailto:eab-pt-subs@headstar.com>. Veja os pormenores na parte final deste boletim.
+
+Quantos mais subscritores tivermos, melhor será o nosso serviço!
+
+[início DO BOLETIM]
+
+BOLETIM 20. AGOSTO DE 2001
+NESTE BOLETIM: 
+
+Secção um: Notícias.
+- Compras e correio electrónico através do poder da voz - serviço eckoh, o "portal de voz" via telemóvel vai para o ar.
+- Metade do país falhou no teste às urnas - quase metade das mesas de voto do Reino Unido não cumpriram com a lei.
+- Acessibilidade significa prémios - sítios acessíveis e ajudas à acessibilidade elegíveis para prémio Europeu.
+- Reconhecimento de Voz - conselho precisa-se.
+- Word mais - dois novos livros em formato acessível a utilizadores cegos do Microsoft Word.
+Notícias breves: Medicação falante; Directo Deficiência; Teste AOL.
+
+Secção dois: Abrindo a janela da descrição na TV digital.
+
+Televisão Digital deverá fornecer programas com áudio descrição - uma promessa atrasada que deverá ser realidade nos próximos anos.
+
+Secção três: Hacker Russo entra no campo minado dos direitos de autor.
+
+O FBI prendeu um hacker Russo por ter posto a lei dos direitos de autor do digital no microscópio.
+
+Secção quatro: Formação de formadores.
+
+Richard West, consultor independente, descreve o processo para estabelecer uma certificação para a formação em tecnologias de apoio.
+
+[Fim do índice.]
+
+SECÇÃO UM - NOTÍCIAS.
+
+COMPRAS E CORREIO ELECTRÓNICO ATRAVÉS DO PODER DA VOZ.
+O serviço eckoh, o "portal de voz" via telemóvel que foi para o ar no Reino Unido no passado mês, tem como um dos seus primeiros 100 utilizadores teste, o Boletim E-Access. O serviço permite às pessoas usar correio electrónico, comprar, aceder ao noticiário, efectuar chamadas com diversos interlocutores em simultâneo e usar um leque de outros serviços personalizados usando para o efeito somente a voz.
+
+Existem já, nos Estados Unidos, serviços similares em funcionamento, como é o caso do AOLbyPhone que é fornecido pela 'Quack' (http://www.quack.com). Existem também serviços activados por voz que permitem às pessoas interagir com os seus equipamentos móveis tais como a Orange's Wildfire (http://www.wildfire.com) (operadora Inglesa da rede móvel). Mas o eckoh é o primeiro "portal de voz compreensível" existente na Europa.
+
+Os especialistas de media on-line, 365.com, criadores do eckoh, fecharam negócio com a Dominos Pizza, a Virgin Wines, os editores de livros William Hill, a Teleflorist, a Ticketmaster e a HMVDirect para as compras on-line. Quando acede a estes serviços através da eckoh você deixa o "site" e entra directamente nos respectivos serviços de "call centre" de cada um dos fornecedores, mas pode regressar ao portal eckoh a qualquer momento bastando para o efeito pressionar numa tecla.
+
+Para navegar basta verbalizar as palavras-chave de acesso aos diversos serviços. Os menus são lidos em voz alta para si ou se já conhece as palavras-chave pode dizê-las a qualquer momento. Algumas palavras-chave são universais tais como "home" (entrada) que o leva de regresso até ao menu de entrada independentemente da sua posição actual.
+
+Existem algumas coisas que lhe podem pôr os nervos em franja - a dado passo o sistema lê um longo discurso com uma tediosa voz, e ocasionalmente ouve-se um ruído exterior (tal como uma porta a bater) quando se está a tentar executar um comando.
+
+No entanto, uma boa característica, é a que lhe dá a possibilidade de pressionar na primeira letra de quatro, que compõem os nomes dos comandos, usando o sistema padrão de três letras por tecla de um sistema telefónico, não tendo assim a necessidade de, quando sentado num local público como é o caso de um comboio, dizer em voz alta palavras soltas para o auscultador como se fosse um lunático.
+
+O principal problema prende-se simplesmente com o facto de levar algum tempo a se familiarizar com os menus e os comandos do eckoh. Uma vez isto aprendido, o serviço funciona sem grandes sobressaltos. Detalhes completos em:
+http://www.eckoh.com
+
+METADE DO PAÍS FALHOU NO TESTE ÀS URNAS.
+Quase metade das mesas de voto do Reino Unido não cumpriram com a nova lei que visa tornar o acto de votar mais fácil às pessoas deficientes visuais, neste ano de eleições legislativas, de acordo com a pesquisa patrocinada pela organização de deficientes Scope (http://www.scope.org.uk).
+
+De acordo com o 'Polls Apart 3', um estudo on-line com cerca de 2,000 mesas de voto de 474 locais, 49 por cento das mesas não dispunham de modelos tácteis de voto conforme exige a lei "Representation of the People Act".
+
+Mesmo quando os equipamentos se encontravam disponíveis, "os elementos da mesa não sabiam como usá-lo ou mesmo onde é que ele estava", disse Ruth Scott, do departamento de campanhas da Scope. "Um dos equipamentos estava incorrecto e caso tivesse sido utilizado iria dar um voto ao candidato errado."
+
+Desde 1997 que tem havido uma evolução no mercado no sentido de permitir aos deficientes o acesso aos boletins de voto, disse Scott, mas ainda há muito trabalho a fazer.
+
+A Comissão de Eleições, o organismo responsável por supervisionar o processo eleitoral, disse continuar a considerar as inovações. O relatório da comissão pós-eleições encontra-se em: http://www.electoral-commission.gov.uk/publications.htm
+
+Entretanto a Comissão de Eleições Federal dos Estados Unidos produziu um primeiro relatório, ainda em fase de rascunho, contendo padrões de acessibilidade para serem usados em sistemas de voto baseados em computador. Veja: http://www.fec.gov/pages/vss/062801vss.html
+
+ACESSIBILIDADE SIGNIFICA PRÉMIOS.
+Sítios Web acessíveis e ajudas à acessibilidade vão passar a ser elegíveis para nomeação dos troféus 'Breaking barriers' ("Quebrando Barreiras") que fazem parte este ano do Dia Europeu das Pessoas com Deficiência, a 3 de Dezembro.
+
+Durante os últimos 9 anos, a Comissão Europeia e o Fórum Europeu da Deficiência foram os amfitriões do dia para fazer renascer a consciência para assuntos que afectam as pessoas deficientes.
+
+Este ano o tema é 'Desenho para todos', e os prémios serão distribuídos em três categorias: casa e vida diária; viagem e lazer; e trabalho e local de trabalho. Para efectuar as suas propostas ou para mais informações contacte Andre Wilkens através de andre.wilkens@ogilvy.be
+
+O novo sítio Web do Fórum Europeu da Deficiência, tem mais detalhes sobre o concurso, bem como outras actividades a desenvolver no dia de Dezembro e ainda o plano do Ano Europeu do Cidadão Deficiente que irá decorrer durante 2003. Veja em: http://www.edf-feph.org
+
+Já agora, o Dr. Leonard Kasday do "Institute on Disabilities" (Instituto sobre Deficiências) da Universidade de Temple, Philadelphia recebeu o prémio pelo "trabalho de uma vida" da
+
+International Coalition of Access Engineers and Specialists (ICAES) - União Internacional dos Engenheiros e Especialistas em Acessibilidade - pelo desenvolvimento de uma ferramenta para verificação da acessibilidade na Web. A página Web do verificador de acessibilidade WAVE (http://www.temple.edu/inst_disabilities/piat/wave) é largamente utilizado pelos organismos governamentais dos Estados Unidos para verificar os seus sítios Web.
+
+Outros vencedores onde se inclui a AbleTV (http://www.abletv.net), um portal mumultimédiaom vídeo on-line para pessoas com deficiências inincluindo áuáudio descriçãoara utilizadores cegos.
+
+O Consórcio DAISY, National Information Standards Organization - Organização de Normalização da Informação Nacional - (NISO) e o Fórum Open e-Book (OEB) foram também referênciados pelo seus trabalho no desenvolvimento de livros electrónicos falados.
+
+A lista completa dos vencedores está em: http://128.104.23.133/icaes/072601_press.htm
+
+RECONHECIMENTO DE VOZ - CONSELHO PRECISA-SE.
+Foi-nos remetido um pedido de aconselhamento por parte dos nossos leitores relativamente a programas de reconhecimento de voz. Este pedido foi enviado por Gill Burrington da Burrington Partnership.
+
+Diz ela: "Estou actualmente a usar o programa de reconhecimento de voz da IBM, ViaVoice (http://www-4.ibm.com/software/speech) para ditado e leitura, o qual é bom quando funciona. No entanto, eu preciso mesmo de um sistema totalmente mãos-livres. Eu quero ser capaz de navegar no meu computador, abrir documentos, abrir outros programas para além do Word, e até mesmo ler as caixas de diálogo que me dizem que cometi um erro! Também quero ser capaz de navegar na Internet e ditar mensagens de correio electrónico e endereços de correio no Microsoft Outlook Express.
+
+"Disseram-me que o NaturallySpeaking da Dragon Systems (http://www.dragonsys.com) é mais flexível que o ViaVoice, mas eu não quero incorrer em mais escolhas erradas onerosas.
+
+"Idealmente aquilo que eu quero é a possibilidade de converter texto em voz, ditado, e navegação na Internet que trabalhem bem juntos, e que não sejam escandalosamente caros. A ajuda ou conselho dos leitores são bem-vindos. "Envie por favor os conselhos e sugestões para o editor do boletim Dan Jellinek através de dan@headstar.com para serem reencaminhados para a Gill e publicados no nosso próximo número.
+
+WORD MAIS.
+A National Braille Press - Imprensa Nacional de Braille - (http://www.nbp.org), uma editora Braille sem fins lucrativos sedeada em Boston, Massachusetts, produziu mais dois novos livros sobre o Microsoft Word em formato acessível para utilizadores cegos.
+
+Para os completamente novatos do "Word a quarta edição do Word para Windows, rápido e fácil" por Christian Crumlish apareceu numa edição acessível por Sharon Monthei. Inclui conselhos sobre como criar, guardar, e imprimir o seu primeiro documento Word em lições curtas e auto-explicativas.
+
+Para os utilizadores mais experientes do programa existe o "Word Wise (esclarecido) 2000 - um guia intermédio para utilizadores cegos", também de Monthei. Na sua introdução, ela diz: "Apaixonei-me pelo meu computador no dia em que descobri que ele me libertava da parte enfadonha de ler e escrever, podendo, eu, me concentrar apenas na parte divertida: criar.
+
+Infelizmente, como os programas de computador se tem vindo a tornar mais sofisticados, algumas das partes enfadonhas estão de regresso. Em muitos casos, as funcionalidades que têm como intenção auxiliar o utilizador simplesmente complicam a tarefa de escrever."
+
+Ambos os livros conduzem o utilizador pelos complexos procedimentos necessários para desactivar a funcionalidade gráfica de ajuda chamada de Assistente do Office, a qual nem sempre funciona com a voz ou o braille, e muitas vezes surge sem qualquer tipo de aviso, gerando confusão.
+
+Os livros custam respectivamente 18 e 22 dólares americanos e está disponível em Braille, caracteres ampliados, disquete ASCII, ou 'PortaBook' - um ficheiro em disquete com braille grau 2 criado para ser lido facilmente com um equipamento portátil que suporte ficheiros braille ou um computador com uma linha braille (para mais informações sobre o PortaBook veja http://www.nbp.org/portafaq.html).
+
+São aceites encomendas de fora dos Estados Unidos mas o pagamento terá que ser feito em dólares. Qualquer pergunta sobre os custos de transporte deve ser remetida para o e-endereço: orders@nbp.org
+
+NOTÍCIAS BREVES:
+
+## MEDICAÇÃO FALANTE: Falante Rx, um equipamento que quando acoplado a uma embalagem ou boião de medicamentos grava verbalmente as instruções de dosagem fornecidas pelo farmacêutico ou pelo médico de clínica geral, foi desenvolvido nos Estados Unidos: http://www.talkingrx.com
+
+## DIRECTO DEFICIÊNCIA: Um novo portal do governo dos Estados Unidos disponibilizando serviços para pessoas com deficiência está a ser desenvolvido como parte da iniciativa "New Freedom Initiative" promovida pelo Presidente Bush. Está previsto entrar on-line em Outubro no endereço: http://www.disability.direct.gov
+
+## TESTE AOL: Utilizadores registados do serviço on-line do fornecedor AOL foram convidados a testar a acessibilidade de uma nova versão do seu programa. Todos os interessados podem introduzir a palavra-chave 'Beta' no seu navegador AOL, seleccionar o link 'AOL 7.0 Beta' e depois 'focus tests'.
+
+[Fim da secção um.]
+
+SECÇÃO DOIS: TECNOLOGIA
+- TELEVISÃO DIGITAL.
+
+ABRINDO A JANELA DA ÁUDIO-DESCRIÇÃO NA TELEVISÃO DIGITAL
+Por Phill Cain phil@headstar.com
+
+A Televisão Digital pode proporcionar programação com descrição áudio, realidade que estará largamente ultrapassada nos próximos anos, uma inovação bem-vinda para os deficientes visuais. A áudio-descrição baseia-se na emissão de um canal de som novo com descrições verbais de elementos visuais dos programas de televisão, engrandecendo muito a experiência das pessoas cegas.
+
+No entanto, a transição não será fácil, gerando acessibilidades com novos potenciais como o aparecimento de tipos diferentes de "set-top boxes" e de aparelhos de televisão digitais diferentes, oferecendo uma variedade de meios mais ou menos acessíveis, para descodificar os canais digitais quando são transmitidos.
+
+Nalguns países, a televisão analógica tradicional tem sido utilizada para transmitir áudio-descrição desde 1983, quando o operador estatal japonês NTV começou a emitir programas áudio-descritos em horário não nobre. Subsequentemente, a televisão da Catalunha em Espanha transmite ocasionalmente emissões com áudio-descrição no seu canal aberto desde os finais dos anos 80.
+
+Considerações sérias a respeito da áudio-descrição na Europa tiveram que esperar até à realização de um estudo financiado pela Comissão Europeia a que se chamou de Auditel. Mas enquanto a Europa ponderava, o operador público de Boston WGBH já produzia 10 horas diárias de áudio-descrição - ver http://main.wgbh.org/wgbh/access/dvs/
+
+A WGBH foi possível graças a uma rede de cabo analógica há muito estabelecida: cada canal de televisão tem um segundo canal áudio, que, apesar de não ser de alta-fidelidade, pode ser utilizado para suportar a áudio-descrição. Através do serviço da rede o canal é visto por cerca de 50% das casas americanas.
+
+No Reino Unido e na maioria dos países europeus não existiam as infra-estruturas necessárias à emissão em multicanal, e a primeira onda dos serviços de satélite analógicos também não têm um segundo canal. Consequentemente, a emissão de uma áudio-descrição total teve de esperar pelo advento da televisão digital.
+
+Na preparação da era digital, em 1998 a Comissão Independente de Televisão do Reino Unido traçou linhas mestras para os operadores comerciais sobre a percentagem de programas na Televisão Digital Terrestre que deveriam conter áudio-descrição. Dentro de 10 anos, afirmou a Comissão, 10% dos programas devem cumprir esta recomendação, com uma percentagem mais baixa no período de transição. A BBC, que se regula a si própria, concordou admitir quotas semelhantes.
+
+Em Junho deste ano a BSkyB, a maior companhia de televisão digital do Reino Unido, lançou um canal com áudio-descrição da sua programação. A recente adesão da SKY ao código ITC (ver o boletim E-Access de Junho de 2001) significou que a maioria das campanhas sobre acesso têm de forma geral sido satisfatórios, uma vez que a maioria dos operadores do Reino Unido tem cumprido as suas quotas. No entanto, outros problemas de acesso mantêm-se.
+
+Inicialmente, o maior problema era o facto da primeira geração de "set-top boxes" não ter sido concebida para captar a áudio-descrição. Apesar das "set-top boxes" adaptadas ou novas serem concebidas para suportarem a pista de áudio, ainda não permitem uma navegação fácil através das centenas de canais oferecidos.
+
+Isso significa que os deficientes visuais perdem com frequência nas emissões de televisão os programas com áudio-descrição. A complexidade de horários da televisão digital é mostrada sob a forma de um guia de programação no monitor (EPG).
+
+BSkyB tem desenvolvido esforços para ultrapassar este problema distribuindo os seus horários por correio electrónico, mas esta solução é encarada como provisória por muitos. Para subscrever envie uma mensagem em branco para: diginews-epg-subscribe2yahoogroups.com
+
+Os promotores do acesso esperam que uma solução mais satisfatória esteja a caminho, com a introdução de "set-top boxes" operadas por software. O RNIB está a trabalhar com a Sony e a NOKIA para os ajudar a desenvolver os sistemas operativos que aparecerão na próxima geração de "Set-Top Boxes". Pelo facto dos sistemas serem baseados principalmente em software e não em hardware, existe a esperança de que os problemas de acesso sejam resolvidos continuamente à medida que forem identificados.
+
+A "Set-Top Box" da NOKIA com o Linux, chamada de "MediaTerminal" será lançada na Suécia no fim desta Primavera e chegará ao Reino Unido no próximo ano. Promete meios para ver e armazenar televisão digital, rádio juntamente com um acesso total à Internet. Pelo facto do seu sistema operativo Linux ser totalmente aberto, tais desenvolvimentos podem ser feitos por terceiros.
+
+Mas tal tecnologia avançada não deverá ser barata. A caixa da NOKIA deverá custar mais ou menos 400 libras; e se o mercado de televisão e de tecnologia informática convergirem como esperamos, o software acessível, que funciona realmente, aparecerá como um prémio.
+
+[Fim da secção dois.]
+
+SECÇÃO TRÊS: NOTÍCIAS EM ANÁLISE
+- LIVROS DIGITAIS.
+
+HACKER RUSSO ENTRA NO CAMPO MINADO DOS DIREITOS DE AUTOR.
+por Phil Cain phil@headstar.com
+
+A lei dos direitos de autor do Digital, que geralmente não ocupa as primeiras páginas dos jornais, chegou, no mês passado, a ser título de destaque, na sequência de uma detenção feita pelo FBI de um pirata informático Russo, de seu nome Dmitry Sklyarov, por ter divulgado publicamente a forma de ultrapassar o sistema de protecção de direitos de autor dos eBook da Adobe.
+
+Mas a novidade reside ainda mais no facto de os piratas informáticos, um punhado de sedentários, ao sentirem-se ofendidos com o caso decidiram saltar das suas cadeiras giratórias e ir para as ruas. A detenção de Sklyarov por ter feito uma apresentação na Conferência 'DefCon Nine' hackers' em Las Vegas (http://www.defcon.org) é uma violação da liberdade de expressão, disseram eles, porque ele não foi preso pela actual pirataria dos direitos de autor mas por ter apresentado uma investigação perfeitamente legítima. Por outro lado o FBI acredita que a divulgação deste tipo de conhecimentos é uma violação da lei "Digital Millennium Copyright Act (DMCA)".
+
+Dizer o que está correcto e o que está errado no caso de Sklyarov, que provavelmente será o primeiro caso de prossecução criminal ao abrigo do DMCA, é complexo, mais que não seja pelo facto da defesa ter alguns motivos questionáveis. Entre a sua conduta dúbia, que o levou à fama, está um programa que captura endereços de correio electrónico da Internet pertencentes a empresas que são depois usados para enviar emails antigos e programas que permitem "recuperar palavras-chave".
+
+Quaisquer que sejam as complicações do caso, há um facto que é óbvio: os livros digitais são já um potente símbolo para o discurso público dos advogados, tal como o papel dos seus antecessores. Ao serem criticados certos aspectos do DMCA, o caso conduziu muitas pessoas a menosprezar outros aspectos mais positivos da lei Norte Americana.
+
+Os deficientes visuais e as organizações que os apoiam estão isentos das restrições dos direitos de autor. A Secção 17 da lei refere que: "não é transgressão dos direitos de autor para uma entidade autorizada reproduzir ou distribuir cópias (...) de uma obra literária não dramática já antes publicada se tais cópias (...) forem reproduzidas e distribuídas em formatos especializados exclusivamente para o uso dos cegos ou outras pessoas com incapacidades."
+
+Graças a esta isenção, uma empresa Norte Americana chamada Bookshare (http://www.bookshare.org) começou a planear um serviço com suporte na Web que permita às pessoas com incapacidades e às organizações que para eles trabalham, a partilhar, gratuitamente, obras com direitos de autor. Ao reunir cópias digitais dos livros, a Bookshare espera que se reduza os inconvenientes e os custos da digitalização de livros.
+
+Para assegurar que apenas as pessoas que têm direito a ler os livros, segundo a lei, o fazem, a Bookshare utiliza certificados digitais emitidos por profissionais de medicina ou por entidades certificadas tais como o Serviço Nacional de Bibliotecas para os Cegos e para as Pessoas Deficientes Físicas e a Biblioteca do Congresso. Como parte do acordo entre a Bookshare e as autoridades que regulam os direitos de autor são efectuadas regularmente pesquisas na Internet para averiguar se está a ocorrer distribuição ilegal de livros digitais utilizando a marca d'água da Bookshare.
+
+A Biblioteca Nacional para os Cegos (NLB) contactou a Bookshare com a finalidade de trazer para o Reino Unido um serviço semelhante. Contudo e ao contrário da lei Norte Americana, a lei dos direitos de autor no Reino Unido não prevê quaisquer excepções específicas para a utilização de material com direitos de autor por pessoas com deficiência visual. Apesar das dificuldades, o director dos Serviços Electrónicos da NLB, David Egan diz: "Estamos a trabalhar arduamente dentro do sector, no Reino Unido, para assegurar que possamos fazer parte caso se venha a realizar".
+
+De acordo com Egan, o caso de Sklyarov mostra que "o problema da normalização de inacessibilidade e o vigor com que as empresas a defendem continua real". Têm sido feitos alguns progressos, diz ele, com a adição de alguns eBook sobre história local no sítio Web da NLB. Diz no entanto que os livros digitais "representam uma área complexa e precisamos de continuar a ultrapassar os obstáculos conforme forem surgindo".
+
+*O governo do Reino Unido publicou um documento de consulta sobre a lei dos direitos de autor e os deficientes visuais em: http://www.patent.gov.uk/about/consultations/visually_impaired
+
+[Fim da secção três]
+
+SECÇÃO QUATRO: TECNOLOGIAS DE APOIO
+- CERTIFICAÇÃO.
+
+FORMAÇÃO DE FORMADORES
+por Richard West rwest@gtnet.gov.uk
+
+Nos últimos anos, o estudo feito pelo RNIB com a Associação Britânica de Computadores para Cegos (BCAB) revelou evidências preocupantes de uma necessidade urgente em aperfeiçoar as normas e a qualidade da formação em tecnologias de apoio. Esta situação é particularmente importante quando a formação provem de projectos do governo tais como o "Acesso ao emprego", mas também é vital se tivermos em consideração o aumento do número de pessoas que tiveram que pagar a sua própria formação.
+
+Mais de 90% dos inquiridos durante o decorrer do estudo, consideraram que um sistema de certificação para formadores seria benéfico, ainda que muitos tivessem dito que o objectivo era difícil de alcançar.
+
+Ascendendo ao desafio, as duas organizações estabeleceram o Projecto de Certificação do Formador do BCAB, no princípio deste ano, a fim de garantir que os programas de formação em tecnologias de apoio irão ao encontro das necessidades dos deficientes visuais (vide Boletim E-Access, Dezembro 2000).
+
+Após se ter alcançado este acordo de princípios, reuniu-se um pequeno grupo de trabalho composto por peritos e representantes da indústria. O grupo redigiu uma lista extensiva com as competências e obrigações de um formador, juntamente com um esboço do projecto.
+
+Os acordos seguintes foram feitos com o Institute of IT Training (IITT) no sentido de adoptar uma versão acessível do seu curso de formação "Delivery Skills Refresher", tendo as negociações sido começadas com os criadores dos produtos de tecnologias de apoio para assegurar a avaliação de conhecimentos do formador em relação às características-chave do produto.
+
+A destreza para formar será contemplada durante a frequência do curso de formação "Delivery Skills Refresher" do IITT com a duração de três dias, para aqueles que já têm experiência em formação, ou no curso de cinco dias "Training Delivery Course" para aqueles que são novos na matéria. Uma participação com sucesso em qualquer dos cursos será reconhecida a nível nacional com a atribuição de um certificado em aptidões para formação.
+
+A avaliação de conhecimentos do produto será baseada em trabalho escrito, obrigando assim o formador a preparar um esboço de um curso exaustivo, e um guião detalhado para uma sessão de formação de vinte minutos. A fase seguinte será uma pequena demonstração de uma sessão de formação e uma entrevista. Ambos os elementos serão avaliados por um assessor qualificado e por um perito em utilizadores deficientes visuais, e utilizando uma lista com as características detalhadas do produto em conformidade com os criadores. Uma actuação com sucesso terá direito a um certificado em conhecimento do produto X . Esta situação repete-se para cada produto em que o formador se queira certificar.
+
+Um candidato com sucesso receberá certificação tanto para as aptidões em formação como para o conhecimento de um ou mais produtos. O formador será registado na lista British Trainer Certification Scheme (BTCS), assinará um Código de Ética Profissional e ficará comprometido a manter um alto nível de profissionalismo, incluindo a actualização em aptidões e conhecimentos.
+
+As pessoas portadoras de deficiência visual que procurem formação poderão dirigir-se à BTCS para obter informação sobre a qualificação dos formadores na sua área. Pela primeira vez, o Departamento para a Educação e Aptidões poderá exigir que a formação para alunos ou para quem esteja no programa "Access to Work Scheme" seja ministrada por uma pessoa certificada pela BTCS.
+
+O primeiro curso, ao abrigo deste projecto, está marcado para Setembro deste ano, e no futuro haverá pelo menos um curso por mês.
+
+O custo previsto para um candidato ao curso do IITT de três dias mais a certificação num produto será 1,000 Libras Inglesas. O custo do curso do IITT de cinco dias mais a certificação dum produto será 1,500 Libras Inglesas. O custo de cada avaliação adicional por produto é de 250 Libras Inglesas. Estão a ser feitos esforços no sentido de registar a BTCS como "Individual Learning Accounts" o que poderá resultar na redução do custo ao formador certificado.
+
+Está planeado para o futuro elaborar um projecto semelhante de certificação para assessores das necessidades das pessoas com deficiência visual em tecnologia. É também conhecido que outros países, incluindo os Estados Unidos, e a Nova Zelândia estão interessados no projecto de certificação de formadores, onde estão prestes a começar as negociações.
+
+Desenvolver e estabelecer o BTCS tem sido um processo longo, dispendioso e algumas vezes difícil. Contudo, o projecto desenvolvido é eficaz e praticável, e estabelece novos e fortes normas para formar deficientes visuais.
+
+*Richard West é consultor independente. Para mais informações sobre o projecto de certificação, envie um email para BTCS@bcab.org.uk ou visite o sítio http://www.btcs.org.uk
+
+[fim da secção 3] 
+
+
+COMO RECEBER ESTE BOLETIM.
+
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com> Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos para assinar!
+
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com
+
+Copyright 2001 Headstar Ltd. http://www.headstar.com O Boletim no seu todo ou em parte pode ser reproduzido incluindo este aviso. As Secções do relatório devem ser colocadas entre aspas de forma a ficar claro a sua fonte: 'retirado do Boletim E-Access, uma newsletter mensal distribuída por email', e ainda a referência do nosso endereço do sítio Web http://www.e-accessibility.com.
+
+PESSOAL:
+Director - Dan Jellinek dan@headstar.com
+Vice-director - Phil Cain phil@headstar.com
+Redactor - Tamara Fletcher tamara@headstar.com
+Conselheiro Editorial - Kevin Carey humanity@atlas.co.uk 
+
+[fim da edição.]

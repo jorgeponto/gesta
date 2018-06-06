@@ -1,0 +1,325 @@
+* Boletim E-Access
+
+Boletim electrónico on-line de notícias sobre tecnologia para pessoas com deficiência visual.
+Endereço do Boletim E-Access: 
+<http://www.e-accessibility.com>
+
+Patrocinado pelo Royal National Institute for the Blind:
+<http://www.rnib.org.uk>
+o National Library for the Blind (Biblioteca Nacional para os cegos):
+<http://www.nlbuk.org>
+e a Guide Dogs for the Bliind Association (Associação de Cães-Guia para cegos):
+<http://www.guidedogs.org.uk>
+
+Versão portuguesa: cortesia do GESTA-MP (Grupo de Estudos Sociais, Tiflológicos e Associativos)
+<http://www.gesta.org>
+
+Divulgue, por favor, este boletim pelos seus amigos e colegas, e diga-lhes que o podem subscrever em Português, bastando para tal enviar uma mensagem para o endereço electrónico: <mailto:eab-pt-subs@headstar.com>. Veja os pormenores na parte final deste boletim.
+Quanto mais subscritores tivermos, melhor será o nosso serviço!
+
+NOTA: Para facilitar a navegação a todos aqueles que utilizam leitores de ecrã, todos os cabeçalhos agora iniciam-se com um asterisco e terminam com um ponto final. Diga-nos, por favor, se existe mais alguma coisa que possamos fazer de forma a facilitar a consulta do boletim. 
+
+[início DO BOLETIM]
+
+* BOLETIM 26, FEVEREIRO 2002.
+
+* ÍNDICE.
+
+- RNIB audita sítios Web gratuitamente através da campanha 'See it right' (Vê-o bem).
+
+- Voto electrónico pode impulsionar o acesso: eleições autárquicas vão servir de teste.
+
+- O custo do Acesso não é excessivo, diz uma poderosa organização Europeia.
+
+- Carta da Deficiência Irlandesa é devolvida ao comité de redacção - governo dobra-se perante as objecções.
+
+- Tesouro lidera prémios governamentais.
+
+- Notícias breves: Hospedar páginas Web de deficientes visuais; Livro de Joe Clark; 
+Serviço Book sharing (partilha de livros) lançado.
+
+Secção dois - 'A Receber'
+Fórum dos leitores.
+
+Secção três: E-aprendizagem
+- Política da porta aberta: a Universidade Aberta tem a ambição de se tornar o líder nas tecnologias de acessibilidade no campo da e-aprendizagem (aprendizagem electrónica), relata Dan Jellinek.
+
+Secção quatro: Antevisão da conferência CSUN.
+Este ano a conferência de "Tecnologias e pessoas com deficiências" olha para os temas da formação e educação, escreve Phil Cain.
+
+Secção cinco: Saúde - acesso aos registos electrónicos.
+A introdução dos registos electrónicos de saúde deve inspirar os médicos a tornar as suas comunicações mais acessíveis, diz Kevin Carey.
+
+[Fim do índice.]
+
+
+* SECÇÃO UM - NOTÍCIAS.
+
+* RNIB AUDITA SÍTIOS WEB GRATUITAMENTE.
+
+O RNIB está a oferecer gratuitamente auditoria a uma série de organizações de topo seleccionadas durante os próximos dois anos, numa nova fase da sua campanha 'See it right' (Vê-o bem) criada pelo grupo de serviços financeiros Standard Life.
+
+Standard Life forneceu 50,000 libras por ano durante dois anos, mais um membro do seu staff, de forma a permitir ao RNIB oferecer gratuitamente auditoria a cerca de 50 organizações por ano com um custo estimado entre as 600 e as 1450 libras por auditoria. Depois dos dois anos o processo será revisto. 
+
+Qualquer organização poderá pedir a auditoria, mas as mesmas serão seleccionadas de forma a representarem uma amostra transversal dos sectores de actividade, incluindo o comércio a retalho, as instituições de solidariedade, transportes, educação, telecomunicações e governamentais. Espera-se que a iniciativa faça crescer a consciencialização dos assuntos da acessibilidade em toda a sociedade. 
+
+O esquema da campanha 'See it right' já auditou várias grandes organizações tais como a Tesco.com, Marks & Spencer, Grupo PSI, BT, a Biblioteca Britânica, e o portal governamental UK Online. Standard Life tem também intenção de tornar todos os seus sítios Web acessíveis até ao final do ano.
+
+As auditorias irão usar as directrizes de acessibilidade da WAI do consórcio World Wide Web 
+(http://www.w3c.org/wai), e o RNIB estima que o custo médio de tornar o sítio Web acessível depois das auditorias será de um a dois por cento do custo do desenho original. 
+
+Colin Low, presidente do RNIB, disse que a inacessibilidade da maior parte dos sítios Web actuais significa que por exemplo "as pessoas cegas não são capazes de preencher os formulários on-line dos census mantendo a privacidade, ou de reservar um lugar no teatro sem terem que pegar no telefone durante uma eternidade de tempo".
+
+Ele disse que a Internet pode trazer um vasto leque de informação, que pela primeira vez chega às pessoas deficientes visuais e a 8.7 milhões de pessoas com deficiência no RU, representando um mercado de mais de 40 biliões de libras, o que parece ser do ponto de vista empresarial uma boa razão para que as empresas abracem o desenho inclusivo. 
+
+* VOTO ELECTRÓNICO PODE IMPULSIONAR O ACESSO.
+
+As eleições autárquicas deste ano, que terão lugar em Maio, serão um balão de ensaio para o voto através da Internet, voto através do telefone e através dos quiosques de voto electrónico disseminados pelo Departamento de Transportes, governo local e regiões. 
+
+Um dos argumentos mais mencionados para a existência do voto electrónico vai para a possibilidade que ele oferece às pessoas com deficiências, incluindo os cegos e os amblíopes, de votar pela primeira vez de forma autónoma.
+
+Cinco autoridades locais - Nantwich, Liverpool, Sheffield, Swindon e St Albans - vão dar a possibilidade aos seus constituintes de exercerem o seu direito de voto usando para o efeito um vulgar computador ou telefone. Duas destas - Sheffield e St Albans - conjuntamente com Chester, irá também oferecer a opção de votar usando um computador de quiosque. Desconhece-se se o Quiosque terá software de síntese de voz ou se terá um teclado táctil. 
+
+Nenhum detalhe destes testes foi confirmado pelos parceiros do sector privado envolvidos, mas a câmara municipal das cidades de Liverpool e de Sheffield se encontram em conversações com o gigante das telecomunicações BT e com a empresa de votação on-line election.com; enquanto Swindon acredita poder discutir as diversas opções com a comissão eleitoral "Electoral Reform Services". Quer a BT, quer a ERS afirmaram que os seus sistemas são acessíveis. 
+
+A DTLR disse ao Boletim E-Access Bulletin que todos os elementos do sistema estarão de acordo com o Disability Discrimination Act.
+
+Entretanto o governo Irlandês, anunciou esta semana que também irá efectuar testes ao sistema de voto electrónico em Maio. Os sistemas de quiosques serão usados para recolha e contagem de votos no Norte de Dublin, Dublin Oeste e Centro durante as eleições legislativas. Contudo, o governo abandonou o uso de um sistema de voto activado por voz na fase de teste derivado ao seu elevado custo. Veja:
+http://www.environ.ie/pressindex.html
+
+* CUSTOS DE ACESSO NÃO SÃO "EXCESSIVOS".
+
+O poderoso Comité Económico e Social da União Europeia disse esta semana que os Estados Membros necessitam de saber que a necessidade da acessibilidade à Web não é excessivamente dispendiosa. 
+
+Os comentários foram proferidos em resposta a um Comunicado recente da União Europeia que encoraja as instituições comunitárias e os próprios estados membros a tornarem a sua presença na Web acessível (veja EAB, Outubro e Novembro 2001).
+
+O comité também disse que é necessário que as pessoas que desenvolvem e os utilizadores com deficiência participem conjuntamente em acções de formação. Promete solenemente tornar os seus sítios Web acessíveis até ao final do ano. 
+
+A afirmação foi proferida na sequência de um relatório de pesquisa sobre acessibilidade feito por Miguel Angel Cabra de Luna, director da organização de solidariedade de cegos ONCE, e encomendado pelo ESC. O relatório será publicado brevemente no sítio Web do Comité (http://www.esc.eu.int).
+
+* CARTA DA DEFICIÊNCIA IRLANDESA É DEVOLVIDA AO COMITÉ DE REDACÇÃO.
+
+O governo Irlandês decidiu adiar a leitura da sua Carta da Deficiência no Dial, o parlamento Irlandês, perante "unânimes objecções" vindas das organizações defensoras dos direitos das pessoas com deficiência durante o período de consulta. 
+
+A Carta, que deveria ter sido introduzida a semana passada, foi rejeitada por grupos de pressão que afirmaram que ela continha lacunas ao não conferir direitos suficientes às pessoas com deficiências, aos seus pais, aos seus irmãos e encarregados.
+
+O documento provisório afirma que as organizações do sector público precisam de assegurar que os edifícios e a informação seja disponibilizada a todas as pessoas, "tão longe quanto praticável". As críticas apontam o dedo à secção 47 da Carta que nega o direito de recorrer aos tribunais civis. 
+
+De acordo com Gerry Ellis, um consultor em acessibilidades e ex-presidente da organização "People with Disabilities" na Irlanda: "Não existe nada [na Carta] sobre qualquer direito de aceder às tecnologias de informação. Não há qualquer poder para alguma autoridade que garanta a efectiva existência de acessibilidade. Não é feita qualquer menção à política de aquisições pública (public procurement) que inclua a acessibilidade como parte dos seus critérios. Não é dito nada sobre a condição de acessibilidade garantida na licença de concessão da rede móvel de terceira geração. Por outras palavras, existe teoria, mas nada que nos faça sentir progressos actuais e reais".
+
+Para ler mais sobre a Carta, veja os seguintes links de sítios Web acessíveis compilados por Barry McMullin: http://wai.rince.ie/white-papers/2002/legislation
+
+* O TESOURO DA INFORMAÇÃO.
+
+A acessibilidade é este ano um critério central no julgamento dos prémios da Internet do Governo do RU, que deverá ser anunciado a 18 de Março pelo organismo governamental "Central Office of Information". 
+
+O Boletim E-Access entende que o sítio Web do departamento do Tesouro "HM Treasury" (http://www.hm-treasury.gov.uk) seja o favorito e candidato a receber o prémio especial da acessibilidade. O sítio passa pelo teste de verificação de acessibilidade do 'Bobby' 
+(http://www.cast.org/bobby) e oferece uma versão integral em modo texto. 
+
+O vencedor absoluto de melhor sítio Web governamental deverá ser também um sítio com uma estrutura clara e de fácil navegação. Para mais informações sobre o prémio veja: 
+http://www.internetforum.gov.uk
+
+* NOTÍCIAS BREVES:
+
+* HOSPEDAR DVs: Um serviço para hospedar páginas Web especificamente dirigidas a pessoas com deficiência visual, com o nome 'VIP Lorimernet', foi lançado o mês passado:
+http://www.lorimernet.co.uk
+
+* LIVRO NOVIDADE: 'Building accessible web sites' (Construindo sítios Web acessíveis), um livro do gúru Norte-Americano especialista em acesso aos media Joe Clark, deverá ser lançado esta primavera: http://www.joeclark.org/book
+
+* SHARE LANÇADO: Bookshare, a plataforma on-line de partilha de livros electrónicos (e-book), foi lançado a semana passada, oferecendo acesso aos campeões de vendas incluíndo A Beautiful 
+Mind, de John Adams, e o The Fellowship of the Ring. Presentemente as restrições de direitos de autor obrigam a que o serviço esteja apenas disponível para cidadãos deficientes residentes nos Estados Unidos: http://www.bookshare.org
+
+[Fim da secção um.]
+
+* SECÇÃO DOIS - 'A RECEBER'
+- FÓRUM DOS LEITORES
+- Por favor envie por e-mail todos os contributos ou respostas para
+inbox@headstar.com
+
+* RESULTADO XP: No nosso último número Paul Evans, do Programa de Tecnologias para a Educação e Emprego do RNIB pediu informações sobre o Windows XP e a sua acessibilidade. Erin Renschler do departamento de Relações Públicas da Microsoft respondeu, enviando-nos um link, do sítio Web da Microsoft, de passagem obrigatória para quem quer conhecer as características relevantes do XP:
+http://fastlink.headstar.com/xp
+Erin enviou também noutro press release e numa folha de factos para o Paul, outro conjunto de características. Se outros leitores estiverem interessados em receber uma cópia destes
+documentos por favor enviem um e-mail para Tamara Fletcher através de tamara@headstar.com com uma mensagem dizendo "XP Access".
+
+* OUTLOOK ACESSÍVEL: Entretanto Sandy Bannister procura um manual ou tutorial
+para o Microsoft Outlook 2000. Se alguém conhecer algum que esteja acessível por
+favor envie um e-mail para inbox@headstar.com
+
+[Fim secção dois.]
+
+* SECÇÃO TRÊS: E-LEARNING
+- UNIVERSIDADE ABERTA 
+
+* POLÍTICA DE PORTA ABERTA
+
+A Universidade Aberta (http://www.open.ac.uk), a instituição de ensino a distância que na Grã-Bretanha é o organismo máximo da educação, está determinada também a tornar-se o maior responsável pelo desenvolvimento do ensino de tecnologia acessível do Reino Unido.
+
+Actualmente, a OU (Universidade Aberta) serve cerca de 140.000 estudantes universitários, entre os quais mais de 7.500 são portadores de um tipo de deficiência. Cerca de 900 são cegos ou deficientes visuais.
+
+Como pioneira no ensino a distância, a tecnologia representa um papel principal nos cursos da universidade, com o seu próprio sistema electrónico de conferência permitindo aos estudantes, em mais de 150 cursos, trocar mais de 150.000 mensagens por dia.
+
+No ano passado, a universidade anunciou neste boletim que estava para criar um Centro para Tecnologias de Apoio e Investigação de Qualificações (CATER) para os estudantes incapacitados, com apoio de um milhão de Libras Inglesas (1 milhão e 610 mil euros) do Higher Education Funding Council for England, no maior projecto do tipo no Reino Unido (ver o Boletim E-Access de Janeiro 2001).
+
+O centro está agora de pé e a funcionar, e é dirigido por Ralph Keats, que se serviu da recente conferência "Techshare" do RNIB para explicar os planos da universidade para melhorar o acesso.
+
+"Num passado longínquo criávamos cursos e só mais tarde olhávamos para a acessibilidade como uma tranca", disse. "Tínhamos que lutar por qualquer migalha de financiamento. Mas agora está no coração de tudo o que fazemos - eu nem consigo acreditar nas mudanças ocorridas nos últimos três anos."
+
+Recentemente foi atribuído à Universidade Aberta o poder de actuar com autoridade própria na atribuição de subsídios aos estudantes deficientes, sem ter que passar pelo governo central, diz Keats. Desde então, cada estudante com incapacidades pode requisitar tanto como 4.500 Libras Inglesas (7.267 euros) para tecnologia especializada, a fim de poder trabalhar e chegar a uma graduação de formação, "ganhámos muito em ter adquirido poder de um dia para outro. No ano passado gastámos 3 milhões de Libras Inglesas (4 milhões e 850 mil euros) em tecnologia de acesso."
+
+O aumento da influência veio juntamente com o poder de compra, diz, "os fornecedores querem o nosso negócio e por isso trabalharão connosco e nós podemos ajudar a promover protótipos."
+
+O CATER está a apressar o trabalho, de todos os envolvidos, para colocar cá fora os cursos da OU, desde os desenhadores gráficos àqueles que criam pacotes de CD-Rom, para assegurar que o seu trabalho é acessível. Irá também lançar novas tecnologias de ensino, dependendo do seu potencial, e conforme forem aparecendo. 
+
+Uma das principais tecnologias de acesso, que a universidade está actualmente a desenvolver, chama-se "DREAM" (Digitally Recorded Educational Audio Materials - Materiais Áudio Educativos Digitalizados) um projecto que pretende substituir gravações áudio analógicas dos cursos pelas gravações digitais, para aumentar a qualidade, interactividade e acessibilidade.
+
+Actualmente, cerca de 1.200 estudantes da OU têm acesso aos cursos através de cassetes áudio, incluindo 900 deficientes visuais mais 300 com dislexia ou deficiências motoras. A qualidade de som pode ser pobre, e seja como for, degrada-se com o passar do tempo, e procurar material ao longo dum curso de várias cassetes pode não ser muito fácil mas não é impossível. Além disso, quando os cursos são revistos de tempos a tempos, é necessário criar uma nova e inteira série de cassetes analógicas.
+
+Com os textos digitalizados, existem uma variedade de utilizadores de interfaces das quais os estudantes podem escolher, assim como também as interfaces da Web acessíveis aprovados para procurar informação e trabalho para os estudantes cegos.
+
+Uma outra instituição que lidera o caminho do ensino acessível on-line é o Royal National College for the Blind (http://www.rncb.ac.uk), um especialista independente nacional e internacional em educação adicional.
+
+"O instituto aspira ajudar os alunos a controlar e a gerir a sua própria aprendizagem, e isto traz uma pesada ênfase no controlo de sistemas de computador," disse Tim Ashmore, director de apoio ao ensino do RNCB. 
+
+"Contudo, não existe uma aproximação consistente a nível nacional no momento de formar os professores de ensino on-line. Existem recursos financeiros para a actividade, por exemplo na agência de educação tecnológica - Becta, mas onde está a estratégia consistente para podermos 'abrir caminho'?"
+
+O instituto tem a sua própria intranet para os professores e alunos, 'RNC Intralearn', e os estudantes são ensinados a um nível graduado a aceder aos materiais de aprendizagem por eles próprios, diz Ashmore. "Muitos alunos não têm as competências básicas, por isso estamos a inclui-las no curriculum. Existem outros problemas, incluindo os financiamentos, mas esta é a única forma de ir continuando, nem que seja pelo facto de queremos que os nossos alunos continuem a utilizar estas competências em tecnologia por detrás dos seus cursos do instituto."
+
+Shirley Evans, coordenadora de ensino da tecnologia do RNCB, disse que o instituto fez a revisão a cerca de 30 diferentes produtos de 'ambiente virtual de ensino' para a sua acessibilidade. "A acessibilidade era a grande questão, mas o âmago do teste parecia ser: o ambiente de trabalho funciona com um leitor de ecrã?" diz Evans. 
+
+A resposta a muitos dos problemas enfrentados pelo instituto, e por outras instituições educacionais, é provável que seja em parte o estabelecimento de equipas especialistas de professores nacionais que poderiam ajudar os professores locais com as questões de acessibilidade, disse Evans. 
+
+Quaisquer que sejam as soluções, o tempo corre para os especialistas e para os vulgares fornecedores de educação para conseguirem obter os direitos sobre estas questões. Perante o novo Special Educational Needs Disabilities Act (SENDA), a partir de Setembro de 2002 será ilegal para todos os fornecedores em educação discriminar estudantes deficientes pelo tratamento menos favorável que aos restantes, e será requisitado às instituições para fazerem ajustes, inclusive fazer os seus próprios cursos electrónicos acessíveis; permitir às pessoas deficientes o igual acesso ao apoio técnico para o seu equipamento 
+(ver http://www.techdis.ac.uk/articles/SENDRE.htm). 
+A Universidade Aberta de Ralph Keats reconhece que existirão sempre problemas em tornar alguns tipos de cursos acessíveis, por exemplo cursos de música onde anotações especiais podem ser utilizadas, cursos sobre assuntos actuais onde o material precisa ser actualizado ao minuto, e qualquer curso onde os materiais continuam a ser desenvolvidos.
+
+Mas diz que o SENDA e um possível apoio da Lei dos Direitos Humanos, significa que os estudantes deficientes visuais terão mais ajuda legislativa do que alguma vez houvera em obter acessibilidade. "Nunca estivemos tão bem".
+
+[fim da secção três.]
+
+* Secção 4: Antevisão da conferência
+- CSUN.
+
+* Uma comunidade de treino virtual
+
+A Conferência sobre Tecnologia e Pessoas com Deficiência deste ano no Center on Disabilities (Centro de Deficiência), na CalifOrnia State University (Universidade Estadual da Califórnia) (CSUN - http://www.csun.edu/cod), centra a sua atenção nos desafios educacionais das tecnologias de apoio. Os tópicos em foco incluem a formação, o ensino à distância, e os enigmas do acesso colocados pelos sistemas de escrita não romanos como o braille, a matemática e a notação musical.
+
+A seguir vamos fazer uma breve passagem pelas sessões principais relacionadas com a deficiência visual, com links para as agendas das sessões relevantes.
+
+Hans Russman do Institute for Blind and Partially Sighted (Instituto para os Cegos e Ambliopes), na Dinamarca, criou um curso de formação para ajudar os utilizadores de computador cegos a trocar informação com os colegas normovisuais. Para isso, o instituto usa diagramas tácteis para mostrar os formatos das janelas no ecrã: 
+http://www.csun.edu/cod/conf2002/proceedings/163.htm
+
+
+Brian Hardy e Brian Charlson, entretanto, irão divulgar os resultados de uma experiência Américo-australiana acerca de uma tentativa de formação na utilização de tecnologia de informação fora do local de trabalho, com "modelos comunitários":
+http://www.csun.edu/cod/conf2002/proceedings/156.htm
+
+Steve Tyler, do RNIB e Sarah Morley do British Computer Association for the Blind (Associação Britânica de Informática para Cegos) apresentarão um resumo de como serão assessorados, certificados e actualizados os formadores do Reino Unido, no futuro: 
+http://www.csun.edu/cod/conf2002/proceedings/153.htm
+
+Entretanto, Elizabeth Cohen e Walter Kimble da University of Southern Maine (Universidade de Southern Maine) explicarão de que maneira têm utilizado a Internet para formar e certificar educadores universitários na tecnologia de assistência:
+http://www.csun.edu/cod/conf2002/proceedings/232.htm
+
+Debra Bauder da University Of Louisville (Universidade de Louisville) e Debbie Sharon do Bluegrass Technology Center (Centro de Tecnologia de Bluegrass) explicam como é disponibilizada gratuitamente a formação em tecnologias de apoio ao utilizador final no Kentucky, usando a Internet:
+http://www.csun.edu/cod/conf2002/proceedings/225.htm
+
+Tópicos de aprendizagem mais gerais têm também um cartaz proeminente com uma conversa sobre o desenvolvimento da plataforma de distribuição de comunicação Merlot revista por peritos.
+
+Haverá também uma demonstração de um software que cria apresentações narradas, acessíveis, do Power Point, por Dick Banks da Equal Access to Software and Information (Igualdade de acesso ao Software e à Informação):
+http://www.csun.edu/cod/conf2002/proceedings/229.htm
+
+Bill McAmis da Bakersfield City School District apresentará a instalação do acesso intranet bilingue nas escolas do ensino básico da Califórnia, levada a cabo pelas autoridades de educação deste distrito. Para dar uma ideia da amplitude deste desafio, McAmis diz que a escola ensina mais de 28 alunos do ensino básico.
+http://www.csun.edu/cod/conf2002/proceedings/295.htm
+
+Donna McNear da Run River Special Education Cooperative (Cooperativa de Educação Especial de Run River), Larry Lewis e Jim Halliday da HumanWare também irão analisar o bilinguismo na sala de aula, considerando as grandes necessidades dos alunos na aprendizagem do braille:
+http://www.csun.edu/cod/conf2002/proceedings/102.htm
+
+Para aqueles que estão a lutar para aprender o braille, Mimi Berman da Independent
+Living Aids (Ajuda Personalizada Independente) em Jericho irá demonstrar o BrailleMaster. Esta máquina ensina modelos de braille, abreviaturas de grau dois e as palavras mais utilizadas da língua inglesa:
+http://www.csun.edu/cod/conf2002/proceedings/249.htm
+
+Glen Gordon da Freedom Scientific apresentará antecipadamente os futuros blocos de notas em braille, que vão ser desenvolvidos pela companhia. Estes terão incorporado um navegador para a Web e a capacidade de ler uma fita de áudio:
+http://www.csun.edu/cod/conf2002/proceedings/111.htm
+
+Yvan Lagace, da Visuaide, apresentará em antecipação um dispositivo portátil de orientação que poderá ser usado em conjunto com um bloco de notas em braille, a partir de Junho deste ano. Victor Escort: (o GPS), como será conhecido o sistema de orientação global, será adaptado para trabalhar com uma gama mais ampla de assistentes digitais em 2003:
+http://www.csun.edu/cod/conf2002/proceedings/268.htm
+
+Yoshinobu Maeda, da Japan's Niigata University (Universidade de Niigata no Japão), apresentará pesquisas que sugerem que as descrições dadas aos utilizadores dos sistemas de orientação GPS devem incluir informações acerca de marcas no terreno e cruzamentos:
+http://www.csun.edu/cod/conf2002/proceedings/296.htm
+
+O advento da Secção 508, que exige dos departamentos governamentais dos Estados Unidos a prestação de informação acessível, está bastante representada na agenda da CSUN deste ano. Entre as apresentações deste tópico, está a do US Internal Revenue Service, que deverá afirmar: "a Secção 508 fornece uma excelente oportunidade para melhorarmos o serviço que prestamos a todos os nossos clientes":
+http://www.csun.edu/cod/conf2002/proceedings/49.htm
+
+Karl Hebenstreit Jr, do General Services Administration (Administração dos Serviços Gerais), uma central de compras do Estado Americano, explicará um processo conhecido como 'bootstrapping', em que os utilizadores de software ajudarão a tornar estes mais acessíveis:
+http://www.csun.edu/cod/conf2002/proceedings/195.htm
+
+Jim Fruchterman, o homem que desenvolveu o leitor de ecrã JAWS e que agora é também o administrador da firma, sem fins lucrativos, Benetech, fará um ponto da situação no que diz respeito ao progresso na recentemente lançada plataforma digital de partilha de livros Americana, "Bookshare":
+http://www.csun.edu/cod/conf2002/proceedings/135.htm
+
+Entretanto, Larry Skutchan e Keith Creasy da American Printing House for the Blind (Firma Americana de Impressão para os Cegos) vão mostrar como criar livros electrónicos no novo formato de livro electrónico DAISY 3.0, utilizando um programa chamado BookMaster. Skutchan disse ao Boletim E-Access que o software será lançado em Abril e custará mais ou menos 350 dólares:
+http://www.csun.edu/cod/conf2002/proceedings/158.htm
+
+Também será apresentado na CSUN o protótipo de um navegador para a Web, o WebIE, e uma agenda pessoal, Organiser. Paul Blenkhorn e Gareth Evans, os criadores destes dois produtos da Microsoft, desenvolveram a sua investigação no Institute of Science and Technology (Instituto de Ciência e Tecnologia) da Universidade de Manchester no Reino Unido, com o financiamento da Guide Dogs for the Blind Association (Associação de Cães-guia para Cegos):
+http://www.csun.edu/cod/conf2002/proceedings/55.htm
+
+Deborah Gilden do Kettlewell Eye Research Institute (Instituto de Pesquisa Oftalmológica Kettlewell) também espera ajudar os deficientes visuais a acederem aos produtos da Microsoft. Ela afirma: "A maioria das aplicações do Office da Microsoft incluem muitas características, que apesar de não terem sido pensadas para ambliopes, podem servir como ferramentas poderosas e flexíveis para tornarem as imagens do ecrã acessíveis":
+http://www.csun.edu/cod/conf2002/proceedings/206.htm
+
+John Gardner da Oregon State University (Universidade Estadual de Oregon) apresentará os progressos na resolução dos problemas do acesso à notação matemática (ver a secção 3 do Boletim E-Access de Janeiro 2002). Uma versão Beta da edição de texto matemático chamada WinTriangle, tem vindo a ser testada desde Setembro do ano passado:
+http://www.csun.edu/cod/conf2002/proceedings/300.htm
+
+Também falará do acesso na matemática, com uma prelecção sobre o modo de utilizar o reconhecimento de voz do Dragon's Naturally Speaking Professional e do Dragon
+Dictate:
+http://www.csun.edu/cod/conf2002/proceedings/103.htm
+
+William McCann e David Pinto da Dancing Dots demonstrarão de que maneira os "scripts" do leitor de ecrã JAWS podem ser utilizados pelos cegos para gravar, editar e fazer notações de música usando os pacotes dos computadores actuais:
+http://www.csun.edu/cod/conf2002/proceedings/264.htm
+
+Numa declaração internacional, Hiroyuki Nakamura do Japanese Institute for Communication Environment (Instituto Japonês para o Ambiente da Comunicação) defende a harmonização no estabelecimento de padrões de acessibilidade nos processos que estão a ser desenvolvidos por diferentes países. As regras de acessibilidade dos japoneses tornaram-se confusas e contraditórias, porque foram estabelecidas por dois organismos diferentes, o Ministério dos Correios e Telecomunicações e o Ministério da Indústria e do Comércio Internacional:
+http://www.csun.edu/cod/conf2002/proceedings/272.htm
+
+[Fim da secção quatro.]
+
+* Secção cinco: Saúde
+- Registos electrónicos
+
+* A Psicologia antes da Tecnologia.
+Por Kevin Carey humanity@atlas.co.uk
+
+A pergunta chave que surge na novela de Umberto Eco "O Nome da Rosa", é, se os monges escondiam os livros das pessoas ou deles próprios. A Mesma questão deverá ser colocada em relação aos advogados que continuam obstinadamente agarrados ao seu Latim, bem como os médicos que estão ainda devotados ao Grego. Isto pode - até certo ponto - ser bom, no caso da lei, onde as pessoas esperam que o advogado as represente contudo, o mesmo já não é aceitável no que diz respeito aos cuidados de saúde, onde as pessoas necessitam de muito mais controlo sobre aquilo que se passa com elas.
+
+Podemos recordar, ainda não foi há dois anos, que um pediatra foi agredido, porque os vigilantes pensaram que se tratava dum pedófilo. Então, deverá saber-se a diferença entre um -iatra e um -ófilo; contudo, quantos de nós distingue a nossa -ectomia da nossa -otomia? Para termos um maior controlo sobre o nosso organismo, é necessário um maior conhecimento do que os clínicos fazem ou deixam de fazer. Abandonar o modelo Grego, será - sem dúvida - uma ajuda, mas teremos que fazer muito mais no sentido de assegurar a digitalização dos registos médicos, bem como torná-los mais acessíveis e úteis. Um registo que seja, ou vago, ou muito pormenorizado, leva ao surgimento de dúvidas e embaraços. Assim, não é apenas uma questão de palavras, mas perceber o modo como o ser humano trata a informação.
+
+Se alguém tiver um cancro, deve ser-lhe - simplesmente - ditas algumas medidas a tomar, em vez de lhe ser dada uma mera e fria estatística, relacionada com as prováveis causas e consequências da doença ou qualquer outra coisa que traga preocupação.
+
+O problema é bastante mais complicado pelo facto de que a informação contida no registo digital do paciente irá ser comparada com a informação de massa sobre saúde e medicina encontrada pelos pacientes na Web; alguma dessa informação provém de sites dos serviços nacionais de Saúde, mas muita dela vem de sites de organizações não-governamentais, grupos de ajuda ou organizações que fazem campanhas de angariação de fundos para tratar determinada doença, utilizando para tal, um discurso dramático, já para não mencionar a proliferação de sites dedicados às terapias alternativas, que vão dos relativamente comuns até aos místicos. 
+
+Se observarmos os registos médicos digitais, encontraremos na verdade três áreas de interesse para os pacientes: Quais são as condições de saúde em que me encontro; de que modo é que elas me afectam; o que devo fazer? A primeira destas questões raramente interessa aos registos médicos tradicionais, porque os profissionais já conhecem os antecedentes do paciente e a terceira não é uma questão relevante para um registo, já que diz respeito ao futuro. Contudo, no entender do paciente, são as três de grande importância.
+
+Ainda que esteja inclinado a adoptar um ponto de vista completamente mecanicista do bem-estar físico, em que - por exemplo - o cérebro não tem nada a ver com o estado do estômago, há ainda o problema de converter a anatomia e a química em humanidade. No que diz respeito à personalização dos dados sobre o estado de saúde, não existe somente a questão doda síndromeuma vez que está relacionado com um indivíduo, mas existe também a questão fundamental da probabilidade estatística. Apesar da sociedade depender massivamente da manipulação da informação, nós somos - cada vez em maior número - segundo as estatísticas analfabetos.
+
+Muitos de nós não consegue distinguir o casuístico do contingencial, nem o altamente provável do estatisticamente possível. Vivemos numa época em que os media têm um interesse fixo em desacreditar o rigor e autenticidade das estatísticas; os mais surpreendentes e recentes exemplos relacionados com saúde são a histeria fugaz sobre o necrótico fratricida (da "flesh-eating bug" -mala de carne para comer-) e as sucessivas histórias sobre clonagem.
+
+Finalmente, existem muitos outros requisitos elementares para que as pessoas sejam capazes de obter a informação que necessitam. Será, por exemplo, possível escolher o tamanho da impressão e a altura da letra, ou será possível escolher entre um mapa gráfico ou um texto explicativo? Contudo, ainda que sejam questões de importância vital, são questões triviais quando comparadas com outras sobre acessibilidade fundamental e a utilidade da informação nos registos. Antes de mais uma vez ficarmos obcecados com a tecnologia, precisamos de olhar para a psicologia.
+
+Nota: Este artigo apareceu pela primeira vez na nossa outra publicação "Future Health BUlLetin" (HTTP://www.headstar.com/futurehealth). Para subscrever este boletim na versão só texto envie um email para fh-text-subscribe@headstar.com ou para a versão html envie para: futurehealth-subscribe@headstar.com
+
+[fim da Secção cinco]
+
+COMO RECEBER ESTE BOLETIM.
+
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com> Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos para assinar!
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com
+Copyright 2001 Headstar Ltd. http://www.headstar.com O Boletim no seu todo ou em parte pode ser reproduzido incluindo este aviso. As Secções do relatório devem ser colocadas entre aspas de forma a ficar claro a sua fonte: 'retirado do Boletim E-Access, uma newsletter mensal distribuída por email', e ainda a referência do nosso endereço do sítio Web http://www.e-accessibility.com.
+
+-**-
+Nota à edição Portuguesa: Caso os leitores portugueses estejam interessados em enviar os seus comentários e sugestões, bem como enviar alguns artigos que abordem as questões de acessibilidade à Sociedade da Informação podem remetê-los, em Inglês ou Português, para o seu editor Dan Jellinek através do e-endereço: dan@headstar.com, ou mesmo para gesta@gesta.org 
+-**-
+
+PESSOAL:
+Director - Dan Jellinek dan@headstar.com
+Vice-director - Phil Cain phil@headstar.com
+Redactor - Tamara Fletcher tamara@headstar.com
+Conselheiro Editorial - Kevin Carey humanity@atlas.co.uk 
+
+[fim da edição.]

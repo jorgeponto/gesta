@@ -1,0 +1,332 @@
+* Boletim E-Access
+Boletim electrónico on-line de notícias sobre tecnologia para pessoas com deficiência visual.
+Endereço do Boletim E-Access, incluíndo os seus arquivos: <http://www.e-accessibility.com>
+
+Patrocinado pelo Royal National Institute for the Blind:
+<http://www.rnib.org.uk>
+o National Library for the Blind (Biblioteca Nacional para os cegos): <http://www.nlbuk.org>
+e a Guide Dogs for the Bliind Association (Associação de Cães-Guia para cegos): <http://www.guidedogs.org.uk>
+
+Versão portuguesa: cortesia do GESTA-MP (Grupo de Estudos Sociais, Tiflológicos e Associativos): <http://www.gesta.org>
+
+Divulgue, por favor, este boletim pelos seus amigos e colegas, e diga-lhes que o podem subscrever em Português, bastando para tal enviar uma mensagem para o endereço electrónico: <mailto:eab-pt-subs@headstar.com>. Veja os pormenores na parte final deste boletim.
+Quanto mais subscritores tivermos, melhor será o nosso serviço!
+
+NOTA: Para facilitar a navegação a todos aqueles que utilizam leitores de ecrã, todos os cabeçalhos agora iniciam-se com um asterisco e terminam com um ponto final. Diga-nos, por favor, se existe mais alguma coisa que possamos fazer de forma a facilitar a consulta do boletim. 
+
+[início DO BOLETIM]
+
+* BOLETIM 31, JULHO 2002.
+* ÍNDICE:
+
+Secção um: Notícias.
+1: Capataz Digital precisa de dentes brilhantes
+- reunião pública sobre a carta das comunicações.
+2: Directrizes da Deficiência para Irlanda Digital
+- conselhos mais amplos.
+3: Pequenos passos em frente, rumo à rádio digital
+- novo transistor mais acessível.
+4: Lançado teste para 'sítios-A'
+- novo portal apanha o melhor da web.
+5: Experiências de áudio-descrição de Cinema alargadas
+- de Harry Potter ao Homem-Aranha.
+6: Verba duplicou para o esquema de auditoria
+- expansão da campanha 'See it right' (Ver Correcto).
+
+Notícias breves: 7: Direitos de Autor não lucrativos - Carta de acesso chega aos Lords; 8: Conferência da Baixa Visão - Julho encontro em Gothenburg; 9: Processo de aprendizagem - educação on-line; 10: Software que fala - padrões de voz.
+
+Secção dois: 'A Receber' - Fórum dos Leitores.
+- 11: Código Acessível; 12: Biblioteca empresta.
+
+13: Notícia Especial - Boletim Saúde Futura.
+
+14: Secção três: Antevisão - Sight Village 2002.
+A maior montra de tecnologias do RU abre o seu calendário na próxima semana. Derek Parkinson relata sobre o que vai estar no grande armazém.
+
+15: Notícia especial - competição de escrita.
+
+16: Secção quatro: Reportagem Especial - sistema bancário acessível (parte dois).
+- O dinheiro fala: Segunda parte do estudo de Tamara Fletcher sobre serviços bancários que equiparam as caixas Multibanco com sistema de voz.
+
+17: Secção cinco: Opinião - empresa social.
+- Acesso alcançável: qual é o melhor modelo de negócio para desenvolver tecnologias acessíveis? Roger Wilson-Hinds lidera uma forma barata.
+
+[Fim do índice.]
+
+* SECÇÃO UM: NOTÍCIAS.
+*1: CAPATAZ DIGITAL NECESSITA DE DENTES BRILHANTES.
+
+Foi proposta nova regulamentação das comunicações digitais no sentido de salvaguardar os direitos dos utilizadores, pelo facto de estas não oferecerem protecção suficiente às pessoas deficientes visuais, foi anunciado, por pessoas do serviço civil, no final da semana passada, numa reunião pública organizada pelo RNIB. 
+
+Antes do final do ano deverá sair do parlamento a Carta das Comunicações
+(http://www.communicationsbill.gov.uk/text_only/text_only.html), que substitui os anteriores reguladores responsáveis pela supervisão da TV, da rádio e dos serviços de telecomunicações pela Ofcom, um único regulador que será responsável por definir o licenciamento, nomeadamente as condições e normalização do serviço a prestar.
+
+Os responsáveis pelo Department of Culture, Media and Sport (DCMS) - (Departamento de Cultura, Media e Desporto), e o Department of Trade and Industry (Departamento de Comércio e Indústria) foram repetidamente referenciados pelos oradores, no sentido das estações de TV Digital incrementarem as suas quotas de conteúdos com áudio-descrição e disponibilizarem os guias de programação em formato acessível bem como as set-top boxes. 
+
+Foi referido que enquanto os fornecedores de serviços de TV por cabo e por satélite tenham que cumprir os níveis impostos pela rede terrestre, as quotas de 10% actuais, para a áudio-descrição, iria ser mantida. Isto contrasta com os 80% de conteúdos legendados para a população com incapacidade auditiva.
+
+Nesta resposta que não mereceu grande entusiasmo na assistência, Liz Ager do DCMS confirmou que a quota da áudio-descrição vai continuar em revisão. O RNIB confirmou posteriormente ao Boletim E-Access que irá forçar para que brevemente a quota áudio seja aumentada para os 50%.
+
+Os delegados mostraram a sua preocupação ao saber que mesmo a Ofcom que terá o dever de proteger os interesses dos consumidores, não irá ter poder para que os provedores de serviço disponibilizem terminais acessíveis. 
+
+"A distinção entre ser um utilizador do serviço e um utilizador de equipamento terminal não faz sentido." disse Sandy Bannister da Associação de Cegos de Worcestershire. No entanto, de acordo com a Representante do RNIB, Caroline Ellis, a Ofcom pode transformá-lo num requisito em que os provedores de serviço disponibilizem terminais compatíveis com as tecnologias de apoio. 
+
+Os leitores podem enviar as suas respostas formais até 2 de Agosto - envie o seu correio electrónico para Fiona Murray através do endereço: communicationsbill@dti.gsi.gov.uk
+
+*2: DIRECTRIZES DA DEFICIÊNCIA PARA A IRLANDA DIGITAL.
+
+Foram publicadas, na Irlanda, pela National Disability Authority (NDA) - Autoridade Nacional para a Deficiência, novas directrizes de acessibilidade para as tecnologias digitais. O NDA é o comité independente que supervisiona a política para a área da deficiência na Irlanda.
+
+As directrizes (http://accessit.nda.ie), têm como objectivo serem úteis às pessoas responsáveis pelas decisões de aquisição bem como por todos aqueles que desenvolvem tecnologia. Cobre tudo desde sítios Web até aos terminais de acesso público, terminais de telecomunicações e aplicações de software.
+
+A NDA afirma que a iniciativa acrescenta uma nova dimensão prática à legislação Irlandesa e Europeia na área da acessibilidade, uma vez que foi feita em estreita colaboração com os utilizadores e por todos aqueles que constituem a procura. O documento foi disponibilizado na Web, com interface que faz uso do hipertexto o que dá ao utilizador a possibilidade de navegar nas directrizes de acordo com quem o faz e com o que essa pessoa faz, e a secção Web anota e explica a, muitas vezes, impenetrável teia dos padrões internacionais.
+
+"Directrizes como as que existem na Iniciativa de Acessibilidade à Web http://www.w3.org/WAI), são eminentemente técnicas e difíceis de compreender se você não for técnico," disse a líder de projecto Christine Whyte.
+
+De acordo com Whyte, o projecto levou apenas um ano para nascer. A NDA foi apoiada por um grupo conselheiro que incluiu o Cientista Chefe do RNIB, Dr. John Gill e um parceiro do sector privado (http://www.frontend.com) para conduzir as investigações necessárias e redigir as directrizes.
+
+*3: PEQUENOS PASSOS EM FRENTE, RUMO À RÁDIO DIGITAL.
+
+Foi lançado na semana passada no RU um aparelho de rádio digital portátil a 99 libras, que promete ser o meio mais ao alcance. Mas o Boletim E-Access descobriu que este aparelho é apenas, marginalmente, mais acessível a pessoas cegas, que os seus predecessores mais caros.
+
+Todos aqueles que habitem em áreas com sinal digital poderão utilizar o receptor 'EVOKE-1' da VideoLogic Systems (http://www.videologic.co.uk) para captar as mais de 50 estações de serviço digital gratuitas da BBC 
+(http://www.bbc.co.uk/digitalradio) e das companhias comerciais (http://www.ukdigitalradio.co.uk).
+
+No entanto, o aparelho não converte informação suplementar emitida, relacionada com o conteúdo, em voz. Sem ajudas verbais, os utilizadores cegos terão de sintonizar cada canal para encontrar o que quer que seja e memorizar a localização para futura referenciação.
+
+VideoLogic disse ao Boletim E-Access esta semana que existem, não obstante, várias características do desenho do aparelho que são úteis aos utilizadores cegos, incluíndo a textura do painel de controlo, e diferenciação de tamanho e textura dos botões de volume e sintonização. Serão adicionados novas características nos futuros equipamentos a desenvolver e cujas discussões já se deram início com o RNIB, disse um porta-voz.
+
+Qualquer que seja o desenho acessível, a rádio digital não é ainda a resposta, pois a cobertura de sinal não é ainda universal. Mesmo em áreas servidas por um transmissor digital, a geografia local pode bloquear o sinal inteiramente, ao contrário do analógico cuja recepção varia numa dada escala. 
+
+Para verificar se vive nos 85% de área coberta pelos serviços comerciais da Digital One, pode introduzir o código postal em:
+http://www.ukdigitalradio.co.uk/coverage/search/
+Para ver se vive nos 65% do país cobertos pelos serviços da BBC ligue para o número 0870 010 0123.
+
+*4: LANÇADO TESTE PARA 'SÍTIOS-A'.
+
+Foi lançado pela National Library for the Blind - Biblioteca Nacional dos Cegos (http://www.nlbuk.org) uma nova biblioteca de sítios Web acessíveis.
+
+O portal 'sítios-A' (http://www.a-sites.org) tem até ao momento listados 153 sítios acessíveis em 40 categorias diferentes, que vão desde governo até comida e bebida, com um indicador de acessibilidade para cada um e uma funcionalidade para os utilizadores recomendarem outros sítios Web acessíveis. 
+
+Cada sítio é testado pelos utilizadores e têm de cumprir um conjunto alargado de critérios que incluem compatibilidade com software de ampliação e áudio e sistemas braille.
+
+Depois de uma fase teste inicial, apenas os sítios que cumpram mais de 70% dos requisitos de acessibilidade considerados serão referenciados no portal. Até ao momento apenas metade dos sítios testados cumprem o requisito. Inicialmente a fasquia foi colocada nos 80%, mas a NLB teve de baixar a barreira quando verificou que menos de um terço dos sítios cumpriam tal conformidade.
+
+O Canadian National Institute for the Blind (http://www.cnib.ca) (Instituto Nacional de Cegos do Canadá) fixou actualmente o nível em 99%. Os seus produtores esperam poder encontrar cerca de 1000 sítios-A quando lançarem o portal em Outubro de 2002.
+
+*5: EXPERIÊNCIAS DE ÁUDIO-DESCRIÇÃO DE CINEMA ALARGADAS.
+
+Foram adicionados mais filmes às experiências no RU para um sistema que permite tornar o cinema acessível a pessoas com deficiência visual, disponibilizando áudio-descrição com volume ajustável através de uns auriculares com fio (ver Boletim E-Access, Janeiro 2002).
+
+A lista de filmes descritos agora inclui Harry Potter e a Pedra Filosofal; Monstros e Companhia; Os Onze Oceanos; Pânico no Quarto; A máquina do tempo; Guerra nas Estrelas II e Homem-Aranha.
+
+Os cinemas envolvidos estão sedeados em Belfast, Cardiff, Gateshead, Glasgow, Guildford, London, Pontypridd, Uxbridge e Wolverhampton.
+
+No presente, cada um dos 11 cinemas envolvidos dispõem dos equipamentos de teste e apenas alguns filmes têm áudio-descrição. 
+Recomenda-se vivamente que os cinéfilos contactem previamente por telefone de forma a verificarem que o filme da sua preferência será visionado de forma desejada, e que os auriculares, indispensáveis à audição, se encontram disponíveis. Detalhes de contacto podem ser encontrados em
+http://www.rnib.org.uk/broadcast/cinema.htm. 
+
+O Boletim E-Access agradece feedback dos leitores que já tiveram a oportunidade de experimentar o sistema. Podem-no fazer para o email: derek@headstar.com
+
+*6: VERBA DUPLICOU PARA O ESQUEMA DE AUDITORIA.
+
+O grupo de serviços financeiros Standard Life dobrou o seu apoio ao esquema de auditoria gratuita para tornar os sítios Web acessíveis - executado no âmbito da campanha do RNIB 'See it right' - em resposta ao elevado número de aplicações a que é preciso fazer face.
+
+A companhia passou o seu suporte inicialmente planeado de 50,000 libras no primeiro ano para 110,000 libras, e forneceu um segundo elemento do seu staff que se veio juntar à pessoa que já estava a trabalhar no projecto. 
+
+O Bank Financial Advisers (http://www.cbfa.co.uk) é o primeiro sítio Web a passar com sucesso pelo esquema, conjuntamente com uma segunda organização, a pequena fornecedora de serviços de Internet Escocesa 'Echoraith' (http://www.echoraith.net).
+
+Segundo o planeado, será oferecido auditoria gratuita na área da acessibilidade a 50 organizações durante um período de dois anos, valor que se estima entre 600 e 1,450 libras por audição (veja Boletim E-Access, Fevereiro 2002). Qualquer organização o poderá solicitar, mas serão alvo de um processo de selecção, de forma a contemplar organizações trans-sectoriais incluindo o comércio a retalho, organizações de solidariedade social, viagens, educação, utilitários e telecomunicações, e governo.
+
+Mas depois do interesse manifestado por mais de 200 organizações foi adicionado uma verba mais elevada para permitir o acesso a um maior número, com 76 audições já agendadas e 18 já efectuadas. O RNIB estima que em média o custo de tornar o sítio Web acessível de acordo com as indicações da auditoria rondará um valor entre um e dois por cento dos custos do desenho inicial. Para saber mais sobre o esquema de audição visite a página:
+http://www.rnib.org.uk/digital/siraccess
+
+* NOTÍCIAS BREVES.
+
+*7: DIREITOS DE AUTOR NÃO LUCRATIVOS: A Carta dos Direitos de Autor (Pessoas com Deficiência Visual) passou com sucesso pela Câmara dos Comuns e espera-se que prossiga pela dos Lords e que passe a lei no final de Outubro. A Carta, uma iniciativa de um deputado independente, ganhou o suporte governamental, e irá legalizar a produção limitada e sem fins lucrativos de versões digitais acessíveis de material sujeito a direitos de autor (veja o Boletim E-Access, Março 2002). O governo tem ainda de especificar um cronograma de introdução das diversas secções da carta mas o RNIB tem pressionado para que tudo esteja implementado na próxima Páscoa.
+
+*8: CONFERÊNCIA DA BAIXA VISÃO: Incrementar o acesso à Web para pessoas com baixa visão, sistemas de navegação urbana através de satélite e regras da aprendizagem electrónica na reabilitação são alguns dos muitos assuntos em debate durante os cinco dias da Conferência Internacional sobre Baixa Visão que terá lugar em Gothenberg, Suécia que começa a 21 Julho:
+http://www.congrex.com/vision2002
+
+*9: PROCESSO DE APRENDIZAGEM: Foi publicado pela Techdis, um relatório sobre a acessibilidade dos principais pacotes de software de aprendizagem on-line, A Techdis é o serviço de tecnologias da informação para pessoas deficientes, da educação superior e avançada. O relatório sublinha a necessidade de se ir ao encontro da acessibilidade de acordo com a actual legislação do RU: http://www.techdis.ac.uk/resources/VLE001.html
+
+*10: SOFTWARE QUE FALA: Uma 'Especificação gramatical para reconhecimento de voz', permitirá aos autores de aplicações baseadas em voz a criação de regras que descrevem o que os utilizadores esperam dizer depois de ouvirem as mensagens de indicação, foi lançado pelo Consórcio World Wide Web (http://www.w3.org/). De acordo com esta organização de criação de standards, isto vai beneficiar as pessoas com deficiência visual, e é o primeiro de uma série de software-teste com base em voz:
+http://www.w3.org/TR/speech-grammar
+
+[Fim da secção um.]
+
+* SECÇÃO DOIS: 'A RECEBER'
+- FÓRUM DOS LEITORES.
+- Envie todas as contribuições ou respostas para o endereço de correio electrónico inbox@headstar.com
+
+*11: CÓDIGO DE MÁQUINA: Samson Perera do Sri Lanka Council for the Blind escreveu-nos para dizer: "Tenho vindo a trabalhar com o Windows há vários anos e consigo manipular, quase, qualquer programa amigável com voz.
+
+"Agora estou muito interessado em aprender algo sobre hardware, como posso manipular o menu de configuração da Bios e também algumas linguagens como Java e C mais. Apreciaria muito se me soubessem informar onde posso adquirir ou alugar material braille, cassetes ou ASCII sobre este assunto." [Respostas para inbox@headstar.com].
+
+*12: BIBLIOTECA EMPRESTA: No nosso número de Maio, Larry Johnson, do Texas dava-nos conta de uma aparente anomalia no sistema de trocas entre as bibliotecas internacionais pelo facto da sua biblioteca regional para cegos não poder solicitar material emprestado da Biblioteca Nacional de Cegos do RU.
+
+Agora Elaine Wilkinson dos Serviços de Biblioteca do RNIB tem mais conselhos: 
+"Uma vez que o RNIB está proibido de emprestar directamente a indivíduos para além fronteiras, pode solicitar a uma biblioteca, a uma universidade ou organização de cegos na sua área para actuar como intermediário em seu lugar. O material (cassetes e algum Braille) pode ser então emprestado inter-bibliotecas na maioria dos casos. 
+Para mais informações contacte por favor o nosso departamento de exportações (email: exports@rnib.org.uk).
+
+A Biblioteca Nacional para Cegos do RU também pode emprestar Braille para países além-mar, a indivíduos ou organizações, na maior parte dos casos. Precisará de se inscrever como membro. Para mais informações contacte a Biblioteca Nacional para Cegos (email: enquiries@nlbuk.org)."
+
+[Fim da secção dois.]
+
+*13: NOTÍCIA ESPECIAL - BOLETIM SAÚDE FUTURA.
+
+A publicação irmã do Boletim E-Access com o nome Boletim Future Health (Saúde Futura) é uma publicação mensal, de produção independente e disponível gratuitamente sobre o sector das tecnologias nos cuidados de saúde. No seu próximo número vai ser analisado um conjunto de notícias relacionadas com uma decisão da Ordem dos Médicos de banir um médico por ter feito consultas pela Internet.
+
+Para subscrever a versão texto integral do Boletim Saúde Futura envie uma mensagem completamente em branco para: 
+fh-text-subscribe@headstar.com
+Se quiser receber a publicação num anexo, com o texto formatado em HTML, envie a mensagem para:
+futurehealth-subscribe@headstar.com
+Para mais informações veja:
+http://www.headstar.com/futurehealth
+
+[Fim da notícia especial.]
+
+*14: SECÇÃO TRÊS: ANTEVISÃO
+- SIGHT VILLAGE 2002
+
+BLOCOS DE NOTAS PORTÁTEIS MAIS COMPATÍVEIS.
+by Derek Parkinson derek@headstar.com
+
+Os expositores estão atarefados para pôr de pé a Sight Village 2002, a exposição anual de produtos e serviços para a deficiência visual. A exposição (http://www.qac.ac.uk/sight.htm) é gratuita para os visitantes e irá ter lugar no Colégio Queen Alexandra, em Birmingham de 16 a 18 de Julho.
+
+Com mais de 70 organizações com a sua banca, os visitantes podem ter a certeza de encontrar algo de interesse, e conversas interessantes com a hospitalidade dos expositores. O pessoal da Freedom Scientific (http://www.freedomscientific.com) iráo fazer apresentações diárias, com antevisões das funcionalidades do novo leitor de ecrã JAWS 4.5 
+e do ampliador de caracteres MAGic 8.0, ambos previstos para serem lançados no final deste ano.
+
+Talvez a apresentação mais interessante da companhia seja o novo computador portátil para pessoas deficientes visuais 'PAC Mate'. O PAC Mate, baseado no sistema operativo Pocket PC da Microsoft, conta com um bloco de notas braille, mas que é directamente compatível com as aplicações Microsoft tais como, Word, Excel, Explorer e Outlook. 
+
+De acordo com Kevin Carey do RNIB, produtos como o PAC Mate devem fazer da comunicação por email menos susceptível de erros. "A forma tradicional de converter o código braille para mensagens de correio electrónico significava que quando eu cometia um erro ao escrever, era praticamente impossível à minha secretária adivinhar o que é eu estava a tentar escrever," disse ele. Deve também eliminar a necessidade de equipamentos extra. 
+
+"Até agora, se eu for a uma conferência, tirar notas em braille, e quiser comunicá-las via email à minha secretária, tenho que transportar comigo cerca de 10 quilos de tralha dentro do saco. Com uma bengala numa das mãos é um pouco difícil de andar em linha recta - o que não é nada aconselhável nas plataformas das estações," disse ele. 
+
+Em contrapartida, do PAC Mate espera-se que pese consideravelmente menos - cerca de dois quilos. De acordo com Carey, o novo desenvolvimento deve ser o começo da tendência necessária nos blocos de notas, com os fabricantes rivais a seguir o mesmo rumo na tentativa de manterem as suas quotas de mercado. 
+
+Outro dos novos desenvolvimentos interessantes na área dos blocos de notas será o que irá ser demonstrado pela Pulse Data (http://www.pulsedata.co.nz/index.cfm/11,html), com produtos desenhados de forma a permitir aos utilizadores do BrailleNote e do VoiceNote navegar facilmente na Web e navegar utilizando ligações para a rede de satélites do Sistema de Posicionamento Global (GPS).
+
+Haverá também em exibição lufadas de ar fresco de novos leitores de ecrã. Choice Technology (http://www.screenreader.co.uk) irá apresentar uma antevisão do seu leitor de ecrã DUAL, o qual pode transcrever conteúdos do ecrã e teclas de atalho em voz, enquanto que um programa de ampliação de caracteres selecciona porções de texto (veja também a secção cinco, deste boletim). O DUAL é desenhado para que seja possível adquiri-lo por 120 libras, sendo também flexível - voz e ampliação podem ser seleccionadas independentemente com um simples tecla. A empresa também vai demonstrar o WebbiE, uma aplicação desenvolvida no Instituto de Ciência e Tecnologia da Universidade de Manchester que converte conteúdos da Web em texto linear. 
+
+A ampliação de caracteres ganha novas características bem interessantes pela mão da Dolphin Computer Access. A empresa (http://www.dolphinuk.co.uk) desenvolveu um conjunto de ferramentas de personalização que permitem ao utilizador ver o ecrã de acordo com as suas cores preferidas bem como um sistema de alisamento da ampliação do conteúdo, que permite manter o contraste e a boa legibilidade dos caracteres mesmo com ampliações muito acentuadas. 
+
+As interfaces tácteis não foram esquecidos. A Duxbury Systems (http://www.duxburysystems.com) vai voar dos EUA para demonstrar o 
+DBT WIN 10.4, um produto que converte notação matemática, expressões e gráficos em braille. Techno-Vision Systems (http://www.techno-vision.co.uk), um distribuidor dos produtos Duxbury sedeada no RU, vai demonstrar um equipamento braille que converte notação musical em formatos standard usados no RU. A especialista Zychem com sede em Cheshire (http://www.zychem-ltd.co.uk) vai dedemonstrars seus últimos produtos na área da produção de gráficos tácteis. 
+
+Os equipamentos ópticos serão também alvo de uma apreciação especial, com a Low Vision Supplies (http://www.lowvisionsupplies.co.uk) orgulhosa de demonstrar a sua gama de telescópios e filtros para óculos.
+
+Se os visitantes se cansarem de investigar os produtos existentes na exposição, podem sempre virar a sua atenção para um impressionante leque de novos serviços. A Talking Newspapers Association do RU (http://www.tnauk.org.uk) está particularmente orgulhosa do seu Agente de Notícias Electrónico, o qual distribui revistas em disquete, por correio electrónico, em CD-ROM ou através da Internet. Haverá pequenos excertos de cerca de 200 revistas disponíveis durante a exposição.
+
+Da entrada à navegação pela exposição será fácil através do sistema da Describe Online, um fornecedor de guiões em texto on-line de várias cidades, estações e locais de interesse. Os visitantes do Sight Village podem encontrar uma demonstração prática do serviço no sítio Web da Describe Online, o qual tem um guião em texto da própria exposição em: http://www.describe-online.com/sight-village/textguide.htm
+
+A Describe Online também dispõe de guiões texto para partes da Rede Nacional de Comboios - incluindo as estações principais de Birmingham - e do sistema de Metro de Londres (veja o Boletim E-Access, Fevereiro 2001).
+
+[Fim da secção três.]
+
+*15: NOTA ESPECIAL - COMPETIÇÃO DE ESCRITA.
+
+O Boletim E-Access gostaria de lembrar aos seus leitores que desejem entrar na nossa competição de escrita que o prazo limite é Sexta-Feira, 26 de Julho.
+
+O primeiro prémio é um leitor de e-book 'Victor' no valor de mais de 300 libras oferecido pela VisuAide (http://www.visuaide.com) enquanto o segundo classificado receberá um conjunto de 10 e-books clássicos em CD. Os seus vencedores verão também o seu trabalho publicado no boletim. 
+
+Os trabalhos deverão ter entre 500 e 800 palavras de tamanho e abordarem o tema "manter o contacto com a tecnologia". Isto pode incluir relacionamentos on-line, a vertigem da mudança tecnológica, como a tecnologia mudou a sua vida, ou imaginando como será a vida no futuro.
+
+Envie o seu trabalho para Phil Cain através de phil@headstar.com
+
+[Fim da nota especial.]
+
+*16: SECÇÃO QUATRO: REPORTAGEM ESPECIAL
+- SISTEMA BANCÁRIO ACESSÍVEL (parte dois).
+
+O DINHEIRO FALA.
+por Tamara Fletcher tamara@headstar.com
+
+Apesar de muitos bancos do RU estarem actualmente a relançar os seus serviços Internet incrementando a sua acessibilidade (veja Boletim E-Access, Junho 2002), os ATM (Maquinas de Atendimento Automático) acessíveis ou "pontos de caixa falantes" tardam a aparecer neste país. Muitos outros países no entanto, incluindo a Austrália, Canadá e os EUA, estão muito mais avançados.
+
+Uma máquina ATM falante tem um jack áudio universal que permite o uso de auriculares estéreo pessoas, que permitem aos utilizadores ouvir as instruções de forma privada. O serviço lê ao utilizador todas as transacções padrão tais como levantamento de dinheiro ou depósito, transferência de dinheiro e verificação do saldo de uma conta. Espera-se que as pessoas com deficiência visual transportem os seus próprios auriculares, embora os bancos possam ter alguns para uso generalizado. 
+
+Na Austrália, o Banco Nacional Australiano está a liderar o processo, com os primeiros ATM's com a funcionalidade voz já instalados, e prometeu solenemente que todas as novas máquinas serão áudio compatíveis a partir de Janeiro de 2003.
+
+Nos EUA, saiu um conjunto de regulamentação derivada do Americans with Disabilities Act que impõe que os ATMs devem ser passíveis de ser utilizados de forma independente pelas pessoas com deficiência visual, desde 1992, e existem actualmente cerca de 3,000 pontos de caixa falantes por todo o país, com o compromisso da parte dos bancos de instalar mais uns milhares nos próximos anos.
+
+No Canadá, o Royal Bank of Canada (http://www.royalbank.ca) instalou os seus primeiros ATM áudio em Outubro de 1997 e tem a nível nacional instalado cerca de 14, prevendo chegar a 250 em Setembro. 
+
+Kirk Reiser, que é cego desde os 11 anos de idade, é um utilizador frequente das máquinas do RBC. Ele é também um utilizador experimentado de todos os tipos de tecnologias, sendo mesmo o administrador da rede informática da Universidade de Western Ontario e autor de 'Speakup' (fala alto), o leitor de ecrã líder do sistema operativo Gnu/Linux (http://www.linux-speakup.org).
+
+Reiser diz que os serviços do Royal Bank of Canada têm boa acessibilidade geral, incluindo um sistema de extractos em braille, mas existem ocasionalmente dificuldades com os ATMs derivadas da lenta modificação dos mesmos.
+
+"Muitos ATMs têm diferenças peculiares entre si, na forma de os operar. Por isso enquanto nuns sou mestre, noutros sou incapaz de os operar. Mesmo o que eu uso regularmente teve recentemente uma alteração que me obrigou a ir lá com outra pessoa para que me desse algumas indicações sobre alguns menus e opções.
+
+"Colocaram uma nova opção que permite dar mais tempo para cancelar ou introduzir uma nova transacção a qual me deixava a pensar que a máquina não estava a funcionar por um período de duas semanas porque eu pressionava cancelar quando eu pensava que estava a introduzir o fim da transacção. É realmente mesmo irritante porque agora tenho que contar até cinco ou seis antes de pressionar o botão e se eu não estiver correcto então vou ter que começar a operação toda do principio novamente, o que deixa a malta que está atrás de mim na fila não muito contente!
+
+"Outra coisa frustrante relativa ao novo interface prende-se com o facto de quando pressiono fim de transacção o sistema cospe o meu cartão, o recibo e o dinheiro de imediato e em simultâneo ficando difícil apanhar tudo de uma só vez."
+
+Entretanto no RU, enquanto os bancos não introduzirem ATMs acessíveis, quase todos investigam as opções, nem tanto porque em 2004, os bancos terão que cumprir com um novo código de conduta de acordo com os requisitos do Disability Discrimination Act (DDA) que os obriga a efectuar "razoáveis ajustamentos" às suas premissas de eliminação de barreiras físicas.
+
+O Centre for Accessible Environments (Centro de Ambiente Acessível) (http://www.cae.org.uk), uma organização social que promove a discussão de assuntos relacionados com desenho acessível, está actualmente a trabalhar conjuntamente com um número de bancos e sociedades construtoras de ATMs no sentido de os tornar mais acessíveis.
+
+O centro também publicou directrizes para ATMs as quais recomendam "uma maior ênfase (...) em respostas ao utilizador através de sistemas tácteis e áudio, saída de voz, a eliminação do reflexo dos ecrãs, e desenho de interfaces que reduzam a exigência do uso da capacidade visual".
+
+No entanto, de actualizações ou instalação de novas máquinas pode ser um negócio dispendioso, de acordo com Alan Looney, director de engenharia de terminais da Diebold, distribuidor geral de ATMs (http://www.diebold.com).
+
+"O preço para um novo ATM que seja capaz de conduzir o utilizador através de voz, tipicamente, é de algumas centenas de libras, mas o custo real é a actualização de toda a infra-estrutura existente à qual está ligada os ATMs," diz Looney. "Isto custa tipicamente dezenas ou centenas de milhares de libras para implementar, dependendo da idade, complexidade e tamanho da rede e do seu sistema de suporte."
+
+Muitos dos grupos bancários do RU possuem redes de vários milhares de ATMs, por isso o custo de uma conformidade integral com áudio não será trivial. Mas com os novos requisitos do DDA a queimar, os bancos terão poucas hipóteses senão desembolsar.
+
+[Fim da secção quatro.]
+
+*17: SECÇÃO CINCO: OPINIÃO
+- EMPRESA SOCIAL.
+
+ACESSO AO ALCANCE.
+por Roger Wilson-Hinds info@screenreader.co.uk
+
+Existem duas formas dominantes de actuar no campo das tecnologias de acesso: o modelo do negócio puro e o modelo social.
+
+No modelo de negócio puro, indivíduos dedicados e talentosos formam uma pequena empresa a qual geralmente utiliza dinheiro emprestado para expandir os seus negócios para atingir o seu grupo de clientes minoritário e disperso geograficamente. Existem vários exemplos de tecnologia que resultou deste modelo, incluindo os bem conhecidos leitores de ecrã JAWS, HAL e Window Eyes. Pelo menos, vistos à superfície, parecem trabalhar bem para todos, satisfazendo as necessidades dos seus empreendedores, dos investidores e dos clientes.
+
+Apenas nem todos beneficiam actualmente, porque os custos altos da investigação e a necessidade de reembolsar os investidores pelos altos ricos corridos resultam num preço elevado ao consumidor. De facto os preços são tão altos que muitos não se podem juntar ao jogo. Muitas pessoas deficientes visuais, não raras as vezes, têm dificuldade em fazer frente a um computador que custa 600 libras em software e 400 libras por dia para formação. 
+
+Como resultado os clientes, são geralmente um pequeno grupo de empregados, financiados ou bem formados que usufruem dos últimos leitores de ecrã fabricados e dos computadores mais rápidos. Entretanto a maioria das pessoas que pode beneficiar do uso de leitores de ecrã - cerca de 80 por cento das pessoas com deficiência visual - ficam sem possibilidade de alcançar estes sistemas. 
+
+Então, existe o modelo social, alicerçado no talento e capacidade negocial das maiores organizações sociais como o RNIB. Este modelo trouxe ao mercado uma série de produtos úteis, dos quais talvez o melhor exemplo seja o projecto dos livros falados digitais. No caso das tecnologias de acesso, a grande maioria das organizações sociais fornecem também o necessáriao diagnóstico, formação e aconselhamento. Mais uma vez parece que todos são vencedores.
+
+Mas levar a cabo um grande projecto como o dos livros falados requer longos períodos de desenvolvimento e largas somas de capital para empregar equipas de desenvolvimento altamente apetrechadas durante um conjunto vasto de anos. Mais uma vez este sistema não beneficia todos, porque organizações sociais empresariais são forçadas a cobrir os seus custos. Para fazer isso elas têm que focalizar os seus esforços em iniciativas largamente financiadas pelos departamentos governamentais ou grandes companhias. Mais uma vez, são aqueles que não têm orçamento ou que o mesmo é pequeno que muitas das vezes são esquecidos.
+
+Perante a falência de ambos os modelos, o modelo de negócio puro e o modelo social, o modelo de negócio social oferece a melhor forma para ajudar os grupos desfavorecidos na sociedade. Usando este tipo de aproximação um grupo de pessoas cegas decidiu o que queriam e que investidores estavam disponíveis e partiram para o desenvolvimento dos pensamentos do grupo. Uma empresa social como esta está livre de ambos, a imposição governamental e o motivo do lucro.
+
+Os desafios mais recentes foram principalmente centrados ou regionalmente organizados em benefício do seu grupo de clientes. Mas nesta altura estamos a aprender que os melhores resultados emergem quando o modelo for focalizado numa abordagem "bottom up" (de baixo para cima) que parta da própria comunidade. Desta forma todos sentem que o projecto é seu e dentro da comunidade a necessidade de equipas com talentos pode ser encorajada para investir na formação.
+
+Acreditamos que ao utilizar esta abordagem a Choice Technologies' LookOUT, leitores de ecrã (http://www.screenreader.co.uk) pode beneficiar mesmo aqueles que têm baixos rendimentos. Existem subtis obstáculos no nosso caminho, que não serão os grandes grupos de desenvolvimento, assessores, formadores que fazem da sua vida o fornecimento de serviços de apoio a software vendidos comercialmente a peso de ouro. Não será por isso, que vamos deixar de nos bater pelo modelo de empresa social e deixar de vender o leitor de ecrã a 80 libras. Muitos são aqueles, que entre os cegos, simplesmente não conseguem alcançar alternativas. 
+
+NOTA: Roger Wilson-Hinds é um dos fundadores da Choice Technology, a qual fornece há 10 anos formação em acesso aos computadores em posto de trabalho. 
+Actualmente é estudante da Escola de Empreendedores Sociais (http://www.sse.org.uk/network)
+
+[Fim da secção cinco.]
+
+COMO RECEBER ESTE BOLETIM.
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com>
+
+Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos para assinar!
+
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com
+
+Copyright 2001 Headstar Ltd. http://www.headstar.com
+
+O Boletim no seu todo ou em parte pode ser reproduzido incluindo este aviso. As Secções do relatório devem ser colocadas entre aspas de forma a ficar claro a sua fonte: 'retirado do Boletim E-Access, uma newsletter mensal distribuída por email', e ainda a referência do nosso endereço do sítio Web http://www.e-accessibility.com.
+
+-**-
+Nota à edição Portuguesa: Caso os leitores portugueses estejam interessados em enviar os seus comentários e sugestões, bem como enviar alguns artigos que abordem as questões de acessibilidade à Sociedade da Informação podem remetê-los, em Inglês ou Português, para o seu editor Dan Jellinek através do e-endereço: dan@headstar.com, ou mesmo para gesta@gesta.org 
+-**-
+
+PESSOAL:
+Director - Dan Jellinek dan@headstar.com
+Vice-director - Phil Cain phil@headstar.com
+Redactor - Tamara Fletcher tamara@headstar.com
+Conselheiro Editorial - Kevin Carey humanity@atlas.co.uk 
+
+[fim da edição] 

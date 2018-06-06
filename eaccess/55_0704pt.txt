@@ -1,0 +1,302 @@
++++BOLETIM E-ACCESS.
+- EDIÇÃO 55, JULHO 2004.
+
+Notícias de Tecnologia para pessoas com deficiência da visão
+(http://www.headstar.com/eab).
+Edição Portuguesa GESTA-MP (http://www.gesta.org) e Rede SACI (http://www.saci.org.br).
+Patrocinado pelo RNIB (http://www.rnib.org.uk).
+
+NOTA: Encaminhe este boletim gratuito para outros (detalhes de inscrição esncontram-se no final). O presente boletim está conforme com o padrão de acessibilidade TEN - Text Email Newsletter:
+http://www.headstar.com/ten .
+
+
+++ÍNDICE DA EDIÇÃO 55.
+
+01: Sítios Web dos Supermercados falham na verificação básica
+- Apenas um em cinco oferecem serviços acessíveis.
+
+02: Sistema de navegação pessoal é testado na Finlândia
+- Tecnologias combinadas para proporcionar informação em movimento.
+
+03: Programa de empregabilidade das Nações Unidas anunciado na Etiópia
+- Tecnologia suporta formação para deficientes da visão.
+
+04: Serviço de áudio-descrição via satélite cobre todos os canais
+- TV generalista acessível para milhões.
+
+Notícias Breves: 05: Esperança Digital - Ásia apoia planos; 06: Telefonia Acessível - Centro de atendimento Singapureano; 07: Capacidade na palma da mão - lançado computador táctil.
+
+Secção dois: 'A receber' - Fórum dos Leitores.
+08: Dupla depressão - desenvolvendo assuntos mundiais; 09: Fala o dinheiro - dicas bancárias; 10: Construíndo pontes - jogos de cartas; 11: Em defesa do Validator - ferramenta de verificação de HTML; 12: Audio por encomenda - folhetos web.
+
+Secção três: Entrevista - Paul Blenkhorn.
+13: Vida na linha da frente: Mel Poluck falou com um académico e empreendedor que tem vindo, durante os últimos 20 anos, a conceber tecnologias de apoio, incluindo alguns dos programas de software mais conhecidos mundialmente, e que continua em força.
+
+Secção quatro: - Opinião - Acesso ao conhecimento.
+14: O peso da evidência: Todos os estudos nos dão conta que as pessoas com deficiência da visão fazem um tremendo esforço para aceder aos recursos da educação, da formação e do emprego na Era moderna. Kevin Carey afirma que o sector do voluntariado deve ser apoiado de forma a potenciar o seu papel assistencial.
+
+[Fim do índice].
+
+
+++Notícia Especial: Marketeer do sector das Tecnologias de Acesso precisa
+
+Os editores do Boletim E-Access procuram um marketing executive, a trabalhar em regime livre, com experiência na deficiência e tecnologia, para ajudar no desenvolvimento de um novo projecto de conferência a levar a efeito no final deste ano.
+
+Oa CVs e os detalhes da actividade actual/remuneração devem ser enviados para Dan
+Jellinek através do dan@headstar.com .
+
+[Fim da notícia especial].
+
+
+++SECÇÃO UM: NOTÍCIAS.
+
++01: Sítios Web dos Supermercados falham na verificação básica.
+
+Apenas um dos cinco mais importantes supermercados do Reino Unido tem um sítio Web que vai ao encontro das principais necessidades básicas de acessibilidade dos consumidores com incapacidades, revela um estudo levado a efeito pela associação AbilityNet (http://www.abilitynet.org).
+
+'State of the e-nation: online supermarkets' (O estado da nação electrónica: supermercados on-line) é uma auditoria dos sítios Web às cadeias de supermercados Asda, Morrisons, Sainsburys, Somerfield e Tesco. Cada sítio Web foi analisado do ponto de vista da usabilidade e da acessibilidade usando o software da Watchfire, 'Bobby' (http://bobby.watchfire.com) e um conjunto de verificações manuais. Os sítios foram então ordenados numa escala de cinco-estrelas, onde uma estrela significa "Muito inacessível" e cinco estrelas significa "Muito acessível."
+
+A pontuação mais alta de quatro estrelas foi obtida pelo sítio "alternativo" do Tesco - http://www.tesco.com/access - o qual foi o único sítio que pôde ser facilmente acedido por pessoas com deficiência da visão, disléxia ou deficiência física. Asda (http://www.asda.co.uk), Morrisons (http://www.morereasons.co.uk) e Sainsburys
+(http://www.sainsburys.co.uk) ficaram-se com uma estrela cada, enquanto que Somerfield (http://www.somerfield.co.uk) e o sítio 'versão generalista' do Tesco (http://www.tesco.com) se mostraram marginalmente melhores com duas estrelas.
+
+Os problemas mais comuns encontrados pelos investigadores da AbilityNet incluem "estilo fixo na página" que impede a ampliação do texto; a falta de legendas nas imagens; e o uso de mini-programas em JavaScript não reconhecíveis por alguns navegadores antigos ou por alguns navegadores-especialistas usados por utilizadores com deficiência da visão.
+
+O relatório expressa as qualidades do sítio Web "generalista" da Somerfield revelando que este é o sítio Web mais acessível de todos". No entanto, o seu sítio Web não permite a realização de actividades comerciais on-line, deixando assim uma das formas mais convenientes de ir às compras por parte de utilizadores com incapacidades em falta, revela o relatório.
+
+"Estamos agradecidos pelas nossas duas estrelas, as quais são bem melhor do que alguns dos outros supermecados", disse Nicholas Hall, controlador de marketing na Somerfield. "Mas pensamos que não deveriamos ter sido cruelmente julgados por não oferecer um sítio do tipo e-commerce, porque somos um retalhista local de rua que encorajamos as pessoas a visitar fisicamente as nossas lojas. Não somos como supermercados de maior dimensão que por vezes têm as suas lojas fora da cidade e por isso mais virados para uma oferta de comércio electrónico."
+
+Asda, Morrisons, Sainsburys e Somerfield mostrou intenções de incrementar a acessibilidade dos seus sítios Web. O relatório informa que por terem sítios Web inacessíveis, os supermercados estão a deitar fora um mercado de mais de sete milhões de pessoas com despesa estimada em centro de vinte biliões de libras por ano.
+
++02: Sistema de navegação pessoal é testado na Finlândia.
+
+Os testes de um sistema de navegação pessoal para pessoas cegas e com baixa visão vão ter início este Verão nas cidades Finlandesas de Helsinkia e Tampere.
+
+O sistema, de seu nome NOPPA, tem vindo a ser desenvolvido pela Technical
+Research Centre of Finland (VTT - http://www.vtt.fi), um departamento propriedade estatal. Ele combina telemóveis, internet sem fios, sistema global de posicionamento (GPS) e tecnologias de voz para conduzir os utilizadores pelas cidades e para os ajudar na utilização dos transportes públicos. É parte dos 465,000 euros,
+de um piloto de três anos, financiados pelos Ministério dos Transportes e Comunicações da Finlândia (http://www.mintc.fi/www/sivut/english/default.html), do Instituto Arla (http://www.arlainst.fi/englisht.htm) e da Federação Finlandesa de Deficientes Visuais (http://www.nkl.fi/english).
+
+O sistema de navegação usa um telemóvel 3G com GPRS (General Packet Radio Service) e conexões Bluetooth, equipado com um dispositivo GPS. Ele comunica com as informações públicas de transportes, tais como as tabelas de horários e os planos de rotas municipais, as quais podem ser pesquisadas usando software de reconhecimento e produção de voz.
+
+"O nosso servidor de informação especialmente concebido, actua como intérprete entre os serviços disponíveis e os utilizadores", diz Ari Virtanen, investigador cientista na VTT. "Ele manipula todo o interface-voz e realiza todo o trabalho árduo de intermediação com os utilizadores, efectuando pesquisas dos serviços e devolvendo as respostas aos utilizadores".
+
+Resulta assim que uma pessoa cega ou com baixa visão pode usar o sistema para planear a sua viagem com acesso em tempo real aos horários de autocarros, comboios e eléctricos, assim como informação actualizada sobre trabalhos na via e possíveis obstáculos. O sistema pode também conduzi-los para as paragens, informá-los quando é que o veículo chega e quando parte. A ideia é que ele actue como um complemento mais do que um substituto do cão-guia ou da bengala branca. 
+
+O NOPPA será formalmente avaliado por utilizadores com deficiência da visão entre Agosto e Setembro de 2004. No entanto, o VTT fez saber que o sistema também é apropriado para conduzir pessoas normovisuais ou pessoas que diariamente viajam para os seus locais de trabalho. Apesar de o VTT não ser uma organização comercial, as suas investigações formam frequentemente a base de produtos do mercado e Vitanen está convicto que o produto tem futuro comercial. "Penso que o NOPPA terá uma utilização comum dentro de cinco a dez anos", disse.
+
++03: Programa de empregabilidade das Nações Unidas anunciado na Etiópia.
+
+Um programa de formação para criar oportunidades de emprego para pessoas com deficiência da visão na Etiópia está a ser estudada para ser lançada pela United
+Nations Educational, Scientific and Cultural Organisation (UNESCO -
+http://www.unesco.org).
+
+O programa será desenvolvido em parceria com a Adaptive Technology Centre for the Blind (ATCB - http://www3.sympatico.ca/tamru), uma organização Etiope que realiza formação em tecnologias de apoio para a comunidade deficiente da visão do país. Segundo os dados do seu último censos, a Etiópia tem cerca de 500,000 pessoas cegas, num continente Africano que tem a maioria dos 45 milhões de pessoas cegas existentes a nível mundial, de acordo com o International Eye Foundation (http://www.iefusa.org).
+
+A UNESCO e a ATCB têm vindo a trabalhar conjuntamente desde 2003, altura em que conjuntamente criaram um centro de formação em computação para pessoas com deficiência da visão na capital Etiope, Addis Ababa. Este último projecto irá dar origem a um centro de formação profissional para pessoas com deficiência da visão, desenvolvendo um um currículo de formação e treinando pelo menos cinquenta pessoas com uma visão que lhes vai permitir alcançar o mercado de trabalho através das ferramentas TIC.
+
+O projecto de emprego é uma das contribuições da UNESCO para a realização de um plano de acção resultante da recente Cimeira Mundial sobre Sociedade da Informação das Nações Unidas (http://www.itu.int/wsis), a qual enfatizou a necessidade de assegurar o acesso às TICs por grupos desfavorecidos. "As TICs oferecem aos indivíduos a capacidade de (...) acesso ao conhecimento através da adaptação do media digital à natureza das suas incapacidades, aumentando a sua integração social e económica na comunidade através do alargamento do leque de actividades disponíveis", informa uma declaração da UNESCO. Espera-se que estes projectos actuaram como modelos para outras iniciativas similares em África.
+
+
++04: Serviço de áudio-descrição via satélite cobre todos os canais.
+
+Os utilizadores deficientes da visão do Serviço de TV satélite da Sky existente no Reino Unido irão brevemente ser capazes de recepcionar programas áudio-descritos em todos os canais generalistas, depois da BBC, da ITV e da Channel 4 terem anunciado que estão prestes a suportar o serviço o mais tardar no final de Outono.
+
+Até agora, os sete milhões de clientes Britânicos da Sky tinham apenas acesso à áudio-descrição na Sky One, Five, e Premiere Movie da Sky, canais de desporto e viagens mas agora os espectadores serão capazes de recepcionar programas áudio descritos na BBC1, BBC2, BBC3, BBC4, Cbeebies, CBBC, ITV1, ITV2 e Channel 4 configurando a set top box para o modo "narrativa" a partir do menu de idiomas.
+
+No entanto, os utilizadores do serviço não irão ser capazes de alterar o volume da áudio-descrição - a qual será audível para todas as pessoas que estiverem na sala porque não existe maneira de a isolar - significando isto que se poderá tornar potencialmente abafada por outros ruídos. A directora do departamento de campanha pela acessibilidade à informação do RNIB, Julianne Marriot deu as boas-vindas ao desenvolvimento mas disse que o mesmo foi "um método mais barato e simpático" que a  integralmente acessível Set Top Box Netgem (veja o Boletim E-Access, edição 49, Janeiro 2004 e edição 51, Março 2004).
+
+O RNIB continua a lutar por um aumento de 10 por cento do objectivo definido pelo governo como proporção de todos os programas que necessitam de áudio-descrição. O instituto está também a solicitar à Sky para emitir no futuro no mesmo sistema que o serviço digital terrestre Freeview da BBC-led o qual, afirmam, é tecnicamente superior, permitindo aos utilizadores ouvir áudio-descrição usando auscultadores e ajustar o volume. Está também a persuadir a TeleWest e a NT1, da plataforma por cabo, a fornecer áudio-descrição através das suas set-top boxes.
+
+Entretanto o regulador Ofcom (http://www.ofcom.org.uk), concebeu um rascunho do código sobre legendagem, língua gestual e áudio-descrição, que será publicada no final deste mês.
+
+O organismo tem o dever, de acordo com o 2003 Communications Act, de encorajar os fabricantes a desenvolver equipamento que possa ser facilmente utilizado por pessoas com deficiências. 
+
+
+++NOTÍCIAS BREVES:
+
++05: ESPERANÇA DIGITAL: O programa Digital Hope 2004 disponibiliza financiamento, produtos e facilidades a organizações não-governamentais, educativas e de investigação que desenvolvam projectos de tecnologia que beneficiem pessoas com deficiência. O programa está a ser lançado em sete países Asiáticos pela empresa da área electrónica, Samsung:
+http://fastlink.headstar.com/hope1 .
+
+Entretanto, a Microsoft reuniu-se com a organização social Indonesia, Yayasan Mitra Netra, para criar cinco centros de formação em computação para deficientes da visão como parte do seu plano de 8.7 milhões de dólares para aumentar a literacia computacional na Ásia:
+http://fastlink.headstar.com/asia1 .
+
++06: TELEFONIA ACESSÍVEL: A associação dos deficientes visuais de Singapura está a implementar um centro de atendimento via Internet acessível a trabalhadores deficientes da visão. O sistema, desenvolvido com a empresa de comunicações Avaya Singapore e a Radiance Communications, permite aos utilizadores ouvir a identificação de quem está a chamar; quais os que estão em conversação; e quantos estão em fila de espera:
+http://www.savh.org.sg/news/article5.html .
+
++07: PDA ACESSÍVEL: Um computador de mão acessível a utilizadores com deficiência da visão foi lançado pela empresa canadiana de tecnologias de apoio VisuAide o qual usa tecnologia texto-para-fala e um teclado táctil de membrana sobre um ecrã de toque. O 'Maestro' é, ao que parece, o primeiro computador de mão acessível disponível no mercado e permite aos utilizadores tirar notas em texto, de forma vocal assim como introduzir informação em braille entre outros: 
+http://www.visuaide.com/news_maestro_en.html .
+
+[Fim da secção um].
+
+
+++Notícia Especial: Chamada para trabalhos para a Techshare 2004
+- 18-19 Novembro 2004, Jury's Inn, Birmingham, UK
+
+A conferência Techshare 2004 do RNIB é um importante evento para os profissionais que estão interessados em tecnologia e no seu papel na aprendizagem, no trabalho e na sociedade para pessoas com problemas de visão.
+
+Estamos actualmente à procura de pessoas que possam efectuar apresentações nas seguintes áreas: Aplicações práticas de tecnologia; Inovações em educação; Edição de acessibilidade Web; formação em TI; Rededifusão e distribuição de informação digital; Tecnologia móvel; Produção de formatos alternativos; Tecnologias em postos de trabalho; Acesso a sistemas operativos.
+
+Se está interessado em apresentar uma comunicação, envie um email para techshare@rnib.org.uk para obter mais informações sobre o formato da submissão. A data de encerramento para as submissões é 2 de Agosto.
+
+Os oradores serão contemplados com uma redução de preço quando efectuarem o seu registo na conferência de 130 libras (ou 95 libras para um dia). Os oradores e os delegados irão igualmente ter a oportunidade de participar numa exposição de carácter informal na mesa "Mostra dos Delegados" que se situa na área do café a um custo de 40 libras por mesa e por dia.
+
+Para mais informações incluindo os preços padrão praticados, email techshare@rnib.org.uk ou visite: http://www.rnib.org.uk/techshare .
+
+[Fim da notícia especial].
+
+
+++Secção Dois: A Receber
+- Fórum dos Leitores.
+
+Envie todas as contribuições ou respostas para inbox@headstar.com .
+
++08: DUPLAMENTE DEPREMIDO: DPM Weerakkody, Professor de Clássicos Ocidentais na Universidade de Peradeniya no Sri Lanka, escreve-nos com conselhos para o nosso mais recente correspondente que nos escreveu perguntando por conselhos sobre produtos acessíveis economicamente em nome de uma enfermeira cujo filho de 13 anos de idade, Rafail, é cego.
+
+"A profunda tristeza de Rafail é, infelizmente, a mesma depressão de todas as pessoas com deficiência da visão no tão chamado 'Terceiro Mundo'", diz ele. "somos duplamente deficientes por sermos cegos assim como por ter nascido no Terceiro Mundo. Desejamos muito ser leterados em computadores, e não há dúvida que os computadores podem contribuir para a nossa educação e perspectivas de emprego. Mas não podemos alcançar as colossais somas necessárias para comprar software acessível. Eu tenho algumas sugestões para o Rafail, mas elas podem não ser todas satisfatórias.
+
+"Primeiro, obtenham uma versão de demonstração do [leitor de ecrã] JAWS, ou Window-Eyes, ou HAL, o qual lhe vai permitir utilizar o computador por 30 minutos, ou algo por aí. Segundo, instale o Windows 3.1 e descarregue o JAWS 2.0 gratuitamente. Finalmente, existem alguns leitores de ecrã mais baratos, tais como o Lookout, mas eu não o experimentei, e por isso não sei qual será a sua utilidade. Existem também alguns programas Indianos os quais são quer gratuitos quer de baixo custo. Obviamente, todas estas sugestões têm as suas desvantagens, e nenhuma delas pode ser totalmente satisfatória".
+
+NOTA: Para ler um artigo pelo Professor Weerakkody sobre acesso à tecnologia no mundo em desenvolvimento veja 'Dividindo mantemo-nos de pé', Boletim E-Access, edição 34, Outubro 2002.
+
+
++09: O DINHEIRO FALA: Em adição à nossa recente peça sobre acessibilidade dos sistemas de cartões de crédito 'Chip e PIN' em que muitos bancos não explicaram as alternativas, Clare Page escreve: "Acabei de ler o [vosso] artigo sobre os problemas sobre a alternativa para introduzir o número do PIN quando se usa um cartão de crédito do RU. Estou curiosa em saber porque é a introdução de um número de PIN um problema, ou porque existe a necessidade de uma alternativa.
+
+"Mesmo porque desde que vivo em França, toda a gente aqui que tem cartão de crédito tem de ter um número de PIN, o qual pode ser utilizado em qualquer lugar em que o mesmo seja aceite. Uso um cartão de crédito Francês, e quando introduzo o número do PIN, o único problema que por vezes tenho é saber onde está o botão para validação: apesar dos números dos teclados aqui estarem geralmente na mesma ordem em todos os dispositivos, os próprios dispositivos não são padronizados, o que faz com que o botão de validação não esteja sempre na mesma posição.
+
+"Por isso estou curiosa em saber o que dificulta os Britânicos com deficiência da visão, possuidores de cartões de crédito, de usar os seus números PIN para comprar tal como os Franceses fazem?"
+
+E Amar Latif, Analista Financeiro Senior da BT Global Services, tem outra pergunta sobre bancos acessíveis, assim como algumas dicas valiosas sobre como podem os bancos fazer a sua oferta: "O meu registo médico dá-me como cego, e não uso Braille. Os bancos disseram-me que me podiam enviar os estractos em cassete. No entanto, disse-lhes que esse era um meio um tanto ou quanto inconveniente. 
+
+"Agora que as pessoas cegas usam computadores, seria muito mais simples receber os estractos via email. Desta forma, seria fácil de analisar. No entanto, eles disseram-me que isto seria inseguro. A minha resposta foi que nós não precisavamos do nosso número de conta no email; apenas uma lista das transacções. Eles então disseram-me que isso não seria tecnicamente possível, o que foi difícil de acreditar. Tenho percorrido vários bancos em busca deste tipo de serviço durante os últimos dois anos. Estou a ficar extremamente frustrado e ficaria feliz se puder ser feito alguma coisa de forma colectiva.
+
+"Eu recebo os meus extractos do cartão de crédito por email. Mesmo que me tenham dado as mesmas explicações dadas pelos bancos, contudo, fornecem-me agora os extractos retirando os detalhes da conta. Consegui isto por ter atingido um saldo de 3,000 libras no meu cartão de crédito, tendo então solicitado este serviço porque necessitava de um meio amigável para ler os meus extractos antes de os pagar. Agora recebo-os desta forma e é fantástico. 
+
+"Muitos bancos mencionam que pode aceder aos extractos on-line. No entanto, como sabemos, leva tempo a entrar no site, efectuar o download de software e por aí fora. Se as pessoas normovisuais continuam a receber os seus extractos via caixa de correio, logo é injusto que nós tenhamos de ir on-line: nós precisamos de os receber na nossa caixa de correio electrónico.
+
+"A sua visão sobre como isto pode ser solucionado é benvinda. Em adição, podem perguntar aos vossos leitores se eles preferem este meio, para julgar quantas pessoas estarão no mesmo barco que eu?" [Respostas para inbox@headstar.com].
+
+
++10: CONSTRUINDO PONTES: Numa edição recente um leitor perguntou por informação sobre uma versão acessível do jogo de computador réplica do jogo de cartas Bridge, e o nosso correspondente regular Chris McMillan escreve: "Não jogo bridge, com os olhos ou de qualquer outra forma, mas fiz uma rápida pesquisa [a qual] revelou uma actualização para o título 3D Bridge Deluxe (ver http://news.freeverse.com/archives/000417.php)."
+
+O Chris também sugere que o nosso leitor contacte Tom Lorimer da Whitestick, o qual "provavelmente sabe mais sobre jogos acessíveis que qualquer outra pessoa no RU. Ele tem escrito muito sobre o assunto nos últimos anos. Tem também na sua página Web vários links (http://www.whitestick.co.uk) para montes de outros sítios Web de jogos e revistas."
+
+
++11: EM DEFESA DO VALIDATOR: Bart Simons, especialista em acessibilidade à Web na empresa Belga de soluções para governo electrónico ASCii, escreve em defesa do HTML Validator do Consórcio World Wide Web (http://validator.w3.org/) o qual a nossa leitora Karina Gregory achou "incrivelmente difícil de usar" (ver A receber, da última edição).
+
+Diz ele: "Não vejo qualquer tipo de problema aqui. Uso esse validador diariamente. Sou cego e uso o JAWS. Se uma página é válida sabe-se logo porque ao pressionar duas vezes em 'h' somos logo transportados para a mensagem "esta página é válida". Se existirem erros apenas precisa de pressionar 'l' para aceder á lista de erros. A página pode ser referida como inacessível. Gostaria de reportar para o grupo de interesse W3C WAI (http://www.w3.org/WAI/IG/) se a Karina quiser discutir este assunto."
+
+
++12: AUDIO POR ENCOMENDA: John Loader da DotSix Brailling Services escreve-nos pedido informação sobre versões áudio de folhetos disponíveis por encomenda na Web. "Sou responsável por uma companhia sem fins lucrativos que produz braille, áudio, impressão em caracteres ampliados e diagramas tácteis e, com o advento da banda larga, sinto que existe espaço para organizações como associações, que em vez de me solicitarem brochuras, revistas, e assim por aí fora, em cassete, estejam interessadas em disponibilizar as gravações nos seus sítios Web quer em áudio streaming ou em ficheiros para descarregar. Há alguém que esteja a fazer isto que eu possa consultar para saber o que é necessário?
+[Respostas para inbox@headstar.com].
+
+[Fim da secção dois].
+
+
+++NOTÍCIA ESPECIAL: FÓRUM DE ACESSIBILIDADE À WEB.
+
+O Fórum Accessify é um fórum de discussão dedicado a todos os tópicos relacionados com acessibilidade à Web. Os tópicos cobrem tudo desde "Iniciantes" e "Concepção de Sítios Web e teste" até a projectos tais como a novíssima ferramenta de testes WaiZilla e a acessibilidade do próprio software do fórum em código aberto.
+
+Tudo o que precisa para se registar é de um endereço de email de trabalho, e depois vir daí e divertir-se em: http://www.accessifyforum.com .
+
+[Fim da notícia especial].
+
+
+++Secção Três: Entrevista
+- Paul Blenkhorn.
+
++13: Vida na Linha da Frente
+por Mel Poluck.
+
+Paul Blenkhorn, professor de tecnologia assistiva no Instituto de Ciência e Tecnologia da Universidade de Manchester (UMIST), não é um desses acadêmicos intocáveis. Seu trabalho na UMIST é prático e baseado na realidade, como todo o trabalho por ele desenvolvido nos seus 20 anos de carreira, nos quais criou algumas das ferramentas de tecnologia assistiva mais utilizadas no mundo.
+
+Blenkhorn iniciou sua carreira no início da década de 80, trabalhando com crianças com deficiência da visão, exercendo a função de pesquisador no Centro de Pesquisa para os Deficientes da Visão em Birmingham, hoje conhecido como VICTAR - Visual Impairment Centre for Teaching and Research [Centro de Ensino e Pesquisa sobre Deficiência Visual] http://www.education.bham.ac.uk/research/victar). Junto com seu colega Eamonn Fetton, hoje diretor de educação e emprego do RNIB (Royal National Institute of the Blind), ele dirigia um mini ônibus para visitar todas as escolas para crianças cegas no país e demonstrar o seu software, trocando idéias com professores e alunos e ajudando a produzir um boletim periódico que visa dar informações sobre auxílios de comunicação para crianças com deficiência.
+
+"Naquela época, havia dois Micros BBC [um tipo de computador desktop fabricado pela Acorn] por escola. Mas, hoje não estamos mais naqueles dias de pioneirismo", diz ele.
+
+Então, em 1986, após deixar o Centro de Pesquisas de Birmingham, Blenkhorn criou uma peça importante na história da tecnologia de acesso: "Fundei, com um amigo, uma empresa chamada Dolphin (http://www.dolphinuk.co.uk/)." O próximo passo foi projetar o que acabou por se tornar alguns dos produtos mais fortes no mundo da tecnologia assistiva, incluindo-se o sintetizador de voz Apollo e os pacotes de leitura de tela HAL e Narrator (http://fastlink.headstar.com/narrator1), sendo que este último é hoje usado em cada pacote Windows 2000 e Windows XP, e é a invenção da qual ele mais se orgulha.
+
+Ao deixar a Dolphin em 1991, ele voltou para a vida acadêmica e aceitou um cargo na UMIST, onde se tornou professor de tecnologia assistiva. Durante este tempo, ele dedicou-se principalmente ao trabalho com tecnologia assistiva para pessoas com problemas de escrita, que inclui pessoas com dislexia, assim como pessoas com deficiência da visão.
+
+As palavras de Blenkhorn ultrapassaram as fronteiras da Inglaterra. Alva, a empresa de aparelhos Braille sediada na Holanda usa uma ferramenta de tradução para o Braille que foi desenvolvida por Blenkhorn para seu aparelho de telefone celular.
+
+E ele atualmente trabalha em toda a UMIST com a organização espanhola para cegos ONCE em um projeto de parceria que terá inicio em Janeiro, denominado 'Red de solidaridad con los ciegos de América Latina (Rede Social - 'rede de solidariedade para organizações de cegos da América do Sul) na Colômbia, Cuba, Guatemala, México e Peru. O projeto visa encorajar as pessoas nestes países a usarem leitores de tela e outras tecnologias assistivas e tentar torná-las viáveis. O software será traduzido para o espanhol e para idiomas nativos, como o maia.
+
+Na semana passada, Blenkhorn reuniu-se com os representantes da Associação dos Cegos de Prizren, Kosovo após a agência ter recebido recursos para um projeto que terá inicio em agosto. Ele está planejando a construção de um leitor de telas albanês.
+Trabalhando na área de tecnologia assistiva há duas décadas, testemunhando um crescimento especialmente rápido, o que Blenkhorn considera como uma das maiores mudanças na área?"
+
+"A maior mudança reflete a sociedade e as instituições sem fins lucrativos. Para mim, a maior parte do que se vê por aí está visando os negócios, e não os usuários: o foco mudou. Tudo agora tem um custo e não necessariamente um valor."
+
+Em uma tentativa de retomar o equilíbrio e devolver o controle para as mãos dos usuários, Blenkhorn estabeleceu uma nova empresa chamada Sensory Software (http://sonantsoft.com/sensory) cujo software 'LookOUT', que é um leitor de tela, está à venda na Inglaterra por cerca de 80 libras, que é baixo em comparação com os custos entre 400 e 900 libras dos leitores de tela mais usados. Este e outros produtos da empresa foram projetados para serem extremamente simples, diz ele, já que 95% das pessoas com baixa visão não precisam de muito em termos de funções diferentes. Na verdade, a sua meta, ao projetar um leitor de tela foi de tornar a interface com o usuário bastante direta. "Existe uma necessidade real de produtos simples e diretos para serem usados por pessoas comuns. Não se trata de pesquisar a torre de marfim, e sim de sair de lá."...
+
+[Fim da secção três].
+
+++Notícia especial: Teste a acessibilidade do seu site.
+
+Headstar, o editor do Boletim E-Access, está a oferecer um conjunto de pacotes de assessoria especializada e independente para se certificar se os seus serviços Web cumprem a lei e as melhores práticas. Queremos dar-lhe um relatório claro e detalhado sobre o estado actual de acesso do seu site, e uma lista de tarefas a empreender para assegurar a conformidade com os requisitos governamentais.
+
+Os relatórios incluem também resultados de testes de qualidade geral tal como verificação de links. Tomar acções na área da acessibilidade beneficiará qualquer utilizador, tornará o seu sítio Web mais fácil de manter, e pode incrementar a assertividade do seu motor de busca! O serviço é particularmente útil para grandes organizações com serviços e sítios Web de grande dimensão.
+
+Para mais informações use o email:
+access-consult@headstar.com .
+
+[Fim da notícia especial].
+
+++Secção Quatro: Opinião
+- Acesso ao conhecimento.
+
++14: O peso da Evidência
+por Kevin Carey.
+
+Uma pesquisa recente, realizada por Zoe Neumann do RNIB (Royal National Institute of the Blind) mostrou que pessoas com deficiência da visão perdem 70% de seu tempo inutilmente (a expressão é minha, não deles) e usam efetivamente apenas 30% do tempo usando os recursos (veja o Boletim E-Access, número 53, Maio 2004). Esta descoberta concorda tristemente com a pesquisa independente, feita pelo Comitê dos Direitos dos Deficientes que mostra que, de todos os grupos de deficientes, os cegos são os que mostram os níveis mais baixos de tarefas completadas na rede: 53%, comparados a um nível médio geral de 76%.
+
+Estas duas conclusões também confirmam uma outra pesquisa realizada por Forrester para a Microsoft, que investiga as possibilidades de benefício pelo uso da tecnologia acessível por tipo de dificuldade/deficiência entre os usuários de computador (http://fastlink.headstar.com/forrester1).
+
+No quadro de deficiências leves, pessoas com deficiência da visão vêm em terceiro lugar, atrás da habilidade motora (manual) e surdez mas, na classificação de deficiências graves, as pessoas com deficiência visual vêm em primeiro lugar, com 11.1 milhões de pessoas que têm possibilidades de serem beneficiadas, vindo os deficientes motores em segundo (6.8 milhões).
+
+Gostaria de acrescentar apenas um dado objetivo e ainda não publicado a esta situação lamentável: quando trabalhei na pesquisa sobre preferências de leitura tipográfica de adolescentes portadores de deficiência da visão (publicada no artigo "Tamanho Conta" no Jornal Inglês de Deficiência Visual, volume 17, 1999), do grupo observado em uma faculdade, apenas um aluno lia alguma coisa fora do currículo exigido.
+
+Podemos concluir rapidamente, a partir destes dados, que a coleta de informação pela Internet oferece sérias dificuldades para os portadores de deficiência da visão, e estas se devem, principalmente, ao uso de material com tipos ampliados. Os usuários de fitas cassete e de Braille podem ter muita facilidade para usar estes recursos, mas a quantidade de material que lhes está disponível é extremamente baixa. Terminei recentemente um curso que exigia o estudo de textos clássicos e interpretações modernas; os primeiros estavam todos disponíveis, e os segundos não existiam. O RNIB oferecia um serviço excelente, mas os materiais em Braille e em fitas cassete eram escassos.
+
+Em uma sociedade com necessidades conflitantes e recursos limitados, deve-se perguntar se a luta vale o esforço. A resposta precisa ser positiva porém, mais uma vez, devemos discutir a capacidade do setor de voluntariado de conseguir atender a demanda de facilitar o acesso à informação, pois é um meio.
+
+A conclusão principal que tiro de todos estes dados é que o governo deve começar a levar a sério a tarefa de facilitar a informação. Como Vice Presidente do RNIB (Royal National Institute of the Blind), reluto em dizer que devemos ser o agente do financiamento do governo para este fim, mas existe agora a necessidade esmagadora que o setor de voluntariado, na área de deficiência da visão, trabalhe em parceria e visando fornecer informação apropriada e em tempo hábil.
+
+Nos tempos clássicos, os cegos podiam, com enorme esforço, ter a esperança de competir com pessoas com visão normal em áreas como clássicos, literatura, direito, teologia, filosofia e mesmo em algumas áreas da ciência teórica. No trabalho, podiam ter esperança de ser bem sucedidos em trabalhos onde a estrutura e as práticas eram estáveis durante décadas. Mas, agora tudo isso mudou e não houve mudanças radicais na oferta de apoio para eles.
+
+É claro que continuaremos a lutar por mais sites acessíveis na rede, mais educação e mais sistemas operacionais sensíveis ao mercado, mas paralelamente precisamos lutar por facilitações locais. Sem elas, o espaço entre os portadores de deficiência da visão e o resto da sociedade se tornará cada dia maior.
+
+NOTA: Kevin Carey é o Diretor de HumanITy
+(http://www.humanity.org.uk).
+
+
+[Fim da secção quatro].
+
+
+++FIM DAS NOTAS.
+
++COMO RECEBER ESTE BOLETIM.
+
+Para subscrever este boletim mensal gratuíto, envie um email para eab-subs@headstar.com com o assunto 'subscribe eab'.
+Pode enviar uma lista de outros endereços de email no corpo da mensagem. Encoraje todos os seus colegas a subscrever! Em qualquer momento pode deixar de subscrever enviando um email com o assunto 'unsubscribe eab'.
+
+Envie comentários para coberturas e indicações para Dan Jellinek através de:
+dan@headstar.com .
+
+COPYRIGHT 2004 HEADSTAR Ltd http://www.headstar.com .
+O Boletim pode ser reproduzido desde que todas as partes incluindo esta nota sobre 
+copyright seja incluída, e desde que as pessoas sejam encorajadas a subscrever o boletim por email. Dê igualmente destaque ao editor quando reproduzir o nosso conteúdo. As secções das reportagens podem ser citadas desde que fique claro que foi "retirado do boletim e-Access, uma newsletter mensal com distribuição via correio electrónico", e o endereço da nossa página Web se encontra igualmente referenciada http://www.headstar.com/eab .
+
++EQUIPA:
+Editor - Dan Jellinek
+Vice-editor - Derek Parkinson
+Reporter Sénior - Mel Poluck
+Reporter das Notícias - Julie Hill
+Conselheiro Editorial - Kevin Carey.
+
++EQUIPA PORTUGUESA:
+Coordenação e tradução - Jorge Fernandes
+Tradução - Cynthia Barriel
+Revisão - Marta Gil.
+
+ISSN 1476-6337 .
+
+[Fim da Edição.]

@@ -1,0 +1,267 @@
++++BOLETIM E-ACCESS.
+- NÚMERO 38, FEVEREIRO 2003.
+
+Notícias sobre tecnologia para pessoas com deficiência visual
+(http://www.e-accessibility.com).
+
+A Versão Portuguesa é uma parceria entre 
+a Rede SACI/Brasil <http://www.saci.org.br> 
+e o GESTA-MP/Portugal <http://www.gesta.org>.
+Foram tradutores e revisores neste número:
+Cláudia Cardoso / GESTA 
+Cynthia Berriel / SACI
+Marta Gil / SACI
+Jorge Fernandes / GESTA
+
+Patrocínio do RNIB (http://www.rnib.org.uk)
+e da National Library for the Blind (http://www.nlbuk.org).
+
+NOTA: Reenvie este boletim gratuito para outras pessoas (os detalhes de subscrição encontram-se no final deste número). A presente mensagem encontra-se em conformidade com as directrizes de acessibilidade para Newsletters Texto via Email - Text Email Newsletter - (TEN). Por exemplo, todos os itens se encontram numerados. Para mais detalhes consulte: http://www.headstar.com/ten
+
+++ÍNDICE DO NÚMERO 38.
+- Secção um: Notícias.
+
+01: Tentativa de subsidiação da Áudio descrição
+- RNIB procura milhões da parte do ministério da cultura.
+02: Preocupação face à direcção da lei Europeia
+- acesso parece ter prioridade baixa. 
+03: Directrizes de acessibilidade para formulários on-line
+- empresa tem por objectivos adoptar os padrões.
+04: Sinais do espaço através da Internet
+- testando tecnologia de navegação sem fios.
+05: A PAQUERA EM JOGO
+- O papel desempenhado no dia de São Valentim em formato de corrida.
+
+Notícias breves: 06: Ler em voz alta - jornais falados on-line; 07: Índia Braille: começou o primeiro curso; 08: Incrementar a consciencialização: rádio digital com informação em braille.
+
+Secção dois: 'A Receber' - Fórum dos leitores.
+
+09: Soa a resposta - director dos arquivos nacionais escreve; 10: Guião de Carreira - conselhos para obter emprego; 11: Pedido de máquina - máquina de fazer cópias precisa-se; 12: Ah e então - lições de karate.
+
+13: Secção três: Reportagem - Política Digital
+- Vozes de mudança: Enquanto a carta das Comunicações prossegue pelo Parlamento, Mel Poluck reporta-nos a existência de um fortíssimo lobby na Casa dos Comuns que pede aos deputados que aumentem as suas exigências face à acessibilidade.
+
+14: Secção quatro: Debate - Testando a Web
+- Você está vendo errado? Alguns aspectos da acessibilidade aos sítios Web estão claros mas outros permanecem numa "zona cinzenta" da subjectividade. Mel Poluck adjudica.
+
+15: Secção cinco: Tecnologia em revista - Livros falados
+ - Escolha o seu leitor DAISY: Phil Cain observou um leque de leitores de e-book: os que já se encontram no mercado do RU e os que se preparam para chegar nos próximos meses.
+[Fim do índice.]
+
+++SECÇÃO UM: NOTÍCIAS.
+
++01: TENTATIVA DE SUBSIDIAÇÃO DA ÁUDIO-DESCRIÇÃO.
+O Boletim E-Access soube que o RNIB está a pressionar o governo no sentido deste vir a subsidiar a tecnologia necessária para recepcionar a áudio-descrição da televisão digital, assegurando assim que o acesso à descrição esteja ao alcance de todos aqueles que dela precisam.
+
+Vai ser enviado um pedido ao ministro da rede difusão, Kim Howells, o mais tardar até ao final deste mês, para três milhões de libras para subsidiar a produção de cerca de 20.000 cartões que permitirão aos utilizadores aceder à áudio-descrição na Freeview, um consórcio liderado pela BBC responsável pelo serviço digital terrestre.
+
+Se for bem sucedida, esta proposta poderá tornar possível a disponibilização da áudio-descrição, para o final do corrente ano, para as pessoas deficientes visuais a um custo de duzentos e cinquenta libras - 110 libras para o cartão e 150 libras para o descodificador da set-top box. 
+
+Quando é introduzido o cartão no descodificador da Freeview, desenhado pela SCM Microsystems (http://www.scmmicro.com), vai ser possível ao telespectador ouvir uma pista de áudio-descrição através dos auriculares ou através de um amplificador e de umas colunas de som. Foram já produzidas, pela BBC, ITV, Canal Quatro e Canal Cinco várias horas de programação áudio-descritos por semana, mas continuam por ser ouvidas por não existirem no mercado descodificadores para o efeito.
+
+Paralelamente a esta tentativa de financiamento, a actualização deverá ser testada por 45 pessoas já envolvidas no grupo de avaliação da áudio-descrição de rede difusão que a Digital Network,  um consórcio de rede difusão, tem em curso há 3 anos. O homem responsável pelos testes, Jim Slater, não espera que a alteração das unidades apresente qualquer problema técnico.
+
+"Toda a gente que tem áudio-descrição adora-a," diz Slater. "A única resposta negativa é que a mesma não seja suficiente."
+
+NOTA: A produção de material em vídeo sobre e-learning (e-aprendizagem) áudio-descrito pode ser feito automaticamente através da tecnologia que está a ser desenvolvida pela empresa Francesa Ecrans Magique. A empresa, especialista em tecnologias que categorizam conteúdos on-line, procura parceiros tecnológicos para colaborar no 'VoxVision'. As empresas interessadas ou universidades poderão contactar o director Jean-Paul Decle através de jpdecle@wanadoo.fr.
+
++02: PREOCUPAÇÃO FACE À DIRECÇÃO DA LEI EUROPEIA.
+De acordo com os grupos de lobbys internacionais, os planos que estão a ser desenhados em matéria de legislação Europeia para assegurar o acesso integral à televisão digital e aos serviços móveis de terceira geração necessitam de ser radicalmente reconsiderados se se pretende realmente proteger os direitos das pessoas com incapacidades. 
+
+A legislação, que está agendada para consideração pelo Parlamento Europeu até ao final do ano de 2003, vai fazer surgir um enquadramento dentro do qual os reguladores da rede difusão e das comunicações dos estados membros da UE possam operar no sentido de assegurar que a interactividade dos serviços de comunicações esteja largamente disponível.
+
+No entanto, numa reunião com a Comissão Europeia a 4 de Fevereiro, os grupos de deficientes expressaram a sua preocupação perante um relatório que delineia essa mesma direcção para a legislação (http://fastlink.headstar.com/EU5) centrando-se no desenvolvimento da infra estrutura tecnológica e nos custos dos serviços mas esquece as necessidades das pessoas com deficiências.
+
+"Estamos espantados que a comissão produza um relatório sobre acesso aos serviços sem mencionar a acessibilidade," disse Cathy Toscan da Rede European Design for All e-Accessibility (http://www.e-
+accessibility.org). De acordo com Toscan, a comissão "prometeu um cuidado especial nos assuntos da acessibilidade" antes da publicação do relatório final.
+
+Antagonicamente, a comissão apoiou uma proposta para uma Convenção na ONU que promova e proteja os direitos das pessoas com deficiência, a qual está agendada para ser discutida numa reunião do comité das Nações Unidas para Junho. O Fórum Europeu da Deficiência (http://www.edf-feph.org/en/welcome.htm) dá as boas-vindas ao movimento mas sublinha que o apoio dos estados membros é essencial. "Tendo em conta os regulamentos das Nações Unidas, os estados membros devem negociar de forma mais individual do que comunitária, pelo que é importante para os ministros dos negócios estrangeiros terem conhecimento deste assunto e apoiá-lo," disse um porta-voz.
+
++03: DIRECTRIZES DE ACESSIBILIDADE PARA FORMULÁRIOS ON-LINE 
+Directrizes para auxiliar os programadores a elaborarem formulários acessíveis on-line foram publicadas este mês pela empresa de softwares Mandoforms  (http://www.mandoforms.com).
+
+A empresa, com sede na cidade de Manchester começou a desenvolver este projeto de orientação depois que uma auditoria do RNIB em Agosto do ano passado identificou potenciais problemas de acesso em seus formulários. 
+
+De acordo com o gerente de produtos Kevin Trembath, uma das muitas armadilhas que comprometem o acesso, ao se usar os formulários on-line, inclui o fato de que muitos não permitem às pessoas o uso do teclado para mover o cursor entre os campos de um formulário; de fazer com que as mensagens de erro, de difícil compreensão para pessoas que usam leitores de tela, por não localizá-los na parte superior da tela; nem usar uma cor, como o vermelho, para indicar um problema. 
+Para que um formulário fosse acessível, usando a atual versão do software da Mandoforms, a versão 4.1, os programadores tinham que usar uma folha separada. A próxima versão do software, porém, permitirá que os programadores façam apenas uma versão que será acessível a todos, diz Trembath. "Nossa maior meta é atingir um projeto universal." 
+Para conhecer a versão teste, visite: http://fastlink.headstar.com/mando1
+E para enviar seus comentários, visite: http://fastlink.headstar.com/mando2
+
++04: SINAIS DO ESPAÇO ATRAVÉS DA INTERNET.
+Instruções detalhadas verbalizadas num ambiente fora de portas, com uma precisão de "poucos metros", podem ser disponibilizadas a pessoas deficientes visuais usando uma nova tecnologia que envolve satélites e Internet sem fios. Esta tecnologia está a ser testada este mês por voluntários da ONCE, Organização Nacional de Cegos Espanhóis (http://www.once.es).
+
+Até agora, dados de posicionamento provenientes de satélites tinha um rácio de precisão na ordem dos 40 metros, e as ligações perdiam-se com muita facilidade em áreas de edifícios altos ou metidos em vales. 
+  
+Os voluntários irão testar um pequeno navegador que pode ser transportado numa mochila. O equipamento, desenvolvido pela GMV Sistemas (http://www.gmvsistemas.es), combina informação proveniente dos satélites e da rede de telemóveis para transformar informação de localização em formatos voz e braille. Pelo facto do sistema fazer uso das redes telefónicas, poderão também ser desenvolvidas formas que permitam aos utilizadores solicitar localizações específicas sobre direcções ou assistência. 
+
+O satélite para o serviço de informação de posicionamento foi cedido pela Agência Espacial Europeia através de uma rede Internet-activa intitulada SISNet, abreviatura de 'signal-in-space through the internet' - sinal no espaço via Internet (ver http://fastlink.headstar.com/sisnet).
+
++05: A PAQUERA EM JOGO
+Um programa de paquera virtual, lançado pelo RNIB para o Valentine's Day (Dia dos Namorados nos EUA e em outros países, celebrado no dia 14 de Fevereiro) quer provar que Web sites acessíveis não precisam ser chatos. 
+RNIB Blind Date (Encontro às Cegas do RNIB): um jogo acessível para o Dia dos Namorados, (http://rnibblinddate.nomensa.com) usa a animação Flash para levar o jogador a uma aventura interativa, na qual os jogadores podem escolher quem querem levar em seu Encontro às Cegas (o famoso " Blind Date", onde duas pessoas que não se conhecem marcam um encontro) e onde querem ir. Em uma das histórias oferecidas, os jogadores podem levar a sofisticada Tara ao cinema para assistir a um filme áudio descritivo; em outra, você pode convidar James o "gênio da tecnologia" (ou será que ele é um desses maníacos por computador?) para uma festa (dica: peça uma pizza para ele). Como na vida real, dependendo das escolhas feitas, a noite poderá ser um sucesso ou um desastre.
+Desenvolvido para o RNIB pela empresa de programação Nomensa
+(http://www.nomensa.com), o jogo pode ser usado com um software leitor de tela padrão. Foi produzido como parte da campanha de bom webdesign do Instituto (http://www.rnib.org.uk/digital), para chamar a atenção dos webdesigners para as normas de acessibilidade. Uma pesquisa feita para coincidir com o lançamento, para saber quem é a celebridade mais atraente da Inglaterra fez com que Tony Blair amargasse uma derrota para o gordo comediante Johnny Vegas. Isto comprova, de acordo com o RNIB, que o amor é mesmo cego.
+
+++NOTÍCIAS BREVES.
++06: LEITURA EM VOZ ALTA: O jornal Alemão Frankfurter Allgemeine Zeitung (http://www.faz.com) tornou-se no primeiro a lançar um sítio Web que produz texto-para-fala e que aceita como entrada voz. O portal voz, 'FAZ.NET Fonservice' usa o software RealSpeak da ScanSoft (http://www.scansoft.com/realspeak) para traduzir comandos como "notícias" ou "trânsito" para aceder aos conteúdos. Para um relatório mais circunstanciado sobre a tecnologia de fala na Europa veja o sítio Web 'Euromap':
+ http://www.hltcentral.org/page-1058.shtml
+
++07: ÍNDIA BRAILLE: abriu a semana passada na cidade de Ahmedabad, a Noroeste da Índia, um serviço de apoio, disponibilizado via computador  que vai permitir a dez estudantes aprender braille sob as instruções de um único professor. Levado a efeito pela Associação das Pessoas Cegas (Índia), é o primeiro serviço de apoio deste género no país:
+http://www.bpaindia.org
+
++08: INCREMENTAR A CONSCIENCIALIZAÇÃO: está agora disponível, no Reino Unido, um pacote de informação sobre os serviços de rádio digital em braille, informou a Digital Radio Development Bureau. A informação disponível no pacote faz referência também aos produtos disponíveis, preços e cobertura. Para requisitar um pacote braille telefone para  08707 747474 ou visite: http://www.digitalradionow.com
+[Fim da secção um.]
+
+++NOTÍCIA ESPECIAL: 'ACCESS IT' E 'COMPUTE IT'
+- REVISTAS MENSAIS SOBRE TECNOLOGIA DO RNIB.
+'Access IT' fornece informação sobre tecnologias de acesso ao computador de particular interesse para pessoas cegas e com baixa visão. Os assuntos tratados nos seus artigos destinam-se quer a utilizadores experientes quer a novatos. A 'Compute IT' foi desenhada para os entusiastas/amadores de computadores e vai trazer-lhe as últimas informações no desenvolvimento de hardware e software.
+
+Pode subscrever qualquer uma das suas versões com envio por email, em formato braille ou disquete, por um preço de 49 cêntimos de libra/por número. Envie um email para os Serviços de Atendimento ao Cliente do RNIB através do endereço: 
+cservices@rnib.org.uk ou telefone para 0845 702 3153
+[Fim da notícia especial.]
+
+++SECÇÃO DOIS: "A RECEBER"
+- FÓRUM DOS LEITORES
+- Por favor envie por e-mail todas as contribuições ou respostas para inbox@headstar.com 
+
++09: SOA A RESPOSTA: Crispin Jewitt, director do Arquivo Nacional de Som (NSA) na Biblioteca Britânica, escreveu para responder à descrição das experiências negativas de Clive Lever ao visitar o arquivo (ver o Boletim E-Access, edição 36, Dezembro 2002).
+Diz ele: "O fornecimento de serviços para os deficientes visuais teve um enorme melhoramento desde a primeira visita do Clive, no princípio dos anos 90, às instalações Vitorianas então ocupadas pela NSA. A nova Biblioteca Britânica em St. Pancras incorpora de longe mais facilidades para os deficientes.
+
+"Tratando dos pontos relacionados com as visitas do Clive, garanto aos leitores que a biblioteca não cobra a ninguém que queira aceder à sua colecção e nunca foi levantada nenhuma questão pelos utilizadores terem que 'pagar antes para ter a sua oportunidade'. O catálogo da NSA está disponível no site da biblioteca (http://www.bl.uk) e nos terminais das áreas públicas.
+
+"A Biblioteca Britânica agora tem um conselheiro do leitor cujo papel é ajudar os utilizadores com incapacidade a tirar o melhor partido das funcionalidades postas à disposição. A ajuda disponível é abrangente, cobrindo desde o apoio ao preenchimento dos formulários para se tornar leitor até ao acompanhamento dos leitores no edifício e sua apresentação perante o especialista de equipamento existente nas salas de leitura. Para os utilizadores da NSA o pessoal especialista está disponível para mostrar aos utilizadores as salas de estudo individuais e explicar como utilizar o equipamento.
+
+"Para os leitores com deficiência visual, estão disponíveis alguns folhetos em caracteres ampliados e em cassete. Para além disto, a biblioteca emite cartões de leitor, que permite a entrada na biblioteca, aos acompanhantes dos leitores com incapacidade e nas salas de leitura é também permitida a entrada a Cães-Guia.
+
+"A biblioteca está interessada em melhorar o nível de serviço que oferece aos utilizadores com incapacidades e dá as boas vindas a reacções. Espero que isto sirva para emendar o registo e para confiar que a próxima visita de Clive à biblioteca será 100 por cento uma experiência prazenteira". 
+
++10: CARREIRA DE CHEFIA: Chris Gregory do Opsis, um grupo de apoio social à cegueira em Birmingham, tem informação para Ellen Bedford de Connecticut que escreveu o mês passado procurando assistência para criar um clube de emprego numa escola secundária para estudantes com baixa visão e cegos.
+
+"Existe um grupo que reúne nesta região duas vezes por ano e que se chama VI Grupo de Consultores de Emprego e Carreiras nas Escolas", diz ele. 
+"O último encontro foi na passada Quarta-feira, em que Sue Murphy e Sarah Lang-Jones da Action for Blind People (Acção para Pessoas Cegas) nos mostraram um número impressionante de módulos de procura de emprego que elas desenvolveram e que estará disponível num futuro próximo. Sue disse que tem muito prazer em ser contactada através do 020 7635 4835 ou por e-mail sue_m@afbp.org". 
+
++11: PROCURA DE MÁQUINA: Katy Dymoke do grupo de artes de Manchester Touchdown Dance continua à procura de uma máquina de copiar cassetes áudio, nova ou em segunda mão. Se alguém tiver uma para vender por favor envie um e-mail touchdd@aol.com .
+
++12: AH E ENTÃO: Já alguma vez pensou em praticar artes marciais? O leitor do Boletim E-Access, Terry Taylor, é instrutor de karaté em Kent e dirige sessões semanais para pessoas com incapacidades incluindo deficientes visuais. Para mais informação e para saber mais sobre o festival de artes marciais para pessoas com incapacidades, em Dezembro - todas as pessoas são bem-vindas mesmo sem habilidade ou experiência - veja o sítio Web do Terry em http://www.twt.org.uk ou por e-mail terry.taylor@dial.pipex.com 
+[Fim da secção dois].
+
+++NOTÍCIA PATROCINADA: CONFERÊNCIA INTERNACIONAL 'CSUN' 2003
+A 18ª conferência anual internacional sobre 'A tecnologia e as pessoas com incapacidades', acolhida pelo Centro de Incapacidades na Universidade Estatal da Califórnia (CSUN), terá lugar nos hotéis Hilton e Marriott no Aeroporto de Los Angeles de 17 a 22 de Março, 2003.
+
+O evento é a conferência mais antiga e a maior neste campo, com patrocínio universitário,  e é a maior mostra de formação para profissionais de todo o mundo da área da deficiência e tecnologia.
+
+A ficha de pré-inscrição já está disponível. Para mais informação: telefone +1 (818) 6772578 (Voz/TTY serviço compatível); envie um e-mail ctrdis@csun.edu ou visite http://www.csun.edu/cod/conf 
+[Fim da notícia patrocinada.]
+
+++ SECÇÃO TRÊS: RELATÓRIO
+- POLÍTICA DIGITAL.
++13: VOZES DE MUDANÇA.
+por Mel Poluck mel@headstar.com .
+
+Centenas de activistas deficientes visuais e surdas, de todos os recantos do Reino Unido, deslocaram-se, a semana passada, ao Parlamento para fazerem ouvir as suas necessidades face ao acesso às novas tecnologias, consideradas vitais, nomeadamente a televisão digital; acesso este que foi completamente esquecido pela nova Lei das Comunicações (http://fastlink.headstar.com/bill1) que deu entrada nos Comuns para aprovação. 
+
+A manifestação organizada pelo grupo de pressão constituído no seio do RNIB visou chamar a atenção para necessidade da nova lei contemplar algumas das 57 alterações à lei por si propostas, numa atmosfera de indignação expressa pelos manifestantes em Westminster Hall, tendo estes deixado os deputados num beco sem saída. 
+
+Lesley Kelly, secretária honorária da UK National Federation of Blind (Federação Nacional dos Cegos do Reino Unido - http://www.nfbuk.org) disse: "Estamos esperançosos que alguém se aperceba que de facto as pessoas cegas necessitam de ter acesso à televisão e à rádio e que a publicidade chamará a atenção das pessoas. O que me preocupa é que ninguém parece estar consciente para a necessidade das telecomunicações serem acessíveis: nomeadamente os fabricantes precisam sabê-lo".
+
+Os organizadores desta acção pedem aos utilizadores deficientes visuais - que em última instância, são os peritos destas matérias - expliquem aos seus deputados os problemas de usabilidade diários que enfrentam, tais como os botões dos comandos à distância dos aparelhos que, não raras as vezes, usam cores para distinguir funções. Uma sugestão para uma demonstração prática é pedir aos deputados para taparem com uma etiqueta os ecrãs dos seus telemóveis e depois pedir-lhes para os usar.  
+
+Este grupo de pressão, pretende no mínimo ver que todas as suas propostas de alteração sejam transformadas em directrizes do novo 'super-regulador' Ofcom (http://www.ofcom.org.uk), que ficará operacional até final deste ano.
+
+O RNIB apoia a criação de um único regulador para as comunicações, Internet e Rede difusão porque uma efectiva aproximação conjunta poderá facilitar a destruição dos obstáculos à acessibilidade. No entanto, o grupo de pressão pretende ver uma crescente adopção, por parte da Ofcon, no sentido de esta usar os seus poderes para promover o acesso universal e o desenho de produtos "inclusivos" com um enquadramento de obrigação que assegure o acesso crescente aos guias de programação electrónicos e aos menus de texto que serão uma característica chave da televisão digital. 
+
+Alguns dos membros deste grupo de pressão dizem que se sentem irritados por pagar serviços dos quais não podem desfrutar na plenitude. "Estamos a subsidiar o serviço por inteiro mas não o estamos a receber completamente", disse uma das pessoas ao Boletim E-Access. "Queremos que todas as peças de navegação por menus do equipamento de media sejam acessíveis a todos".
+
+Entre os objectivos chave emanados pelo grupo de pressão nesse dia estava a áudio-descrição, exigindo-se que esta fosse contemplada não em dez por cento da emissão - conforme consta da lei - mas que seja incluída em 50 por cento da transmissão. Objectivo a atingir durante um período de dez anos. Também procuraram garantir que a áudio-descrição seja passível de ser recepcionada por todas as plataformas digitais a um preço significantemente idêntico ao de um equipamento tipo.
+Apesar das ocasionais transmissões, a horas tardias, áudio-descritas emitidas pela televisão terrestre, a Sky Digital continua a ser o único serviço digital a oferecer funcionalidades básicas de áudio-descrição. Actualmente a Sky disponibiliza listas dos programas áudio-descritos no seu Web site e está a trabalhar no sentido de o fazer via telefone (http://www1.sky.com/disability/tvguide.htm). O RNIB pretende que outros sigam o exemplo, e gostaria de ver a descrição disponível através de downloads de software, apesar desta opção só ser possível se se efectuar uma actualização das televisões e das set-top-boxes. "Não queremos actualizações dispendiosos", disse Chris Friend da Sightsavers International e da União Mundial de Cegos.
+Mary Ghatineh, um dos membros do grupo de pressão surdocega, disse: "Espero fazer aumentar a consciencialização para as necessidades específicas que as pessoas com perda sensorial enfrentam no seu dia a dia quando pretendem usar os equipamentos de informação e comunicação. Agora que estes se tornam digitais, estas pessoas verificam que estão cada vez piores. Quero que o governo implemente alterações para que os fabricantes de equipamentos digitais tenham em consideração os formatos acessíveis". 
+
+As novas tecnologias da comunicação têm o potencial de aumentar as vantagens práticas e financeiras de um sector em crescendo na sociedade com incapacidade visual e que combinam ambas as incapacidades sensoriais: a capacidade de efectuar compras, de enviar um email para um serviço de apoio, de votar, de consultar os cartazes de entretenimento, de reservar um táxi, ou de efectuar o pagamento das suas contas. No entanto, os activistas disseram que se os deputados não agirem agora, as pessoas com problemas visuais poderão mesmo perder a possibilidade de aceder aos serviços de rádio na Era digital. 
+Como líder de bancada do Partido Trabalhista, o deputado Dr. Roger Berry disse à assembleia: "Temos a tecnologia, podemos fazer com que as tecnologias da comunicação sejam acessíveis, tudo o que precisamos agora é de vontade política".
+[Fim da secção três.]
+
+++: SECÇÃO QUATRO: EM DEBATE
+- TESTANDO A WEB.
+
++14: VOCÊ ESTÁ VENDO ERRADO?
+por Mel Poluck  mel@headstar.com.
+
+O sistema de auditoria de acessibilidade do RNIB "Veja bem" ( 'See it Right,') 
+(http://www.rnib.org.uk/digital/siraccess/), faz verificação de sites para facilitar o uso por usuários com problemas de visão. Para receber um logo que atesta a "aprovação", um site deverá alcançar o que o RNIB descreve como sendo um "padrão plausível de acessibilidade", e fica então sujeito a novas auditorias anuais. O "Veja bem" ('See it Right') usa revisores de testes que visitam e verificam os sites, ao invés de usarem apenas os softwares de revisão automática, e baseia suas verificações nos padrões internacionais estabelecidos pelo consórcio do World Wide Web , Iniciativa de Acessibilidade à Web (http://www.w3.org/TR/WAI-WEBCONTENT). Os auditores verificam, por exemplo, se todas as imagens têm alternativas de textos e se os links têm destinos claros. Relatórios detalhados são então compilados com quaisquer exemplos de traços inacessíveis. 
+
+Os usuários são também encorajados a relatar inacessibilidade em sites portadores do logo (enviando e-mail para webaccess@rnib.org.uk) e o RNIB estima que adequar o site aos padrões tenha custo equivalente a um ou dois por cento do custo original do projeto (para saber mais sobre " Veja bem" ( 'See it Right,'), consulte os números 26 e 31, de Fevereiro e Julho de 2002). O processo está sendo observado com particular interesse por órgãos públicos, já que as normas governamentais exigem que as agências públicas, inclusive os conselhos locais, se certifiquem que seus sites sejam acessíveis. Na última semana, o Welwyn Hatfield Council (http://www.welhat.gov.uk) tornou-se a primeira autoridade local inglesa a receber esta certificação, seguindo o Wrexham Council, no País de Gales. (http://www.wrexham.gov.uk).
+
+Outros sites de setores públicos a serem aprovados pela auditoria incluem o principal portal do governo na Web, UKOnline (http://www.ukonline.gov.uk), o site da Greater Manchester Police (http://www.gmp.police.uk), o site da Justiça Criminal (http://www.cjsonline.org) e a Agencia de Desenvolvimento e Aprimoramento do governo local (http://www.idea.gov.uk).
+
+Como acontece com todas as auditorias de sistemas de acessibilidade, contudo, a iniciativa do RNIB tem seus desafetos, que são rápidos em criticar qualquer inacessibilidade aparente que permanece, mesmo depois de os sites receberem  o selo de aprovação. 
+
+De acordo com Welwyn Hatfield, o seu site recebeu o logo "Veja bem" ('See it Right,') graças a um tamanho de fonte apropriado, layout simples, opção de usar apenas a versão de texto, uso de tarjas descritivas para explicar o conteúdo das figuras, navegação fácil e pouco ou nenhum uso de gráficos complexos. O site oferece, também, a possibilidade de mudar a forma da fonte. 
+
+Contudo, Tavis Reddick, um técnico em publicações na Web, relatou esta semana ao Boletim E-Access que encontrou vários pontos de inacessibilidade no site do Welwyn Hatfield Council, inclusive um texto móvel na home page e o uso de fontes de tamanho menor que a média. "Se isto servir de exemplo para outros designers, como sendo um padrão de site acessível, poderá causar muitos problemas para o futuro dos projetos de acessibilidade", diz Tavis. Os comentários do técnico enfatizam o fato que, ao lado de uma série de atributos de acessibilidade que são fáceis de acessar, existem muitas áreas onde a melhor prática é mais uma questão de opinião e que muito pode depender do contexto e da verificação do site feita por peritos em avaliação.
+
+Henny Swan, um Diretor de Melhores Práticas de Acessibilidade a Websites, no RNIB, falou com o Boletim E-Access: "Esta é exatamente a resposta que consideramos boa, pois nos oferece a oportunidade de discutir as áreas de acesso que se localizam em "áreas nebulosas" ou "de julgamento", onde a orientação da WAI é necessária." 
+
+"No que diz respeito ao texto que "pisca", de acordo com a orientação do nosso guia "Veja bem" ('See it Right,'), isto é aceitável, se a rotação for lenta e ficar entre 3-5 ciclos. Como em todos os casos de textos que "piscam" em sites que auditamos, uma decisão subjetiva é tomada sobre como a imagem afeta a página e o motivo de causar problemas para as pessoas que acessem a página, ou se o texto em questão foi extensivamente usado no site." 
+"No caso de Welwyn Hatfield, existe uma imagem que gira a cada três segundos, o que é considerado lento. Existe também uma quantidade muito pequena de texto nos dois lados das imagens, o que torna a leitura mais fácil. Além disso, existe um link de texto diretamente abaixo das imagens para acesso dos usuários e a imagem fica escondida na parte inferior da página. Tudo isto nos dá bons motivos para aprovarmos o site, especialmente devido ao fato de que o texto que "pisca" não ter sido usado em qualquer outro local". 
+
+"Isto posto, o assunto "texto que pisca" não estava na home page na ocasião da auditoria inicial e da auditoria feita após um ano, o que mostra o quanto é problemático monitorar os sites que passaram pela auditoria. Isto também comprova o quanto a resposta dos usuários é útil! Já entrei em contato com Welwyn Hatfield para notificá-lo sobre o assunto". 
+
+O problema do tamanho da fonte "menor que o comum" também foi discutido com o Conselho, diz Swan. "O tamanho da fonte nas páginas é fixo; no entanto, uma alternativa acessível é oferecida na forma de botões que alteram o tamanho do texto para 16, 14 e 12. Estas imagens têm também links de textos alternativos na parte inferior da página". 
+
+"Como esta é uma alternativa acessível, o site foi aprovado pela auditoria. Repetindo, este é um caso singular e que exige interpretação e decisão das Orientações da WAI". 
+
+Isto demonstra claramente que a verificação automática de softwares nunca oferece a mesma sofisticação da avaliação feita por profissionais. "As ferramentas de verificação automática podem oferecer apenas 55% de verificação de acessibilidade, e podem apresentar falhas, já que as ferramentas não são capazes de detectar uma alternativa acessível", diz Swan. O assunto pode ser subjetivo, mas a decisão de um ser humano parece ser o melhor sistema que temos para testar a acessibilidade".
+[Fim da secção quatro.]
+
+++: SECÇÃO CINCO: REVISÃO DE PRODUTO
+- LIVROS FALADOS.
+
++15: ESCOLHA O SEU LEITOR DAISY.
+por Phil Cain  phil@headstar.com.
+
+O formato digital de livros DAISY, desenvolvido por um consórcio internacional de bibliotecas de livros falados formado em 1996 
+(http://www.daisy.org), tem muitas vantagens para as pessoas deficientes visuais.
+
+A capacidade de marcar uma página e procurar texto através de palavras-chave torna muito mais fácil a busca de uma dada secção, particularmente útil no trabalho complexo de referenciação. Igualmente útil é a possibilidade de aumentar e reduzir a velocidade de narração sem alterar o seu tom. Entretanto a opção para gravar em formato MP3, o qual comprime a informação cerca de 12 vezes, permite colocar em menos discos mais material áudio.
+
+Sem fabricantes de leitores DAISY no Reino Unido, a alternativa até há muito pouco tempo, era a de importá-lo do estrangeiro, um processo nem sempre fácil. Mesmo depois do utilizador resolver a questão da modificação da fonte de energia e traduzir as instruções, ele ou ela só tinha acesso a apoio técnico noutro país.
+
+Em Dezembro do ano passado o RNIB começou a cuidar de eliminar esta falha passando a comercializar o leitor Victor Reader Pro da empresa sedeada no Canadá Visuaide. 
+De acordo com o gestor de marketing Tom Whittle, foram já vendidos até agora 40 Victor Reader Pros a um preço de 350 libras, mesmo sem publicidade. Entre os clientes do equipamento estão entidades educativas, disse Whittle. Ao contrário dos seus rivais, o Pro é desenhado para ir ao encontro das necessidades de leitura altamente sofisticadas dos estudantes, com um teclado numérico que torna fácil saltar entre páginas (para uma revisão deste leitor por Saqib Shaikh, veja o Boletim E-Access 27, de Março 2002).
+
+Nos próximos meses três leitores DAISY em hardware se vão juntar ao Victor Pro numa versão completamente inglesa, e com estes leitores o 
+RNIB tem por objectivo assegurar que os mesmos estejam conformes com os padrões de segurança do RU e devidamente documentados, e irá providenciar apoio local aos utilizadores. 
+
+Uma das mais ansiosamente esperadas máquinas da tecnologia DAISY por parte dos entendidos é o Plextalk PTR1 de construção Japonesa
+(http://www.plextalk.org/plextalk_portable.html), o qual será posto à venda no final de Março. Combinando a portabilidade do Telex e equipado com um teclado numérico com as funções do Victor Pro, a máquina permite também às pessoas gravar livros DAISY em movimento. A BBC já se mostrou interessada neste equipamento, disse Whittle, cujos jornalistas de rádio - deficientes visuais ou não - poderão achar o sistema de gravação e indexação útil para a sua profissão. O preço apontado ronda as 800 libras o que significa, no entanto, que a máquina pretende atingir os profissionais e amadores entusiastas. 
+
+Próximo para aparecer está o Victor Classic outro dos produtos escalados pela Visuaide 
+(http://www.visuaide.com/victorclassic.html), o qual surgirá no mercado em Abril depois dos testes que o RNIB se encontra a fazer. Não tem o teclado numérico, que encontrámos no Pro, e é de mais difícil movimentação, e não tem um kit de baterias recarregáveis integrado. Custa cerca de 280 libras mais IVA e espera ter como utilizadores, possivelmente pessoas idosas, que ficam felizes em sacrificar a alta-sofisticação pelo baixo custo e simplicidade de operação. 
+
+Outra opção de baixo custo é o leitor Telex (http://fastlink.headstar.com/telex), o qual entrará no mercado em Maio por cerca de 175 libras. O desenho da máquina é baseado no desenho do 'clam shell' (concha) vulgarmente utilizado no mercado dos leitores de CD portáteis, o que o torna mais fácil de transportar do que o Victor Classic ou o Pro.
+
+Para encomendar qualquer uma das máquinas mencionadas acima contacte o RNIB através do 0845 7023153; email cservices@rnib.org.uk ou visite a loja on-line em: http://onlineshop.rnib.org.uk/storefront.asp Ou se quer manter-se informado sobre as últimas novidades disponíveis envie os seus elementos de contacto para o email: ict@rnib.org.uk.
+[Fim da secção cinco.]
+
++COMO RECEBER ESTE BOLETIM.
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com>. Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos a assinar!
+
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com
+
+Copyright 2003 Headstar Ltd http://www.headstar.com.
+O Boletim pode ser reproduzido desde que todas as partes incluam esta nota de copyright, e desde que as pessoas sejam encorajadas a contactar-nos por email para subscrever de forma individualizada. Informe também o editor quando pretenda reproduzir os nossos conteúdos. As secções deste relatório podem ser citadas desde que estejam claramente referenciadas com a indicação "retirado do boletim e-access, uma newsletter mensal enviada por email gratuitamente", citando também o endereço do nosso sítio Web http://www.e-accessibility.com.
+
+-**-
+Nota à edição Portuguesa: Caso os leitores portugueses estejam interessados em enviar os seus comentários e sugestões, bem como enviar alguns artigos que abordem as questões de acessibilidade à Sociedade da Informação podem remetê-los, em Inglês ou Português, para o seu editor Dan Jellinek através do e-endereço: dan@headstar.com, ou mesmo para gesta@gesta.org 
+-**-
+
+PESSOAL:
+Director - Dan Jellinek dan@headstar.com
+Vice-director - Phil Cain phil@headstar.com
+Redactor - Tamara Fletcher tamara@headstar.com
+Conselheiro Editorial - Kevin Carey humanity@atlas.co.uk 
+
+[fim da edição.]

@@ -1,0 +1,328 @@
+* Boletim E-Access
+
+Boletim electrónico on-line de notícias sobre tecnologia para pessoas com deficiência visual.
+Endereço do Boletim E-Access, incluindo os seus arquivos: 
+<http://www.e-accessibility.com>
+
+Patrocinado pelo Royal National Institute for the Blind:
+<http://www.rnib.org.uk>
+o National Library for the Blind (Biblioteca Nacional para os cegos):
+<http://www.nlbuk.org>
+e a Guide Dogs for the Blind Association (Associação de Cães-Guia para cegos):
+<http://www.guidedogs.org.uk>
+
+Versão portuguesa: cortesia do GESTA-MP (Grupo de Estudos Sociais, Tiflológicos e Associativos)
+<http://www.gesta.org>
+
+Divulgue, por favor, este boletim pelos seus amigos e colegas, e diga-lhes que o podem subscrever em Português, bastando para tal enviar uma mensagem para o endereço electrónico: <mailto:eab-pt-subs@headstar.com>. Veja os pormenores na parte final deste boletim.
+Quanto mais subscritores tivermos, melhor será o nosso serviço!
+
+NOTA: Para facilitar a navegação a todos aqueles que utilizam leitores de ecrã, todos os cabeçalhos agora iniciam-se com um asterisco e terminam com um ponto final. Diga-nos, por favor, se existe mais alguma coisa que possamos fazer de forma a facilitar a consulta do boletim. 
+
+[início DO BOLETIM]
+
+* BOLETIM 28, Abril 2002.
+
+Índice
+
+Notícias:
+- Código de conduta sobre Lei da Incapacidade adiada.
+- Nova tecnologia desvendada numa conferência em Cambridge.
+- Lei de aquisições da UE tem cláusula sobre incapacidade.
+- Agência de Tecnologia de Educação lança serviço on-line de aconselhamento.
+- Acessibilidade à Web cresce na Agenda da UE.
+
+Notícias breves: Braille sobre o Word; Fornecedor especialista de internet; Acesso à lei; Cores Unidas.
+
+Secção dois: 'A Receber'
+- Fórum dos Leitores.
+
+Secção três: política
+- E-Europe: foram colocadas paredes a cercar a cidade. A UE colocou os assuntos relacionados com o acesso no coração da iniciativa e-Europe, mas poderão as últimas recomendações deste projecto serem ignoradas? O representante do RU, Kevin Carey, tem as notícias dos meandros da história.
+
+Secção quatro: resposta de leitor
+- Musica braille: criando o padrão. As características veiculadas, o mês passado, sobre as alternativas de alta tecnologia no que diz respeito à codificação da música braille, desencadeou uma forte onda de respostas por parte dos nossos leitores.
+
+Secção cinco: em foco
+- Tecnologia de voz: a qualquer hora, em qualquer lugar, com qualquer equipamento. Tudo leva a crer que a voz na Web vai ser a interface mais largamente utilizado no futuro, e não apenas por pessoas cegas. Judith Markowitz dá-nos conta do estado da arte.
+
+[Fim do índice.]
+
+
+* SECÇÃO UM - NOTÍCIAS.
+
+
+* LEI DA INCAPACIDADE ADORMECE À MESA DAS NEGOCIAÇÕES.
+
+Um atraso na publicação do guia relacionado com a prestação educativa na Lei da Discriminação das Incapacidades (Disability Discrimination Act) pode causar problemas com a implementação da lei, alertou uma organização líder do sector social.
+
+O governo espera publicar o código de conduta, o qual vai exprimir as obrigações das escolas e dos colégios ao abrigo do DDA em Maio, mas um atraso na sua apresentação ao Parlamento significa que isto pode não ser possível até Julho ou mesmo mais tarde.
+
+Uma vez implementado, a lei vai tornar ilegal o acto de rejeitar admissões de estudantes baseadas somente nas suas incapacidades, por parte das escolas, colégios e universidades.
+
+De acordo com a Skill (http://www.skill.org.uk/about), uma organização social de educação e emprego que ajudou a redigir o código de conduta, o atraso pode causar problemas, uma vez que as escolas, colégios e universidades têm de rever e emendar cada curriculum e formar o seu pessoal, bem como corrigir os procedimentos de admissão até Setembro de 2002.
+
+A directora de política da Skill, Sophie Corlett, disse: "Esta legislação tem de ter o maior impacto. No passado, os colégios poderiam rejeitar alunos pelas suas incapacidades. Isto também significa que os prestadores de educação têm o dever de efectuar ajustamentos razoáveis para auxiliar e dar acesso às pessoas com incapacidades."
+
+Toda a Grã-bretanha está atenta à data limite de Setembro de 2002, e o Norte da Irlanda espera seguir-lhe o passo no curto prazo. Até Abril de 2003, a lei espera poder vir a estabelecer mais requisitos educativos, oferecendo "serviços de apoio" tais como intérpretes de língua gestual, e até 2005 ter completo as adaptações físicas indispensáveis como seja a instalação de elevadores.
+
+Para ajudar a financiar as modificações, o Departamento de Educação e Ferramentas disponibilizou 70 milhões de libras para as escolas Inglesas, a segunda tranche de um total orçamental de 220 milhões da Iniciativa de Acesso às Escolas, a ser gastos em remodelações de funcionalidades para as pessoas com incapacidades até 2004. 
+
+No entanto, Caroline Ellis, representante parlamentar no RNIB, disse que são precisos fundos mais avultados para que se consiga um substancial impacto no acesso à educação por parte das pessoas com deficiências. "O RNIB felicita vivamente o esforço, mas ele não vai tocar em muitas das barreiras enfrentadas pelos alunos com perda de visão. São necessários, da parte do governo, fundos específicos e sustentados para assegurar a todas as escolas e às autoridades locais de educação, o fornecimento de informação acessível às crianças, e que assegure que em cada entidade existam departamentos de mobilidade capazes de treinar as crianças a deslocarem-se de forma independente. A situação no momento está longe de estar resolvida, deixando os pais, crianças e seus professores e pessoal de apoio alerta."
+
+* O QUE SE PASSA.
+
+Foi desvendada um vasto leque de tecnologias futuristas para pessoas com deficiência visual, o mês passado na 'CWUAAT', o primeiro Workshop Internacional realizado em Cambridge sobre Acesso Universal e Tecnologias de Apoio.
+
+As pesquisas de treino em ambiente de realidade virtual, a três dimensões, para pessoas deficientes visuais foram apresentados por Dimitrios Tzovaras do Instituto de Informática e Telemática da Grécia. O trabalho, que faz parte de um projecto da UE com o título ENORASI, utiliza a luva háptica 'CyberGrasp' para criar a impressão dos objectos sólidos que podem assim ser sentidos, levantados, agarrados e examinados.
+
+Os testes levados a efeito com 26 cegos voluntários incluíram a identificação de objectos geométricos virtuais, tridimensionais, sobre o tampo de uma mesa, os quais podem ser utilizados no ensino da matemática; representações de gráficos em movimento tais como as curvas sinusoidais; mapas virtuais com características tácteis; uma selecção de esferas virtuais com diferentes materiais simulados que podem ser agarradas e apertadas; e jogos de entretenimento como tiro ao alvo.
+
+Outros testes altamente práticos envolveram o uso simulado de uma bengala que pode tocar objectos virtuais para simular situações tais como atravessar uma rua com semáforos. O utilizador sente a sensação de transportar a bengala, sentindo também a vibração e o som real dos objectos virtuais quando tocados. Para mais informações veja: http://www.iti.gr/db.php/en/projects/ENORASI.html
+
+Outras tecnologias sobre visualização estiveram presentes como foi o caso do sistema que permite às pessoas cegas ou amblíopes criar e ler gráficos como os de tipo circular e os de barras, desenvolvido pelo Professor Stephen Brewster da Universidade de Glasgow. Usando um "rato háptico" o qual cria uma sensação física quando o utilizador se movimenta ao longo da linha do gráfico; Brewster disse que o sistema vai permitir pela primeira vez às pessoas cegas ter a noção exacta da visão panorâmica de um diagrama ou de um gráfico (veja http://www.multivis.org).
+
+Joanne Coy dos serviços postais privatizados Consignia, que patrocinou o workshop, disse aos delegados que o novo Disability Discrimination Act (Lei da Discriminação das Incapacidades) e o envelhecimento da população significam que um maior número de empregadores terão de ter em atenção, de forma muito séria, as tecnologias de acesso, se desejam recrutar os melhores talentos disponíveis e preservar o seu pessoal actual. Dado o seu perfil e dimensão, organizações como a Consignia esperam ser líderes neste campo, disse ela.
+
+CWUAAT está agendada para ter lugar de dois em dois anos. O seu sítio Web encontra-se em: http://rehab-www.eng.cam.ac.uk/cwuaat
+
+E para saber como pode adquirir uma cópia das apresentações envie um email a Simeon Keates da Universidade de Cambridge usando o endereço: lsk12@eng.cam.ac.uk
+
+* LEI DE AQUISIÇÕES DA UE ABRAÇA A ACESSIBILIDADE.
+
+As matérias da acessibilidade podem sobrepor-se aos aspectos económicos na alocação dos contractos de tecnologias do sector público em toda a Europa, de acordo com novas leis que estão sobre consideração no Parlamento Europeu. 
+
+Na segunda-feira o Parlamento vai efectuar uma audição pública para discutir as emendas das leis da UE que se apliquem a todos os contractos públicos em toda a sua amplitude. Apesar de não obrigar as organizações a ter os aspectos da acessibilidade em conta, aqueles que o fizerem podem ser protegidos das alterações que podem ser processadas na actual lei da concorrência.
+
+Até agora, as leis da UE sobre fornecimento e serviços de terceiros promoveram, prioritariamente, o comércio transfronteiriço, e encorajou a concorrência dos diversos fornecedores, focalizando-se apenas nos aspectos económicos.
+
+De acordo com o deputado Trabalhista, Richard Howitt, o movimento representa uma significante mudança de direcção da lei Europeia. "É uma importante peça legislativa. Significa para o Parlamento a revisita de cláusulas ambientais e sociais que foram abandonadas há alguns anos atrás a favor da promoção da concorrência, e reconhece a responsabilidade corporativa e social como objectivos legitimados no sector público," disse ele. No entanto, é preciso um maior progresso para trazer à Europa um ritmo paralelo ao dos EUA, disse Howitt.
+
+Estima-se que as transacções decorridas pela procura do sector Público, correspondam a 11 por cento no conjunto dos países da UE, mas também têm um importante impacto na construção e trabalhos públicos, energia, telecomunicações e indústria pesada.
+
+Os leitores podem participar na audição pública em:
+http://www.edf-feph.org/en/policy/empl/empl_pol.htm
+
+
+* Pergunte à BECTA.
+
+BECTA, a Agência governamental do RU, responsável pelas tecnologias da informação na educação, está este mês a efectuar um serviço de aconselhamento, on-line, sobre a utilização da tecnologia como forma de aumentar o acesso à aprendizagem. 
+
+O painel já foi interrogado sobre a educação das pessoas com deficiência visual, mais concretamente com a questão: "Onde posso eu encontrar boas actividades curriculares na Web para crianças cegas?" 
+
+O membro do painel, John Liddle, da organização social para as tecnologias de acesso, AbilityNet, aconselhou a ver os recursos desenvolvidos pelo Visual Impairment Centre for Teaching And Research unit, VICTAR - Unidade do Centro da Deficiência Visual para o Ensino e Investigação da Universidade de Birmingham: http://www.education.bham.ac.uk/research/victar
+
+Para visitar o fórum BECTA e encontrar aconselhamento veja: http://fastlink.headstar.com/becta
+
+
+* CONSELHO DA UE CLAMA PELA ACESSIBILIDADE À WEB.
+
+O Conselho da União Europeia, o corpo que representa os governos da UE, lançou o mês passado uma resolução que tem como objectivos encorajar  os seus membros a incrementar a acessibilidade dos sítios Web do sector público. 
+
+A resolução reforça uma comunicação proferida no final do ano passado pela Comissão Europeia que encoraja as Instituições Europeias e os governos a aumentar a acessibilidade à Web (veja Boletim E-Access número 22, Outubro 2001).
+
+A resolução expressa a necessidade de aumentar os esforços para incrementar a acessibilidade à Web e a encorajar os estados membros e a comissão para providenciarem que os seus sítios Web fiquem conforme com as directrizes de acessibilidade à Web do Consórcio World Wide Web.
+
+Não tem formato de lei, mas o conselho disse que vai monitorar a sua evolução e pediu aos estados membros e à comissão que lhe enviem um relatório de progresso no final do primeiro semestre de 2004.
+
+Para ver o texto integral da resolução vá a: http://fastlink.headstar.com/EU
+
+NOTA: O mês passado, a Comissão Europeia abriu o seu primeiro Centro de Documentação para pessoas com deficiência visual, a que deu o nome de escritório VIP (Visual Impaired People - Pessoas com Deficiência Visual), no Centro de Conferências Albert Borschette em Bruxelas. O centro oferece acesso, a três pessoas de cada vez, a toda a documentação da comissão actualmente disponível na Internet, via tecnologias como: sintetizador de voz e linhas braille. Outros centros deste género podem seguir-se noutras instituições da UE, e a comissão espera que a iniciativa ajude a aumentar o número de pessoas deficientes visuais que trabalham para ela.
+
+
+*NOTÍCIAS BREVES.
+
+* BRAILLE SOBRE O WORD: Um novo e compreensível tutorial em braille para a utilização das teclas de atalho do Word 2000 foi publicado pela Hotkey Systems. A versão em papel do livro custa 63 libras mais despesas de envio a partir dos EUA, ao passo que a disquete custa 16 libras. Um índice pode ser visto no 'download center' (centro de descarregamento) em: http://www.wyfiwyg.com
+
+* ENTRADAS ISP: O Boletim E-Access planeia, num dos seus números, dedicar particular atenção aos serviços de fornecimento de Internet especialmente desenhados para as necessidades das pessoas cegas. Queremos ouvir as experiências dos leitores com tais serviços, positivos ou negativos. Contacte, por favor, Phil Cain através de phil@headstar.com ou pelo telefone 01273 231 291.
+
+* ACESSO À LEI: Informação sobre a lei de acessibilidade à Web está disponível em TechDis, um serviço on-line financiado pelo governo dedicado à forma como as tecnologias estão a incrementar o acesso das pessoas com incapacidades ao ensino superior. Esta informação foi compilada por Martin Sloan da Universidade de Glasgow: http://www.techdis.ac.uk/resources/msloan01.html
+
+* BOLETIM DE INVESTIGAÇÃO: O Boletim Research, uma publicação da Biblioteca Nacional para os Cegos, é gratuito, enviado semestralmente por email cobrindo temas relacionados com projectos de investigação, nacional e internacional, na área da deficiência visual, e do mundo das bibliotecas e da tecnologia da informação. Qualquer interessado em receber a próxima edição deve contactar Sarah Bundock através do endereço: sarah.bundock@nlbuk.org ou pelo telefone 0161 3552089 - e pode encontrar cópias em: http://www.nlbuk.org/common/bulletin.html
+
+
+[Fim da secção um.]
+
+* ANÚNCIO PUBLICITÁRIO: BASE DE DADOS PATHFINDER GOLD.
+
+A Pathfinder Gold da Enable Enterprises é uma base de dados com mais de 11,000 contactos na área dos estilos de vida e da incapacidade com email e endereços Web disponíveis, categorizada em cerca de 700 tópicos. A base de dados em CD cobre todas as grandes organizações, nacionais e internacionais, do desporto, da educação e muito mais.
+
+O CD terá três secções: empresas, organizações e media, nos formatos que incluem CSV, Access e Outlook XP. O preço da base de dados é de 100 libras para uma só cópia ou 150 libras para uma cópia e uma actualização a ocorrer em Outubro.
+
+As encomendas podem ser pagas por cheque. Contacte: 
+pathfinder@enableenterprises.com
+
+[Fim do anúncio publicitário].
+
+* SECÇÃO DOIS - 'A RECEBER'
+- FÓRUM DOS LEITORES.
+- Envie, por favor, todas as suas contribuições ou respostas para  inbox@headstar.com
+
+* ASSISTÊNCIA EDUCACIONAL: No nosso último número, Juan Carlos Benito, 
+um professor do ensino especial de Santander, Espanha, escreveu para pedir aconselhamento na ajuda de um aluno de 18 anos, Bruno, a usar computador. Bruno tem paralisia cerebral e não consegue controlar o movimento dos seus membros.
+
+Em resposta, Anna Dresner, escreve-nos para dizer: "Na conferência 'Closing the Gap' (Eliminar a Diferença) realizada em 1998, alguém demonstrou uma peça de hardware e um programa de computador associado, que permitia a uma pessoa controlar um computador através de ondas cerebrais. Eles conseguiam movimentar um rato, escrever, jogar e assim por diante. Parecia fácil de aprender, e muito eficaz."
+
+Depois da pergunta, Sarah Anderson, assistente administrativa em 
+Closing the Gap, disse que a tecnologia aqui relembrada era o Cyberlink da Brain Actuated Technologies (Tecnologias activadas pelo cérebro), cujo o sítio Web é: http://www.brainfingers.com
+Para procurar mais informações sobre este produto os leitores podem também pesquisar pelo nome do produto ou da empresa na directoria de recursos da conferência que está on-line em: http://www.closingthegap.com/rd
+
+Entretanto, Deanne Ferris de Augusta, Austrália Oriental, sugere uma outra possível solução - o Eyegaze Communication System da LC 
+Technologies:
+http://www.eyegaze.com/indexdis.htm
+
+Diz-nos ela: "Não tenho experiência com este sistema, mas o sítio Web parece fornecer todos os detalhes relevantes (incluindo o preço em dólares americanos) e menciona que o sistema já se encontra em utilização em Espanha."
+
+
+* SOBRE O MAPA:  No mês passado, Kate Page do English Nature pediu aconselhamento sobre como criar mapas acessíveis na Web, por exemplo mapas que mostrem informação sobre sítios de interesse científico especial.
+
+Em resposta, Dave Pawson do RNIB escreveu-nos a dizer: "Tenho vindo a operacionalizá-los com a combinação do scalable vector graphics 
+(http://www.w3.org/Graphics/SVG) e do Speech Application Programming Interface (SAPI - Interface de Programação de Aplicações Voz) da Microsoft, para permitir uma navegação nos mapas via teclado com saída por voz. Isto ainda está muito no início, mas parece ser um bom exemplo."
+
+Outros leitores mostraram interesse nesta área, incluindo David Bailey da British Geological Survey (http://www.bgs.ac.uk), o qual, diz ele está interessado em fazer os seus mapas acessíveis; e David Hawgood da 
+GENUKI, uma biblioteca virtual de ligações de genealogia para o RU e para a Irlanda, cujos sítios Web disponibilizam mapas, e dão aconselhamento sobre os mesmos, os quais podem ser impressos ou transformados em relevo:
+http://www.genuki.org.uk/b
+
+
+* CORES UNIDAS: Em adição ao nosso artigo sobre tecnologias que ajudem pessoas cegas a escolher roupas (Boletim E-Access, número 17, Maio 2001), Anthony Barnett da Chris Kay International escreve-nos com mais informação sobre o 'Lextra' Braille. O sistema passa informação sobre cores e cuidados de tratamento fundindo-os nas fibras da roupa, aplicando calor é possível transferir e fundir gráficos. A empresa diz que pode também actuar como um equipamento anti-contrafacção, e é financiada pela Benetton. Para mais informações use o email: 
+abarnett@chriskay.com
+
+[Fim da secção dois.]
+
+*SECÇÃO TRÊS: POLÍTICA
+- "E-EUROPE".
+
+*FORAM COLOCADAS PAREDES A CERCAR A CIDADE.
+por Kevin Carey humanity@atlas.co.uk
+
+No primeiro semestre de 2000, durante a presidência Portuguesa da União Europeia, foi lançada a iniciativa "e-Europe". No seu cerne estava a ideia de que a Europa precisava de estar unida para levar adiante a sua acção ou seria totalmente ultrapassada pelos desenvolvimentos do sector digital nos Estados Unidos. Mas, apesar de já estar atrás na utilização de computadores de secretária e portáteis, a UE estava encorajada, na altura, pela liderança sua nos campos dos telemóveis e da televisão digital.
+
+Numa conferência ministerial, em Abril de 2000, havia uma sessão dedicada à discussão do capítulo sobre a deficiência e a acessibilidade do projecto da Declaração e-Europe. Das aproximadamente 40 pessoas presentes somente três eram incapacitados: Judy Brewer, uma utilizadora de cadeira-de-rodas dos Estados Unidos representante da Web Accessibility Initiative (WAI) "Iniciativa para a Acessibilidade à Web"; Rodolfo Cattani, um cego total, observador do European Disability Forum (EDF) "Fórum Europeu da Deficiência"; e eu próprio, também cego total e representante do Royal National Institute for the Blind (RNIB - Instituto Real Nacional para os Cegos). 
+
+A maior parte dos participantes naquele ponto eram bem intencionados mas estavam fora do assunto. Estavam muito preocupados com o acesso à educação e ao emprego, os quais faziam já parte integrante de outras iniciativas da UE e mesmo dos próprios estados membros; demasiado interessados em marcos memoráveis e indicadores e na parafernália da diplomacia internacional, e muito pouco interessados no acesso aos sistemas bancário, comerciais, dados, rede-difusão, saúde e informação financeira.
+
+Em cada um dos dois dias, o relator - como é oficialmente conhecido na UE o responsável por registar os procedimentos - leu as suas notas que eu contestei por falharem totalmente na reflexão da substância das discussões e por possivelmente terem sido escritas antes das discussões. As notas eram abstractas, os meus apelos eram para medidas concretas. Contudo, cometi um erro táctico fatal ao chamar a atenção para a opção tendenciosa em integrar a deficiência em todos os aspectos da declaração (uma abordagem transversal), em vez de se manter como um capítulo separado. Nos três meses seguintes, todas as propostas significativas do capítulo original da deficiência foram "exportadas" para uma forma transversal da sua manifestação. A única forma de se conseguir algo, tratando-se de uma pessoa com incapacidades, é acampar fora da cidade mas próximo das suas portas para causar distúrbios e conseguir parcelas de comida; pois estando lá dentro tornamo-nos invisíveis.
+
+A Declaração e-Europe foi, em devido tempo, aprovada pelo Conselho de Ministros da UE em Junho de 2000 e, como resultado, foi constituído um comité ao "mais alto nível" para dirigir a Economic and Social Dimension of the Information Society (ESDIS) "Dimensão Social e Económica da Sociedade da Informação". Por razões históricas este comité foi ligado aos departamentos de emprego e assuntos sociais dos Estados Membros nos quais os assuntos das incapacidades têm lugar. Que eu me lembre, ninguém de um departamento do comércio, indústria, tecnologia ou das comunicações foi nomeado.
+
+O ESDIS, posteriormente, estabeleceu um grupo de peritos em acessibilidade electrónica. Cada estado membro podia nomear dois peritos, um do governo e um dos sectores independentes ou académicos. Mas, porque a UE só pagaria as despesas de um perito por país, os membros do governo concentraram-se em enviar um oficial do governo, deixando o sector independente contribuir com um perito caso este pagasse as suas despesas. É de lamentar, porque mais uma vez, os peritos oficiais, quase todos, vieram duma experiência do emprego e assuntos sociais e era suposto que peritos em tecnologia fizessem necessariamente parte deste grupo. 
+
+A primeira vez que ouvi falar deste grupo foi há um ano atrás e demorei um certo tempo a descobrir quem representava o Reino Unido. Depois descobri que ele não estava assim tão entusiasmado com a nomeação. Por isso, eu próprio propus ao Departamento para o Trabalho e Pensões (http://dwp.gov.uk) substitui-lo; e no princípio deste ano foi aceite. Por isso sou o primeiro membro deficiente do grupo que vota, visto que o temível Sr. Cattani do EDF é um observador. 
+
+O grupo está actualmente a rever a legislação sobre a deficiência e o plano e-Europe, e é provável que saia brevemente com algumas recomendações para a área das aquisições por parte do sector público. Duvido que sejam tão rigorosos como as que estão ao abrigo da "Secção 508", nos Estados Unidos, mas temos que fazer o nosso melhor uma vez que as propostas são publicadas para se tornarem em rigorosas regras. 
+
+Actualmente, como segunda área de trabalho do grupo, está em curso uma revisão das normas técnicas, as quais têm sido deixadas a cargo de alguns consultores que brevemente apresentarão um relatório. Esta é uma área de trabalho interessante mas o seu impacto na vida real será severamente limitado, excepto se houver um peso político por detrás de algum consenso que surja. O problema é que a legislação de acessibilidade, em termos gerais, está a ser formada contra um passado instituído de desregulamentação industrial. O resultado para os direitos de acesso é tão inevitável como uma bicicleta numa estrada para camiões. Não obstante, pode bem ser que a formulação de normas venha a ser o novo rumo a seguir.
+
+O que conduz, naturalmente, à WAI (http://www.w3.org/WAI).  Esta tem sido um bom exemplo de promoção de um principio através de um conjunto de normas. A UE aceitou agora as "Web Content Accessibility Guidelines " (WCAG - Directrizes de Acessibilidade ao Conteúdo da Web) da WAI com conformidade de nível "A". Existem, aqui, quatro questões a realçar:
+
+- Primeiro, a conformidade mínima de nível "A" está a tornar-se rapidamente em máxima conformidade; os requisitos básicos estão a ser vistos como o tecto e não como o chão.
+
+- Segundo, existem várias áreas onde as directrizes da WAI precisam de aperfeiçoamento, particularmente no sector cognitivo e no que diz respeito à multimédia - estamos muito longe de estabelecer que toda a multimédia seja 'multimodal', significando isto que os utilizadores possam utilizar uma variedade de formas de entradas.
+
+- Terceiro, os estados membros parecem incapazes de resistir a pequenos avanços unilaterais. Por isso, em vez de colaborarem com a WAI a formular o WCAG 2.0, cada estado está a tentar fazer pequenas inovações. Existe o perigo de fragmentação o qual irá, pelo contrário, levar-nos a problemas na utilização e conformidade com as ferramentas que naturalmente são desenhadas para ir ao encontro da conformidade da WAI, e não com a conformidade nacionalmente legislada.
+
+-  Quarto, apesar da WAI já dispor de ferramentas de um processo para desenhar e aprovar os resultados de acordo com a conformidade necessária, alguns países querem desenvolver o seu próprio, mais uma vez levando-nos à fragmentação. Nesta área, no entanto, os problemas serão particularmente severos porque a imparcialidade, transparência e comparabilidade são o esqueleto de qualquer sistema de conformidade.
+
+Uma parte do trabalho, final, actual do grupo de peritos diz respeito ao estabelecimento de uma rede, a nível da UE, de 'centros de excelência' para formular um curriculum em desenho para todos. Isto pode soar sem interesse mas é potencialmente o desenvolvimento mais importante depois do trabalho da WAI porque um dos grandes problemas do desenho acessível é o de que muitos desenhadores não fazem ideia do que têm que fazer para além de se livrarem de súbito dos gráficos.
+
+Por isso está a levar-se a efeito um bom trabalho, mas estamos ainda muito longe de contemplar normas universais nos serviços bancários, rede-difusão, dados, comércio, saúde e informação financeira. Não obstante, é vital que nós desenvolvamos, eventualmente, este tipo de normas.
+
+[Fim da secção três.]
+
+* SECÇÃO QUATRO: RESPOSTA DO LEITOR
+- MÚSICA BRAILLE.
+
+* AFINAR O PADRÃO.
+
+No artigo, do número anterior, sobre notação musical para cegos (Boletim E-Access, número 27, Março 2002) recebemos uma grande quantidade de respostas dos leitores, muitas das quais que sentiram que o artigo foi injusto para com o sistema de musica braille. 
+Reproduzimos versões editáveis de duas dessas respostas abaixo, e gostaríamos de agradecê-las aos seus autores - leitores com mais visões sobre o assunto são bem vindas e podem ser-nos enviadas para inbox@headstar.com
+
+Lisette Wesseling, uma soprano e professora de música braille, escreve: "Como leitora fluente de música braille que actua e ensina profissionalmente, eu tomo o assunto da mesma forma generalista com que a peça o abordou. Um esforço notável de normalização da notação da música braille foi levado a efeito, em todo o mundo, ao longo de todo o século 20. 
+
+"A música braille, tem tido sempre uma grande concordância no que diz respeito à sua normalização, apesar de existirem sempre mais coisas que poderiam ser feitas. Tenho pedido emprestado e adquirido pautas das mais diversas bibliotecas além fronteiras, produzidas no final do último século, e todas têm sido completamente acessíveis para mim. Para dizer que, a música braille não tem sido normalizada até ao lançamento do manual de 1997. 
+
+"Os músicos cegos têm vindo a utilizar música braille por razões profissionais e amadoras há 150 anos. Isto tem-nos servido bem durante todo este tempo, e certamente não precisa de ser substituído. Se ninguém sugere a mudança do sistema de notação musical impressa a negro digam-lhes que parem de interferir onde não são necessários.
+
+"A beleza da música braille reside no facto do executante poder ter acesso independente à pauta, tendo, ele ou ela, a capacidade de decisão de interpretar a peça à sua própria maneira, tal como acontece com as pessoas normovisuais.
+
+"Usando este sistema, podemos ver-nos a cantar num coro de pessoas normovisuais! Nenhum equipamento de mão nos vai permitir fazê-lo de forma silenciosa, ou sem auriculares. Qualquer máquina que forneça áudio descrições de uma peça não poderá ser utilizada nos ensaios de uma orquestra ou coro, uma vez que o "leitor" não está na realidade a aceder à pauta, mas sim a uma versão em segunda mão da mesma.
+
+"As pautas de música braille podem, e muitas vezes são, espalhadas para que a informação possa ser lida em diagonal, ou seja passada rapidamente, lendo apenas os cabeçalhos, ou as linhas à sua maneira. A barra de números pode ser impressa numa linha separada por cima da barra aos quais respeitam, para que os dedos possam facilmente localizá-los ou a qualquer outro elemento, como os cabeçalhos, usando para o efeito boas técnicas tácteis de navegação. Um método puramente pictográfico não resulta, tal como constatámos há 150 anos atrás. Mas existe muita espacialidade disponível na informação em musicografia braille que pode ajudar o leitor a ler com maior ou menor detalhe de acordo com o seu desejo.
+
+"A musicografia braille é linear porque é assim que funciona o braille, mas um leitor fluente pode saltar rapidamente ao longo das linhas e aprender a reconhecer a marca de uma frase, sinal de palavra, ou marca de staccato. Ele ou ela podem depois ignorar a informação se nessa leitura em particular não for requerida. Claro que um leitor braille não pode obter uma visão integral de toda a pauta tal como uma pessoa normovisual faz, e todos nós abraçamos tecnologia que nos assista nesta tarefa. Mas de facto para estudos detalhados, o sistema de musicografia braille funciona muito bem.
+
+"Na minha experiência, é também verdade que as crianças aprendem o sistema muito rapidamente. Mesmo os meus alunos de sete anos de idade adoram utilizá-lo, e não o encontram confuso ou desnecessariamente difícil.
+
+"A falta de musicografia braille actualmente utilizada deve-se à falta de pautas disponíveis de forma suficientemente rápida, e à falta de professores que dominem o sistema e que o saibam ensinar de uma forma relevante e divertida. Os fundos devem ser canalizados para uma maior produção (usando software de transcrição de musicografia braille e transcrição manual consoante seja apropriado), e na produção de bom material de ensino, de origem no RU.
+
+Claro que será necessário adicionar sinais à musicografia braille, de forma a cobrir as técnicas de composição do século 21 (pautas gráficas e outras coisas do género), assim como músicas a nível mundial, e não tenho objecções à investigação em tecnologia que nos possa dar informação extra sobre uma pauta que a musicografia braille não nos dê, mas deixem que tal seja feito num espírito de adição àquilo que já temos, e não de substituição, porque as pessoas, sem os conhecimentos apropriados, pensam que é o melhor para nós."
+
+Entretanto, Bettye Krolick, que elaborou a compilação do novo Manual Internacional de Musicografia Braille, escreve: "John Henry, o músico cego fora de série e catedrático, pediu-me para partilhar a seguinte informação sobre o que se está a passar na América do Norte no que diz respeito aos novos desenvolvimentos ocorridos na musicografia braille.
+
+"Os educadores julgam que com um rápido conhecimento sobre a forma de ajudar os estudantes cegos a ler música, eles podem abrir as vantagens da participação musical a todos os jovens utilizando software que está actualmente disponível. Vocalmente, orquestralmente, fazendo parte de bandas como teclistas, podem ser preparados por músicos que não conheçam necessariamente o braille. O Goodfeel da Dancing Dots e o Toccata da Optek Systems são dois programas de transcrição que permitem produzir pautas braille de forma acertiva contendo exactamente o que está na pauta a negro.
+
+"Recentemente, numa conferência de transcritores e educadores no estado da Califórnia, onde eu mostrei a um grupo de 26 professores normovisuais como era fácil ler musicografia braille, assim que lhes assegurei que existiam apenas sete diferentes notas na musicografia braille - as mesmas sete notas que aparecem em cada oitava de um piano - eles descontraíram-se, e nos 90 minutos do Workshop, todos começaram a ler musica com grande à-vontade. Para ler mais símbolos musicais, cada professor tem agora um pequeno dicionário de todos os sinais necessários para os primeiros 12 níveis de escolaridade com muito poucas excepções, e os seus estudantes cegos terão a mesma informação em braille.
+
+"O Dicionário completo de Musicografia Braille que eu escrevi contém informação sobre o trabalho internacional que começou com o Congresso de Colónia em 1888. Nele encontram-se detalhes sobre o notável número de símbolos da música braille (notas, valores de nota, sinais de oitava, pausa, acidente, símbolos da clave e do compasso e por aí fora) que nunca mudaram desde 1888, graças a uma série de reuniões e acordos internacionais.
+
+"No que diz respeito à leitura táctil; morrerá rapidamente - tão breve quanto alguém dê aos tocadores algumas páginas de música de violoncelo que é usualmente escrita com quatro diferentes símbolos de claves por página."
+
+[Fim da secção quatro.]
+
+* SECÇÃO CINCO: EM FOCO
+- TECNOLOGIA DE VOZ.
+
+* A QUALQUER HORA, EM QUALQUER LUGAR, COM QUALQUER EQUIPAMENTO.
+por Judith Markowitz
+
+Se você perguntar às pessoas que trabalham no processamento de voz onde é que a indústria será líder, muitos deles irão dizer, perspectivando um tempo de um futuro próximo, quando a voz se tornar numa ferramenta quotidiana da comunicação e informação acessível a qualquer hora, em qualquer lugar e usando um qualquer equipamento. Eu adicionaria que isso vai impelir a uma comunicação feita em qualquer língua.
+
+Apesar das opiniões variarem significativamente no quanto vai levar para se alcançar estes objectivos dramáticos, nos últimos pares de anos a tecnologia de voz fez significativos progressos. Em todas as grandes tecnologias de fala e processamento de voz se obtiveram ganhos estrondosos em termos de velocidade, acertividade, tamanho e flexibilidade. 
+
+O avanço mais visível em direcção ao objectivo: a qualquer hora, em qualquer lugar, com qualquer equipamento, foi feito com o automatic speech recognition (ASR - reconhecimento automático de voz). O sistema ASR está actualmente a ser utilizado, com sucesso, em ambientes tão diversos como equipamentos de mão, automóveis, redes de telefone público, e grandes armazéns. Estas implementações podem ir desde uma dúzia de palavras até milhões ou mais nomes próprios. Elas podem requerer funções de comando-e-controlo, ditado e estruturas de diálogo altamente complexas.
+
+Para além de tudo isto, a tecnologia está surpreendentemente mais além do que era esperado, apesar do ruído e desvios do padrão de fala normal (por exemplo quando alguém tem uma constipação, um impedimento na fala, ou está a falar alto) continuem a causar degradação na sua performance. A existência de múltiplos idiomas está a aumentar, e alguns sistemas incorporam tecnologia de identificação de língua a escolha da língua possa ser não obstrutiva.
+
+A tecnologia distribuída, que faz algum processamento no equipamento e outro na rede, representa um significante avanço em direcção ao objectivo a qualquer hora, em qualquer lugar, com qualquer equipamento. Usando o processamento distribuído, uma pessoa pode usar a tecnologia ASR embutida no equipamento para navegar num menú de um equipamento computorizado de mão, ou marcar um número de telefone através da voz. Essa pessoa pode também usar o mesmo equipamento para aceder a um sistema ASR de base rede, tais como ferramentas de ditado, assistente de directório e ainda outras mais complexas, com vocabulário mais vasto.
+
+A tecnologia Text-to-speech synthesis (TTS - síntese texto para fala) é outra das áreas onde se tem visto, recentemente, os maiores desenvolvimentos. Algumas das novas marcas de sistemas TTS "concatenados", as quais criam palavras através da junção ou concatenação de sons falados pré-gravados, são quase indistinguíveis da voz humana. Estes sistemas têm tornado possível a distribuição de notícias, avisos e informação personalizada que altera frequentemente de forma automática - a qualquer hora, em qualquer lugar e com qualquer equipamento. Hoje, estes sistemas de alta qualidade são demasiado grandes para serem embutidos em equipamentos de mão, mas a tendência é para usar compressão e outras técnicas reduzindo assim o tamanho dos bons TTS.
+
+A biométrica da voz, cuja implementação mais comum é a autenticação da pessoa através da sua voz, permitindo assim bloquear o acesso a utilizadores não autorizados, suporta o acesso a dados e serviços a qualquer hora, em qualquer lugar, com qualquer equipamento. Hoje, o acesso faz-se, primordialmente, através de telefones, mas existe uma forte tendência para reduzir os modelos de voz para tamanhos capazes de serem embutidos noutros arsenais.
+
+Tal como com o ASR, o ruído permanece um assunto por resolver, particularmente quando a pessoa se inscreve com um determinado tipo de telefone e tenta a autenticação com outro, como seja o caso de um telefone móvel. As empresas iniciaram já a lidar com o arsenal de modulação que suportam diferentes condições de ruído de acordo com os tipos de canais de telefone. Outra importante tendência é o uso do "background models" (modelação base) e outras técnicas que modelem a voz de potenciais impostores. 
+
+O controlo de acessos está também a melhorar através da verificação do conhecimento. Por exemplo, perante determinada situação é solicitado à pessoa que forneça uma pequena peça de informação, (por exemplo a sua cor favorita, o nome do meio do pai) e quer a peça de informação quer a voz é autenticada. Outros sistemas processam a autenticação do conhecimento de forma não obstrutivas, como parte de um diálogo geral que o sistema ou um agente mantém com o utilizador.
+
+Uma outra área chave do desenvolvimento a trilhar no campo da tecnologia da voz, que habitualmente fica na gaveta mas que é uma componente essencial, é a que diz respeito aos microfones. Boa entrada de áudio é um elemento não obstrutivo para o ASR e para a biométrica da voz. Pobre entrada de áudio pode levar a um maior número de erros e a falhas da aplicação.
+
+Avanços significativos na tecnologia do microfone incluem a tecnologia de captação à distância e a miniaturização. A tecnologia de captação à distância pode processar voz a distâncias de um pé ou mais, podendo fazer parte de um sistema com auriculares suportando entrada de voz através de equipamentos de mão e ou sistemas embutidos, por exemplo em carros.
+
+Ferramentas que identificam e extraem o ruído de um sinal estão agora a ser fornecidas pelos fabricantes de microfones, pelos investigadores de tecnologia ASR e pelas empresas para quem a anulação do ruído é importante. Os resultados podem ser excepcionais, especialmente quando a pessoa está a usar um microfone para falar a curta distância. A entrada com captação a longa distância está também a caminhar a passos largos. Existe, por exemplo, uma grande concordância relativamente ao trabalho que está a ser efectuado na área da telemática no que diz respeito à modelação do ruído associado com diferentes velocidades de condução. Infelizmente, com a anulação do ruído de forma dinâmica, estão a cair demasiados rebuçados na sopa. Quando se utiliza um microfone com anulação de ruído e um ASR com anulação de ruído, o sinal é actualmente degradado.
+
+A variabilidade inesperada do ruído, por exemplo da passagem de veículos, representa uma persistente mudança. Ruído variável e níveis de ruído extremamente alto, no entanto, também variam consoante o ouvinte humano. Ir ao encontro desses problemas é como requerer inteligência ao conteúdo do diálogo e que necessita de recorrer ao processamento da imagem como seja a leitura labial para anular a ambiguidade.
+
+NOTA: A parte dois deste artigo será publicada na próxima edição e versará sobre o tópico das tecnologias de navegação Web via voz. Este artigo apareceu pela primeira vez na revista Norte-Americana 'Speech technology'
+(http://www.speechtek.com/st.mag/index.shtml). 
+O Dr. Judith Markowitz  (http://www.jmarkowitz.com) é editor associado da revista e é especialista independente de análise de tecnologia da fala e biométrica da voz.
+
+[Fim da secção cinco.]
+
+COMO RECEBER ESTE BOLETIM.
+
+Para subscrever em Português este boletim mensal, envie um email para <eab-pt-subs@headstar.com> Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos para assinar!
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com
+Copyright 2001 Headstar Ltd. http://www.headstar.com O Boletim no seu todo ou em parte pode ser reproduzido incluindo este aviso. As Secções do relatório devem ser colocadas entre aspas de forma a ficar claro a sua fonte: 'retirado do Boletim E-Access, uma newsletter mensal distribuída por email', e ainda a referência do nosso endereço do sítio Web http://www.e-accessibility.com.
+
+-**-
+Nota à edição Portuguesa: Caso os leitores portugueses estejam interessados em enviar os seus comentários e sugestões, bem como enviar alguns artigos que abordem as questões de acessibilidade à Sociedade da Informação podem remetê-los, em Inglês ou Português, para o seu editor Dan Jellinek através do e-endereço: dan@headstar.com, ou mesmo para gesta@gesta.org 
+-**-
+
+PESSOAL:
+Director - Dan Jellinek dan@headstar.com
+Vice-director - Phil Cain phil@headstar.com
+Redactor - Tamara Fletcher tamara@headstar.com
+Conselheiro Editorial - Kevin Carey humanity@atlas.co.uk 
+
+[fim da edição.]

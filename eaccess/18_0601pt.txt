@@ -1,0 +1,233 @@
+Boletim E-Access
+Boletim electrónico on-line de notícias sobre tecnologia para pessoas com deficiência visual.
+Endereço do Boletim E-Access: 
+<http://www.e-accessibility.com>
+
+Patrocinado pelo Royal National Institute for the Blind:
+<http://www.rnib.org.uk>
+o National Library for the Blind (Biblioteca Nacional para os cegos):
+<http://www.nlbuk.org>
+e a Guide Dogs for the Blind Association (Associação de Cães-Guia para cegos):
+<http://www.guidedogs.org.uk>
+
+Divulgue, por favor, este boletim pelos seus amigos e colegas, e diga-lhes que o podem subscrever em Português, bastando para tal enviar uma mensagem para o endereço electrónico: <mailto:eab-pt-subs@headstar.com>. Veja os pormenores na parte final deste boletim.
+
+Quantos mais subscritores tivermos, melhor será o nosso serviço!
+
+[início DO BOLETIM]
+
+BOLETIM 18. JUNHO DE 2001
+NESTE BOLETIM: 
+Secção Um: Notícias. 
+- "Caos" na forma como o governo Norte-americano caminha atabalhoadamente para a acessibilidade: as últimas deliberações geram confusão; - "GATEWAY" um portal do governo inglês que ludibriou a lei: Desenho Web da Microsoft contorna a lei; - Urnas mais acessíveis - revela um estudo sobre as eleições no Reino Unido; - Techshare 2001 abre as suas portas a todos: o RNIB abre a conferência a uma mais vasta audiência; - Sensibilidade à luz do sol: pedido de ajuda; - Dica de Acesso - o rato que amplia; - Notícias breves: Encontre-se com a sua Desgraça; Áudio descrição da Sky; Tempo de testes.
+
+Secção Dois: Característica especial. 
+- Tempo de parar com o ciclo dos custos em espiral.
+
+Secção Três: Opinião.
+- O sector comercial tem de ser conduzido no sentido da construção acessível. 
+
+Secção Quatro: Característica especial.
+- A Web é sobre comunicação, não sobre tecnologia.
+
+[Fim do Índice.] 
+
+SECÇÃO UM - NOTÍCIAS.
+
+"CAOS" NA FORMA COMO O GOVERNO NORTE AMERICANO CAMINHA ATABALHOADAMENTE PARA A ACESSIBILIDADE. 
+Acção à última da hora e uma falta de consciencialização para os assuntos das tecnologias de acesso da maior parte dos organismos estatais dos Estados Unidos está a resultar num autentico "caos" numa tentativa trapalhona de ir ao encontro da normalização para o hardware e software ditada pelo governo federal e cujo prazo limite foi Segunda-feira (25 de Junho), de acordo com um perito norte americano, bem posicionado. 
+
+O novo "Regulamento Federal de Aquisições" elaborado sob a Secção 508 do "US Rehabilitation Act" de 1973 estipula que todo o desenvolvimento, aquisição, manutenção e uso generalizado da electrónica e da tecnologia da informação tem que ser acessível a todos aqueles com deficiências (veja o Boletim E-Access, Janeiro 2001). 
+
+Os regulamentos aplicam-se a todos os novos sistemas IT (Tecnologias da Informação) adquiridos pelo governo norte-americano, dos computadores de secretária e software até aos equipamentos de escritório. 
+
+As empresas que não cumpram com os padrões de acessibilidade não poderão contar com os organismos estatais norte americanos como clientes. 
+
+A implementação da lei tem vindo a ser envolvida numa confusão, não havendo certezas por parte das direcções públicas na forma como as regras se irão aplicar aos sítios Web e aos serviços existentes. Confrontados com o facto da lei não ter efeitos retroactivos, mas se aplicar sobre certas condições a "contratos sem fim determinado" em que o novo trabalho de projectos existentes pode ser vulnerável à lei. Desta forma, algumas direcções preparam-se para desligar os seus sítios Web até que a situação seja clarificada. 
+
+Mike Paciello, fundador do grupo tecnologia acessível WebABLE
+(http://www.webable.com)  aponta como um dos problemas chave para os organismos estatais dos Estados Unidos a falta de conhecimento especializado. "Não existem peritos em número suficiente para ajudar os organismos estatais a cumprir os objectivos de acessibilidade. A maior parte dos organismos não se preparou convenientemente para cumprir este regulamento. Como resultado, muitas estão a agir atabalhoadamente e em pânico. Isto causa o caos, o stress, e normalmente como resultado obtêm-se produtos de qualidade muito pobre."
+
+No entanto, a fotografia não é toda negra: "A Secção 508 está a construir uma consciencialização para as questões de acessibilidade por parte das pessoas cegas sem precedentes. Acredito que irá encorajar a uma maior colaboração entre os cegos, os organismos estatais, e a indústria de forma a se alcançar níveis de performance de acessibilidade mais optimizados e produtivos. Os "Web Designers" estão a começar a perceber que quantos mais testes fizerem aos seus sítios Web usando pessoas cegas subcontratadas ou como clientes, mais facilmente conseguem ir ao encontro das interfaces Web acessíveis." 
+
+Os regulamentos permitem aos indivíduos com deficiências, instaurar um processo de queixa contra qualquer organismo federal que não cumpra com a normalização. 
+
+Para mais informações ver:
+http://www.section508.gov/ 
+
+"GATEWAY" UM PORTAL DO GOVERNO DO R.U. QUE LUDIBRIOU A LEI.
+O serviço on-line do governo do R.U. 'Gateway', desenhado pela Microsoft, onde as pessoas podem requisitar serviços e-gov, pode ter entrado em rotura com a lei de protecção das pessoas com deficiência contra a descriminação. 
+
+De acordo com o consultor Australiano em acessibilidade, Tom Worthington, as falhas de desenho no Gateway (http://www.gateway.gov.uk) podem significar uma contravenção do "Disability Discrimination Act", que exige aos organismos governamentais o fornecimento do mesmo padrão de serviço para todos. 
+
+Worthington foi orador num seminário que decorreu em Londres a semana passada organizado pelo RNIB. O ano passado ele foi chamado a tribunal como testemunha perito no caso que detectou o não cumprimento da lei Australiana por parte do Comité Organizativo das Olimpíadas de Sydney, ao produzir um sítio Web largamente inacessível aos cegos (veja Boletim E-Access, Maio 2001). 
+
+Julie Howell, do departamento de acessibilidade do RNIB, disse: "É triste constatar que o governo do Reino Unido não esteja a fazer o menor esforço de investimento, necessário para tornar os seus sítios Web mais acessíveis." 
+
+Esta semana outro líder de opinião na área da acessibilidade, Kevin Carey do HumanITy, pediu a todos os fornecedores de software, incluindo a Microsoft, para contemplarem a acessibilidade em todos os seus produtos desde a sua génese, uma vez que a fragmentação dos especialistas do mercado de software acessível não é a solução adequada para muitas das necessidades das pessoas. 
+
+No que escreveu para o Boletim E-Access, Carey disse que se o actual 'Disability Discrimination Act' não for forte o suficiente para levar os gigantes do software e do hardware a cumprirem a lei, esta deverá ser alterada no sentido de uma maior exigência (veja a Secção Três deste Boletim).
+
+URNAS MAIS ACESSÍVEIS.
+Scope, uma organização de deficientes na área da paralisia cerebral, detectou um "acentuado incremento" no acesso à votação para cegos e amblíopes num estudo sobre as experiências das pessoas com deficiência levado a efeito durante as recentes eleições legislativas no Reino Unido. 
+
+Estas eleições foram as primeiras desde que a "Representation of the People Act" tornou obrigatório a existência de sistemas tácteis de voto. "A imagem global foi algo diferente daquilo que estávamos à espera", disse o porta-voz da organização. "Os casos de mau acesso foram mais isolados." 
+
+As conclusões foram baseadas numa abordagem prévia das respostas para o Polls Apart 3 (http://www.pa3.org.uk), uma análise dos problemas de acesso nas mesas de voto levadas a efeito pela Scope. Até ao momento os voluntários enviaram cerca de 1,000 respostas dos 400 locais de voto, ou 61% do total. Os resultados integrais serão publicados até ao final deste mês. 
+
+TECHSHARE 2001 ABRE AS SUAS PORTAS A TODOS.
+O RNIB está a abrir a sua conferência interna regular 'Techshare' sobre acesso ás tecnologias por pessoas cegas e amblíopes a uma audiência mais vasta. 
+
+Pela primeira vez, a Techshare 2001 será aberta a todos os que queiram assistir, incluindo todos os profissionais que trabalhem no campo da deficiência visual ou que tenham um interesse activo nas tecnologias e na forma como elas podem facilitar o acesso independente à educação, ao emprego, à aprendizagem ao longo da vida e à sociedade pelas pessoas com deficiência visual. 
+
+Esperam-se também delegados do governo, direcções institucionais, o mercado das tecnologias e o sector do voluntariado, criando aquilo que poderá vir a ser o fórum do Reino Unido mais influente no debate dos assuntos do acesso às tecnologias. 
+
+A conferência terá lugar de 27 a 28 de Novembro 2001 no Jury's Inn, Birmingham. O custo é de 90 Libras para um dia ou 150 Libras para os dois dias. Para mais informações ou inscrições use o telefone 024 7636 9548 ou o correio electrónico: techshare@rnib.org.uk
+
+SENSIBILIDADE À LUZ DO SOL - PEDIDO DE AJUDA.
+Um leitor da Califórnia do Boletim E-Access, R De La Vega, escreveu para fazer um pedido de informação sobre qualquer equipamento que alguém possa ter conhecimento no sentido de ajudar a sua jovem filha que sofre de baixa visão e de sensibilidade à luz do sol. 
+
+"Não consigo encontrar nada que a ajude a ver melhor. Em todos os lugares que tenho ido ela não encontra nada que a ajude a ver melhor ao sol", diz ele. Se algum leitor tiver um conselho, com links Web para algum possível produto ou produtos, envie-os para o endereço de correio electrónico de Dan Jellinek: dan@headstar.com
+
+DICA DE ACESSO - O RATO QUE AMPLIA.
+Se está a pensar renovar o rato do seu computador, o leitor do Boletim E-Access, David Porter escreve-nos com uma dica: existe um modelo com uma ajuda acessível de mão que é actualmente uma das mais baratas do mercado. 
+
+O Clássico Rato Padrão da Dexin (http://www.dexin.com.tw/classic-big.htm) tem um terceiro, botão central, que funciona como um ampliador. O nível de ampliação pode ser ajustado de forma a responder às necessidades do utilizador e é muito útil para ler endereços de correio electrónico. 
+
+Ao colocar o cursor no início do texto e ao pressionar o botão central é criado uma janela rectangular de pequena dimensão, mostrando alguns caracteres de cada vez, de forma ampliada. Se pressionar o botão central e o deixar pressionado enquanto arrasta o rato horizontalmente, ou verticalmente, vai poder percorrer o texto, incluindo a leitura dos pontos dos endereços de correio electrónico. O rato está disponível em várias lojas do Reino Unido por um preço igual e mesmo abaixo das 10 Libras. 
+
+Tem você uma Dica de acesso à mão? Se sim, envie-a por favor para Phil Cain através do endereço: phil@headstar.com
+
+NOTÍCIAS BREVES:
+
+## ENCONTRE-SE COM A SUA DESGRAÇA: 'As sombras da Desgraça'; foi lançado uma versão do estrondosamente popular e "metralhante" jogo de computador "Doom" (Desgraça) especialmente desenhado para cegos e amblíopes: 
+http://www.gmagames.com 
+
+## ÁUDIO DESCRIÇÃO DA SKY: BSkyB, a companhia de televisão multicanal, lançou um canal de áudio descrição dos seus programas. Para mais informações contacte a linha de ajuda aos cidadãos com necessidades especiais através do telefone 08705 66 33 33 ou 1 800 509085 para os clientes Irlandeses. 
+
+## TEMPO DE TESTES: Ricability (http://www.ricability.org.uk), a organização de estudos na área da deficiência, está a pedir aos pais de crianças cegas com menos de dois anos de idade para os ajudar num estudo sobre a facilidade de utilização de carrinhos e de cintas a tiracolo para transportar bebés. Se estiver interessado em participar use o endereço de correio electrónico dylansimanowitz@ricability.org.uk
+
+[Fim da secção Um.]
+
+SECÇÃO 2: CARACTERÍSTICA ESPECIAL.
+
+- CUSTOS DE ACESSO.
+TEMPO DE PARAR COM O CICLO DOS CUSTOS EM ESPIRAL.
+Por Phil Cain (nota rodapé) <mailto:phil@headstar.com>
+
+A anunciada descida brusca do custo das tecnologias computacionais, está intimamente ligada a uma drástica descida do custo de um acesso fiável à Internet em casa para a maioria das pessoas. Não nos referimos somente às pessoas cegas, grupo que tem bastante a ganhar, face a outros grupos, com a potencial liberalização da net. 
+
+As pessoas normovisuais, para ter em casa um computador ligado à Internet, pagam um custo inicial de pouco mais de 300 libras Inglesas pagando cerca de 200 libras por ano pela ligação à net. Mas os cegos, ou as suas famílias, têm de gastar quase 2500 libras por pessoa, e cerca de 800 libras por ano para manterem a conexão à Internet e manterem o computador actualizadas. 
+
+Os programas de leitura de ecrã de qualidade e um computador com capacidade suficiente para os suportar custam mais ou menos 900 libras. É necessária uma máquina com um processador de 133 MHz, 20 megabytes de memória e um disco de 30 megabytes livre para correr estes programas, o que custa mais ou menos 300 libras - até agora nada mau. Nas ironicamente, os pacotes de leitores de ecrã mais fáceis e mais flexíveis de utilizar são os mais caros. As soluções de topo incluem Jaws - Job Access With Speech (Acesso ao Trabalho Com Voz) (<http://www.hj.com/jaws/jaws.html>) e o Window-eyes (olhos do Windows) (<http://www.gwmicro.com/windoweyes/windoweyes.htm>), custam 585 libras e 400 libras respectivamente. 
+
+A agravar a situação os utilizadores cegos têm também de financiar actualizações de programas que para eles são essenciais e que os normovisuais não necessitam: As actualizações anuais dos programas de leitura de ecrã custam frequentemente mais ou menos 100 libras por unidade. 
+
+Existe no Reino Unido um número de organizações que ajudam as pessoas cegas, financiando a compra de hardware para utilização em casa. Entre elas estão a Leonard Cheshire (<http://www.leonard-cheshire.org>), que ajuda pessoas com deficiência a procurar emprego; a Electronic Aid for Blind People (Ajudas Electrónicas para Pessoas Cegas)(<http://www.eabnet.org.uk>), sujeitando-as a uma rigorosa selecção; e a Action for Blind People (Acção para Pessoas Cegas) (<http://www.afbp.org/homepage.htm>) que fornece 400 subsídios de um máximo de 300 libras cada para pessoas que consigam financiamento por outras formas. 
+
+Para os deficientes visuais, os encargos de ficar on-line não estão na tecnologia mas no treino especial e no apoio técnico necessários para trabalharem. Como qualquer formação especializada, não fica barata.
+
+A escassez de recursos técnicos, particularmente grave na área das tecnologias de acesso, combinada com um grande número de pessoas que necessitam e que estão à espera de formação, contribui para que este serviço já de si caro tenda a encarecer ainda mais. A formação em tecnologias de acesso é particularmente cara porque tem de ser personalizada, sendo o próprio formador, na sua generalidade, também uma pessoa cega. 
+
+De acordo com Mark Prouse, consultor na área das tecnologias do RNIB, muitos dos novos utilizadores precisam de cinco dias de formação personalizada antes de conseguirem continuar sozinhos. Por 300 libras dia, a quantia cobrada pelo RNIB, o custo inicial da formação fica em 1500 libras. Para aqueles que querem aprofundar o seu conhecimento informático de modo a que possam resolver os problemas que se lhes deparam, podem ser necessários mais dois dias por ano, que custam mais 600 libras.
+
+A ajuda do governo, no que diz respeito à formação das pessoas cegas, é fornecida desde que seja necessária para conseguir um emprego. Maria Lennox, consultora de emprego num centro de emprego para deficientes, diz que aqueles que esperam aproveitar a formação profissional devem passar por uma "profunda avaliação", antes de frequentarem formação no centro do RNIB em Redhill. "Eu não mandei ninguém nos últimos seis meses" disse Maria Lennox. 
+
+Como no Reino Unido, as pessoas nos Estados Unidos precisam de provar que o acesso à Internet é necessário no posto de trabalho, antes do estado pagar a formação. A psicóloga Nancy Badger, uma leitora do boletim E-Access residente nos Estados Unidos, disse que recebeu a formação gratuita de uma semana do JAWS através dos Serviços para a secção de Cegos da US Vocational Rehabilitation Government Agency (Organização Governamental de Reabilitação Vocacional dos Estados Unidos).
+
+Enquanto o RNIB não subsidia os seus programas de formação, associações regionais oferecem formação mais barata na área das Tecnologias da Informação. Uma dessas organizações é a The Brighton Society for the Blind (Sociedade de Brighton para os Cegos) (<http://www.bsblind.co.uk>) que presta formação vocacional em informática para pessoas cegas inscritas a um preço final de 20 libras por dia.
+
+De acordo com a directora Gloria Wright, manter o serviço de formação custa à associação 20,000 libras por ano, apesar de um subsídio dos Serviços de Emprego do governo, que recentemente passaram a enviar residentes locais para o centro, em vez de os enviar para o centro do RNIB em Redhill. Embora já não tenha contrato com o Serviço de Emprego, Gloria Wright disse que a sociedade está a ponderar caminhos alternativos de contribuir para a formação.
+
+Na generalidade, as condições rígidas associadas à ajuda governamental para as pessoas cegas, que lhes permite o acesso pronto ás tecnologias, arriscam-se a criar uma situação em que as pessoas cegas não podem receber assistência a não ser que provem que se encontram activamente à procura de trabalho, mas não poderão procurar trabalho sem as respectivas competências em tecnologias. Com 71% de pessoas cegas em idade de trabalhar sem emprego, é do interesse geral, não apenas dos contribuintes, assegurar que este ciclo se quebre.
+
+*Este artigo é o primeiro de uma série que debate o lado prático de como os deficientes visuais conseguem e mantêm o acesso à Internet. Estamos desejosos de receber as experiências dos nossos leitores, incluindo os de fora do Reino Unido - Envie, por favor, a sua mensagem para Phil Cain: phil@headstar.com <mailto:phil@headstar.com> contando as vossas histórias pessoais.
+
+[fim da secção dois]
+
+SECÇÃO TRÊS: OPINIÃO
+
+- ACESSO UNIVERSAL
+O SECTOR COMERCIAL TEM DE SER CONDUZIDO NO SENTIDO DA CONSTRUÇÃO ACESSÍVEL
+Por Kevin carey, Director do HumanITy humanity@atlas.co.uk
+
+Há uns anos atrás causei um certo reboliço na conferência de deficiência visual no 'Sight Village' ao perguntar a alguns dos representantes da Microsoft, o porquê da empresa se estar a incomodar em seguir com o tedioso e arriscado processo de entregar o seu código de software aos programadores de acessibilidade, no sentido de fazerem os seus produtos acessíveis. Porque é que, perguntei eu, não eram construídas as configurações de acessibilidade nos seus próprios produtos desde o principio? A resposta hipócrita que recebi foi que a Microsoft não queria tirar os pequenos programadores do mercado, uma declaração bastante estranha vinda de uma empresa que tem um apetite para retirar os seus rivais dos negócios.
+
+Deixando de lado, por um momento, a questão do Braille, não existe razão alguma para os principais programadores de software não conseguirem providenciar uma perfeita sintetização de voz, uma ampliação e leitura de ecrãs nas configurações construídas nos seus produtos para que não nos tenhamos que preocupar com o nicho do mercado dos fornecedores de acessibilidades. Mesmo com todos os seus defeitos - e que são bem conhecidos - apostava-se na Microsoft para produzir a mercadoria e conseguir ultrapassar qualquer outro fornecedor de acessibilidades, até mesmo a poderosa Freedom Scientific (http://www.freedomscientific.com).
+
+Isto não quer dizer que o sector da acessibilidade não esteja comprometido, em muitoscasos está até heroicamente. Alguns dos seus entusiastas são quase missionários no seu zelo, mas o mercado no seu todo é frágil e desmoronado, e definitivamente o investimento e a segurança são mais importantes do que o improviso e o entusiasmo. 
+
+De qualquer modo, esta tem sido a minha teoria, a qual foi largamente reforçada com a realização de dois acontecimentos recentes, ambos envolvendo os produtos de um dos principais construtores de software acessível.
+
+No primeiro, um dos académicos líder das tecnologias de acesso e eu, perdemos horas inglórias na tentativa de adicionar uma linha Braille a um pacote que produzia síntese de voz. A uma distância de um terço da volta ao mundo do fabricante dos produtos, e com uma proporcionada diferença horária de oito horas, não seríamos capazes de ter acesso à ajuda por telefone mesmo que a pudéssemos pagar.
+
+O segundo acontecimento foi a chegada do meu novo e maravilhoso computador portátil Sony Vaio, um presente da Sony por alguns trabalhos que fizera para a empresa. O meu instalador local depressa descobriu que o meu pacote acessível precisaria de uma maior e dispendiosa actualização porque a máquina vinha com o Windows 2000. Pedi-lhe que lhe pusesse o Windows'98 e que instalasse o meu velho pacote acessível mas as drivers do Vaio nada disso tinham. Resultado - o novo e encantador portátil foi arrumado numa caixa. 
+
+Espera-se que a legislação em ambos os lados do Atlântico venha a pôr um fim à corrente da perca de tempo com o acesso e com a luta no nicho do mercado. Se pudéssemos ultrapassar o preconceito irracional da elite a favor de um complexo ultrapassado, ficaria o contraído Braille Grau Dois (Braille estenografado), e o mais simples e alfabético Braille Grau 1 (Braille integral) simplesmente incorporado numa folha de estilo. Além do mais, se podemos converter o sistema padrão de 256 caracteres da tabela ASCII de um computador numa enorme combinação de pixels (pontos), então seremos capazes de converter um quarto desse número de caracteres em seis pixels (pontos), sendo essencialmente o que é o Braille.
+
+O sector da deficiência visual não pode continuar assim. Os principais agentes como o RNIB estão a ser atormentados pelo nicho de construtores, que por sua vez estão a ser gentilmente persuadidos mas na defensiva, querendo ceder mas ressentindo a competição. Precisamos de descobrir se o Disability Discrimination Act do Reino Unido é suficientemente forte para forçar o sector comercial e o governo a construir a sua informação acessível e, que por sua vez farão pressão junto dos seus fornecedores de software. Caso a lei não esteja feita para alcançar estes fins, então precisará de ser alterada.
+
+[fim da secção três]
+
+SECÇÃO QUATRO: CARACTERÍSTICA ESPECIAL.
+
+REQUISITOS BÁSICOS DE DESIGN
+A WEB É SOBRE COMUNICAÇÃO, NÃO SOBRE TECNOLOGIA.
+A clareza de estilo e de construção de um sítio Web são importantes para o público em geral e não apenas para os utilizadores deficientes visuais. A regra de ouro da clareza do desenho de um sítio Web está na decisão o que quer que o seu sítio faça, e depois na capacidade de usar a tecnologia para atingir esse objectivo. 
+
+Muitos designers procuram primeiro o que a tecnologia pode fazer, e depois tentam pensar em alguma coisa em que a possam utilizar. Um sítio Web é um meio de comunicação, não uma forma de exibir conhecimentos tecnológicos.
+
+Existem vários requisitos básicos para conceber um sítio Web com uma boa navegabilidade.
+
+Quando um visitante entra num sítio Web deve estar claramente definido a quem é que ele pertence; o propósito do sítio e como contactar os seus responsáveis.
+
+Se for tentado a colocar apenas um endereço de correio electrónico e não o telefone e a morada, lembre-se que estes detalhes lhe irão ser constantemente solicitados através do correio electrónico, pelo que irá perder tempo a responder-lhes; ao ter um número de telefone e uma morada concreta irá assegurar aos visitantes de que se trata de uma organização credível.
+
+Não obstante ter organizado o sítio Web, certifique-se de que ele tem uma estrutura tão lógica quanto possível; e de que contém uma Ajuda (como um guia do sítio, ou um mapa do sítio) para os visitantes que não conseguem encontrar o que procuram.
+
+Lembre-se que nem sempre os visitantes entram no seu sítio pela página principal. Por exemplo, eles podem seguir um link noutros sítios que o levam a páginas do seu sítio, ou terem encontrado uma página do seu sítio através de um motor de busca.
+
+Isto significa que é uma boa prática se todas as páginas do seu sítio Web incluírem links bem perceptíveis para informações básicas sobre a sua organização ou actividades; um guia das páginas (muitas vezes chamado de "mapa do sítio"); e informação sobre o modo de o contactarem a si ou à sua organização. Tente também tornar mais fácil para os visitantes saber quais as partes do sítio que alterou recentemente.
+
+Muitos Web Designers usam como um bom ponto de referência, a possibilidade de se alcançar qualquer página do sítio com apenas três cliques do rato, independentemente da nossa posição actual no sítio.
+
+Quando usar fragmentos de texto para formar o link, procure evitar utilizar as expressões "clique aqui". Isto porque, os deficientes visuais ao usarem um programa de leitura de ecrã, que converte o texto do sítio Web em voz, apenas irão ouvir as palavras usadas no link quando navegam pelos links usando a tecla TAB. Ao ouvirem "clique aqui" não ficarão com a mínima ideia do que trata o link.
+
+Quando usar figuras e imagens, procure utilizar "miniaturas". Trata-se de pequenas cópias duma figura sobre a qual o visitante poderá clicar para depois visualizar uma cópia em tamanho integral. Desta forma evita que se fique à espera que sejam carregadas imagens nem sempre desejáveis.
+
+Lembre-se sempre de adicionar às imagens um rótulo podendo para o efeito usar o atributo "alt". Trata-se de um fragmento de texto que aparece no lugar da figura se o visitante tiver o computador configurado para não visualizar imagens. Também permite às pessoas com problemas visuais, que usam um leitor de ecrã, saber o que a imagem representa.
+
+Se o seu software de desenho Web permitir, ajuste as definições de altura e de largura da imagem. Isto fará com que o navegador do visitante, reserve um espaço para a imagem, carregue de imediato a legenda da imagem e só depois vai descarregando a imagem em si. O visitante pode assim, iniciar de imediato a leitura do texto do sítio Web e tomar a sua decisão de progredir no sítio sem ter de esperar que a imagem seja carregada na integra.
+
+Muitos sítios Web apresentam uma "splash page" (página que surge repentinamente e de forma automática). Trata-se de uma página que aparece quando alguém visita o sítio pela primeira vez, e que exibe uma grande imagem ou animação, dando depois acesso à página principal. Isto é particularmente útil se se quiser criar uma certa impressão à primeira vista, mas é resulta numa péssima impressão se a página demorar muito tempo a ser carregada.
+
+Lembre-se que grande parte dos desenhadores Web possuem computadores melhores e ligações à Internet mais rápidas do que a maioria dos visitantes comuns do seu Site. O que demora alguns segundos para ser carregado num computador rápido pode constituir uma frustrante espera para outros. Se utilizar uma "splash page" animada, dê sempre às pessoas a oportunidade de saltar a animação e ir directamente para o seu sítio.
+
+Finalmente, se entender que este artigo poderá ser uma ajuda para a concepção do seu sítio Web, lembre-se da regra de ouro. O desenhador Web está lá para produzir o que lhe solicitou, não para tornar o seu sítio numa exibição do que ele é capaz de fazer!
+
+Este Artigo é baseado no guia da campanha inglesa de esclarecimento para uma concepção acessível da Web.
+
+Para mais informações ver:
+http://www.plainenglish.co.uk/
+ou pelo telefone: 01663 744409
+
+[fim da Secção quatro]
+
+COMO RECEBER ESTE BOLETIM.
+
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com> Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos para assinar!
+
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com
+
+Copyright 2001 Headstar Ltd. http://www.headstar.com O Boletim no seu todo ou em parte pode ser reproduzido incluindo este aviso. As Secções do relatório devem ser colocadas entre aspas de forma a ficar claro a sua fonte: 'retirado do Boletim E-Access, uma newsletter mensal distribuída por email', e ainda a referência do nosso endereço do sítio Web http://www.e-accessibility.com.
+
+PESSOAL:
+Director - Dan Jellinek dan@headstar.com
+Vice-director - Phil Cain phil@headstar.com
+Redactor - Tamara Fletcher tamara@headstar.com
+Conselheiro Editorial - Kevin Carey humanity@atlas.co.uk 
+
+[fim da edição.]

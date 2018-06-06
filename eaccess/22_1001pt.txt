@@ -1,0 +1,280 @@
+Boletim E-Access
+Boletim electrónico on-line de notícias sobre tecnologia para pessoas com deficiência visual.
+Endereço do Boletim E-Access: 
+<http://www.e-accessibility.com>
+
+Patrocinado pelo Royal National Institute for the Blind:
+<http://www.rnib.org.uk>
+o National Library for the Blind (Biblioteca Nacional para os cegos):
+<http://www.nlbuk.org>
+e a Guide Dogs for the Bliind Association (Associação de Cães-Guia para cegos):
+<http://www.guidedogs.org.uk>
+
+Versão Portuguesa: cortesia do GESTA-MP (Grupo de Estudos Sociais, Tiflológicos e Associativos) <http://www.gesta.org> 
+
+Divulgue, por favor, este boletim pelos seus amigos e colegas, e diga-lhes que o podem subscrever em Português, bastando para tal enviar uma mensagem para o endereço electrónico: <mailto:eab-pt-subs@headstar.com>. Veja os pormenores na parte final deste boletim.
+
+Quantos mais subscritores tivermos, melhor será o nosso serviço!
+
+-**-
+
+Nota à edição Portuguesa: Caso os leitores portugueses estejam interessados enviar os seus comentários e sugestões, bem como enviar alguns artigos que abordem as questões de acessibilidade à Sociedade de Informação podem remetê-los, em Inglês ou Português, para o seu editor Dan Jellinek através do e-endereço:dan@headstar.com, ou mesmo para gesta@gesta.org
+
+-**-
+
+[início DO BOLETIM]
+
+BOLETIM 22, OUTUBRO 2001.
+
+ÍNDICE:
+
+Secção um: Notícias.
+
+- UE dá passos em direcção à acessibilidade: a comissão apoia directrizes internacionais.
+
+- Banca tenta resolver o pobre recorde de acesso: novo guia para incrementar os serviços financeiros on-line.
+
+- Primeira sala de conversa de jovens dedicada a crianças deficientes visuais: Iniciativa Escocesa descerrada.
+
+- Campo de adolescentes internacional vem para o R.U.: nono Campo Internacional de Computadores hospedado pelo RNIB.
+
+- O grupo Dance procura aconselhamento tecnológico: projecto comunitário produz CD-ROM.
+
+- Mensagens de texto transcritas para voz: Uma inovação da Telecom Italia Mobile.
+
+Notícias breves: directrizes do W3C sobre o uso de tecnologias patenteadas; Aviso sobre discriminação digital; Bookshare procura voluntários; fornecedor do programa 'JawBone'.
+
+Secção dois: Em foco
+
+- Comissão Europeia: Milhões de euros investidos em nome da investigação em acessibilidade.
+
+Secção três: Entrevista
+
+- Testes Beta: A directora de acessibilidade da AOL toma a cadeira.
+
+Secção quatro: Os leitores respondem
+
+- Glucómetros: tecnologia aconselhada por pessoas cegas que são diabéticas.
+
+[Fim do índice.]
+
+* SECÇÃO UM - NOTÍCIAS.
+
+* UE DÁ PASSOS EM DIRECÇÃO À ACESSIBILIDADE.
+A Comissão Europeia está a exigir da parte das outras instituições Europeias e da parte dos estados membros que adoptem as directrizes da Iniciativa de Acessibilidade à Web do Consórcio da World Wide Web, para além de estar a financiar uma nova pesquisa de grande dimensão nesta área (veja a secção dois deste boletim).
+
+A comissão disse no mês passado que o departamento de publicações da UE lançou um projecto-piloto para tornar os tratados Europeus acessíveis a pessoas com deficiência visual. Europa, o maior sítio Web da UE (http://www.europa.eu.int), irá "adoptar as directrizes" a partir do final do presente ano, disse a comissão.
+
+A adopção das directrizes, no entanto, não significa que por si só o sítio Web será bom o suficiente para poder ter a marca da "Iniciativa de Acessibilidade à Web" do Consórcio World Wide Web (http://www.w3.org/wai). "Uma coisa é a adopção das directrizes e outra coisa é aplicá-las," disse um porta-voz. Uma dificuldade que se coloca à limpeza e correcção do Europa prende-se com o facto de a sua manutenção e desenho ser feita por um número vasto de grupos independentes.
+
+Um grupo multi-serviços na área da deficiência da UE planeia construir um sítio Web que dará a todos os organismos Europeus informações úteis sobre desenho acessível a um número vasto de designers independentes responsáveis pelo sítio Web Europa. Se tudo correr como planeado com os desenvolvimentos das instituições Europeias, o sítio Web poderá ajudar ainda mais a missão da comissão a encorajar os estados membros a levar a acessibilidade seriamente.
+
+A Comissão Europeia investiu já 2.5 milhões de euros em investigação na área do acesso à Internet para pessoas deficientes visuais (ver secção dois).
+
+* BANCA TENTA RESOLVER O POBRE RECORDE DE ACESSO.
+Um novo guia para ajudar os Bancos a desenvolver os seus serviços on-line para pessoas cegas e amblíopes está para ser lançado na próxima semana pela British Bankers Association - BBA (Associação Britânica dos Banqueiros) em associação com o RNIB.
+
+Um relatório recente publicado pelo RNIB no passado ano, 'Get the message online', demonstrou que todos os Bancos da amostra falharam no cumprimento das regras mais básicas da acessibilidade aos serviços Web. Na sequência deste estudo a BBA pediu uma reunião para perguntar qual a forma de o fazer correctamente, e o novo relatório é o resultado deste processo.
+
+Os investigadores do RNIB examinaram como seria fácil para um utilizador cego abrir uma conta. Seis Bancos, que pediram para permanecer incógnitos, ofereceram acesso privilegiado às contas e trabalharam com pessoas deficientes visuais para levarem a efeito testes durante um período de seis meses.
+
+"Os sítios Web dos Bancos ocupam o primeiro lugar no nosso top de queixas", disse a coordenadora de campanhas de Internet do RNIB, Julie Howell. "As pessoas cegas têm sempre que permanecer nas filas que se formam no interior dos Bancos, uma vez que é impossível também usarem as máquinas. Se não se sentir, em primeiro lugar, à vontade na utilização das tecnologias a última coisa que deseja fazer é proceder a transacções financeiras."
+
+'Accessible e-banking' estará disponível em versão impressa em tinta, Braille, cassete e formato electrónico a partir do RNIB (http://www.rnib.org.uk/technology) e da BBA (http://www.bba.org.uk ).
+
+* PRIMEIRA SALA DE CONVERSA DE JOVENS ABRE NA ESCÓCIA.
+A primeira sala de conversa dedicada a crianças cegas e amblíopes foi lançada pela Visual Impairment Scotland (http://www.viscotland.org.uk), um novo grupo de peritos sedeada no Centro Sensorial Escocês da Universidade de Edinburgh.
+
+"Queremos juntar crianças de toda a Escócia - muitas vão para as escolas regulares e não conhecem outras crianças com deficiência visual," disse o coordenador de serviços e investigação do VIS, John Ravenscroft. "Queremos desenvolver um espírito de comunidade desde o interior até Aberdeen e não importa se tu és o único miúdo na escola com dificuldades visuais, pois não estarás isolado - podes vir aqui e falar sobre futebol, filmes e coisas de crianças".
+
+A iniciativa, criada pelo Executivo Escocês, deu início há um mês e conta já com cerca de 30 crianças registadas. Existem duas áreas na sala de conversa: uma para crianças mais novas entre os oito e outra para os que têm mais de dezasseis anos. Os participantes têm que subscrever o 'Viskids Club', o qual está aberto a jovens escoceses com deficiência visual (http://www.viscotland.org.uk/textimages/VISKIDS/front.htm).
+
+Ravenscroft disse: "No futuro queremos criar um sítio Web activado por voz mas o software disponível é extremamente caro e necessita demasiado tempo de espera de descarregamento que as crianças raramente toleram. Actualmente o sistema que oferecemos é de rápido acesso para todos, mas se o modificarmos o sistema torna-se discriminatório uma vez que aqueles que possuírem banda larga conseguem acessos mais rápidos. Se alguém tiver uma solução, ficaria grato que me transmitissem."
+
+* CAMPO INTERNACIONAL DE ADOLESCENTES VEM AO REINO UNIDO.
+O nono Campo Internacional de Computadores para adolescentes cegos e amblíopes está para se realizar no próximo ano no Reino Unido, levado a efeito pelo RNIB.
+
+Cerca de 120 estudantes entre os 17-20 anos de 10 países virão ao Loughborough Vocational College (Colégio Vocacional de Loughborough) para participar nos workshops com temas sobre tudo, desde o mais simples como seja a configuração de um ecrã de computador até à elaboração de música através de computador.
+
+O projecto ICC é levado a efeito pelo pela equipa do Computer Science for the Blind (Ciência Computacional para Cegos) Johannes Kepler da Universidade Linz sedeado na Áustria (http://www.mvblind.uni-linz.ac.at) e expandiu-se de forma a incluir 21 países parceiros. Os três primeiros campos foram realizados na Áustria, seguidos pela Holanda, França, Suécia, Alemanha e neste anos na Eslovénia.
+
+Qualquer estudante pode participar no campo, mas apenas 12, de cada país, serão seleccionados para o próximo ano. Os participantes deverão ter já um domínio básico do teclado e um interesse em tecnologias, e deverão falar Inglês.
+
+Irá ser colocado on-line no próximo ano um sítio Web do evento que estará no ar nos finais de Outubro [note que na altura em que escrevemos esta nota o sítio Web não estava ainda on-line] em: http://www.rnib.org.uk/technology/icc e os potenciais participantes do Reino Unido, que não tenham participando em anteriores campos de verão do RNIB, podem enviar um correio electrónico à Angela Dinning através do e-endereço: angela.dinning@rnib.org.uk
+
+Para mais informações sobre o projecto ICC veja: http://www.mvblind.uni-linz.ac.at/mvb/events/icc/
+
+* GRUPO DANCE PROCURA CONSELHO EM TECNOLOGIA.
+O grupo de artes com sede em Mancheste, Touchdown Dance, o qual promove WorkShops de dança dedicados à comunidade e projectos para pessoas cegas e amblíopes de todas as idades, prepara-se para criar um CD-ROM sobre o seu trabalho.
+
+O disco incluirá informações sobre os Workshops de dança e os métodos de trabalho do grupo; uma secção com trechos vídeo, e uma secção dedicado ao trabalho com base no tacto. Terá também ligações para outras organizações parceiras.
+
+"Esperamos fornecer uma imagem completa das potencialidades do tacto como uma linguagem; esta pedra no charco leva-nos à histeria em redor do tacto na educação," disse a directora do grupo, Katy Dymoke.
+
+No entanto ela diz que existem alguns problemas técnicos com a elaboração de um CD acessível, e apreciaria conselhos por parte dos leitores do Boletim E-Access em várias áreas. "Estou a esforça-me por conseguir boas informações sobre compatibilidade de software tais como software de transcrição de voz e software de ampliação.
+
+"O CD-ROM é composto essencialmente por texto e imagem com alguns trechos de vídeo e som. O que parece suceder é o seguinte [o leitor de ecrã] JAWS não reconhece o texto. Foi sugerido que os ficheiros de música existentes no CD entravam em colisão com o JAWS uma vez que fazem ambos uso da placa de som, por isso preciso de encontrar software compatível."
+
+"Em termos de navegação estamos a usar as teclas de cursor para ir para a página inicial, página anterior, próxima página e anterior. Temos cores suaves por detrás do texto, e queremos também saber se existem combinações de cor preferidas. Imagino que seja difícil ter uma visão completa de tudo isto, mas qualquer sugestão é bem vinda."
+
+Qualquer conselho deve ser enviado por correio electrónico para o editor do Boletim E-Access, Dan Jellinek através do e-endereço: dan@headstar.com e ele reencaminhará as mesmas para a Katy Dymoke.
+
+O jovem sítio Web da Touchdown encontra-se em: http://www.touchdowndance.co.uk
+
+* O Museu Grange sobre História Comunitária, levada a cabo pela junta de freguesia de Brent em Londres, abriu recentemente uma exposição de dois meses com o título 'Makonde' dedicada à escultura do Este de Africa a qual é parcialmente dedicada a pessoas com deficiência visual. Os visitantes podem tocar nas esculturas e existem disponíveis etiquetas em Braille e caracteres ampliados. Veja: http://www.brent.gov.uk/grangemuseum
+
+* MENSAGENS ESCRITAS FALADAS LANÇADAS EM ITÁLIA.
+As pessoas cegas em Itália irão ter em breve a possibilidade de enviar e receber mensagens graças ao serviço lançado pela Telecom Italia Mobile (TIM) em associação com a União Italiana de Cegos (http://www.uiciechi.it).
+
+A TIM (http://www.tim.it) produz cartões GSM capazes de transcrever e enviar mensagens em formato de voz. Um sinal sonoro indicará a chegada de uma mensagem e o receptor marcará o número 49600 para aceder a ela. Para enviar uma mensagem o utilizador marca o mesmo número. O serviço é fornecido sem custos adicionais.
+
+NOTÍCIAS BREVES:
+## PATENTE INJUSTA? - W3C, o grupo internacional de normalização, está à procura da opinião de profissionais em acessibilidade para a sua controversa política, nova e em fase de estudo, de directrizes futuras que implicam o uso de patentes na área da tecnologia. A data limite para o envio de propostas foi alargado até amanhã (11 de Outubro) sobre protesto dos grupos de influência do open source (acesso livre às fontes): http://www.w3.org/TR/2001/WD-patent-policy-20010816
+
+## DISCRIMINAÇÃO DIGITAL: Se as grandes empresas produzirem no futuro sítios Web inacessíveis irão ser confrontadas com a discriminação contra as pessoas com deficiência, e consequentemente com a cobertura dos media o efeito pode ser altamente nefasto para a sua imagem, de acordo com um novo relatório de Martin Sloan, associado da organização de solidariedade digital HumanITy: http://www.humanity.org.uk/research/martin_sloan_article.html
+
+## APELO AO LIVRO: Bookshare.org, um sítio Web que planeia permitir a cidadãos cegos Norte-Americanos registados, partilhar livros em formato digital, está a convidar pessoas que se voluntarizem a digitalizar e a preparar livros. http://www.bookshare.org/next/volunteer
+
+## FORNECEDOR JAWBONE: O nosso artigo de Setembro sobre tecnologias de reconhecimento de voz sugere que existem um número de empresas Britânicas que fornecem o software 'JawBone' (http://www.ngtvoice.com/software/jawbone), o qual permite o uso simultâneo do leitor de ecrã para Windows, JAWS, e a solução de reconhecimento de voz Dragon NaturallySpeaking. Na realidade, a T&T Consultores é a única distribuidora autorizada do JawBone: http://www.tandt-consultancy.co.uk
+
+[Fim da secção Um.]
+
+* SECÇÃO DOIS: EM FOCO
+COMISSÃO EUROPEIA.
+
+* MILHÕES DE EUROS INVESTIDOS NA ONDA DE INVESTIGAÇÃO EM ACESSIBILIDADE.
+Por Phil Cain: phil@headstar.com
+
+A adopção das directrizes de acessibilidade do W3C pela Comissão Europeia (ver notícias, nesta edição) é seguida de uma nova e significante injecção de dinheiro da organização neste campo. Nos últimos nove meses investiu sozinha 3.7 milhões de euros, em projectos de investigação em tecnologias de acessibilidade.
+
+O primeiro projecto de acessibilidade a obter o apoio foi o “IRIS”, uma iniciativa onde a tradição e o orgulho da comissão face à criatividade em criar acrónimos foi mantida - neste caso significa “Incorporating Requirements of People with Special Needs or Impairments to Internet Based Systems and Services”. O custo total do projecto é de 1.8 milhões de euros e recebeu fundos da comissão no valor de 1.2 milhões de euros, em Janeiro.
+
+Por volta do final do seu 30º mês de existência, o IRIS tem por objectivo criar um pacote de software comercialmente viável e para uso comunitário e que visa auxiliar os designers a construir sítios web acessíveis. O líder do projecto, Nikitas Tsopelas, da consultora grega de web - European Dynamics (http://www.eurodyn.com), disse que o seu desenvolvimento irá ter início em 2002 e que as notícias serão afixadas no sítio web do projecto: http://www.iris-design4all.org/progress.htm.
+
+De acordo com Tsopelas, os últimos nove meses têm sido passados a avaliar as necessidades do utilizador com o auxílio da instituição de solidariedade social belga - Information Society disAbilities Challenge (ISdAC, http://www.isdac.org). Segundo o presidente da ISdAC, Tony Verelst, o IRIS autorizou recentemente a sua organização a obter reacções num fórum da Web.
+
+Em Agosto, a comissão contribuiu com mais 1.4 milhões de euros num projecto de 2 milhões de euros, impertinentemente intitulado “Smart Interactive Tactile Interface Effecting Graphical Display for the Visually Impaired”. “ITACTI”, o seu nome reduzido como felizmente é conhecido, é um projecto de três anos para utilizar materiais “inteligentes” que façam trabalhar monitores tácteis e software a partir de um PC normal.
+
+De acordo com a declaração do financiador do projecto, “Espera-se que o fluido electro-reológico será utilizado para facilitar a produção de uma matriz de pontos móveis”. A tecnologia aqui referida é a de fluidos “espertos” ou “inteligentes” que alteram a sua viscosidade maciçamente na aplicação de uma corrente electrónica, que eficazmente solidifica temporariamente.
+
+O projecto ITACTI é o único dos três projectos com apoio da comissão na área das Tecnologias de Informação e investigação em acessibilidades, que é liderado por uma organização do Reino Unido - a Faculdade de Ciências Aplicadas da Universidade de De Montfort (http://www.dmu.ac.uk/Faculties/AS). Os membros do consórcio ITACTI que não são do Reino Unido, incluem a Italiana Associazione Nazionale Subvedenti (http://www.subvedenti.it), uma instituição de solidariedade para os deficientes visuais.
+
+O terceiro e mais recente projecto de acessibilidade apoiado pela comissão, é o Voice for Information Society Universal Access Learning (VISUAL), que em Setembro recebeu 1.1 milhões de euros da comissão, num projecto com custos totais de 1.6 milhões de euros. O projecto terá a duração de um ano, e a primeira reunião de parceiros está agendada para o dia 17 de Outubro, em Madrid.
+
+O VISUAL planeia usar a tecnologia VoiceXML para desenvolver software que permita desenhar páginas web navegáveis por voz. O grupo pretende assegurar que o próprio desenho do software seja acessível e compatível com os pacotes de desenho web vulgares.
+
+Outro dos objectivos do VISUAL é a criação de um portal “e-learning” multilingue por activação de voz. A composição cosmopolita da equipa do VISUAL pode comprovar a utilidade desta aspiração a alcançar: Keith Gladstone do RNIB e Helen Petrie da Universidade de Hertfordshire são os únicos ingleses da equipa.
+
+A iniciativa está a ser liderada pela empresa espanhola de tecnologias em telecomunicações - Soluziona Telecomunicaciones (http://www.ipt.es)), conjuntamente com outros participantes incluindo a instituição francesa de solidariedade - La Fédération des Aveugles et Handicapés Visuels de France (http://www.faf.asso.fr) e as instituições alemã e italiana de solidariedade - Deutshe Blinden und Sehbehindertenverband (http://home.t-online.de/home/dbsv_) e Unione Italiana dei Ciechi (http://www.uiciechi.it) e a União Europeia de Cegos (http://www.euroblind.org).
+
+Todos estes três novos projectos de investigação poderiam comprovar à Comissão Europeia a utilidade do seu esforço para o pontapé-de-saída no processo da construção de páginas web acessíveis das instituições europeias e dos estados membros. O IRIS em especial, poderia ser particularmente uma fonte útil para as próprias instituições da União Europeia - e quem sabe um dia, os sítios web da UE possam ser activados com voz em todas as línguas oficiais dos estados membros usando a tecnologia VISUAL.
+
+[Fim da secção Dois]
+
+* SECÇÃO 3: ENTREVISTA
+
+* TESTES BETA
+AOL, veja as respostas ás suas perguntas
+
+No mês passado debruçámo-nos sobre os testes de acessibilidade Beta, sobre a prática de convidar deficientes visuais bem como outros grupos para testar as versões de software lançadas previamente, para determinar a sua facilidade de utilização (ver o Boletim E-Access de Setembro de 2001). Debruçámo-nos particularmente sobre a preocupação levantada em relação aos Testes Beta do novo serviço de software da AOL, a sua versão 7.0. Este mês, a directora de acessibilidade da AOL, Debbie Fletter, responde a algumas perguntas postas ao E-Access, que são reproduzidas em seguida.
+
+Você: Quais são os países envolvidos nos Testes Beta?
+
+A: Os Testes Beta a decorrer neste momento estão centrados na acessibilidade aos serviços da AOL nos EUA. Apesar de também estarem disponíveis no Reino Unido bem como noutros países. Cada um deles tem as suas áreas Beta assim como os seus prazos para o lançamento do AOL 7.0 - este software da AOL é o que tem mais acessibilidade . Cada país tem prazos diferentes para a acessibilidade. Nós não anunciámos nenhum prazo.
+
+Planeamos incorporar os melhoramentos para o aumento da acessibilidade através dos nossos serviços internacionais, à medida que formos lançando novas versões do AOL.
+
+Você: É pedido a quem colabora nos Testes Beta o número do seu cartão de crédito bem como dados pessoais, e se é assim porque razão lhes é oferecido o serviço?
+
+A: A AOL só está acessível através dos nossos serviços e software, todos os nossos mais de 400.000 colaboradores que executam os Testes Beta têm de ter uma conta da AOL, para poderem participar. Portanto, todos os nossos membros têm de possuir um cartão de crédito no caso de serem cobrados serviços adicionais nas suas contas, mas nada será cobrado se o referido membro não quiser aceder a serviços especiais, ou continuar connosco depois do período especial de 1 ano.
+
+Você: Como é que as pessoas são escolhidas para acederem ao período gratuito?
+
+A: Necessita de ser recomendado pela nossa comissão de acessibilidade. Para ter a sua aprovação cada pessoa tem de ser um utilizador do Windows da Microsoft, de leitores de ecrã, de programas de ampliação de caracteres, de programas de reconhecimento de voz ou de meios alternativos para teclados e ratos. Estes colaboradores também têm de se comprometer a darem-nos os resultados das suas experiências com o AOL, pelo menos uma vez por semana durante o período de duração do Teste Beta.
+
+você: Quanto tempo irá durar o período de testes?
+
+A: A AOL irá contactar os colaboradores quando os Testes Beta estiverem concluídos.
+
+Você: Existe algum mecanismo no sítio da AOL que cancele as suas ligações como membros no fim do teste?
+
+A: Temos a esperança de que muitos dos nossos colaboradores nos Testes Beta gostem do nosso serviço e decidam continuar como nossos clientes depois de passado o período de 1 ano. No entanto, se alguém quiser sair ao fim de 1 ano pode contactar os nossos serviços de clientes para o número 1-8888-265-8008 ou seleccionar a opção «Cancelar».
+
+Você: Existe alguma documentação que os colaboradores possuam que prove o fim da sua colaboração?
+
+A: Eles podem solicitar aos nossos serviços de clientes que lhes enviem uma confirmação.
+
+Você: Os cartões de crédito e os dados pessoais são guardados para utilização futura?
+
+A: Como a nossa política é baseada na privacidade dos clientes, a AOL guarda os dados dos cartões de crédito para gerir as contas, mas não usa qualquer informação acerca dos sítios que os nossos clientes visitam na Internet, nem partilhamos esses dados com qualquer entidade exterior.
+
+Você: A nova versão já elimina a possibilidade de produzir mensagens em texto integral?
+
+A: Não, os nossos utilizadores podem produzir mensagens em texto integral se seguirem as instruções da «Ajuda».
+
+Você: Quantos especialistas em acessibilidade emprega a AOL?
+
+A: O empenho da AOL na acessibilidade não pode ser apenas visto pela criação do meu posto de trabalho como directora de acessibilidade, mas nas várias centenas de empregados que foram preparados para considerarem vários aspectos da acessibilidade e da tecnologia assistida. Temos pessoal que sabe conceber e testar a acessibilidade em toda a companhia, incluindo desenvolvimento, direcção de projectos, qualidade e concepção, para nomear apenas alguns. Mais importante, todo e qualquer serviço ou projecto novo da AOL tem de ser examinado e aprovado pelo grupo da acessibilidade.
+
+Você: Com que consultores e/ou grupos com intuitos não lucrativos trabalha a AOL?
+
+A: Nós reunimos uma comissão de consultadoria sobre acessibilidade duas vezes por ano e comunicamos regularmente através de uma lista de discussão. Esta comissão inclui peritos da American Federation for the Blind (Federação Americana de Cegos); National Federation of the Blind (Federação Nacional de Cegos); da National Organization on Disability (Organização Nacional de Deficientes); World Disability Institute (Instituto Mundial da Deficiência); Visions for Independent Living (Visão para uma Vida Independente); American Association for People with Disabilities (Associação Americana para Pessoas com Deficiência); National Centre for Accesible Media (Centro Nacional para uma Informação Acessível); Aliance for Technology Access (Aliança para uma Tecnologia Acessível) e a National Association for the Deaf (Associação Nacional de Surdos).
+
+Nós também trabalhamos com consultores de deficiência e de acessibilidade que nos dão apoio em áreas como o desenvolvimento e concepção de produto, tecnologia assistida, apoio ao consumidor e desenvolvimento e/ou acordos de licenciamento de software com representantes de leitores de ecrã.
+
+A AOL acredita sinceramente que a Internet e o seu serviço deveria ser amigável e fácil de utilizar por todos os clientes, incluindo os deficientes. Por isso iniciámos no ano passado os nossos Testes Beta com o AOL 6.0, fizemos um grande esforço para nos certificarmos que os nossos produtos são testados e mais acessíveis.
+
+[Fim da secção Três]
+
+* SECÇÃO QUATRO: RESPOSTAS ASO LEITORES
+
+* MEDIDORES DE GLUCOSE FALANTES.
+Ligações ao computador ajudam diabéticos
+No nosso último número, um leitor escreveu-nos a pedir o conselho de pessoas cegas com diabetes, que usem medidores de açúcar no sangue ou glucómetros. para saber da eficácia destas tecnologias.
+
+Em resposta, Anna Dresner dos Estados Unidos escreveu-nos a dizer que já experimentou utilizar durante algumas semanas um Acu-Chek VoiceMate (http://www.acu-chek.com/products/products/mnvoicematesystem.cfm), um medidor fabricado pela Roche, o qual está equipado com um sintetizador de voz e que também pode ler alguns frascos de insulina.
+
+"Eu não uso as funções de leitura de frascos, pelo que não posso falar da sua eficácia. Mas o sistema funciona bem na leitura dos níveis de açúcar no sangue, bem como os valores armazenados na memória," Dresner diz. "O único problema é saber se temos sangue suficiente na tira que usamos para medir o nível de açúcar no sangue. O medidor apita quando considera ser suficiente, mas na realidade a tira pode estar entre meia e cheia; quando não está cheia, podemos obter algumas leituras estranhíssimas. Trata-se de uma limitação do próprio medidor, não do sintetizador de voz adaptado."
+
+Outra limitação deste sistema, é que no caso de acabar a bateria do medidor, (a minha acabou após três semanas, em vez de um ano como seria suposto), o utilizador não recebe informação prévia de que ela está baixa," diz. "O medidor e o sitetizador têm baterias separadas; são duas unidades distintas. Eu não sei se seria possível que o sintetizador detectasse que a bateria do medidor estava baixa, mas certamente que seria óptimo se assim fosse.
+
+"Todavia o sintetizador faz o que é suposto fazer - lê os resultados dados pelo medidor. Se não puder ver para ler nos medidores comuns e quiser verificar o seu nível de açúcar no sangue de uma forma independente, vale bem o dinheiro que custa."
+
+Como vive nos Estados Unidos, a Segurança Social pagou-lhe 90 por cento do custo do sistema, Dresner diz. "Eu não sei muito sobre o sistema dos serviços de saúde britânicos, mas decididamente irei averiguar se os custos poderão ser pagos - parcialmente ou na totalidade - através deste sistema ou por outra organização de cegos.
+
+Entretanto, outro leitor, Martin Slack, escreve para dizer: "Era diabético dependente de insulina, quando há dois anos fiquei cego. Até então, utilizava um medidor comum com um visor. Quando deixei de ser capaz de ler este visor, também eu comecei a investigar sobre glucómetros falantes, com o acompanhamento da minha enfermeira de diabetes local, no hospital geral do distrito de Stafford.
+
+"O hospital tinha de facto um glucómetro falante em Inglês, mas a sua tecnologia não era muito actual, porque já não se fabricava desde há alguns anos, e, como é óbvio, o sistema completo tinha, aproximadamente, o tamanho de uma caixa de sapatos, não sendo também muito fácil de manusear. Como o vosso correspondente diz, as versões americanas custam cerca de 500 dólares. Contudo, se já tivermos acesso a um computador com um leitor de ecrã, existe uma alternativa mais barata."
+
+"Existe no mercado um pequeno número de medidores que podem transferir as leituras para um computador e o software de leitura de ecrã poderá depois fazer o resto. "É claro que se tiver de começar por comprar um computador, então será mais barato ir para um medidor falante, caso contrário tem apenas que escolher entre os poucos medidores disponíveis para o computador.
+
+Recentemente, a Diabetes UK (http://www.diabetes.org.uk) no seu periódico "Balance" falava sobre glucómetros, diz Slack.
+
+O glucómetro recomendado é o Bayer Glucometer Esprit (http://www.glucometer.co.uk). Tal como a ligação a computador, este sistema apresenta tiras para teste diferentes das comuns "abertas", mas são dobradas ao meio longitudinalmente, de modo a que quando a extremidade da tira toca a gota de sangue no dedo, o sangue é absorvido para a tira através da tensão da superfície. "Isto é bastante mais fácil do que tentar colocar a gota de sangue na área sensível de uma tira normal de teste," diz Slack. O medidor pode ser configurado para apitar quando tiver entrado sangue suficiente na tira de teste, bem como quando a leitura está pronta, aproximadamente 30 segundos depois.
+
+Utilizando este meio demora cerca de cinco minutos a obter uma leitura, mas por outro lado o software permite uma gravação imediata das leituras, disponibilizando também úteis mostragens de gráficos e posterior impressão.
+
+O software necessário, chamado WinGlucofacts, pode ser baixado a partir do sítio Web da Glucometer Esprit em: http://www.glucometer.co.uk/esprit/glucofacts.html. O Glucofacts é grátis, mas tem cerca de 5 mb. Existe também um formulário para pedir por e-mail um cabo que liga o medidor ao computador.
+
+* Para uma lista comparativa de Glucómetros da Diabetes UK, incluindo detalhes sobre a compatibilidade com o computador veja: httP://www.diabetes.org.uk/manage/products/meters.htm
+
+[Fim da secção Quatro]
+
+COMO RECEBER ESTE BOLETIM.
+
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com> Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos para assinar!
+
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com
+
+Copyright 2001 Headstar Ltd. http://www.headstar.com O Boletim no seu todo ou em parte pode ser reproduzido incluindo este aviso. As Secções do relatório devem ser colocadas entre aspas de forma a ficar claro a sua fonte: 'retirado do Boletim E-Access, uma newsletter mensal distribuída por email', e ainda a referência do nosso endereço do sítio Web http://www.e-accessibility.com.
+
+PESSOAL:
+Director - Dan Jellinek dan@headstar.com
+Vice-director - Phil Cain phil@headstar.com
+Redactor - Tamara Fletcher tamara@headstar.com
+Conselheiro Editorial - Kevin Carey humanity@atlas.co.uk 
+
+[fim da edição.]

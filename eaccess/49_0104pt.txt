@@ -1,0 +1,257 @@
++++BOLETIM E-ACCESS.
+- Nº 49, JANEIRO 2004.
+ 
+Notícias sobre tecnologia para pessoas com deficiência da visão (http://www.headstar.com/eab). 
+Patrocinado pelo RNIB (http://www.rnib.org.uk).
+
+NOTA: dissemine este boletim gratuito por outros potenciais subscritores (veja os detalhes de subscrição no final). Esta edição foi feita em conformidade com o padrão de acessibilidade para Newsletters "Text Email Newsletter (TEN)". Para mais detalhes veja:
+http://www.headstar.com/ten .
+
+++ÍNDICE DA EDIÇÃO 49.
+  
+01: A Lei Italiana sobre Web derruba barreiras 
+- mas são necessárias regras mais apertadas para sítios públicos.
+ 
+02: 'Global garden' (Jardim Global) mostra animação acessível 
+- exemplo  raro de jogo para crianças em 'Flash' que permite teste de acessibilidade.
+ 
+03: A já há muito esperada TV "falada" 
+- Freeview lança audio-descrição com custo acessível.
+ 
+04: RNIB lidera uma política progressiva de aquisição pública  
+- o esboço da estratégia foi examinada pelos principais departamentos governamentais.
+ 
+Notícias breves: 05: Números registados - estatística sobre a deficiência visual em Inglaterra; 06: Solicitam-se opiniões- consulta sobre educação; 07: Manter 2003 - Alerta na Europa; 08: Investigação na Comissão - Provedor investiga a lei.
+ 
+Secção dois: 'A Receber' - Fórum dos leitores. 
+09: Fonte Wisdom - pergunta sobre tipos de letra; 10: Recursos musicais - pautas e pontos; 11: Sintetizador de fala Galês - produtos linguísticos; 12: Telefones falantes - compatibilidade com aparelhos; 13: Correcção de ecrã - usabilidade dos ampliadores.
+
+Secção três: Entrevista - Janina Sajka.
+14: Uma mulher de armas que aponta a mira à cultura de acesso à posteriori: Mel Poluck fala com a prolífica directora de investigação da American Foundation of the Blind sobre como é que as firmas de tecnologia caminham na direcção errada; e o potencial liberalizante dos programas de código livre.
+
+Secção quatro: Reportagem da conferência - Techshare 2003.
+15: Tecnologia - ajuda ou empecilho? Produtos adaptativos podem ser caros na compra e na manutenção, e isso sem entrar em linha de conta com os custos e as dores de cabeça da formação. Derek Parkinson relata-nos sobre o debate acesso que ocorreu no recente evento internacional promovido pelo RNIB.
+[Fim do índice].
+ 
+++SECÇÃO UM: NOTÍCIAS.
+ 
++01: Lei Italiana sobre Web derruba barreiras.
+ 
+O Governo Italiano produziu nova legislação para permitir mais e melhor acesso a pessoas deficientes a serviços online. A chamada 'Lei Stanca', que obriga todos os departamentos do governo a tornarem os seus sítios totalmente acessíveis e que desenvolve padrões de acessibilidade não obrigatórios para os sítios do sector privado, foi aprovada por unanimidade pelo Parlamento Italiano em Dezembro.
+ 
+De acordo com uma declaração de Lucio Stanca, o Ministro Italiano para a Inovação e Tecnologia, os novos requisitos "ajudarão a derrubar barreiras digitais e a criar oportunidades para mais de três milhões de italianos deficientes para estudarem, trabalharem e participarem activamente na sociedade." Ele disse que a falta de acesso às TIC para os deficientes italianos provocava a marginalização social e desigualdades democráticas e económicas.
+ 
+Em 1999, uma circular do governo italiano foi divulgada encorajando os departamentos governamentais locais e centrais a assegurarem a acessibilidade dos seus serviços Web. No entanto, a nova lei foi muito mais longe, introduzindo sanções disciplinares para os gestores do sector público que não a cumpram.
+A lei também  prevê o cancelamento de contratos de sítios Web se eles não cumprirem os requisitos da 'lei Stanca', à semelhança do que acontece com a Lei Americana sobre Acessibilidade à web conhecida como "secção 508".
+ 
+Grupos de cidadãos acolheram favoravelmente a lei, enquanto lamentavam que as suas provisões não sejam obrigatórias para firmas privadas. "A lei representa um ponto de viragem real," disse uma mulher em nome do Movimento de Defesa dos Cidadãos (Movimento Difesa del Citadino - http://www.mdc.it). "No entanto, devia ser acompanhada por incentivos económicos para os sítios Web privados para serem totalmente acessíveis."
+ 
+O Governo Italiano planeia agora produzir regulamentos que definam os novos critérios de acessibilidade em Março de 2004, em cooperação com organizações de deficientes e fabricantes de tecnologia. 
+ 
++02: 'Global garden' (Jardim Global) mostra animação acessível.
+ 
+O inovador sítio web para crianças que foi criado utilizando animação acessível em "Flash" pode iniciar um novo caminho para jogos e desenhos animados acessíveis, de acordo com o RNIB  (http://www.rnib.org.uk).
+ 
+'O nosso Global Garden' é fruto de uma colaboração entre o Eureka! (http://www.eureka.org.uk), um museu para crianças em Halifax, o 'showme' (http://www.show.me.uk), e a secção de crianças dos recursos culturais online do governo, o "24-Hour Museum" (http://www.24hourmuseum.org.uk). O sítio espelha uma exposição actual no Eureka! Permitindo a crianças entre os 4 e os 7 anos explorarem e compararem 6 ambientes globais.
+ 
+O jogo foi concebido usando uma combinação de HTML e software de animação acessível para a Web, Flash MX 2004, desenvolvido pela Macromedia (http://www.macromedia.com). O software permite  acesso a texto descritivo dentro de um ficheiro de animação que pode ser interpretado por dispositivos de apoio como por exemplo os leitores de ecrã.
+ 
+"Este produto é extraordinário," afirma Julie Howell, Técnica da política de desenvolvimento digital no RNIB. "Ao longo dos últimos anos, a Macromedia modificou as suas ferramentas de software para as tornar mais acessíveis [consultar, por exemplo, o Boletim E-Access nº 10 de Outubro de 2000]. No entanto, os melhores exemplos na utilização de um "Flash" acessível para a criação de sítios Web, são e serão poucos."
+ 
+Howell espera que projectos como este ajudem a galvanizar a comunidade de criadores de conteúdos da Web para experimentar a tecnologia. "É fácil para os criadores de conteúdos da Web pensarem que a acessibilidade significa criar sítios apenas com texto. No entanto, este projecto prova que não é assim. São necessários criadores de conteúdo da Web que comecem a experimentar o Flash acessível, que partilhem as suas experiências e que criem bons exemplos de desenvolvimento de Web interactivos e acessíveis."
+ 
++03: A já há muito esperada TV "falada".
+ 
+A televisão digital acessível no Reino Unido teve um grande avanço este mês com o lançamento de uma set-top box  barata que permite a audio-descrição para o Freeview,  o popular serviço digital descodificado utilizado pelos transmissores terrestres ITV e BBC.
+ 
+A Audio-descrição é a descrição oral de cenas que ocorrem entre períodos de diálogo, que podem ser distribuídas como uma pista de som separada na televisão digital ou em cinemas especialmente adaptados. Até agora, só esteve comercialmente disponível através do serviço de satélite digital da Sky. Não é compatível de forma nenhuma com a TV por cabo e só esteve disponível na Freeview para apenas 45 lares como projecto piloto.
+ 
+O produto Netgem i-Player custa 125 libras e permite acesso a todos os programas com audio-descrição disponíveis em 6 canais da BBC; ITV1 e ITV2; Channel 4 e Channel 5. "Até que enfim! Estas notícias são muito boas e é algo porque nos temos batido desde há muito," disse Jill Whitehead, Técnico de difusão e de descrição de imagens no RNIB.
+ 
+O serviço Freeview oferece aos utilizadores mais escolhas porque lhes permite ajustar o volume da pista de audio-descrição de forma independente da pista de som original do programa, ao contrário do sistema Sky. A caixa Netgem também diz o nome de cada canal automaticamente, e, em breve, vai estar disponível com um adaptador para auscultadores para que os utilizadores possam ouvir a audio-descrição em privado. Mais, a caixa fornece uma ligação para o sítio web do RNIB para que os utilizadores possam confirmar os horários dos programas.
+ 
+Actualmente, o Netgem i-Player não está disponível em lojas e tem de ser encomendado ao fabricante telefonando para o número gratuito 0800 015 3092.
+ 
++04: RNIB lidera uma política progressiva de aquisição pública.
+ 
+O RNIB concebeu uma versão de trabalho de uma política em que definiu padrões de aquisição de sistemas de TI (Tecnologias de Informação), para organizações e empresas, integralmente acessíveis a empregados com deficiência da visão, e adoptou desde já para si próprio a política e as práticas de compra, anunciou o instituto este mês.
+ 
+A política diz que a acessibilidade tem de ser levada à prática na aquisição de sistemas de TI e realça o benefício para o fornecedor. "O  RNIB deseja o melhor na procura e instalação de TI para que os empregados com deficiência da visão a possam utilizar," disse ao E-Access a técnica superior de desenvolvimento em TIC do RNIB, Ruth Loebl.
+ 
+Sob esta política, o RNIB está a usar as normas da Organização Internacional de Normalização ISO 16071 (http://fastlink.headstar.com/iso1) para testar um sistema corporativo de TI executado por utilizadores dentro do RNIB para verificar a sua acessibilidade, tais como a capacidade de executar tarefas a partir do teclado. Será feito um relatório dos problemas encontrados antes da negociação com os fornecedores para garantir que eles trabalhem na solução dos problemas, disse Loebl.
+ 
+Num esforço para encorajar outras grandes organizações a desenvolver políticas semelhantes, o RNIB e outras organizações de deficientes semelhantes: AbilityNet, RNID e Scope reuniram antes do Natal com representantes de vários departamentos governamentais, incluindo o Departamento de Trabalho e Pensões e o Departamento do Comércio e Indústria.
+ 
+A seguir a esta reunião, um grupo de discussão online, "IT-include", (http://groups.yahoo.com/group/IT-include/) foi criado para discutir e definir um sistema de trabalho para a busca da acessibilidade da TI e recomendar testes e métodos de avaliação. Esta semana foram levadas a cabo mais conversações com o departamento de pesquisa do governo e o Gabinete Governamental do Comércio.
+ 
+Até agora, não foram implantados quaisquer normas para assegurar a acessibilidade dos sistemas de TI incorporados, apesar que de acordo com Loebl, se um sistema necessita de ser adaptado para poder ser operado por um funcionário deficiente, o esquema dos Serviços de Emprego 'Access to work' (Acesso ao Trabalho) pagam a adaptação. No entanto, uma política de pesquisa de acessibilidade TI é importante porque, ao contrário de um sítio Web, melhorar um hardware inacessível depois da sua compra é muitas vezes difícil e dispendioso.
+ 
+++Notícias Breves:
+ 
++05: NÚMEROS REGISTADOS: Existem 157,000 cegos e amblíopes registados nos Concelhos Locais Ingleses, de acordo com os últimos números do Departamento de Saúde. Os números representam um aumento de 4% desde o ano passado, e 100% nos últimos 20 anos:
+http://www.doh.gov.uk/public/blindpartiallysighted03.pdf
+ 
++06: SÃO BEM-VINDAS AS SUGESTÕES: Foi publicada para consulta pública, pelo Learning and Skills Council, uma versão de trabalho da estratégia para a igualdade e diversidade para 2004-07 que tem por objectivo combater a discriminação na educação e na aprendizagem. As partes interessadas têm até 30 de Março para comentar: 
+http://fastlink.headstar.com/lsc1 .
+ 
++07: Manter 2003: A Deputada do Parlamento Europeu e defensora dos direitos dos deficientes, Liz Lynn, disse que muitos países da UE ainda não produziram legislação que proteja os cidadãos  deficientes contra a descriminação no local de trabalho. Ela solicitou urgência ao Governo Irlandês, que detém actualmente a Presidência Europeia, para exercer pressão sobre as nações em falta, num esforço para manter os ideais do Ano Europeu da Pessoa com Deficiência 2003:
+http://www.lizlynne.org.uk/story.php?id=175 .
+ 
++08: INVESTIGAÇÃO NA COMISSÃO: O provedor Europeu, P. Nikiforos Diamandouros, que tem poderes para investigar alegadas falhas de administração em instituições Europeias, iniciou uma investigação na Comissão Europeia ligada à legislação Europeia sobre deficiência. A Comissão tem de responder até 29 de Fevereiro explicando detalhadamente as acções que iniciou ou que vai iniciar:
+http://www.euro-ombudsman.eu.int/disabilities/en 
+ 
+[Fim da secção um].
+
+++NOTÍCIA ESPECIAL: PARTICIPANTES PARA ESTUDOS DE USABILIDADE PRECISAM-SE
+
+A Headstar, os editores do Boletim E-Access, está à procura de utilizadores de computador que usem tecnologias de apoio ou de acesso especial tais como leitores de ecrã, para um trabalho remunerado de testes de sítios Web.
+
+O trabalho ocasional irá consistir em visitas a sítios Web e ao preenchimento de um simples questionário sobre as suas experiências  (podemos fornecer o questionário em qualquer formato digital ou outro).
+
+Se estiver interessado neste tipo de trabalho, envie um email para  
+usability@headstar.com com os detalhes da tecnologia ou tecnologias de acesso por si utilizadas quando navega na Web, e nós contactaremos dando-lhe mais pormenores.
+[Fim da notícia especial].
+
+++SECÇÃO DOIS: 'A Receber'
+- FÓRUM DOS LEITORES.
+
+Por favor enviem todas as contribuições ou respostas para
+inbox@headstar.com .
+
++09: FONTE WISDOM: John Conway, chefe do departamento de Incapacidade no Royal
+Agricultural College, tem uma dúvida acerca das melhores fontes para tornar o texto legível.
+"Eu percebo que para pessoas com deficiência da visão deveremos usar fontes sans serif - Estou a testar e a introduzir essas normas aqui, e tenho o meu computador por defeito com fonte Arial, mas o vosso documento (http://www.headstar.com/ten) sobre normas para texto acessível de newsletters via email (TEN) abre com Times New Roman." Algum dos nossos leitores tem algum comentário acerca deste tópico?
+[respostas para inbox@headstar.com].
+
++10: RECURSOS MUSICAIS: Na última edição Scott Rae da Highland Society for Blind, escreveu-nos a perguntar sobre tecnologia que ajudem jovens com deficiência da visão a ler pautas de música. 
+
+O nosso incansável correspondente Chris McMillan, sugeriu três óptimos recursos. O primeiro é o projecto sedeado na Holanda Talking Music (Música Falada), responsável pela Newsletter Accessible Music (Revista Música Acessível): http://projects.fnb.nl/Talking%20Music/ .
+
+O segundo é a Visually Impaired Musicians Association (VIMA - Associação de Músicos com Deficiência da Visão), uma organização de músicos e amantes de música cegos e com baixa visão - contacte via telefone do Reino Unido 0208 3666019 ou veja: http://fastlink.headstar.com/vima1 .
+
+E o terceiro é a Share Music (Partilha de Música), uma Organização que organiza cursos, residenciais e não residenciais de música, teatro ou dança, para pessoas com incapacidades física ou com outro tipo de deficiência sensorial com idade superior a 16 anos: http://www.sharemusic.org.uk .
+
+Bill McCann, fundador e presidente da Dancing Dots Braille Music Technology, acrescenta: "Certamente, o próprio Louis Braille inventou o seu código para a música assim como o Braille literário e matemático (tentem ter tudo isto pronto quando vocês fizerem 20 anos de idade!)".
+
+"Em 1997, a Dancing Dots, publicou o primeiro software de tradução de música para Braille, o GOODFEEL, que tem numerosas transcrições, incluindo uma série de saídas que se aplicam ao padrão do Reino Unido para Braille. Nós publicámos alguns cursos de leitura de música em Braille e o nosso distribuidor para o Reino Unido, a Techno-Vision Systems, está prestes a administrar um curso sobre a matéria para leitores do Reino Unido."
+
+"O nosso produto Sibelius Speaking permitiu aos utilizadores do JAWS, pela primeira vez, acesso ao programa de notação musical Sibelius, dando a oportunidade a uma pessoa cega de navegar através da pauta e ouvir a música e as descrições verbais das notas musicais ou criar uma nova pauta. Outro dos produtos com interesse para os estudantes, através do qual eles podem gerar os seus próprios sons, é a nossa solução acessível para o Cakewalk SONAR ao qual chamámos de  
+CakeTalking."
+
+"Para mais informações sobre todos estes produtos, veja: http://www.dancingdots.com ou contacte a Techno-Vision pelo email :info@techno-vision.co.uk ."
+
+Outro leitor, Chris Towers, acrescentou "Já tentaste usar o software Cubase da Steinberg (http://www.steinberg.net/en/start)? Eu utilizei-o quando estava a fazer a minha licenciatura e foi excelente. Tenho baixa visão e o software permitiu-me ampliar a música e lê-la no ecrã ou imprimi-la."
+
++11: SINTETIZADOR DE FALA GALÊS: Rebecca Redmile, uma instrutora de actividades diárias e técnica de mobilidade na organização não lucrativa BALANCE, em Toronto (http://www.balancetoronto.org), tem uma pergunta no seguimento do nosso artigo do mês passado sobre tecnologia de acesso a revistas e jornais, através de voz sintetizada (ver: 'Lançada tecnologia revolucionária da fala', história 01, Boletim E-Access nº 48, Dezembro 2003).
+
+Ela escreve: "Eu aplaudo certamente os serviços de leitura Britânicos. A América do Norte está um pouco mais atrás nesta área. [No entanto] tenho uma pergunta muito específica à qual talvez vocês me possam responder.
+
+"Tenho procurado por software, ou um leitor de ecrã externo que leia apropriadamente Galês. Sabem quem me pode recomendar um?" [Respostas para inbox@headstar.com].
+
++12: TELEFONES FALANTES: Clare Page escreve-nos a solicitar mais informações sobre os telefones móveis falantes: "Tenho notado nos últimos meses que o novo software Talx software, o qual traz aos telemóveis saída em voz, tem sido mencionado no boletim mais do que uma vez. Vivo em França, e comprei aqui um telemóvel, mas claro, com os modernos telemóveis existem algumas funções às quais as pessoas com deficiência da visão como eu, não podem usar sem que para tal seja necessário uma adaptação. Por isso ficaria encantada - é o Talx compatível com todos os telemóveis, ou apenas com certos modelos? E se o mesmo pode ser usado com qualquer telefone, é possível adquirí-lo a partir de fora do RU?
+
+Apenas recentemente comprei um novo telemóvel: um Sagem (http://www.sagem.com/en)com um monte de modernas funções mas sem meios de adicionar voz ao telefone não posso usá-las a todas. Em França apenas ouvi falar num programa que me parece ser similar ao Talx, chamado Mobile Accessibility, mas o mesmo é apenas compatível com alguns telefones da Siemens e da Nokia." Enviem conselhos ou informação para inbox@headstar.com .
+
++13: Correcção de ecrã: na nossa última edição reportámos que Chris McMillan tinha usado o ZoomText com um ecrã plano TFT iiyama AS 4611 UT de 18 polegadas sem ter encontrado problemas; na verdade temos de dizer que foi o Lunar, e não o Zoomtext, que ela utilizou sem dificuldade com este ecrã. Ela não testou o ZoomText com ele.
+[Fim da secção dois].
+ 
+++SECÇÃO TRÊS: ENTREVISTA.
+- Janina Sajka.
+
++14: UMA MULHER DE ARMAS PÕE A MIRA NA CULTURA DE ACESSO À POSTERIORI
+por Mel Poluck mel@headstar.com .
+
+Janina Sajka, diretora de Investigação e Desenvolvimento da American Foundation of the Blind [Fundação Americana dos Cegos], está desapontada com a cultura de adição da acessibilidade à posteriori que prevalece entre as empresas de informática; elas desenvolvem produtos que, depois de prontos, terão que ser adaptados aos usuários com deficiência da visão.
+
+"Acredito firmemente que eles inverteriam as coisas. Se trabalhassem com deficientes desde o princípio, eles acabariam fazendo produtos melhores para eles mesmos", diz ela. "Estou cada vez mais preocupada com o quanto ainda teremos que avançar, o quanto o conceito de acessibilidade ainda não está incorporado, quanto deste conceito ainda não está integrado no fluxo de fornecimento de serviços."
+
+O trabalho de Sajka engloba o fornecimento de apoio consultivo e o desenvolvimento de padrões de tecnologia acessível tanto para a indústria quanto para os governos em todo o mundo, nas áreas de sistemas de informação emergentes e tecnologias de acesso.
+
+Um dos projetos que ela atualmente realiza é o desenvolvimento de estratégias para permitir que pessoas com deficiência visual nos Estados Unidos acessem informação médica a partir de seus telefones celulares, usando a tecnologia do consórcio de audio-livros DAISY (http://www.daisy.org), para o qual Sajka também trabalha.
+
+Este novo serviço de informação médica também fornece conteúdo similar, em forma de panfletos sobre cirurgias médicas, por exemplo, como obter remédios ou maiores informações sobre o procedimento cirúrgico e usa tecnologia já existente - assunto pelo qual Sajka é apaixonada. O conceito já foi testado, diz ela, e agora é preciso que a equipe que ela coordena se reúna com os órgãos do governo para discutir a sua implementação.
+
+De acordo com Sajka, existem algumas sérias questões de usabilidade inerentes às gravações em áudio cassetes, o método atualmente usado pelas pessoas com deficiência da visão para ter acesso a este tipo de informação. Usando as gravações do tipo DAISY, contudo, os usuários podem ir diretamente à informação desejada, sem precisar usar as teclas "para trás" e "para a frente rapidamente" ou ouvir listas e "bips" barulhentos, que delimitam as diversas secções de um áudio cassete e que muitas vezes exigem que o usuário tenha que se lembrar de múltiplas opções.
+
+"Para quê todas essas listas?" quer saber Sajka. "Porque não fazer isto em um telefone celular? É dinâmico. É um modo de conseguir a informação que você precisa, de forma confortável e eficiente."
+
+Sajka tem muitos outros projetos, fora esse. Além de dar assessoria ao governo Norte Americano sobre a lei de acessibilidade e auxiliar no desenvolvimento de um áudio livro digital padrão (http://www.loc.gov/nls/z3986/), ela também trabalha para o Consórcio Mundial de Iniciativas de Acessibilidade na Web (WAI - http://www.w3.org/WAI/).
+
+E como se tudo isso não bastasse, Sajka garante que nos próximos anos estará canalizando sua energia para o cargo de presidente do grupo de trabalho "Free Standards Group" (FSG - http://www.freestandards.org), que visa desenvolver padrões de acessibilidade para softwares de código livre.
+
+O grupo deve ser lançado na conferência LinuxWorld, que será realizada no dia 27 de Janeiro em Nova York (http://www.linuxworldexpo.com/linuxworldny).
+
+O potencial do movimento open source (código livre) para tornar a Internet um local mais acessível é uma das grandes paixões de Sajka. Em uma entrevista anterior ao Boletim E-Access (edição de 24 de Dezembro de 2001), ela afirma que, graças ao movimento open source (código livre), as pessoas com deficiência agora não precisam de advogados, mas sim de engenheiros."
+
+Ela ainda pensa assim. Com os sistemas proprietários tradicionais, caso seu computador pare de funcionar, você procura saber quem é o fabricante, liga para ele e resolve o problema, diz ela. "Mas o sistema de fonte aberta convida a comunidade a participar. Tudo o que você precisa para alterá-lo já está lá - você é dono de seu nariz. E, caso alguém queira apresentar um novo padrão ou um comando que funcione, ele será provavelmente incluído em uma versão futura do software."
+
+No geral, contudo, não é o acesso a computadores o que mais a preocupa em sua tentativa de melhorar o dia a dia das pessoas com problemas de visão mas sim, tecnologias conhecidas e mais básicas, como termostatos e sistemas de segurança. "Não me preocupo tanto com computadores, mas com o equipamento comum, que simplesmente não é acessível."
+
+Como sempre, Sajka já está pensando em uma solução. Em fase de preparação, como parte de seu trabalho com o International Committee for Information Technology Standards (Comitê Internacional de Padrões de Tecnologia de Informação) está o 'V2 Spec' (http://www.v2access.org). Esta é a especificação de um dispositivo universal que será carregado pelas pessoas com deficiência e que lhes permitirá saber que outros dispositivos se encontram na área.
+
+Este dispositivo, uma espécie de controle remoto universal detectará e "negociará" com uma ampla gama de objetos ou equipamentos nos arredores dos usuários, para informar sobre o que está por perto, desde TV, rádio, até elevadores ou cafeteiras. No futuro, o aparelho poderá até mesmo determinar a distância de outros dispositivos que estejam longe de seus usuários. Para ser bem sucedido, diz Sajka, ele precisará ser atraente para a indústria de consumo. Uma especificação para consulta pública deverá ser lançada dentro de um mês.
+
+Resumindo, Sajka diz que para construir um ambiente tecnológico melhor para pessoas com deficiências é simples e é preciso apenas "Uma forma mais inteligente de usar as coisas que compartilhamos com os outros. Construímos rampas para cadeiras de rodas - podemos fazer a mesma coisa no espaço virtual".
+[Fim da secção três].
+
+++SECÇÃO QUATRO: REPORTAGEM DA CONFERÊNCIA 
+- TECHSHRRE 2003:
+
++15 TECNOLOGIA - UMA AJUDA OU EMPECILHO?
+por Derek Parkinson
+
+A maioria de nós já teve grandes esperanças com relação à tecnologia em algum momento da vida. É fácil sonhar com aparelhos que nos livrarão de tarefas desagradáveis com a eficácia implacável do Exterminador do Futuro e que serão tão confortáveis quanto um par de sapatos usados. Felizmente, muitas vezes as coisas realmente são assim, mas outras vezes a realidade nos desaponta.
+
+A discussão envolvendo o fato de a tecnologia auxiliar ou prejudicar pessoas com deficiência da visão foi portanto um assunto excelente para a abertura da conferência Techshare do RNIB - Royal National Institute of the Blind (Real Instituto Nacional dos Cegos), realizada em Novembro (http://www.rnib.org.uk/techshare). Nas palavras do brilhante orador Brian Charlson, do Conselho Americano para os Cegos (ACB -http://www.acb.org), a tecnologia assistiva é freqüentemente projetada e construída de forma a ignorar as exigências práticas do dia a dia.
+
+O resultado disso é que a tecnologia assistiva freqüentemente exige demais do usuário. "Somos apenas usuários como todo mundo, mas não temos escolha. Precisamos dominar toda esta tecnologia," diz ele. "Sabemos muito bem que muitas telefonistas eram cegas, já que este era um dos poucos trabalhos onde eram aceitas. Mas estas pessoas tinham uma tarefa das mais difíceis: tinham que operar uma saída em braile com uma mão, uma entrada em braile com a outra, e ouvir o áudio pelos fones de ouvido, tudo ao mesmo tempo", diz ele.
+
+Já não é fácil para muitas pessoas arcar com os custos dos produtos adaptados, as atualizações e manutenção, diz Charlson, elas têm ainda que arcar com os custos e as exigências de treinamento para usar os produtos, sem contar com a dificuldade de se achar treinamento decente, para começo de história. "A carga cognitiva da tecnologia assistiva é impraticável", diz ele.
+
+A idéia de que a tecnologia beneficia apenas uma minoria voltou à tona durante um animado debate presidido pelo apresentador do Newsnight (Jornal da Noite), Jeremy Paxman. "Muitos de nós concordamos que a tecnologia nos beneficia, mas a pergunta a ser feita é: "nós, quem"? Esta sala está cheia de pessoas cultas de origem européia", disse Janina Sajka, Diretora de Investigação Tecnológica e Desenvolvimento da Fundação Americana para os Cegos. (nesta mesma edição, leia a entrevista com Sajka).
+
+De acordo com Peter White, apresentador do programa da Rádio BBC 4 para assuntos relacionados à deficiência visual, "In Touch", freqüentemente nos esquecemos que a tecnologia é um meio para se atingir um fim. "As pessoas não querem tecnologia, querem respostas para os problemas," disse ele. White também questionava o fato de que o momento anterior à implementação de novas tecnologias está freqüentemente mais ligado à economia de dinheiro do que atender às necessidades dos usuários. "Esta etapa tem sido usada para diminuir custos", segundo ele.
+Charlson defende que o treinamento para a tecnologia assistiva deve ser mais barato, prático e estar disponível, não apenas no momento da compra, mas durante todo o tempo de uso. De acordo com o seu ponto de vista, não temos tido agilidade para estimular o desenvolvimento de outras modalidades de treinamento, além do presencial. "Devemos nos perguntar se o aprendizado on line pode ser uma boa alternativa," disse ele. Não quero dizer que o treinamento cara-a-cara deva ser deixado de lado, mas sim que os recursos de ensino e aprendizagem podem ser melhor direcionados".
+
+Os materiais de treinamento poderiam atingir um número maior de usuários finais se fossem distribuídos entre um grupo mais heterogêneo de professores, afirma. "Precisamos de mais materiais de treinamento para professores que não sejam especialistas em tecnologia assistiva".
+
+O tema "parceria" foi abordado com muita ênfase na apresentação de Rob Lees, diretor de tecnologia da Vodafone Global Products and Services. Lees realçou os benefícios mútuos advindos da parceria entre a Vodafone e o RNIB, ao partilharem seus conhecimentos e usou este exemplo para ilustrar como as organizações podem perseguir objetivos comuns, na prática.
+
+Ele reconheceu que conquistar o mercado e obter lucro são as principais forças que move esta empresa, que é um gigante da telefonia celular, mas acrescentou que a comunidade de pessoas com deficiência visual também tem muito a lucrar.
+
+Segundo Lees, isto ocorre devido à forma como o mercado tende a ser dividido entre os varejistas. Para a Vodafone, todas as pessoas com mais de 45 anos de idade fazem parte do mesmo grupo, de "usuários maduros", um segmento que permanece sub-explorado, apesar de ter alta disponibilidade de renda. Além disso, grande parte deste grupo tem algum tipo de problema na visão. "Existe, portanto, uma forte demanda por serviços de voz e este tipo de telefone pode ser adaptado às necessidades individuais", diz Lees. Conseqüentemente, a Vodafone, que é provedora de serviços, consultou o RNIB para avaliar e coletar sugestões sobre estes serviços de voz, e está determinada a usar seu poder no mercado para garantir que fabricantes de aparelhos telefônicos se aliem a eles para disponibilizar serviços "Com 125 milhões de clientes, podemos pressionar os fabricantes de aparelhos", disse ele.
+
+Sugestões práticas como essas são uma característica da reunião da Techshare, que parece ganhar força a cada ano e já se tornou muito mais do que uma vitrine para novos produtos: é um ponto de encontro para os defensores da causa.
+[Fim da secção quatro].
+
+++ NOTAS FINAIS
+
++COMO RECEBER ESTE BOLETIM.
+
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com>. Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos a assinar!
+
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com
+
+Copyright 2003 Headstar Ltd http://www.headstar.com.
+O Boletim pode ser reproduzido desde que todas as partes incluam esta nota de copyright, e desde que as pessoas sejam encorajadas a contactar-nos por email para subscrever de forma individualizada. Informe também o editor quando pretenda reproduzir os nossos conteúdos. As secções deste relatório podem ser citadas desde que estejam claramente referenciadas com a indicação "retirado do boletim e-access, uma newsletter mensal enviada por email gratuitamente", citando também o endereço do nosso sítio Web http://www.e-accessibility.com.
+
+EQUIPA PORTUGUESA:
+A tradução Portuguesa é uma parceria entre:
+GESTA-MP (http://www.gesta.org) 
+LerparaVer (http://www.lerparaver.com) 
+Rede SACI (http://www.saci.org) 
+
+Foram responsáveis pela presente edição:
+António Silva / LerparaVer
+Daniel Cruz / GESTA-MP
+Domingos Ferreira / GESTA-MP
+Cynthia Berriel / SACI
+João Fernandes / GESTA-MP
+Jorge Fernandes / GESTA-MP
+Marta Gil / SACI
+
+ISSN 1476-6337 .
+[Fim da edição].

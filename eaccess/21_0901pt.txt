@@ -1,0 +1,274 @@
+Boletim E-Access
+Boletim electrónico on-line de notícias sobre tecnologia para pessoas com deficiência visual.
+Endereço do Boletim E-Access: 
+<http://www.e-accessibility.com>
+
+Patrocinado pelo Royal National Institute for the Blind:
+<http://www.rnib.org.uk>
+o National Library for the Blind (Biblioteca Nacional para os cegos):
+<http://www.nlbuk.org>
+e a Guide Dogs for the Blind Association (Associação de Cães-Guia para cegos):
+<http://www.guidedogs.org.uk>
+
+Versão Portuguesa: cortesia do GESTA-MP (Grupo de Estudos Sociais, Tiflológicos e Associativos)
+<http://www.gesta.org> 
+
+Divulgue, por favor, este boletim pelos seus amigos e colegas, e diga-lhes que o podem subscrever em Português, bastando para tal enviar uma mensagem para o endereço electrónico: <mailto:eab-pt-subs@headstar.com>. Veja os pormenores na parte final deste boletim.
+
+Quantos mais subscritores tivermos, melhor será o nosso serviço!
+
+[início DO BOLETIM]
+
+BOLETIM 21. SETEMBRO DE 2001
+ÍNDICE: 
+
+Secção um: Notícias
+- Imagens tipo ícones dos ataques aos EUA descritas para cegos.
+Apoiantes da proposta de lei dos COPYRIGHT lutam contra o tempo - lobby por uma gafe.
+- Pentágono torna-se o centro da acessibilidade - consultoria a outros 43 departamentos governamentais dos Estados Unidos.
+- REEF procura parceiro em acessibilidade - companhia de programas multicanal procura revendedores.
+- Campanha de consciencialização da Acromatopsia - um apelo internacional.
+- Notícias breves: DTI ajuda SI; Book forager; Tributo a Kasday 
+
+Secção dois: Tentativas e problemas. 
+Acesso às versões de pré-lançamento (Beta) de todo o tipo de programas de computador é vital para afastar as subtilezas da acessibilidade, mas se não se tiver algumas considerações os efeitos poderão ser contrários.  
+
+Secção três: Ondas de voz explodem na Europa. 
+O primeiro portal Europeu controlado pela voz parece que vai ser seguido nos meses que se aproximam por uma onda de serviços similares provenientes do outro lado do Atlântico. 
+
+Secção quatro: Nós temos o poder - mas a um preço. 
+Leitores respondem às questões dos leitores do Boletim E-Access sobre os programas de reconhecimento de voz. 
+
+[Fim do índice.] 
+
+SECÇÃO UM - NOTÍCIAS 
+
+IMAGENS TIPO ÍCONES DOS ATAQUES AOS EUA DESCRITAS PARA CEGOS. 
+As pessoas com deficiência visual podem manter-se informadas relativamente às últimas notícias e implicações dos ataques terroristas da última semana aos EUA através de um serviço disponível na Web fornecido pelo Grupo de Utilizadores de Computador Deficientes Visuais com sede em Nova Iorque. 
+
+Muitos dos membros desta organização trabalhavam nas torres, entre os quais a sua vice-presidente, Vivian Yacu, a qual foi evacuada ilesa depois da derrocada das torres. O sítio Web, localizado em http://www.hicom.net/~oedipus/vicug 
+fornece informação acessível sobre a localização dos hospitais e permite aos seus visitantes subscrever o serviço de alerta via correio electrónico de forma a estar permanentemente actualizado face aos problemas de tráfego. 
+
+O site está também conectado com um arquivo de imagens televisivas relacionadas com o ataque devidamente descritas. "Muitas das imagens mais marcantes dos ataques foram transformadas em ícones, relativamente às quais nós, os cegos, somos normalmente os últimos a ter conhecimento," disse o Webmaster Gregory Rosmaita. 
+
+"Imagine a nuvem de fumo como se se tratasse de um peixe cinzento cuja silhueta oval cai partindo do canto superior esquerdo da torre cobrindo dois terços da torre do lado direito," é um excerto do que se pode ler da descrição do cataclismo do World Trade Centre. Para mais detalhes visite: http://wtc.crysm.net 
+
+APOIANTES DA PROPOSTA DE LEI DOS COPYRIGHT LUTAM CONTRA O TEMPO. 
+Um grupo de apoiantes privados de um projecto de lei do parlamento do Reino Unido reunirá com os ministros do governo a 26 de Setembro para assegurar que a lei que legaliza a produção de material digital em versões acessíveis numa base não lucrativa, passe. 
+
+É muitas vezes necessário, para as pessoas cegas e amblíopes, criar versões alternativas do material digital que lhes permita ouvir usando para o efeito Leitores de Ecrã (veja também o Boletim E-Access de Agosto de 2001). Os documentos PDF produzidos pela Adobe e os formatos eBooks são particularmente indicados para satisfazer tal manipulação. 
+
+Aqueles (deficientes visuais) que apoiam a proposta de lei relativa aos direitos de autor, pelo menos naquilo que é conhecido da lei ainda em rascunho, esperam que ela seja compatível com aquilo que o governo planeia e que seja transformada em suporte formal. Caso contrário, os apoiantes planeiam encontrar uma via "pelas traseiras" durante o processo legislativo com uma primeira leitura na Casa dos Lords, de acordo com David Mann do departamento de campanhas do RNIB.  
+
+Segundo Mann a proposta de lei, elaborada pela deputada Trabalhista Rachel Squire, "ao deixar o ónus nos autores ou editores levará as pessoas a cumprir - e em caso extremo até ao tribunal - se acharem que uma determinada actividade entra em conflito com os seus legítimos interesses." Alguns planos mais receosos do governo nesta matéria irão torná-los mais pesados e rígidos. 
+
+A deputada Melanie Johnson (http://www.welwyn-hatfield-labour.fsnet.co.uk ), 
+parlamentar que pertence à secretaria de estado para a concorrência, consumo e mercados do Departamento de Comércio e Indústria, será a representante do governo na reunião. 
+
+* O líder dos editores no Reino Unido, Penguin Books,
+(http://www.penguin.co.uk) anunciou no mês passado planos para lançar eBooks em formato Adobe eBook e Microsoft reader. O seu nível de acessibilidade terá ainda de ser determinado.  
+
+PENTÁGONO VIRA CENTRO DE ACESSIBILIDADE. 
+Quarenta e três organismos do estado dos Estados Unidos receberam equipamento acessível e consultoria do Departamento da Defesa através do Programa de aprovisionamento de Computadores/Electrónica (CAP) durante o ano transacto. 
+
+O Congresso pediu à unidade para iniciar as negociações de forma a satisfazer os pedidos dos funcionários do estado pertencentes a outros departamentos, que não o da Defesa, relativamente aos serviços em tecnologias de apoio a partir de Outubro de 2000. Ao mesmo tempo o orçamento anual do CAP passou de 2.5 milhões de dólares para 4.5 milhões de dólares de forma a fazer face aos custos extra. 
+
+A procura dos serviços do CAP aumentaram a partir do momento em que os departamentos governamentais despertarem para a Secção 508, uma lei introduzida em Junho e que exige que os departamentos possuam tecnologias de informação acessíveis para servir os seus empregados.  
+
+Entretanto, para aumentar a consciencialização para a obrigatoriedade da Secção 508, o Centro governamental para o Aprovisionamento das Tecnologias de Informação renovou o seu site de consciencialização da 508: 
+http://www.section508.gov 
+
+REEF PROCURA PARCEIRO. 
+A REEF, empresa de software house produtora de software empresarial para a Internet a nível mundial procura parceiro empresarial especializado em acessibilidade, disse esta semana o seu vice-presidente Jack Berkowitz ao Boletim E-Access.  
+
+Reef (http://www.reef.com ) espera que o seu novo parceiro internacional esteja em condições de revender o Reef EveryWare, o qual possibilita a distribuição dos conteúdos de Internet de forma diferenciada respondendo às preferências do utilizador bem como aos diferentes métodos de acesso.  
+
+A única empresa existente no campo da acessibilidade é a empresa sedeada nos Estados Unidos WebABLE, consultora e fornecedora de software (http://www.webable.com). O seu fundador Mike Paciello disse: "A máquina da Reef dá-nos uma 'maior rotação nas pernas' acelerando a nossa curva de desenvolvimento, que de outra maneira nos levaria muito mais tempo a produzir." 
+
+Paciello disse que a WebABLE está actualmente a modificar o seu sítio Web por forma a que este funcione como estudo de caso para o EveryWare antes de iniciar o trabalho em dois ou três projectos que empreguem o software. 
+
+CAMPANHA DE CONSCIENCIALIZAÇÃO DA ACROMATOPSIA. 
+Dois dos nossos leitores de Itália, Elisabetta e Gianni Luchetta, estão a criar uma rede de suporte para as pessoas que sofrem da rara doença congénita acromatopsia e pretendem incrementar a consciencialização do seu trabalho através de uma convenção mundial planeada sobre a condição. 
+
+A doença afecta apenas um em 33,000 pessoas e é por isso largamente desconhecida e muitas vezes incorrectamente diagnosticada por muitos optometristas. a vida para os que padecem desta doença - que inclui o filho mais novo, Lorenzo, da família Luchettasson - pode ser bem penosa, com cegueira quando exposto à luz solar e com grande incapacidade visual.  
+
+A Associação Italiana de Acromáticos está interessada em estabelecer contacto com pessoas afectadas por esta doença de forma a diagnosticar e compreender as suas necessidades e ajudá-los.  
+
+Para saber mais, incluindo um filme das experiências pessoais do Lorenzo, eja a contribuição dos Luchettas no comité temporário em genética umana do Parlamento Europeu disponível em Italiano e Inglês em
+http://www.europarl.eu.int/comparl/tempcom/genetics
+/contributions/contri_acromati.pdf
+Este é um documento em formato pdf - para uma versão em texto ou para efectuar um simples contacto use o e-endereço: giluche@tin.it 
+
+NOTÍCIAS BREVES: 
+
+## DTI AJUDA SI: O sítio Web 'UKISHELP' (Reino Unido Ajuda) do Departamento de Comércio e Indústria 
+está a promover a participação do Reino Unido no programa para a Sociedade da Informação da Comissão Europeia uma vez que disponibiliza uma nova versão da sua página livre de frames e livre de gráficos: http://www.ukishelp.co.uk 
+
+## PERGUNTA SOBRE DIABETES: Um leitor do boletim escreveu para perguntar qualquer pessoa cega e diabética que use um aparelho de medição da glucose com síntese de voz, ou glucometro, se ele funciona bem e se o seu valor comercial é de 500 libras inglesas (750 Euros). Escreva, por favor para dan@headstar.com relatando as suas experiências ou conselhos.  
+
+## BOOK FORAGER: A Biblioteca Nacional para Cegos (http://www.nlbuk.org ) está para lançar em Dezembro um sistema de pesquisa de Bibliotecas chamado 'Book Forager' (Livro Procura-se), o qual foi desenhado para fazer sugestões sobre que livros são mais apropriados para cada leitor. Encontra uma versão texto em: http://www.forager.co.uk/nlb 
+
+## TRIBUTO A KASDAY: No nosso último número mencionámos a entrega de um troféu especial ao Dr. Leonard Kasday do Institute on Disabilities da Universidade de Temple, Philadelphia atribuído pela Aliança Internacional de Engenheiros e Especialistas em Acessibilidade (ICAES). O Dr. Kasday faleceu subitamente, e um tributo a si foi apresentado por Michael Burks do International Centre of Disability Resources (Centro Internacional de Pesquisa em Deficiência) e pode ser encontrado em: http://www.icdri.org/passing_of_len_kasday.htm 
+
+[Fim da secção Um.] 
+
+SECÇÃO 2 - ANÁLISE 
+
+TESTE BETA.
+TENTATIVAS E PROBLEMAS. 
+Phil Cain phil@headstar.com <mailto:phil@headstar.com> 
+
+Permitir o acesso antecipado dos utilizadores de computadores com deficiência visual a versões de todos os tipos de software previamente lançadas é um passo essencial para ajudar os programadores a evitarem problemas de último minuto. 
+
+No mês passado, o fornecedor de serviços on-line AOL tornou-se a primeira das grandes companhias de tecnologia avançada a procurar utilizadores deficientes visuais para testes Beta.
+A AOL espera que estes utilizadores sugiram alterações, que tornem o seu software acessível por forma a obter a aprovação da US National Federation of the Blind (Federação Nacional de Cegos dos Estados Unidos) (http://www.nfb.org) em Novembro. Se nesta altura o problema não estiver resolvido, a NFB reiniciará um processo em tribunal contra a AOL, o qual foi suspenso em Novembro último. 
+
+Apesar de ter reconhecido a necessidade da acessibilidade, a companhia descobriu para seu grande espanto, que a maioria da comunidade que acede à Internet continua muito desagradada. Este desagrado sobrepôs-se, de maneira embaraçosa, ao convite público para a participação nos testes Beta, tendo alguns participantes nas listas de discussão internacionais sobre acesso menosprezado esta iniciativa. 
+
+Uma das coisas que preocupou muitos, foi o facto da AOL ter pedido aos utilizadores que iriam efectuar os testes, que aderissem ao Serviço AOL, preenchendo impressos de admissão e entregando números de cartões de crédito. Tal facto foi considerado muito estranho, visto que a participação nos testes deveria ser gratuita. 
+
+A responsável por uma campanha de acesso à Internet, Katie Haritos declarou que o processo de adesão levado a cabo pela AOL indicava a ignorância por parte da empresa do facto de 70% dos deficientes visuais americanos estarem desempregados, não tendo por isso números de cartão de crédito. De acordo com Katie Haritos a empresa só terá o respeito dos deficientes, empregando deficientes no seu departamento para a acessibilidade. Segundo ela: "isto seria um verdadeiro emprego". 
+
+O consultor para a acessibilidade da Internet David Poehlman subscreve estas afirmações, dizendo que as empresas não devem usar os testes Beta para resolverem questões que deveriam obter resposta no seio dos seus funcionários. Ele diz: "Os testes de acessibilidade devem ser apenas um processo para detectar determinados erros (bugs) e não uma resposta à pergunta - "Será este software acessível?" - a resposta já deverá ter sido dada internamente, por aqueles que desenvolvem os programas". 
+
+Poehlman também afirma que os testes Beta devem estar acessíveis para serem levados a cabo de forma independente em relação à empresa que os está a desenvolver. No caso presente da AOL, isto quer dizer que os utilizadores que executam estes testes não devem ter de se identificar perante a empresa. Por outro lado, ainda na opinião de Poehlman, o furor do público à volta do teste Beta da AOL podia ser evitado: - "é importante que os utilizadores que executam estes testes mantenham a sua confidencialidade". 
+
+Curtis Chong, director de tecnologia da NFB diz que é importante as firmas de software compreenderem que muitas vezes é cedo para levar a cabo os testes de acessibilidade Beta. De acordo com Chong, a Microsoft perguntou-lhe, há uns anos, se a NFB estaria interessada em testar várias versões do sistema operativo Windows, para melhorar a sua acessibilidade. Ele respondeu-lhes o seguinte: "Não estamos interessados, principalmente porque não há leitores de ecrã compatíveis com estas versões". 
+
+Muitas vezes acontece que os utilizadores que executam os testes Beta, para confirmar a acessibilidade de alguns programas conhecidos, preferem testar estes produtos no seu tempo livre, simplesmente pelo facto de estarem dependentes desses produtos nas suas vidas, e quererem torná-los mais apropriados às suas necessidades. 
+
+O perigo deste processo é o de pelo facto de não ter sido possível tornar alguns produtos acessíveis no passado, muitas pessoas com deficiência viram-se forçadas a encontrar alternativas para estes softwares, demonstrando portanto pouco interesse em testar novas versões desses programas. Para mudar esta situação, as companhias de software terão de provar que de agora em diante encararão a acessibilidade como algo mais importante do que apenas um mero acessório. 
+
+Atenção ao nosso próximo número. A directora de acessibilidade da AOL Debbie Fletter responde. 
+
+[Fim da secção dois] 
+
+SECÇÃO TRÊS - TECNOLOGIA 
+
+PORTAIS COM VOZ.
+ONDA DE VOZ REBENTA SOBRE A EUROPA. 
+Dan Jelinek dan@headstar.com 
+
+Ao lançamento no mês passado do primeiro portal Web compreensível controlado por voz, 'eckoh' (http://www.eckoh.com - veja o Boletim E-Access, de Agosto 2001), vai-se seguir nos meses que se aproximam uma verdadeira onda de outros serviços similares provenientes do outro lado do Atlântico, onde já se encontram bastante desenvolvidos. 
+
+No mercado Norte-americano existe já um número considerável de empresas concorrentes incluindo a BeVocal (http://www.bevocal.com), a Tell 
+Me (http://www.tellme.com ), a HeyAnita (http://www.heyanita.com) e a 
+OnStar (http://www.onstar.com) as quais lançaram um serviço de portal de voz via Web exclusivamente para uso em viaturas, que disponibilizam serviços de marcação via voz e acesso à Internet activado por voz. 
+
+"Penso que em geral a Europa está pelo menos 18 meses atrasada em relação aos Estados Unidos neste campo," diz Bob McDowall, consultor de negócios e tecnologia da Bloor Research. "No entanto, a diferença será provavelmente reduzida pela introdução dos serviços de forma rápida, das empresas Norte Americanas, na Europa. A Europa Mediterrânea a médio e longo prazo será a que registará maiores níveis de crescimento motivado pela aversão ao uso do rato e mesmo do teclado por tantas pessoas do mundo empresarial." 
+
+Em geral a tecnologia de reconhecimento de voz melhorou substancialmente nos últimos dois a três anos, diz. Os principais desafios enfrentados agora relacionam-se com a forma como a informação acessível por voz é organizada. 
+
+"A selecção pode ser feita rápida e facilmente num ecrã de texto, mas os portais com voz ainda têm que encontrar uma forma optimizada de permitir aos utilizadores movimentarem-se rapidamente através de um menu ou movimentarem-se rapidamente de uma secção para outra." 
+
+As tecnologias não têm uma aplicação universal, diz ele, mas proporcionam elas próprias o acesso a peças de informações precisas e pequenas em resposta a determinadas questões. "A informação é necessária para uso imediato ou aplicação, e será de natureza não analítica ou reflexiva. Eu sugeria que esta informação ganharia pouco ou nada em tornar-se personalizável.  
+
+Nos Estados Unidos, um dos fortes líderes de tais serviços é a AOL, com a sua oferta AOLbyPhone (http://www.aol.com/anywhere/aolbyphone_non.adp) para aceder ao correio electrónico, à meteorologia, à informação financeira e a outros serviços. O serviço ganhou recentemente o prémio de editores da revista US-based Speech Technology (http://www.speechtechmag.com), embora ainda não haja planos, de conhecimento público, em trazer o serviço para a Europa. 
+
+A outra grande área dos serviços controlados por voz para uso vulgarizado está no acesso ao sector em franca expansão dos serviços sofisticados oferecidos pelos telefones móveis e equipamentos de comunicação portáteis, tais como mensagens de texto e gestão de livro de endereços.  
+
+Existem também serviços activados por voz que permitem às pessoas interagir com os seus equipamentos móveis como é o caso do Wildfire (http://www.wildfire.com), o qual está já disponível há algum tempo quer nos Estados Unidos quer na Europa.  
+
+No Reino Unido o operador de telefones móveis, Orange, tem aproximadamente 40,000 clientes a utilizar o serviço, sendo as características mais populares a marcação através da voz e a capacidade de controlar o serviço de mensagens de voz através de comandos de voz. 
+
+Num interessante cruzamento de fertilização entre telefone e Internet, os projectos desenvolvidos pela Wildfire incluem a possibilidade de interagir os mesmos serviços por voz ou Web e correio electrónico, conforme se preferir. 
+
+"A voz é um bom meio de acesso mas nem sempre é apropriada," diz Mike Hartnett, director de planeamento de negócios na Wildfire. "Por exemplo, se eu tiver um serviço de calendarização, provavelmente vou querer criar a maior parte da informação inicial através da interface com suporte na web, porque esse tipo de detalhes é mais fácil de introduzir dessa forma. Contudo, quando ando fora ou o acesso à web é remoto, e recebo um aviso através de voz lembrando-me de um certo acontecimento, eu deveria ser capaz de confirmar a recepção ou talvez alterar esse mesmo registo da agenda através de voz." 
+
+"O trabalho que actualmente se está a desenvolver está a ser efectuado com base em cenários para dar a maior flexibilidade e acesso apropriado para um determinado utilizador numa determinada circunstância." 
+
+Outros projectos desenvolvidos incluem uma maior 'inteligência por familiarização' automática. Por exemplo, quando se começa a trabalhar com o Wildfire haverá uma ajuda para aprendizagem e utilização dos serviços. Conforme o utilizador se vai familiarizando, a ajuda inicial desaparece para permitir uma maior rapidez e eficiência. 
+
+E num movimento que trará o serviço directamente para o sector dos fornecedores de "portais de voz" entrando em concorrência directa, a Wildfire está também a trabalhar numa extensão que permitirá um acesso integral à Web através do sistema activado por voz o qual deverá ser disponibilizado pela Orange até ao final de 2002.  
+
+Um outro serviço de voz para dispositivos móveis que está a ser desenhado expressamente a pensar na comunidade deficiente visual, é a TALX (http://www.talx.de/index_e.htm), um pacote de software que permite aos utilizadores aceder a todas as funções avançadas dos telemóveis da Nokia, tais como mensagens escritas e acesso à Internet utilizando os comandos de voz. 
+
+A empresa é Alemã mas o seu co-fundador Torsten Brand, sendo ele próprio cego, diz que já está disponível uma versão Inglesa completamente funcional. A empresa encontrou distribuidores na Alemanha, na Itália, na Suécia e na Bélgica apesar de continuar a procurar um parceiro no Reino Unido para distribuição e tradução de todo o manual do utilizador. Brand diz que a TALX espera lançar uma nova versão para o Nokia Communicator 9210, no segundo trimestre de 2002. 
+
+E assim, à medida que a Europa se vai aproximando dos Estados Unidos neste campo de alta competição, o futuro parece brilhar para o acesso à Internet e aos sistema de comunicação pessoal através da voz. ""Em principio deverá ser mais fácil aceder à Internet através da voz do que do rato, do teclado ou do ecrã do computador", diz Bob McDowall. ""Isto vai também abrir a Internet geográfica e demograficamente a um maior leque de pessoas." Esta expansão irá certamente proporcionar uma maior facilidade no acesso por parte dos cegos e deficientes visuais em geral. 
+
+[Fim da secção três] 
+
+SECÇÃO QUATRO - RESPOSTAS DOS LEITORES 
+
+SOFTWARE EM REVISTA.
+Nós temos o poder - mas isso tem um preço. 
+Houve uma grande resposta por parte dos nossos leitores ao pedido feito no último número por Gill Burrington da Burrington Partnership, para um aconselhamento relativamente a programas de reconhecimento de voz que permita passar texto para voz, ditado (voz para texto) e navegação na Internet, "que trabalhem bem em conjunto e que não sejam demasiado caros". 
+
+Pete Gurney escreveu-nos para dizer: "Existe uma versão "Premium" da aplicação de escritório gratuita com 'EasyOffice', que custa menos de 40 Dólares e está disponível na E-press (Http://www.e-press.com). 
+
+"Tanto a edição 'free' (gratuita) como a 'premium', permitem-lhe controlar a máquina e navegar na Web através da voz. Contudo, a edição 'Premium' inclui duas versões do 'Easy Voice Recognition', uma para máquinas mais lentas e outra com ditado contínuo que requer uma máquina com pelo menos 600 mega hertz. Inclui também um programa de criação fácil de páginas web, bem como um programa de códigos de barras. 
+Provavelmente dentro de algumas semanas a Dixons, no Reino Unido, estará a comercializar o Pacote Premium." 
+
+Muitos outros correspondentes recomendaram NaturallySpeaking da Dragon Systems (http://www.dragonsys.com).  
+
+Pratik Patel, Gestor do Projecto da CUNY Assistive Technology Services disse: "O que o vosso leitor parece querer é um sistema como aquele que vemos no 'Star Trek'. Um sistema de reconhecimento de voz multifuncional, semelhante àquele está a caminho, mas dentro de cinco a 10 anos. 
+
+"Embora NaturallySpeaking da Dragon tenha actualmente o melhor desempenho, devido à necessidade de conjugar a tecnologia com outros programas, é difícil alcançar resultados perfeitos. 
+
+"O NaturallySpeaking, o software de reconhecimento de voz da IBM Via Voice (http://www-4.ibm.com/software/speech), ou Voice XPress da Lernout Hauspie, (http://www.lhsl.com/voicexpress) contam fortemente com os módulos do Microsoft Active Accessibility para os prover de informação adequada em vários programas. Apesar dos pedidos da microsoft, o Active Accessibility não é prontamente usado pelos programadores, quando os programas saem. 
+
+"Mais ainda, não existem características em qualquer um dos três softwares de reconhecimento de voz mencionados acima que nos permitam visualizar todas as partes dos sistemas operativos, tais como Caixas de diálogo. Para isso, precisamos de obter o Jaws For Windows na henter-Joyce (http://www.hj.com/jaws/jaws.html), mais um programa adicional chamado 'JawBone' de uma terceira companhia, a Next Generation Technologies (http://:www.ngtvoice.com/software/jawsbone). O JawsBone actua como um interface entre o Jaws e o NaturallySpeaking, versão profissional.  
+
+"O custo do conjunto dos três softwares ronda os 2.100 dólares. Como se isto não fosse suficientemente mau, Gill terá que aumentar a RAM do sistema para pelo menos 256 mb.  
+
+"uma das melhores coisas que o NaturallySpeaking permite, é melhorar a precisão do reconhecimento de voz. Com um treino apropriado é possível alcançar 96-98 por cento de precisão. Contudo, isto também tem os seus custos. São necessárias, pelo menos, 20 horas de treino com um treinador que possa demonstrar as nuances do software e, eu gostaria de recomendar que o utilizador treinasse pelo menos 40 horas, para aperfeiçoar estas capacidades." 
+
+Outros entusiastas do Dragon, como o Sam Howie, que sugere que Gill experimente primeiro com uma cópia de demonstração e Bill Klein da SoVerNet em Vermont (http://www.sover.net), que diz: "Eu sou o Presidente duma companhia internacional em grande crescimento. A minha posição requer a utilização de programas largamente diversificados e bastantes ditados para o MS Excel, Word e Outlook Express, designando apenas alguns." 
+
+"Sou cego. Há cinco anos que uso o Dragon e estaria perdido sem ele. Conjuntamente com o meu leitor de ecrã, posso fazer quase tudo o que quero. Percebi que as limitações do dragon dependem do utilizador - quanto mais treinar, melhor se tornará o programa e o utilizador. Há numerosos aspectos de navegação, tais como comandos de abrir e fechar ficheiros e irá trabalhar tão depressa quanto desejar ou falar." 
+
+"Muita da minha correspondência requer linguagem técnica e terminologia científica e ocasionalmente o Dragon não reconhece uma palavra. Soletramos a palavra, dizê-mo-la e ela entra no sistema.
+Eu nunca precisei de nenhuma ajuda." 
+
+Ao entusiasmo generalizado com o Dragon, Rick Williams acrescentou: "Eu uso o NaturallySpeaking Profissional ligado ao Jaws através do JawsBone. O pacote possibilita um ditado muito rápido, bem como a posterior leitura do texto. Também permite ditar directamente para o Word ou para o Outlook Express (embora não seja tão perfeito como seria se tivesse sido criado para trabalhar com o Outlook) e pode ser facilmente personalizado." 
+
+"Algumas companhias, como a BDF Sulutions (http://www.bdfsolutions.co.uk), para além do fornecimento do pacote, treinam as pessoas para a sua utilização.  
+
+A Gill Burrington ficou encantada com este diversificado e precioso conjunto de respostas. Ela disse: "Duas coisas em particular ficaram claras. Primeiro, parece não existirem soluções baratas. Segundo, a escolha é restrita." 
+
+"Tendo estado numa conferência em Washington recentemente, consegui algumas informações bastante úteis. A primeira novidade (para mim) foi o software que descobri chamado ZoomText (http://www.aisquared.com), que custa cerca de 450 Dólares e integra um ampliador de ecrã, bem como um leitor de ecrã." 
+
+"Vim para casa agarrada à minha cópia de demo e tentei correr o programa, mas o meu sistema bloqueou. O sempre útil HelpDesk diagnosticou que a razão para o sucedido se deve ao facto de eu não ter uma placa gráfica rápida." 
+
+"Também uma novidade para mim foi o OpenBook da Arkenstone, que custa 675 libras (http://www.arkenstone.org/main.html). Este permite a partir de um 'scanner' a saída de informação por síntese de voz ou em Braille, podendo deste modo ser muito útil para ler artigos do jornal, ou, até mesmo, as contas que chegam a casa pelo correio com uma frequência assustadora! Contudo, a útil informação no site da Arkenstone fez-me ver que o meu 'scanner' com quatro anos não era adequado." 
+
+"Tendo tudo isto em linha de conta, estou a pensar seriamente em actualizar tudo. Devo optar pelas especificações mais altas que poder pagar, mas o custo total é assustador." 
+
+"Seja qual for a minha decisão final, estou imensamente grata a todos que disponibilizaram tempo para responder ao meu pedido de ajuda. Sei que poderia ter falado com um consultor de uma organização especializada em ajudar pessoas deficientes visuais, mas conhecer o que os reais utilizadores deste tipo de soluções sentem seria uma extraordinária ajuda." 
+
+UMA NOTA ADICIONAL AO ARTIGO RELATIVO ÀS LÍNGUAS DISPONÍVEIS NO MERCADO DOS SOFTWARES REFERENCIADOS: Muitas das tecnologias de reconhecimento de voz citados neste artigo estão, ou em breve estarão, disponíveis em várias línguas. 
+
+- EasyOffice está actualmente disponível somente em Inglês do Canadá, mas promete-se outras versões dentro dos próximos meses.  
+
+- Dragon NaturallySpeaking está disponível em Holandês, Inglês, Francês, Alemão, Italiano e Espanhol, e a versão 5 está a ser adaptada para o falantes da língua Inglesa da América, Austrália, Inglaterra, India e Susdeste da Asiático.  
+
+- IBM's ViaVoice está disponível em Inglês dos Estados Unidos, Inglês do Reino Unido, Francês, Alemão, Italiano, Japonês, Português do Brasil, Espanhol e em Chinês tradicional e simplificado.  
+
+- Voice Xpress está disponível em Inglês dos Estados Unidos, Inglês do Reino Unido, Francês, Holandês, Espanhol e Alemão. 
+
+- Eloquence, o sintetizador de voz que vem com o JAWS, está disponível em Inglês dos Estados Unidos e do Reino Unido, Francês, Alemão, Italiano, Português do Brasil, Russo, Castelhano e Espanhol da América Latina.  
+
+- A versão internacional do ZoomText suporta Inglês, Espanhol, Francês, Alemão e Italiano. 
+
+[Fim da nota] 
+
+[Fim da secção quatro] 
+
+COMO RECEBER ESTE BOLETIM. 
+
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com> Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos para assinar!
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+
+
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com
+Copyright 2001 Headstar Ltd. http://www.headstar.com O Boletim no seu todo ou em parte pode ser reproduzido incluindo este aviso. As Secções do relatório devem ser colocadas entre aspas de forma a ficar claro a sua fonte: 'retirado do Boletim E-Access, uma newsletter mensal distribuída por email', e ainda a referência do nosso endereço do sítio Web http://www.e-accessibility.com.
+
+PESSOAL:
+Director - Dan Jellinek dan@headstar.com
+Vice-director - Phil Cain phil@headstar.com
+Redactor - Tamara Fletcher tamara@headstar.com
+Conselheiro Editorial - Kevin Carey humanity@atlas.co.uk 
+
+[Fim da edição.]

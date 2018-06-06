@@ -1,0 +1,264 @@
++++Boletim E-ACCESS.
+- EDIÇÃO 43, JULHO 2003.
+
+Notícias de Tecnologia para pessoas com deficiência da visão
+(http://www.headstar.com/eab).
+
+Patrocinado pelo RNIB (http://www.rnib.org.uk).
+
+A edição Portuguesa é uma cortesia da Rede SACI (http://www.saci.org.br) e do GESTA-MP (http://www.gesta.org). 
+Foram tradutores e revisores para Português desta edição:
+Jorge Fernandes - Coordenador, Tradutor, Revisor; GESTA.
+Cláudia Cardoso - Tradutora; GESTA.
+Cynthia Berriel - Tradutora; SACI.
+Marta Gil - Revisora; SACI.
+
+NOTA: dissemine este boletim gratuíto por outros potenciais subscritores (veja os detalhes de subscrição no final). Nós estamos conformes com o padrão de acessibilidade "Text Email Newsletter (TEN)". Para mais detalhes veja:
+http://www.headstar.com/ten .
+
+++INDICE DA EDIÇÃO 43.
+
+01: Acção secreta pode ser o disparar de uma onda de casos
+- proprietários de sítios Web podem terminar no tribunal.
+
+02: Compras Europeias abraçam a acessibilidade
+- nova directiva obriga-o até ao final do ano.
+
+03: Harry Potter e a versão perdida
+- atrasos na produção do livro áudio do fenómeno editorial.
+
+04: Postes de iluminação falantes para o Norte de Londres
+- Testes para guias de orientação.
+
+Notícias breves: 05: Inclusão Digital - Conferência Brasileira; 06: Museu Virtual 
+ - pesquisa de crianças; 07: Fornecimento adequado - portal de acesso; 
+08: Acesso Thin - adaptação de leitor de ecrã.
+
+Secção dois: 'A receber' - Fórum dos leitores.
+09: Lições de Espanhol - pedido de cassetes; 10: Angariar opiniões - questionário on-line; 11: Dias da rádio - mantendo o contacto; 12: Minha culpa - correcção.
+
+Secção três: Entrevista: Ensino Superior.
+13: A escolha pela corrente dominante: Emma Price, directora de igualdade no Colégio Londrino King, fala com Mel Poluck sobre a nova política de acesso da instituição.
+
+Secção quatro: Debate - Governação local.
+14: Não há alternativa aos sítios Web acessíveis: O debate sobre se é um bom pensamento oferecer ou não uma alternativa só-texto de todo um sítio Web. Dan Jellinek faz a reportagem.
+[Fim do índice].
+
+++NOTÍCIA PUBLICITÁRIA:
+- DIREITOS DA INCAPACIDADE NA EUROPA: DA TEORIA À PRÁTICA 
+ 
+A Disability Rights Commission do RU, com o Department of Law e o Centro de Estudos para a Deficiência da Universidade de Leeds, tem o grato prazer de anunciar a conferência comemorativa do Ano Europeu das Pessoas com Deficiência a ter lugar em Leeds a 25-26 de Setembro de 2003.
+ 
+A conferência vai examinar estratégias legais adoptadas internacionalmente para combater a discriminação contra a pessoa com deficiência. Vai servir também para servir de palco à criação de uma rede de parceiros interessados em desenvolver trabalho em curso na matéria. Este evento foi acreditado com dez pontos 'CPD' (continuing professional development - desenvolvimento profissional continuado) pela Law Society e pelo Bar Council. 
+
+Para mais informações e para uma visita ao livro: 
+http://www.disability-europe.info/lawconference 
+ou use o email de Anna Lawson que é o a.m.m.lawson@leeds.ac.uk ou o telefone 0113 2335054.
+[Fim da notícia publicitária].
+
+++SECÇÃO UM: NOTÍCIAS.
+
++01: ACÇÃO SECRETA PODE SER O DISPARAR DE UMA ONDA DE CASOS.
+
+Uma acção legal, lançada em segredo este mês contra empresas com sítios Web que são difíceis de aceder a pessoas com deficiência da visão, pode ser o pontapé de saída para mais casos, apurou o Boletim E-Access.
+
+Os casos foram revelados pela Disability Rights Commission 
+(http://www.drc-gb.org) com o apoio do RNIB. Por razões legais, não podem ser revelados detalhes, mas pelo que o Boletim E-Access pode compreender um dos casos pode envolver uma loja on-line bem conhecida.
+
+A acção leva a crer que será a primeira vez que a Disability Discrimination Act (DDA - http://www.disability.gov.uk/dda/) leva um proprietário de um sítio Web à barra do tribunal.
+
+"Podemos perfeitamente ver muitos mais casos como este. Isto faz crescer o perfil da acessibilidade Web e muitas pessoas irão consciencializar-se que têm direitos e que podem exercê-los, em vez de apontar somente os problemas," disse um porta-voz do DRC. 
+
+De acordo com a comissão, apesar de esta ser a primeira vez que a DDA trouxe casos de sítios Web, outros casos anti-discriminação irão surgir de igual forma. Uma assessoria inicial independente será utilizada para identificar os problemas, ao qual se seguirão negociações para os ultrapassar. Somente se as negociações falharem se irá partir para um caso de tribunal. 
+
+"O principal objectivo desta legislação não é dizer às pessoas que estarão obrigados a pagar uma coima caso os seus sítios Web sejam inacessíveis, mas encorajá-los a ir mais longe e a alterar os seus sites," disse o solicitador Richard Swinburne. O RNIB recusou comentar os casos em detalhe. Um porta-voz disse: "os casos podem parar, estar em negociações confidenciais ou ser resolvidos em qualquer etapa e não podem ser obviamente comentados enquanto este processo não estar completo."
+
++02: COMPRAS EUROPEIAS ABRAÇAM A ACESSIBILIDADE.
+
+Os departamentos públicos vão passar a ter em conta as necessidades das pessoas com deficiência da visão aquando da realização de contratos para serviços digitais, de acordo com votação ocorrida este mês no Parlamento Europeu.
+
+O parlamento votou no sentido da adopção de uma proposta recentemente introduzida numa directiva que será aprovada no final do corrente ano (http://fastlink.headstar.com/europroc). O Conselho da União Europeia, composto pelos ministros das finanças e economia dos estados membros, vai agora considerar se será necessário introduzir alguma emenda antes da votação final que ocorrerá dentro de três meses. Se este processo decorrer sem sobressaltos ele fará parte da política de aquisições do sector público em todos os estados membros da UE no final de 2003.
+
+Apesar da nova directiva não obrigar os departamentos estatais a incluir a acessibilidade em todos os seus contractos de aquisição, eles são fortemente recomendados a fazê-lo. Especificamente, o documento agora conhecido solicita às autoridades que "sempre que possível, as autoridades contratantes devem ter em conta os critérios de acessibilidade para as pessoas com deficiência ou requisitos de desenho para todos sempre que tais especificações sejam conhecidas". 
+
+De acordo com o Fórum Europeu da Deficiência (http://www.edf-feph.org/en/welcome.htm), o presente documento contém uma forte e significativa orientação pela acessibilidade inexistente na actual legislação reguladora das aquisições públicas. "Anteriormente, a acessibilidade era incluída nos critérios a ter em conta aquando da celebração dos contractos, mas agora as autoridades terão de fornecer uma justificação plausível para a sua não existência", disse um porta-voz (veja o Boletim E-Access número 28, Abril 2002).
+
++03: HARRY POTTER E A VERSÃO PERDIDA.
+
+A versão áudio descrita do último livro de Harry Potter está atrasada, o que significa que os leitores com deficiência da visão não terão a oportunidade de disfrutar deste fenómeno editorial antes do fim do mês de Setembro, ficou a saber o Boletim E-Access.
+
+A BBC Books foi contratada pela Bloomsbury, a editora do 'Harry Potter e a ordem de phoenix', para produzir a versão áudio em cassete e em CD. No entanto ela informa que vai ser necessário esperar até o actor Stephen Fry esteja pronto para compreender a leitura. "O objectivo era o de ter conseguido a versão áudio ao mesmo tempo [que o livro]", disse um porta-voz da BBC. "Mas o Stephen Fry encontra no meio da direcção de um filme. A primeira oportunidade que ele tem de gravar será nas duas últimas semanas de Julho."
+
+A versão áudio ficará disponível em cassete e em CD a 22 de Setembro a um preço de catálogo de 75 libras, mas as suas próprias lojas e um número de outros retalhistas irão oferecer descontos entre 20 a 30 por cento.
+
+Uma vez completo, o RNIB irá duplicar a versão áudio para os seus subscritores de Livros Falados (http://fastlink.headstar.com/talk2), que custa 60 libras por ano de inscrição.
+
+Uma porta-voz do RNIB disse: "É muito frustrante e desvantajoso para as pessoas cegas ou com baixa visão mas esta situação não é invulgar - mais de 90 por cento dos livros não são editados em nenhuma versão acessível." 
+
+A versão transcrita em braille do livro de Harry Potter já está a caminho, iniciando-se a sua produção dentro de duas semanas desde o lançamento generalizado pela associação Scottish Braille Press (http://www.scottish-braille-press.org). O director geral da associação, John Donaldson disse: "Apenas 5 por cento dos livros são produzidos em Braille. Harry Potter é um livro com muita procura pelo que dicidimos logo no início do ano que o iriamos produzir assim que ele fosse publicado".
+
+Scottish Braille Press recebeu até agora 70 pedidos do livro, dividido em 16 volumes, a um preço subsidiado de 12.50 libras por livro. Donaldson disse que existe uma procura maior para este livro do que para os quatro livros anteriores de Harry Potter.
+
++04: POSTES DE ILUMINAÇÃO FALANTES PARA O NORTE DE LONDRES.
+
+Um teste que usa postes de electricidade falantes para orientar pessoas com deficiência da visão começou a semana passada no município Londrino de Barnet, e poderá ser alargado a outras partes da capital caso seja bem sucedido. 
+
+O projecto, intitulado de 'React', vai envolver unidades de "audio guide" (guias áudio) colocados em 26 postes de electricidade, a maior parte deles na área do Golders Green. Foi levado a efeito pela consultora sem fins lucrativos do sector de acesso por deficientes JMU (http://www.jmuaccess.org.uk), com o apoio do RNIB e do Zurich Financial Services.
+
+Mark Rose, consultor de sinaléctica electrónica na JMU, disse "É um típico subúrdio Londrino com difíceis travessias e cruzamentos. A área encontra-se apetrechada com um sistema similar colocado à cerca de dois anos nas estações de autocarro e comboio." 
+
+Os utilizadores transportam um pequeno sistema activador, do tamanho de uma caixa de cartas, o qual quando apontado directamente activa guias de orientação audível acoplados ao poste de electricidade. 
+
+Altifalantes fornecem informação sobre a localização do utilizador quando este se encontra a oito ou nove metros de distância. Os activadores, que são padronizados em todo o RU, podem ser obtidos gratuitamente no RNIB, no JMU ou nas Casas Jewish Care.
+
+"É um sistema que lhe diz onde se encontra," disse Rose. "Por exemplo, diz-lhe em que rua ou cruzamento se encontra ou que paragem de autocarro é que você acabou de chegar. Enquanto que a maioria dos utilizadores com deficiência da visão tem um bom conhecimento dos locais, já não é verdade em relação ao conhecimento de onde se encontram num dado momento, ou de saber as distâncias entre os locais."
+
+Outras cidades do RU que estão a testar o sistema são Leeds - onde os utilizadores podem ouvir mensagens em Hindi, Gujarati ou Urdu - Birmingham, Bristol, Glasgow 
+e York. Os projectos de Birmingham e Bristol têm sido financiados pelas Câmaras Municipais locais , enquanto que outras áreas conseguiram financiamento de uma diversidade de fontes, incluíndo dinheiro da lotaria.
+
+No futuro, o sistema pode também ser utilizado para fornecer informação turistica, disse Rose, apesar de não estar segura se as pessoas com deficiência da visão continuaram a receber os cartões gratuitamente caso tal inovação venha a surgir.
+
+++NOTÍCIAS BREVES.
+
++05: INCLUSÃO DIGITAL: O papel da acessibilidade às tecnologias digitais no combate às desigualdades sociais será discutidas em 'Acessibilidade, Tecnologia da Informação e Inclusão Digital', uma conferência a ter lugar entre 23 e 25 de Setembro na Escola de Saúde Pública, Universidade de São Paulo, Brasil. Para mais informações ver:
+http://www.fsp.usp.br/acessibilidade .
+
++06: MUSEU VIRTUAL: A Fundação Americana para os Cegos lançou um museu virtual para as crianças dedicado a Helen Keller, surdocega, defensora das pessoas com deficiência. A exposição é a última adição aos prémios ganhos pela fundação existentes no site para crianças 'Braille Bug', que contém legendas de video, fotografias e uma lista de leituras para crianças em idade escolar.  
+http://www.afb.org/braillebug/hkmuseum.asp .
+
++07: FORNECIMENTO ADEQUADO: Nove computadores especialmente adaptados e vários quiosques com ecrã táctil foram lançados a semana passada em Leicester, permitindo às pessoas com deficiência da visão aprender a lidar com as novas ferramentas TI. Foi também lançado um portal Web que forncece informação sobre assuntos relacionados com deficiência:
+http://www.ldicn.org.uk .
+
++08: ACESSO THIN: A Dolphin Computer Access anunciou que os utilizadores do leitor de ecrã HAl, desenvolvido pela empresa, estará apto a aceder aos terminais computador 'thin client' com uma nova versão do software a ser lançado no final deste ano. De acordo com a Dolphin, o produto actualizado será compatível com o Microsoft Windows Server, uma solução líder que permite às grandes organizações armazenar os dados em servidores centrais para serem acedidos por terminais de secretária (os 'thin clients'):
+http://www.dolphinuk.co.uk .
+[Fim da secção um].
+
+++NOTÍCIA ESPECIAL: PEDIDO DE TRABALHOS A APRESENTAR NA TECHSHARE - 
+LEMBRETE.
+ 
+A Techshare 2003 é uma importante conferência para profissionais interessados em tecnologia e para o seu papel na aprendizagem, trabalho e vida das pessoas com problemas da visão. 
+ 
+Pretende mostrar os seus produtos e serviços na Techshare? Se está a pensar em submeter um trabalho para este evento, então isto é um aviso para o recordar que o prazo limite se está a aproximar rapidamente. A recepção de trabalhos termina a 31 Julho, por isso envie-nos o seu trabalho o mais breve possível. 
+ 
+Aos participantes será oferecido um desconto na sua taxa de inscrição. Para mais detalhes veja 
+www.rnib.org.uk/techshare ou use o e-mail: techshare@rnib.org.uk .
+[Fim da notícia especial].
+
+++SECÇÃO DOIS: 'A RECEBER'
+- FÓRUM DOS LEITORES
+- Por favor envie todas as contribuições ou respostas para inbox@headstar.com .
+
++09: LIÇOES DE ESPANHOL: Jane Sellers, uma leitora de Surrey, Inglaterra, escreve fazendo um pedido relacionado com a aprendizagem de uma língua: "Estou à procura de um pacote de cassetes que me permitam aprender as bases de Espanhol pois os meus pais vão-se mudar para Málaga no próximo ano - dado que vamos para uma pequena vila, preciso de aprender a língua porque lá pouca gente fala Inglês. 
+
+"Alguém tem as ditas cassettes, ou alguém tem conhecimento de quem pudesse ensinar uma menina quase cega a fazer um curso de Espanhol?" [Enviar respostas por favor para inbox@headstar.com].
+
++10: ANGARIAÇÃO DE OPINIÕES: John Knight do Birmingham Institute of Art and Design, pertencente à University of Central England, está a conduzir  um inquérito online recolhendo opiniões sobre a acessibilidade à web. Está-se a pedir o apoio dos leitores do Boletim E-Access a participarem através do preenchimento do formulário em:
+http://www.biad.uce.ac.uk:8080/questionnaire/accessibility
+
+Para receber o questionário em formatos alternatives, incluindo por entrevista telefónica, contactar John ou john.Knight@uce.ac.uk ou pelo telefone 0121 331 7868. Os dados pessoais fornecidos por si serão processados de acordo com a lei de protecção de dados, e os resultados só ficarão disponíveis em formato anónimo.
+
++11: DIAS DA RÁDIO: Peter Petersen escreve com o pedido de informação sobre rádio na Internet, em nome da sua mãe, com 93 anos de idade, que vive numa povoação isolada na Nova Zelândia.
+
+"A sua visão não é boa e ela dificilmente consegue ver televisão," diz ele. "Parece-me que uma possível maneira de ela ter contacto com o mundo é ouvir as estações de rádio mundiais na internet. Eu descobri a variedade de rádios na internet por acidente mas isso significa que uma pessoa na Austrália ou na Nova Zelândia pode ter uma boa qualidade na recepção de uma enorme variedade de pequenas estações Europeias ou Norte Americanas de música ou de conversação. 
+
+"Eu posso-lhe organizar um computador com ligação à Internet mas talvez haja um excelente software adequado para ela utilizar ou aprender a utilizar e que lhe permita pesquisar no mundo a música e as notícias ou os programas de conversação. Alguém conhece este tipo de software ou mesmo dispositivos de hardware para internet? Ou haverá alguma lista de discussão ou salas de 'chat' que eu possa entrar para recolher e trocar alguma informação?" [Responder por favor para inbox@headstar.com].
+
++12: ERRO NO MAINE: O mês passado erroneamente localizámos o Estado de Maine no Canadá - é óbvio que é um estado dos Estados Unidos. Pedimos desculpa à webmestre Leesa Lavigne cujo item do 'A Receber' nós "relocalizamos" desta forma!
+[Fim da secção dois]
+
+++ SECÇÃO TRÊS: ENTREVISTA
+- ENSINO SUPERIOR
++13: A ESCOLHA PELA CORRENTE DOMINANTE
+por Mel Poluck mel@headstar.com
+
+Um dos principais recursos para aprimorar o acesso à educação de portadores de deficiência sensorial é a oferta de material de cursos em diferentes formatos.
+
+A necessidade de tal oferta tornou-se agora um imperativo legal na Inglaterra, com a aprovação da Lei de Necessidades Educativas Especiais e Deficiência, de 2001, (SENDA - http://fastlink.headstar.com/senda1).
+
+Uma das instituições de ensino superior que vem respondendo positivamente às novas exigências é o King College de Londres KCL (http://www.kcl.ac.uk) onde, conforme o relato da Diretora de Igualdade e Diversidade, Emma Price, o trabalho na área de acessibilidade "visa torná-la de uso generalizado (mainstream), ou seja, fazer com que passe a fazer parte do consciente das pessoas, como uma corrente dominante".
+
+No KCL, os formatos alternativos - inclusive braile, CD Rom, disquete, Internet, impressão com tipos ampliados, fitas cassete, mapas táteis - são oferecidos sempre que algum material é produzido para ser amplamente distribuído entre os estudantes ou entre os funcionários, sejam prospectos de departamentos, folhetos sobre serviços de saúde para os alunos ou material impresso entregue em sala de aula.
+
+Visando fornecer orientações e garantir que nenhum aluno seja privado de qualquer informação dada pela Faculdade, Price escreveu um regulamento sobre formatos acessíveis, na mesma linha da política de oportunidades iguais da Faculdade e da legislação vigente na Inglaterra.
+
+No processo de elaboração das políticas, foram usadas sugestões dos funcionários e dos alunos e um voluntário do programa de treinamento de empregos do Redhill College do RNIB - Royal National Institute of the Blind (http://fastlink.headstar.com/redhill) auxiliou na avaliação das instalações existentes. "Usei também o "pacote" See It Right (Veja corretamente) do RNIB (http://fastlink.headstar.com/see1), como auxílio na elaboração da política", conta Price. Este "pacote" compreende aplicativos, informação e técnicas sobre design, planejamento e produção de informações acessíveis.
+
+Em toda a Faculdade, funcionários de departamentos que têm contato com pessoas com deficiência receberam capacitação específica, oferecida por Price e sua equipe e por Skill: National Bureau for Students with Disabilities (Skill: Escritório Nacional dos Alunos com deficiência) (http://www.skill.org.uk), que é uma ONG que promove oportunidades de aprendizagem e de trabalho para jovens a partir de 16 anos, com qualquer tipo de deficiência.
+
+Sobre os formatos mais requisitados, ela conta: "Textos digitalizados e a Internet são os mais populares, as coisas realmente caminham para este lado - a maioria dos alunos usa e-mail. Muito material é colocado na Internet para atualizar as páginas dos departamentos. Não tivemos sequer um pedido para tradução de braile".
+
+Alguns formatos causam problemas específicos. "Arquivos anexados são difíceis de ler com softwares adaptados. Por exemplo, os arquivos em pdf (portable document format) precisam ter uma alternativa em Word ou em texto", diz ela.
+
+Para resolver este problema, o regulamento que eles criaram indica que um web link deverá estar acessível em qualquer documento em pdf, conectando-o com o Access Adobe, um programa que traduz arquivos em pdf para html, ou para versões em texto que poderão, então, ser lidas com o software adaptado. "Tive uma reunião com o diretor de serviços de web sobre acessibilidade e agora esta orientação faz parte de seus treinamentos", diz ela.
+
+Esta política não trata apenas de tecnologia: estilo é também um tema para acessibilidade. "Materiais escritos e impressos com clareza são valiosos para todos", diz Price. Deste modo, a política afirma: "A acessibilidade à informação deveria ser uma preocupação constante, não apenas para as pessoas com deficiência, mas também para toda a comunidade".
+
+Quais são as metas atuais de Price e sua equipe? "É muito difícil garantir que 100 por cento dos funcionários estejam cientes dos fatos, mas a curto e médio prazos seria maravilhoso se todos os pedidos de acessibilidade fossem prontamente respondidos", diz ela. "Precisamos falar mais sobre estes assuntos, ter mais capacitação de pessoal e mais conscientização".
+
+E as outras instituições - estarão prontas para seguir o exemplo?
+Infelizmente, Price percebeu que falta entusiasmo em serviços semelhantes, voltados para pessoas com deficiência de outras instituições. "Enviei um e-mail recentemente para um fórum de discussão on-line, mas o único tipo de resposta que obtive foi "sim, esta é uma preocupação para nós também." Fiquei surpresa ao ver que apenas 3 pessoas nos responderam - para nós, era algo que todos tínhamos que fazer".
+
+A percepção do alto custo envolvido no trabalho em acessibilidade parece constituir o principal problema para muitos, diz ela. "Para diversas instituições, os comentários iniciais são, em geral, "quanto vai custar?" Mas este é um assunto que envolve não só os negócios, como também aspectos éticos".
+
+Hoje em dia, Price acredita que o ponto crucial para obter um formato adequado e acessível é incluir o seu planejamento desde o início do processo de publicação. "Por exemplo, se a Faculdade de Medicina produzir um manual, é importante incluir serviços de transcrição desde a estratégia, nas etapas de planejamento".
+
+Uma situação de impasse poderá surgir, pois algumas pessoas afirmam que apenas farão algum movimento em direção à acessibilidade se solicitações neste sentido mas, se esta informação não estiver disponível em formatos acessíveis, as pessoas não farão esta solicitação, e não vão saber que a tal informação poderia estar disponível.
+
+"Quanto mais pedidos forem feitos, mais pessoas vão perceber que precisamos oferecer formatos acessíveis. Mas, a não ser que você divulgue o fato de que produz formatos alternativos, ninguém chega até você".
+[Fim da secção três]
+
+++SECÇÃO QUATRO: DEBATE
+- GOVERNAÇÃO LOCAL.
+
++14: NÃO HÁ ALTERNATIVA AOS SÍTIOS WEB ACESSÍVEIS.
+por Dan Jellinek  dan@headstar.com
+
+A acessibilidade aos sítios Web foi o tópico mais debatido este ano no fórum governamental on-line 'Better Connected Live', moderado pelo gestor de Tecnologias da Informação do governo local, Socitm (http://www.socitm.gov.uk).
+
+O conceito de acessibilidade diz respeito à facilidade com que todos os tipos de usuários, inclusive pessoas com deficiência, e até mesmo portadores de deficiência visual podem ter acesso à informação em um web site. Muitas autoridades municipais e órgãos públicos oferecem uma versão text-only (apenas texto) de seus web sites, já que estes são considerados mais acessíveis para os leitores de tela. Porém, a maioria dos participantes de um debate on-line sobre este tema acredita que tal estratégia foi mal concebida.
+
+Martin Bottomley, do Dorset County Council (Inglaterra) diz: " Eu ainda fico surpreso com o fato de que praticamente todos os websites de governos locais têm uma alternativa text-only, apesar desta não ser a melhor prática".
+
+"Na verdade", continua ele, "deveria haver uma versão gráfica de um site que atinja pelo menos o padrão mínimo de acessibilidade internacional WAI (http://www.w3c.org/wai), até o nível de "prioridade 1".
+
+Isto porque os portadores de deficiência não gostam de ter tratamento especial, e os sites só de texto são desnecessários, se os sites em versão gráfica estiverem acessíveis. Esta prática também segue as orientações do Governo Central, que afirma: " as páginas em formato só texto raramente são necessárias e esta não é a melhor solução" e "o desafio para seus webdesigners deve ser o de criar páginas que sejam visualmente agradáveis e totalmente acessíveis a uma ampla gama de usuários" (consultar http://fastlink.headstar.com/oee2).
+
+"Outro motivo para não construir sites somente de texto é que pode haver uma possibilidade muito grande de criar um site separado, mas inferior para alguns grupos de pessoas, sem que isso seja necessário. Por exemplo, 90 por cento das pessoas que estão registradas como sendo cegas têm algum grau de visão. Suas necessidades poderiam muito bem ser atendidas usando-se uma versão gráfica com fonte de tamanho maior e onde o conteúdo seja apoiado por gráficos, ao invés de apenas textos".
+
+Chris Swaine, webmaster da Reading-city.Net, disse: "Um grande problema é que muitos diretores e membros de diretorias - mesmo os responsáveis pela direção de websites - conhecem muito pouco sobre governo eletrônico (e-government) e ainda menos sobre os assuntos que dizem respeito à acessibilidade dos websites.
+
+Como membro da diretoria, me sinto muito frustrado em ter que educar tanto meus colegas como meus diretores. Também não me satisfaço com as soluções de software de empresas que desenvolvem opções extremamente caras, e que, na verdade, não estão realmente interessados em criar websites acessíveis e templates que satisfaçam os padrões básicos de acessibilidade, o que não é muito difícil.
+
+Como profissional, envolvido com o problema de acessibilidade no movimento on-line na Inglaterra, eu gostaria de enxergar soluções que considerassem a acessibilidade total como sendo uma norma integrada ao seu trabalho, sem que as pessoas pensassem nisto como uma coisa a mais".
+
+Mary Ann Hooper, gerente do projeto de web site de serviços para adultos no Herts County Council disse: "Acredito que seja necessário mais trabalho para garantir que os webdesigners, provedores e usuários de websites entendam o que significa acessibilidade. Parece que as pessoas acreditam que se trata de usuários cegos, o que é verdade, de certa forma, mas estes são apenas um dos grupos que precisam que o projeto de websites seja acessível. É também uma necessidade de uma ampla gama de usuários, como por exemplo, aqueles que têm navegadores antigos, os que não são capazes de usar um mouse por incapacidade física, ou aqueles que precisam de um texto em letras ampliadas ou em cores diferentes, assim como muitos outros. Acessibilidade universal é o que devemos almejar".
+
+Steve Crossan, que faz parte do grupo de programadores em fonte aberta (open source), denominado Runtime Collective disse: "A única maneira de fazer com que a acessibilidade realmente funcione é ter um grupo representativo de usuários envolvidos no processo, de preferência que estejam trabalhando junto com os designers o máximo possível. Esta equipe não precisa ser numerosa - três a cinco pessoas fariam um bom trabalho - e não precisa ser um processo caro, já que deve caber no orçamento dos organismos de governo eletrônico. Este grupo deve representar uma gama de usuários potenciais. Além disso, pode-se usar uma consultoria de acessibilidade quando necessário - ou, ao menos, testar todos os seus projetos através de um leitor de tela.
+"E aqui vai minha dica número um, que é muito barata para implementar: use texto com tipos ampliados."
+
+Observação: Este artigo foi publicado pela primeira vez no Boletim E-Government (http://www.headstar.com/egb)
+[Fim da secção quatro]
+
++COMO RECEBER ESTE BOLETIM.
+
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com>. Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos a assinar!
+
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com
+
+Copyright 2003 Headstar Ltd http://www.headstar.com.
+O Boletim pode ser reproduzido desde que todas as partes incluam esta nota de copyright, e desde que as pessoas sejam encorajadas a contactar-nos por email para subscrever de forma individualizada. Informe também o editor quando pretenda reproduzir os nossos conteúdos. As secções deste relatório podem ser citadas desde que estejam claramente referenciadas com a indicação "retirado do boletim e-access, uma newsletter mensal enviada por email gratuitamente", citando também o endereço do nosso sítio Web http://www.e-accessibility.com.
+
+-**-
+Nota à edição Portuguesa: Caso os leitores portugueses estejam interessados em enviar os seus comentários e sugestões, bem como enviar alguns artigos que abordem as questões de acessibilidade à Sociedade da Informação podem remetê-los, em Inglês ou Português, para o seu editor Dan Jellinek através do e-endereço: dan@headstar.com, ou mesmo para gesta@gesta.org 
+-**-
+
+PESSOAL:
+Director - Dan Jellinek dan@headstar.com
+Vice-director - Phil Cain phil@headstar.com
+Redactor - Tamara Fletcher tamara@headstar.com
+Conselheiro Editorial - Kevin Carey humanity@atlas.co.uk 
+
+[Fim da edição.]

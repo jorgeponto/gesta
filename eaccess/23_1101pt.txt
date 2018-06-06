@@ -1,0 +1,311 @@
+* Boletim E-Access
+Boletim electrónico on-line de notícias sobre tecnologia para pessoas com deficiência visual.
+Endereço do Boletim E-Access: 
+<http://www.e-accessibility.com>
+
+Patrocinado pelo Royal National Institute for the Blind:
+<http://www.rnib.org.uk>
+o National Library for the Blind (Biblioteca Nacional para os cegos):
+<http://www.nlbuk.org>
+e a Guide Dogs for the Blind Association (Associação de Cães-Guia para cegos):
+<http://www.guidedogs.org.uk>
+
+Versão Portuguesa: cortesia do GESTA-MP (Grupo de Estudos Sociais, Tiflológicos e Associativos)
+<http://www.gesta.org> 
+
+Divulgue, por favor, este boletim pelos seus amigos e colegas, e diga-lhes que o podem subscrever em Português, bastando para tal enviar uma mensagem para o endereço electrónico: <mailto:eab-pt-subs@headstar.com>. Veja os pormenores na parte final deste boletim.
+
+Quantos mais subscritores tivermos, melhor será o nosso serviço!
+
+NOTA: Para facilitar a navegação a todos aqueles que utilizam leitores de ecrã, todos os cabeçalhos agora iniciam-se com um asterisco e terminam com um ponto final. Diga-nos, por favor, se existe mais alguma coisa que possamos fazer de forma a facilitar a consulta do boletim.
+
+[início DO BOLETIM]
+
+* BOLETIM 23. NOVEMBRO DE 2001
+* ÍNDICE.
+
+Secção um: Notícias.
+
+- Novo sítio Web Olímpico reabre controvérsia
+
+- Sinais de vida detectados no sítio sobre deficiência do governo Inglês
+
+- XP come memória com os seus automatismos
+
+- O padrão VoiceXML saúda-nos com contestação
+
+- Universidade de Washington alberga o centro nacional de acessibilidade dos Estados Unidos
+
+Notícias breves: Rede Nistagmus relança sítio Web; O Braille na Era digital; Lançada impressora táctil.
+
+Secção dois: 'a receber'
+
+- Compilação das mensagens de correio electrónico dos leitores.
+
+Secção très: Desenvolvimento da criança: as falhas no sistema educativo.
+
+Secção quatro: Europa: uma união cada vez mais acessível na Web?
+
+Secção cinco: Jogos acessíveis: realidade virtual.
+
+[Fim do índice.]
+
+* SECÇÃO UM - NOTÍCIAS.
+
+* NOVO SÍTIO WEB OLÍMPICO REABRE CONTROVÉRSIA.
+A preocupação paira sobre a inacessibilidade para pessoas com deficiência do sítio Web das Olimpiadas de Inverno que terá lugar na cidade de Salt Lake, o que leva muitos a perguntar se de facto o movimento Olímpico tirou alguma lição das evidências criminais apresentadas em tribunal contra si na Austrália, no ano passado.
+
+No seguimento dos Olímpicos e Paralimpicos de Sidney 2000, o utilizador cego da Web, Bruce Maguire, foi contemplado com 20,000 dólares Australianos pelos danos causados pelo comité organizador dos jogos quando a Comissão Australiana dos Direitos do Homem e Igualdade de Oportunidades verificou que a inacessibilidade do sítio Web dos jogos caudou "dor e sofrimento" a Maguire.
+
+Os sítios inacessíveis não permitem às pessoas cegas usar conversores texto para voz ou a utilização de software especial de acesso à informação.
+
+Agora a preocupação foi expressa na lista de email "accessibility" em que o comité organizador das próximas Olimpíadas de Inverno, que terá início a 8 de Fevereiro de 2002, não parece ter tomado em atenção o caso Australiano.
+
+O relatório oficial recentemente publicado do sítio dos jogos que está em http://www.slc2002.org inclui o facto que algumas imagens não possuem imagens nem títulos; tecnologias inacessíveis tais como javascript e Flash estão a ser utilizados sem oferecer qualquer tipo de alternativa; metadata não está a ser utilizada para adicionar informação sobre as páginas; os utilizadores não são avisados quando surgem janelas automáticas no navegador; páginas de frames são utilizadas sem os respectivos títulos; e os ficheiros áudio não possuem legendas.
+
+Existem também problemas com a nitidez do texto, havendo inclusivamente texto em cima das imagens o que dificulta grandemente a leitura mesmo para pessoas que não têm deficiências visuais. Por outro lado, parece funcionar bem com alguns leitores de ecrã, e estão presentes algunas regras de acessibilidade, tais como transcrição textual dos vídeos.
+
+O perito de acessibilidade, Joe Clark (http://www.joeclark.org) afirmou que muitos dos problemas encontrados no sítio são menores, e que ainda faltam muitas semanas para efectuar as correcções. Se as correcções não forem feitas, contudo, Clark avisa que o caso Australiano pode ser relembrado e tornar-se num fantasma para os organizadores americanos.
+
+"Os casos de direitos Humanos são por definição internacionais. Os princípios de acomodação das pessoas com deficiências que sofrem e que se defrontam com processo penosos na sua vida diária são no essencial idênticos nos Estados Unidos, na Austrália e em muitas outras nações, por isso o caso Sidney ficará como um precedente internacional", disse ele. "O comité Olimpico Internacional será tolo se cometer o mesmo erro duas vezes."
+
+Alguns observadores são ainda mais incisivos. Outro perito em acessibilidade que pediu o anónimato disse: "Dada a acção contra o sítio Web Olimpico promovido pelas autoridades australianas, o facto de o sítio da Cidade de Salt Lake não ser acessível mostra o desrespeito para com as pessoas com deficiências que na melhor das hipóteses é cruel, e na pior é deliberada.
+
+E se existem dúvidas sobre a aplicabilidade da lei Australiana nos tribunais dos Estados Unidos, a America tem a sua própria lei através da qual as pessoas que se sintam agredidas poderão actuar, intitulado "Americans with Disabilities Act" (Acto pelos americanos com deficiência) (http://www.usdoj.gov/crt/ada/adahom1.htm). Tendo em conta esta lei, as organizações que não disponibilizem os seus serviços ou produtos em formatos acessíveis podem ter que suportar coimas para cima dos 50,000 dólares americanos.
+
+Numa nota bem mais positiva, o comité organizador das Olimpiadas de verão que vai ter lugar em Atenas, em 2004 parece estar a preparar-se para ser o primeiro a abraçar na totalidade a matéria da acessibilidade à Web. Um porta-voz do comité de Atenas disse ao Boletim E-Access esta semana que está actualmente a redesenhar o seu sítio (http://www.athens.olympic.org/en - apesar de no momento em que escrevemos este artigo o sítio estar em baixo por motivos de trabalhos) e que, "numa segunda fase, [o comité] estar a planear para o tornar acessível a pessoas com deficiências."
+
+NOTA: Para tomar conhecimento de toda cobertura já feita por nós do caso Sidney, veja o boletim 9, 10, 11 e 17. E para a analise promovida por Joe Clark e a nova controvérsia, ver: http://www.contenu.nu/article.htm?id=1202
+
+* SINAIS DE VIDA DETECTADOS NO SÍTIO DO GOVERNO.
+O governo do Reino Unido já há muito que negligência a Web para informar e fornecer consultoria relativamente às suas políticas em matéria de deficiência. O sítio "Disability - on the agenda" (Deficiência - em agenda) que se encontra em http://www.disability.gov.uk, prepara-se para finalmente ser relançado num novo formato em Janeiro, segundo aquilo que o Boletim E-Access apurou.
+
+Já faz mais de um ano que o sítio contém a mesma informação básica e ligações com a seguinte mensagem afixada: "O sítio http://www.disability.gov.uk está a ser actualizado".
+
+O site ficou sem destino definido quando o departamento a quem pertencia, o ex-departamento da Segurança Social, sofreu uma transformação do departamento do Trabalho e Pensões (DWP) que ocorreu depois das últimas eleições.
+
+Seguiu-se um hiato enquanto o novo departamento assenta-se, mas um portavoz disse esta semana que a unidade para a área da deficiência do DWP foi finalmente constituída e que irá relançar o sítio com todo o suporte do ministério já no início do próximo ano.
+
+Todos aqueles que verificam o site de tempos em tempos na esperança de obter sinais de vida verificam, pela consulta da secção "O que há de novo", que não encontram nada mais recente do que uma página relativa a uma consulta governamental sobre o novo código de práctica no âmbito do "Disability Discrimination Act" que teve lugar em Maio de 2000.
+
+* XP COME MEMÓRIA COM OS SEUS AUTOMATISMOS
+Os investigadores em tecnologias de acesso e os utilizadores estão bastante ocupados com o trabalho de adaptação do Windows XP, o novo sistema operativo da Microsoft lançado no passado mês.
+
+O director de comunicações do RNIB, John Welsman, que se mudou para o Windows XP assim que saiu a sua primeira versão, dá nota que o sistema está bastante mais estável. Inclui também algumas ferramentas úteis como seja o software "Wizard" que permite configurar as opções de acessibilidade de uma forma mais intuitiva.
+
+No entanto, nem tudo é perfeitamente navegável. As caixas de diálogo, por exemplo, demoram um bocadinho antes de se poderem usar, diz Welsman, aparecendo muito mais janelas do tipo página Web do que antes. Welsman diz também que o XP é muito mais consumidor de memória do que os seus predecessores e recomenda o uso de máquinas com pelo menos 128 MB de memória "RAM"
+
+Quem desenvolve software de acesso ainda não modificou os seus programas para responder às características do sistema operativo, mas já existe uma versão teste compatível-XP disponível do popular leitor de ecrã JAWS (http://www.freedomscientific.com). O concorrente próximo WindowEyes (http://www.gwmicro.com/windoweyes/windoweyes.htm) espera ter uma versão para o XP já em Janeiro.
+
+Contudo, ambos, parecem ter ficado surpresos com o lançamento esta semana da versão compatível-XP do Supernova, que combina leitor de ecrã e ampliação de caracteres da Dolphin http://www.dolphinuk.co.uk). Resta saber se os desenvolvedores do Supernova deram a si próprios tempo suficiente para estudar todas as potencialidades do XP.
+
+* O PADRÃO VOICEXML SAUDA-NOS COM CONTESTAÇÃO.
+Um padrão ainda em fase de rascunho de uma linguagem para criar sítios Web de base voz tem sido largamene criticado por ter negligenciado a filosofia do "open source" (fontes abertas), que muitos pensam que se trata da chave de sucesso da Internet.
+
+Apesar da maioria das discussões on-line em redor do padrão enfatizar o seu mérito técnico, a incerteza tem crescido porque as organizações envolvidas na produção das primeiras especificações não se preocuparam com o pagamento de royalties das tecnologias patenteadas subjacentes ao uso destes padrões. Como mencinámos no nosso último boletim ('Patentes injustas', de Outubro 2001) não se sabe se o organismo responsável pelos padrões da Web, o W3C, vai ou não cobrar e que tal assunto é uma batata quente.
+
+O descontentamento em relação à linguagem VoiceXML 2.0 tem sido colocada em evidência no grupo de discussão: http://lists.w3.org/Archives/Public/www-voice
+
+* WASHINGTON ALBERGA O CENTRO NACIONAL DE ACESSIBILIDADE.
+Um novo Centro Nacional de Acessibilidade às Tecnologias de Informação, que será conhecido por 'AccessIT', está a ser criado na Universidade de Washington em Seattle, Estados Unidos da América (EUA).
+
+O projecto será financiado em 3,5 milhões de dólares pela organização governamental "National Institute on Disability and Rehabilitation Research (Instituto Nacional em Deficiência e Investigação em Reabilitação) (http://www.ed.gov/offices/OSERS/NIDRR) e será lançado nos próximos cinco anos.
+
+A nova unidade será encabeçada conjuntamente por Kurt Johnson do "Centre for Technology and Sheryl Burgstahler" e do projecto inovador DO-IT o qual oferece consultadoria na área da Internet a estudantes com deficiência (http://www.washington.edu/doit - e veja também o nosso Boletim de Novembro de 2000).
+
+* NOTÍCIAS BREVES:
+
+* SÍTIO WEB NISTAGMOS: A rede Inglesa de Nistagmos relançou o seu sítio Web com novas secções para crianças e investigadores académicos. O nistagmos caracteriza-se por movimentos involuntários muito rápidos dos olhos o que muitas vezes afecta seriamente a visão: http://www.nystagmusnet.org
+
+* DINAMARCA CONVIDA: Uma conferência sobre o Braille na Era digital vai ter lugar no próximo ano, de 16-19 de Abril, em Copenhaga, Dinamarca, levada a efeito pelo maior grupo de cegos do país: http://www.ibos.dk/braille
+
+* IMPRESSORA TÁCTIL: A Universidade Anglia Polytechnic desenvolveu uma versátil impressora táctil que pode produzir diagramas tácteis, símbolos e mapas anotados com texto em relevo, Braille ou Moon, numa variedade de materiais: http://www.enterprise.anglia.ac.uk/enterprise/tact01.asp
+
+[Fim da secção um.]
+
+* SECÇÃO DOIS - “A RECEBER”
+
+* FÓRUM DOS LEITORES.
+Por favor envie por email todas as contribuições ou respostas para inbox@headstar.com <mailto:inbox@headstar.com>
+
+* INDEXAÇÃO DIGITAL. “Um dos principais problemas que os estudantes cegos enfrentam é a falta de livros-de-texto,” escreve Anthony Bernard do Sri Lanka. “Os livros em braille num país do terceiro mundo, com é o caso do Sri Lanka, podem ser bastante dispendiosos. Desde que me reformei do meu emprego de professor, em Fevereiro deste ano, tenho algum tempo livre em que poderei digitalizar livros para CD’s para leitores cegos. Mas não tenho o software para compilar Índices, indexar ajudas de pesquisa, etc. Existem pacotes especiais de software para fazer este tipo de trabalho? Espero que alguém me envie informação relevante.” (inbox@headstar.com <mailto:inbox@headstar.com>)
+
+* Ajuda PARA cadeira-de-rodas. David Porter, um leitor assíduo do boletim, gostaria de ter informação sobre tecnologia que ajude utilizadores cegos de cadeiras-de-rodas eléctricas a ver as bermas do passeio. Também gostaria de encontrar informação sobre uma bengala com luz na ponta que permita, a uma pessoa com uma acentuada visão tubular, verificar o terreno à sua frente quando estiver escuro. (inbox@headstar.com <mailto:inbox@headstar.com>)
+
+* WILCO. Simon Wilkes gostaria de obter informações de pessoas que estejam interessadas em desenvolver acessibilidades para a banda do cidadão (rádio-amadores) bem como do respectivo equipamento de rádio necessário para utilizar este sistema. Telefone (Reino Unido) 020 8478 5841.
+
+* ACTUALIZAÇÃO DO GLUCÓMETRO. No seguimento do nosso recente apelo para informação e aconselhamento sobre os glucómetros com voz para pessoas cegas com diabetes, e da excelente resposta de um leitor (ver o boletim E-Access de Outubro 2001), recebemos outras três mensagens com informações preciosas.
+
+Tim Culhane de Dublin (Irlanda) escreve: “Recentemente ouvi falar sobre o glucómetro com voz, introduzido na Grã-Bretanha e na Irlanda no ano passado. Chama-se Gluki Plus, fabricado pela empresa Austríaca CareTec: <http://www.caretec.at/products/englisch/gluki/gluki.html>
+
+“É desenhado tendo em conta os deficientes visuais, com um ecrã grande e nítido, e com saída de voz integrado. O medidor em si é bastante pequeno e muito simples de usar. Mais, só é necessário uma gotinha de sangue para um teste.
+
+“O único problema é que custa 700 Libras Irlandesas (€ 888.82). Contudo, tenho a certeza que se se demonstrar que o instrumento é necessário para se levar uma vida independente, haverá subsídios da NHS ou de organismos semelhantes noutros países.”
+
+Acrescenta: “Eu tenho utilizado o medidor “One touch” da LifeScan (<http://www.lifescan.com>) desde que me foi diagnosticado diabetes há cinco anos atrás. Este pode-se ligar a um sintetizador de voz, e considero-o razoavelmente bom. A sua maior desvantagem é que é necessário colocar uma gota de sangue num determinado ponto da fita do teste, e é necessário uma grande quantidade. O medidor com o sintetizador é também um grande volume.”
+
+Carolyn Rupe de Perth (Austrália Ocidental), acrescenta: “Eu utilizo um glucómetro “Gluki Plus” há seis anos e considero-o extremamente bom. Apita quando se coloca o sangue suficiente na fita, e 45 segundos depois diz o resultado.
+
+“O medidor é ligado quando a fita é inserida no aparelho, e desliga quando se remove a fita. O aparelho é do tamanho de uma cassete áudio, portanto bastante fácil de transportar. Ficam gravados em memória os últimos dez resultados e pode-se assim consultar quando se desejar.
+
+“O preço destes aparelhos na Austrália é cerca de 1,250 Dólares Australianos (€ 772) . Os aparelhos estão também disponíveis através do Royal Blind Society em Nova Gales do Sul e os Australianos podem também candidatarem-se a um subsídio para conseguirem um aparelho.
+
+Finalmente, Virginia Carcedo do CIDAT, o centro de tecnologia da Organização Nacional de Cegos Espanhóis (ONCE), escreve: “A ONCE em cooperação com uma grande empresa desenvolveu e fabricou o “Sonogluco”. Este converte em voz informação relevante no ecrã do glucómetro para o dispositivo onde o Sonogluco é construído, o “GlucoTouch” (nota do editor: esta é uma outra tecnologia da LifeScan).
+
+“Existem agora unidades para seis diferentes línguas: Espanhol, Inglês, Francês, Alemão, Italiano e Português. O combinado custa 197 euros, mais IVA .” Para mais informação: <http://www.once.es/cidat>
+
+[Fim da secção dois]
+
+* Secção três: Em Foco
+
+* Desenvolvimento Infantil
+* Lacunas do Sistema
+Por Tamara Fletcher tamara@headstar.com
+
+Embora existam cerca de 22.000 crianças deficientes visuais no Reino Unido, há pouquíssima tecnologia ou software educacional disponível para elas nas escolas "normais".
+
+Este problema é agravado pela falta de aconselhamento aos pais de como fazerem sem este auxílio.
+
+De acordo com a secção dois da nova lei sobre deficiência e necessidades educativas especiais, de 2001, (http://www.hmso.gov.uk/acts/acts2001/20010010.htm), as autoridades locais "devem agir de forma a facultar aos pais de qualquer criança com necessidades educativas especiais da sua área, aconselhamento e informação... relacionada com estas necessidades".
+
+De acordo com Chris Stevens, representante das necessidades especiais junto da agência governamental de tecnologia educativa Becta (http://www.becta.org.uk), as tecnologias para as crianças em idade pré-escolar recebem particularmente muito pouca atenção.
+
+"A Becta tem desenvolvido bastante trabalho no sentido de despertar a consciência das autoridades da educação locais, bem como dos criadores de software", diz Stevens. "Vai aumentando a consciência, mas há ainda entre os fornecedores de tecnologias a preocupação de que criar meios acessíveis irá custar mais dinheiro," diz Stevens.
+
+Olga Miller, directora do RNIB para os Assuntos Infantis, está também preocupada. "Actualmente não existe para os pais um caminho preciso a seguir, no sentido das crianças terem acesso às tecnologias em casa. Esta continua a ser uma área muito carenciada. Com formação, os pais podem fazer muito no sentido de encorajar os seus filhos a serem independentes; contudo, as verbas são escassas e não existe nenhuma ajuda concreta do poder central.
+
+Wendy Sainsbury, dirigente do serviço Nacional de apoio à Família no "Look" (http://www.look.graphicbox.co.uk), uma organização de apoio às famílias com crianças portadoras de deficiência visual, sustenta este ponto de vista. Apesar de haver algumas organizações que distribuem donativos, tais como meios electrónicos para os cegos (http://www.eabnet.org.uk) e a Sociedade nacional para as crianças cegas (http://www.nbcs.org.uk), ela diz: "De uma forma geral as crianças não têm o acesso que deveriam ter. Muitas vezes onde existe verba elas têm que partilhar os equipamentos. Conseguir fundos para que elas possam ter esses equipamentos em casa é o maior problema - a situação é um verdadeiro pesadelo já que não existem muitos locais onde as famílias possam obter fundos."
+
+Os meios para ter acesso a essas tecnologias na escola são igualmente problemáticos. Miller diz que existe uma cobertura extremamente deficiente no acesso às novas tecnologias, provocada pela fragmentação dos fundos das autoridades locais de educação para deficientes visuais; desse modo cada Serviço de apoio de cada Autoridade Local de Educação está estruturado de forma diferente.
+
+Este problema, segundo Miller, é agravado pelo facto de muitas escolas estarem restringidas às normas dos serviços administrativos das autoridades locais de educação, as quais não oferecem flexibilidade suficiente para permitir a aquisição de equipamentos. Por exemplo, de acordo com estas normas, apenas são contemplados ecrãs de tamanho normal, deste modo, é complicado para as escolas pedir um ecrã maior para as crianças amblíopes.
+
+Lesley Waddell, técnico superior para o desenvolvimento do RNIB, concorda: "Os fornecedores de serviços vêm e instalam todo o hardware básico, mas a tecnologia para a acessibilidade nunca faz parte do pacote. É da responsabilidade de cada escola determinar as suas necessidades, o que por vezes se torna difícil se as pessoas não estiverem a pare das diferentes opções disponíveis."
+
+O Departamento de Educação e Ciência publicou o livro branco "Escolas - alcançando o sucesso" (http://www.dfes.gov.uk/achievingsuccess) o qual promete a reestruturação das autoridades locais para a educação e do sistema de financiamento escolar a partir de 2003-2004. O mais importante será a reforma das regras de financiamento para a educação, que irá permitir a cada autoridade de educação local e a cada escola decidir o que gastar em determinada área do serviço.
+
+Actualmente, se uma criança tiver uma declaração, passada por uma autoridade local, em como tem necessidades educativas especiais - documento requerido pela lei a quem esteja nesta situação - as autoridades têm a responsabilidade de suprir as necessidades desta criança em particular. Contudo, é uma situação ambígua, porque na prática significa que a qualidade da resposta a essas necessidades depende da qualidade da declaração. "Muitas crianças têm declarações tão vagas que não são mais que um papel escrito; existem porém outras muito boas, às quais as autoridades não dão resposta," diz Sainsbury.
+
+Além disso, embora muitas das crianças cegas registadas tenham uma declaração, muitas amblíopes não têm. Os portadores de nistagmos muito frequentemente não possuem essa declaração, dado a rapidez com que a capacidade visual pode agravar-se de um dia para o outro.
+
+O panorama não se afigura favorável; contudo, algumas autoridades locais oferecem um conjunto de meios e apoio bastante bons.
+
+O Concelho do norte do condado de YorkShire tem um serviço de apoio a deficientes físicos e sensoriais, bem como uma equipa de apoio à deficiência visual (http://www.northyorks.gov.uk/pps/sensory/special.shtm).
+
+Existe uma biblioteca de brinquedos e equipamentos para empréstimo às crianças; se o equipamento for para um uso a longo prazo, o serviço ajuda os pais a obterem fundos para adquirirem um equipamento próprio.
+
+São também oferecidas Acções de formação e sensibilização a professores e outros profissionais.
+
+"As acções de sensibilização foram um sucesso com muitos feedbacks positivos," afirma Janet Pentlow, professora de apoio e aconselhamento na equipa de visão.
+
+"Partiremos em breve para seis dias de acções de formação por todo o país dirigidas a profissionais da educação infantil, com uma introdução às deficiências auditiva, visual e física."
+
+Um lugar onde as escolas e as autoridades da educação se podem basear e trocar ideias e recursos para a educação de crianças com deficiência visual é a área inclusiva do National Grid For Learning (http://www.ngfl.gov.uk), o portal do Becta sobre educação (http://inclusion.ngfl.gov.uk). O Becta criou recentemente uma lista de discussão "Vi-Forum" onde os técnicos de educação podem debater assuntos relacionados com o ensino de estudantes com deficiência visual (o e-mail para subscrever é majordomo@ngfl.gov.uk, deixando o assunto em branco e colocando "subscribe vi-forum" no corpo da mensagem).
+
+Com iniciativas como estas a nível nacional, é de esperar que as autoridades responsáveis pela educação e mais escolas comecem a melhorar a sua actuação face ao ensino de crianças deficientes visuais; as suas experiências e recursos podem ser partilhados por todos.
+
+[Fim da secção três]
+
+* Secção 4: Comissão Europeia
+
+* Uma União cada vez mais acessível
+por Phil Cain: phil@headstar.com <mailto:phil@headstar.com>
+
+Como foi divulgado no boletim do mês passado, a Comissão Europeia afirmou que começará a tornar o portal oficial da EU, «Europa» (<http://europa.eu.int>), mais acessível e está a encorajar os estados membros a seguirem este exemplo. Desde essa altura o Boletim E-Access tem feito algumas perguntas, para saber onde nos levarão estas boas intenções. Reproduzimos a seguir essas perguntas e as respostas que nos deram alguns porta-vozes da Comissão.
+
+P: A Comissão afirmou numa declaração recente que os estados membros e as instituições europeias levarão «às reuniões da comissão» propostas de acessibilidade no fim de 2001. O que querem dizer exactamente com estas declarações?
+
+R: Significa que a comissão e os estados membros acordaram entre eles adoptarem as directrizes de conteúdo da Iniciativa em Acessibilidade à Web do Consórcio World Wide Web até ao final de 2001.
+
+Isto não significa que todos os sítios Web cumpram as regras - tal como a comissão afirmou, "O Europa é um sítio Web de peso, envolvendo cerca de um milhão de páginas, marcando a adopção das directrizes de acessibilidade um compromisso a longo prazo, e não o seu fim."
+
+A adopção é uma decisão política, que deve ser seguida por um grande programa de implementação. Há muitas maneiras de levar a cabo este processo, e por isso é muito útil trocar experiências entre a Comissão e os estados membros e avaliar os progressos. O que temos a certeza é de que este programa levará anos, e fará parte de um desenvolvimento em direcção à segunda geração do «Europa».
+
+Para ler mais sobre o plano de geração clique em mais leitura em: <http://europa.eu.int/information_society/accessibibility>
+
+P: O que é que já foi conseguido?
+
+R: O programa já começou a ser implementado na Comissão . Na verdade, já existem páginas altamente compatíveis com o WAI. Também já estão a ser preparados programas de treino para desenhadores de páginas Web e desenvolvidos novos modelos de web .
+
+No entanto, os recursos não são infinitos, gostaríamos de assegurar que cada uma das 100.000 páginas novas publicadas em cada ano a partir do fim do corrente ano, fossem compatíveis. Esta deve ser obviamente a maior prioridade, de outro modo esta tarefa ficará cada vez maior. A próxima tarefa será agarrar as 1,5 milhões de páginas antigas - não é provável que todas as páginas sejam remodeladas, mas terão de se estabelecer prioridades num processo contínuo.
+
+P: Foi dito que a Comissão e os estados membros acordaram em trocar informação e avaliar os seus progressos. Que tipo de informação estão a pensar trocar e quem vai avaliar o seu progresso?
+
+R: Na Divisão de Emprego da Comissão existe um grupo de técnicos superiores nomeados pelos estados membros para seguirem a implementação do Plano de Acção 2002 no que diz respeito à inclusão. Este grupo conhecido por «Employment and Social Dimension of the Information Society» (ESDIS) (Dimensão Social e de Emprego da Sociedade da Informação) está encarregado de acompanhar e avaliar a evolução deste Plano de Acção , incluindo a adopção pelos sítios públicos das linhas mestras da WAI.
+
+A avaliação será feita ao nível dos estados membros e relatada a este grupo. Como este processo também tem a acessoria de especialistas em acessibilidade na Internet que pertencem ao «e-Accessibility Group» (Grupo da Acessibilidade», cujos membros foram nomeados pelos estados membros. A ASDIS apresentará relatórios regulares sobre as suas actividades de monitorização e identificará o que de melhor os seus estados membros produzem.
+
+P: Quais são as organizações responsáveis por tornar o «Europa» acessível?
+
+R: A principal responsabilidade pelo «Europa» está na «Press Division» da comissão enquanto a maior parte dos conteúdos actuais são fornecidos por pessoal da comissão. Há portanto a necessidade de formar um grande número de «Webmasters» , bem como a de controlar um grande número de fornecedores de serviços. O trabalho de actualização será feito com a ajuda de várias companhias que fornecem produtos tecnológicos específicos; acessoria na concepção; gerem páginas e secções específicas e que fornecem conteúdos específicos a determinados serviços.
+
+P: O que vai ser feito para encorajar as organizações europeias e dos estados membros para tornarem os seus sítios Web acessíveis?
+
+R: Nós encorajamos os projectos que recebem fundos da Comissão Europeia a adoptarem as linhas mestras da WAI. Também estamos a estudar a maneira de encorajar as iniciativas patrocinadas pela comissão a adoptarem essas mesmas linhas mestras. As experiências e abordagens diferentes dos estados membros actuais serão relatadas a este grupo para identificar as melhores iniciativas. Então encorajaremos os estados membros a seguirem essas iniciativas.
+
+Nota: A Comissão Europeia relatará todos os progressos do Europe Action Plan a partir da página Web eEurope: <http://europa.eu.int/information_society/eeurope/index_en.htm>
+
+[Fim da secção 4]
+
+* SECÇÃO CINCO: ENTREVISTA.
+
+* JOGOS ACESSÍVEIS.
+* GUERRA BIOLÓGICA.
+Por Tamara Fletcher tamara@headstar.com
+
+O tempo é o futuro distante, a localização uma impregnação, o segredo militar de topo encontra-se nas profundezas interiores de uma montanha numa ilha remota. Há algumas horas atrás que todas as transmissões da base foram subitamente interrompidas, no exacto momento da activação de um plano de 3 anos classificado como experiência biológica.
+
+Como agente secreto da FDN - Federation of Democratic Nations (Federação das Nações Democráticas) - você foi enviado para investigar o que correu horrivelmente mal com a experiência. Assim que o avião doméstico em que viaja atinge o solo, você não faz ideia que tipo de inimigos vai ter que combater para alcançar o coração da base e abortar a experiência.
+
+Assim começa o preâmbulo do jogo da GMA com o título 'Shades of Doom' (As sombras do destino) (http://www.gmagames.com), apregoado pelos entusiastas como um dos melhores jogos de computador criados até ao momento para jogadores cegos e amblíopes.
+
+O jogo utiliza uma sofisticada combinação de instruções em voz e uma multiplicidade de sons - mais de 32 tocados em simultâneo - os quais indicam tudo desde quantos monstros se encontram na sala até à direcção do vento ou o ruído continuo do equipamento de computador. O jogo possui um sistema de voz interno, e por isso não é necessário um software de leitura de ecrã à parte.
+
+O controlo das suas acções faz-se através do "joystick" e por um conjunto de teclas que lhe permitem executar tarefas como o acesso às armas ou determinar o estado da sua saúde. Quando se aproxima de objectos, sejam eles portas ou monstros, a sua posição e natureza é indicada por um "beep" o qual se intensifica à medida que se aproxima. Identifica de que objecto se trata através do pressionar de uma tecla.
+
+"Eu penso que Sombras do Destino é o melhor jogo interactivo para pessoas deficientes visuais até hoje existente porque não só não é necessário um leitor de ecrã, como também consegue controlar tudo independemente do seu carácter. É de facto viciante," diz Maurice Press, que de dia é director da Equipa de Investigação em Deficiência (http://www.disabilityresourceteam.co.uk) e de noite um entusiasta dos jogos.
+
+Cego de nascença, Press sempre adorou jogos de computador e está orgulhoso por ter terminado o "Sombras do Destino" com 23,000 pontos - mas não sem "alguma dificuldade, sacrificar horas de sono e conversas com a minha mulher".
+
+As pessoas deficientes visuais têm vindo a enfrentar sérias dificuldades no que diz respeito ao acesso de jogos para computador. "A comunidade deficiente visual ficou muito excitada com o aparecimento recente no mercado de jogos que fazem aparecer no ecrã mensagens como, "você está numa floresta, parado junto a uma árvore. Deseja virar à esquerda ou à direita?" Mas depois toda a gente tem coisas como Gameboy e nós sentimos que estamos muito atrás," disse ele.
+
+"Depois disso as pessoas têm vindo a tentar criar jogos baseados em realidade virtual. Posso dizer que o primeiro que foi desenvolvido com êxito para pessoas com deficiência visual dá pelo nome de Grizzly
+
+Gulch da Bavisoft (http://www.bavisoft.com) e foi a primeira vez que não era necessário ter um sintetizador de voz e ouvir tudo a partir dos altifalantes ou auricolares e interagir com os caracteres como armas de luta ou outro qualquer".
+
+Com o Sombras do Destino - o qual foi inspirado no popular e terrifico jogo 'Doom' para pessoas normovisuais - a experiência em jogos está a levá-lo para novos voos com um leque de monstros exóticos, desde cães e humanos mutantes até "pequenos fungos" que são extremamente difíceis de aniquilar - Press recomenda-lhe que "ajuste uma mina para ser detonada dentro de 10 segundos e corra que nem um desalmado."
+
+Existem também armadilhas e falsas pistas no jogo, para o apanharem desprevenido. "No nível dois existe um "chip" de segurança escondido na casa de banho. Para o detectar basta pressionar o botão do autoclismo e ao fazer isto, um monstro pegajoso aparece e mata-o, a não ser que você seja muito rápido." Outras formas de testar o adverário incluem "um cientista mau com uma gargalhada de esquilo americano" que lhe rapina rapidamente os seus "chips" de segurança a não ser que seja suficientemente rápido, e "Eu não lhe vou contar o que se vai passar no contentor do nível cinco, mas é melhor afastar-se também muito rapidamente."
+
+Press participa regularmente em grupos de utilizadores de jogos, partilhando dicas com entusiastas normovisuais ou deficientes visuais. Ele algura um futuro formidável para o seu passatempo: um jogo que está para sair no próximo ano será um simulador de voo o qual Press, ele próprio está a ajudar a desenvolver para uma empresa do qual não nos pode revelar o nome. Teclas diferenciadas irão permitir ao jogador levantar voo e controlar a velocidade e altitude do avião, com outros sons e mensagens de aviso de ataques e outros eventos.
+
+Deverá ser lançado por volta de Fevereiro. Entretanto, se já terminou o "Sombras do Destino" aproveite para repôr o seu sono em dia.
+
+NOTA: Para ver os nossos artigos que falam sobre jogos acessíveis, veja o boletim 5, 6 e 8.
+
+[Fim da secção cinco.]
+
+COMO RECEBER ESTE BOLETIM.
+
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com> Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos para assinar!
+
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com
+
+-**-
+
+Nota à edição Portuguesa: Caso os leitores portugueses estejam interessados em enviar os seus comentários e sugestões, bem como enviar alguns artigos que abordem as questões de acessibilidade à Sociedade da Informação podem remetê-los, em Inglês ou Português, para o seu editor Dan Jellinek através do e-endereço: dan@headstar.com, ou mesmo para gesta@gesta.org
+
+-**-
+
+Copyright 2001 Headstar Ltd. http://www.headstar.com O Boletim no seu todo ou em parte pode ser reproduzido incluindo este aviso. As Secções do relatório devem ser colocadas entre aspas de forma a ficar claro a sua fonte: 'retirado do Boletim E-Access, uma newsletter mensal distribuída por email', e ainda a referência do nosso endereço do sítio Web http://www.e-accessibility.com.
+
+PESSOAL:
+Director - Dan Jellinek dan@headstar.com
+Vice-director - Phil Cain phil@headstar.com
+Redactor - Tamara Fletcher tamara@headstar.com
+Conselheiro Editorial - Kevin Carey humanity@atlas.co.uk 
+
+[fim da edição.]

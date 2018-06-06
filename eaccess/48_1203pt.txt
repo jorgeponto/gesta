@@ -1,0 +1,289 @@
++++Boletim E-ACCESS.
+- EDIÇÃO 48, DEZEMBRO 2003.
+
+Notícias de Tecnologia para pessoas com deficiência da visão
+(http://www.headstar.com/eab).
+
+Patrocinado pelo RNIB (http://www.rnib.org.uk).
+
+A edição Portuguesa é uma cortesia da Rede SACI (http://www.saci.org.br) e do GESTA-MP (http://www.gesta.org).
+
+Foram tradutores e revisores para Português desta edição:
+Jorge Fernandes - Coordenador, Tradutor, Revisor; GESTA.
+Cynthia Berriel - Tradutora; SACI.
+Marta Gil - Revisora; SACI.
+
+NOTA: dissemine este boletim gratuito por outros potenciais subscritores (veja os detalhes de subscrição no final). Esta edição foi feita em conformidade com o padrão de acessibilidade para Newsletters "Text Email Newsletter (TEN)". Para mais detalhes veja:
+http://www.headstar.com/ten .
+
+++ÍNDICE DA EDIÇÃO 48.
+
+01: Está para ser lançada uma tecnologia de fala revolucionária
+- jornais falados emitam a voz humana.
+
+02: Acções legais Microsoft configuradas para continuar
+- gigante do software clama pelo 'despedimento dos advogados'.
+
+03: Anunciados os vencedores do Visionary Design
+- Prémios Web da National Library for the Blind (Biblioteca Nacional para os Cegos).
+
+04: Canal 5 da TV adiciona ÁUDIO-DESCRIÇÃO
+- nasce serviço satélite para atingir milhões.
+
+Notícias breves: 05: Fone qualquer coisa - navegação por voz; 06: AEPD azul -
+Político Europeu desabafa; 07: Acesso Thin - Anúncio da Dolphin.
+
+Secção dois: 'A Receber' - Fórum dos Leitores.
+08: Fora o Flat - problemas de ecrã; 09: Uma questão de música - pergunta sobre pautas musicais; 10: Tirar uma pedra do sapato - mensagens de texto faladas; 11: Clareza de voz -
+explicando as predições do mercado.
+
+Secção três: Reportagem especial - prémios Web.
+12: Concepções para a vida: Esta semana viu-se o anúncio dos prémios para a acessibilidade Web Visionary Design da National Library for the Blind.
+Mel Poluck falou com os vencedores sobre os segredos dos seus sucessos.
+
+Secção quatro: Opinião - Techshare 2003.
+13: Será a nova era do realismo? Neste ano em que a conferência foi dedicada ao uso das tecnologias pelas pessoas com problemas de visão, Kevin Carey detectou uma mudança, bem-vinda, no tom dos representantes de grupos de interesse e dos representantes da indústria.
+
+[Fim do índice].
+
+++SECÇÃO UM: NOTÍCIAS.
+
++01: ESTÁ PARA SER LANÇADA UMA TECNOLOGIA DA FALA REVOLUCIONÁRIA.
+
+Uma nova tecnologia da fala prepara-se para revolucionar a forma como as pessoas cegas e as pessoas com baixa visão acedem ao conteúdo dos jornais e das revistas, de acordo com fonte do RNIB.
+
+O instituto juntou forças à empresa especializada Rhetorical
+(http://www.rhetorical.com) para criar versões de revistas em CD. A tecnologia Rhetorical, intitulada rVoice, usa "modelação de voz" para gravar voz real; analisa a pronúncia e a entoação; e produz um modelo de cada voz o que permite predizer a forma como palavras individuais serão pronunciadas. Este modelo resulta na transcrição de texto em fala sintetizada, que a torna "virtualmente indistinguível" da voz humana, disse Steve Tyler, gestor do departamento de política e acesso às TIC no RNIB.
+
+Até agora, as tecnologias text-to-speech (texto-para-fala) produziram vozes que nos soam artificialmente, muitas vezes, confusa e incompreensível. Como resultado, os utilizadores têm preferido os jornais e as revistas faladas, lidas em cassete por actores e voluntários, o que é um processo moroso e caro. 
+
+No entanto com a utilização da tecnologia rVoice, a lista da TV que actualmente leva, pelos voluntários do RNIB, cerca de 17 horas a gravar pode ser reproduzido em menos de uma hora.
+
+O sistema tem consideráveis potencialidades para especialistas de aplicações, disse Tyler. "Peguemos por exemplo em material de um curso de contabilidade, o qual é bastante técnico.
+Ele poderá custar cerca de 60,000 libras a produzir em áudio, principalmente devido à necessidade de conhecimentos especializados necessários para "traduzir" o conteúdo. Com a Rhetorical, as vozes podem ser 'treinadas' para assuntos específicos gravando terminologia de contabilidade, reduzindo substancialmente os custos de produção."
+
+No final deste mês, o RNIB lançará versões piloto em CD da lista de programas da TV, das revistas 'Radio Times' e 'TV Times' usando a tecnologia rVoice. As revistas serão alvo de testes pelos utilizadores com os leitores usados para a leitura de livros falados digitais com tecnologia DAISY, e existem planos para testar outros mecanismos de distribuição tais como telefones e Internet.
+
++02: ACÇÕES LEGAIS MICROSOFT CONFIGURADAS PARA CONTINUAR.
+
+A disputa legal entre os grupos de interesse Norte Americanos e a Microsoft pela acessibilidade do seu software parece estar de novo afinada para continuar, apesar do apelo, feito pela empresa, em Novembro de 2003, de que reconhece os seus erros, e de que havia chegado a hora de "deixar de lado os advogados" para que todos pudessem trilhar o caminho como parceiros.
+
+O apelo foi feito por Madelyn Bryant McIntire, directora do Grupo de Acessibilidade da Microsoft, no seu discurso durante a Techshare, conferência sobre acesso à tecnologia, levada a efeito o mês passado e que conta com a organização do RNIB (http://www.techshare.org.uk).
+
+McIntire admitiu que os testes com utilizadores da Microsoft haviam, até ao momento, desconsiderado as pessoas com deficiência da visão, mas que agora isso seria mudado.
+
+Ela disse que a companhia reconhece actualmente que essas pessoas formam um importante segmento de mercado: por exemplo, um inquérito feito pela empresa de pesquisas Forrester em 15,000 lares Norte Americanos revelou que cerca de 28 porcento de todos os cidadãos disse ter problemas com a leitura de informação impressa, corrigível ou não corrigível (a leitura em ecrã de computador não fazia parte do inquérito).
+
+No entanto, McIntire disse que a acção legal tornou a discussão demasiado rígida e que está na hora de "mandar embora os advogados". Isto foi entendido pela maior parte dos presentes como uma referência às organizações de consumidores Norte Americanas, as quais têm lutado fortemente nos tribunais pela aplicação da secção 508, que exige a todas as empresas tecnológicas, fornecedoras do governo federal Norte Americano, a necessidade de assegurarem a acessibilidade para todos dos seus produtos.
+
+A resposta está nas parcerias e não na confrontação, disse McIntire. Ela afirmou que termos como "incapacidade" e "deficiência" eram barreiras ao diálogo efectivo, e que um melhor conceito seria "inclusão social". 
+
+No entanto Janina Sajka, directora de Investigação e Desenvolvimento Tecnológico da American Foundation for the Blind, disse mais tarde: "Estou contente que a Microsoft tenha descoberto o continuum da incapacidade, mas odeio pensar onde estariam as pessoas cegas se nós não tivéssemos usado os meios legais para extrair alguma acessibilidade das grandes companhias. Não podemos, de todo, dispensar os advogados."
+
+NOTA: Para um relato mais circunstanciado da Techshare veja a secção quatro desta edição - 'Uma nova era de realismo?'
+
++03: ANUNCIADOS OS VENCEDORES DO VISIONARY DESIGN
+
+Os vencedores dos Prémios Visionary Design para os sítios Web acessíveis de alta qualidade  (http://visdesign.nlbuk.org) foram anunciados esta semana pela National Library for the Blind (Biblioteca Nacional de Cegos) no RU (NLB - http://www.nlb-online.org).
+
+Os vencedores foram o 'The friendly duck' ('O pato amigo') (http://www.calibre.org.uk/Kids), um novo sítio Web para crianças da Biblioteca de cassetes Calibre, na categoria juventude e educação; 'Adviceguide' ('GuiaConselhos') (http://www.adviceguide.org.uk), da Citizens Advice,
+para notícias e informação; Rushcliffe Borough Council (http://www.rushcliffe.gov.uk), para governação; Futebol Clube Manchester United (http://www.manutd.com/access), para grandes organizações; comédia e espectáculo Bradshaws (http://www.thebradshaws.biz), para pequenas e médias organizações; e o Birmingham Focus on Blindness (Enfoque Birmingham na Cegueira)
+(http://www.birminghamfocus.org.uk) para organizações voluntárias.
+
+Os vencedores foram nomeados por pessoas com deficiência da visão, criadores Web e proprietários de sítios. Uma porta-voz da NLB disse que a organização teve por objectivo usar os prémios como parte de uma campanha em curso de encorajamento aos criadores de websites a terem em consideração as tecnologias de acesso.
+
+NOTA: para ver a reportagem integral sobre os Prémios Visionary Design, incluindo as entrevistas com os vencedores, veja 'Concepções para a vida', secção três, desta edição.
+
++04: CANAL 5 DA TV ADICIONA ÁUDIODESCRIÇÃO.
+
+A estação de TV Five (Cinco) (http://www.five.tv - formalmente Canal Five) tornou-se no primeiro serviço público de televisão do RU a oferecer ÁUDIO-DESCRIÇÃO usando a emissão digital via satélite, aumentando o número de pessoas capazes de receber descrição de 4.5 para 7.1 milhões num só golpe de rins.
+
+A ÁUDIO-DESCRIÇÃO adiciona uma descrição verbal do que se está a passar no ecrã entre os diálogos dos personagens. Já anteriormente, o Five tem vindo a oferecer este serviço através do Freeview (http://www.freeview.co.uk), o serviço digital terrestre distribuído através de uma set-top box.
+
+No entanto, os fabricantes têm vindo a desenvolver muito lentamente as caixas Freeview que podem receber ÁUDIO-DESCRIÇÃO, sendo actualmente apenas acessível a 45 espectadores de teste. Ao adicionar a ÁUDIO-DESCRIÇÃO ao seu serviço distribuído através do satélite BSkyB (http://www.sky.com), o Five alcança agora milhões de lares com o serviço. O próprio BSkyB - pensamos de forma não gratuita - através dos canais por ar com um elemento de regulação de serviço público como os cinco canais terrestres do Reino Unido - já difunde umas 3,000 horas por ano de programação áudio descrita nos seus canais pagos tais como o Sky One e o Sky News.
+
+Algum do equipamento Freeview está actualmente em desenvolvimento para receberem ÁUDIO-DESCRIÇÃO. O chefe do departamento de Desenvolvimento de Radiodifusão Digital do RNIB, Clive
+Miller disse que se encontram em desenvolvimento dois produtos: Nebula DigiTV
+(http://www.nebula.electronics.com), um receptor de TV digital para usar com PCs, e o i-Player, um receptor Freeview da Netgem (http://www.netgem.com).
+
+No entanto a distribuição da tecnologia não é apenas a única barreira ao desenvolvimento da ÁUDIO-DESCRIÇÃO, - é necessário em primeiro lugar escrever e gravar as descrições. Recentemente o grupo-alvo para os conteúdos áudio-descritos cresceu, passando de seis para dez porcento uma vez que um dos operadores de televisão se encontra no seu décimo ano de serviço, de acordo com o disposto no Communications Act 2003, cujo o novo código, em versão borrão, será colocada a consulta pública, no final deste mês, pelo novo regulador da indústria, Ofcom (http://www.ofcom.org.uk).
+
+No entanto, o RNIB tem vindo a criticar a quota de dez porcento e tem vindo a bater-se para que a mesma suba para 50 porcento. A organização está também a pressionar a BBC, a ITV e o Canal Four (Quatro) para seguir o exemplo do Five e para usar o sistema existente da BSkyB para distribuir os seus conteúdos áudio-descritos.
+
+NOTA: Os leitores que quiserem apoiar a campanha do RNIB para mais ÁUDIO-DESCRIÇÃO podem usar o email campaign@rnib.org.uk remetendo rascunhos de cartas a serem enviadas aos operadores de televisão e aos políticos.
+
+++NOTÍCIAS BREVES.
+
++05: FONE QUALQUER COISA: Um novo serviço Internet com base no telefone, PhoneAnything, vai permitir às pessoas deficientes da visão do RU navegar na Web, preencher formulários on-line e aceder à rádio via Internet usando um qualquer telefone. As chamadas para o serviço, activadas por comandos de voz ou teclado, são feitas para o número 0845 333 0845, cobrado a preços de chamada local:
+http://www.phoneanything.com/vpweb.htm .
+
++06: AEPD AZUL: Liz Lynne, membro do Parlamento Europeu designada como porta-voz oficial para o 2003 - Ano Europeu das Pessoas com Deficiência disse que o Ano não atingiu o seu potencial e foi "deprimentemente fraco em resultados positivos." Ela disse que o Ano fez aumentar a consciencialização para os assuntos da deficiência, mas que agora é necessário e urgente a implementação da Directiva da Incapacidade da UE (EU Disability Directive) e da Directiva do Emprego para banir a discriminação com base na deficiência dos postos de trabalho:
+http://www.lizlynne.org.uk/story.php?id=182 .
+
++07: ACESSO THIN: o especialista de software de acesso ao computador, Dolphin, anunciou que as suas últimas versões dos produtos Supernova, Hal, Lunar e LunarPlus irão trabalhar com computadores 'thin client' - terminais de baixa-funcionalidade que geralmente não conseguem correr software especial de acesso:
+http://www.dolphinuk.co.uk/news/t_services.htm .
+
+[Fim da secção um].
+
+++NOTÍCIA ESPECIAL: FÓRUM ACESSIBILIDADE WEB.
+
+O Fórum Accessify é um fórum de discussão dedicado a todos os tópicos relacionados com acessibilidade Web. Os tópicos cobrem tudo desde 'Iniciantes' a 'Construção e teste de sítios', passando por projectos como o WaiZilla, a nova ferramenta de teste de acessibilidade e a própria acessibilidade do software gestor do fórum cujo código fonte é aberto a todos quantos queiram nele trabalhar.
+
+Tudo o que precisa para se registar é de um endereço de email. Se tem um endereço venha daí e junte-se à diversão em: http://www.accessifyforum.com .
+
+[Fim da notícia especial].
+
+++SECÇÃO DOIS: 'A RECEBER'
+- FÓRUM DOS LEITORES.
+
+- Envie todas as suas contribuições ou respostas para inbox@headstar.com .
+
++08: FORA OS FLAT: Robby Barnes da Kaizen Program for New
+English Learners with Visual Limitations de Seattle, Washington escreve-nos para acrescentar à nossa recente correspondente sobre o uso de ampliadores de ecrã com monitores  'flat-screen' (veja também 'A Receber', na última edição).
+
+"Os problemas que experimentei com um monitor 'flat-screen' usando o ampliador de ecrã ZoomText a 5x ou 6x envolvem 'fantasma' (quebra na parte superior da imagem) quando movimento o rato ou efectuo o varrimento vertical - cima e baixo - da página. Isto torna a leitura muito cansativa principalmente para longos períodos de utilização. Os monitores normais não têm este problema porque eles efectuam um varrimento mais rapidamente.
+
+"Será possível que os ecrãs TFT iiyama AS 4611 UT 18-polegadas tenham uma velocidade de varrimento superior ao normal por forma a que estes possam ser compatíveis com os ampliadores de ecrã?" NOTA: na nossa última edição, Chris McMillan disse que ela não tinha encontrado problemas a usar o ZoomText com os ecrãs iiyama.
+[Para mais respostas, envie por favor, para inbox@headstar.com].
+
+
++09: UMA QUESTÃO DE MÚSICA: Scott Rae da Highland Society for Blind
+People tem uma pergunta rápida sobre as ferramentas de música acessíveis. "Trabalho com jovens deficientes da visão, e estamos a explorar as suas barreiras à inclusão social e eles estão a tentar modificá-las. Haverá algum leitor que utilize tecnologia que lhe permita ler pautas musicais em papel?" Envie as suas sugestões para inbox@headstar.com .
+
++10: TIRAR UMA PEDRA DO SAPATO: O defensor dos cegos Fayyaz Afzal, cujo perfil se encontra na nossa edição de Novembro, disse que a sua grande pedra no sapato da tecnologia era o facto de não ser capaz de ler mensagens de texto no seu telemóvel. Lynn Holdsworth, da área de desenvolvimento Web do RNIB, escreveu-nos para nos dizer: "Talvez isto tenha interesse para o Fayyaz. Estou actualmente a usar um Nokia 3650 com uma excelente versão beta do software Talx [leitor de ecrã para sintetizador de fala] que corre nos telefones Symbian.
+
+"O software estará pronto para ser lançado no mercado no próximo mês ou algo do género. Com ele sou capaz de verificar a minha bateria e a intensidade do sinal de rede, ler mensagens de texto, usar a lista de contactos e as marcações na agenda. Ainda não tenho acesso ao WAP, mas é a única coisa que falta."
+
++11: CLAREZA DE VOZ: Na nossa última edição, publicámos uma pequena peça dando conta que uma analista Norte Americana, Donna Fluss da DMG Consulting, fez uma predição em que afirmou que o mercado mundial dos produtos baseados na tecnologia da voz irão dar um vertiginoso passo em frente nos próximos 18 a 24 meses.
+
+Depois de ler a peça, Jo Fullerton, Chefe do Departamento de Tecnologia (pre-
+16) do Centro de Educação do RNIB na Escócia, escreveu-nos dando conta da clarificação de um ponto: "Pensam que todos os vossos leitores vão ter em conta que Donna Fluss está a falar sobre controlar o computador através da voz (reconhecimento de voz e introdução através da voz) e não de leitores de ecrã [sintetizadores de fala]? Levou-me algum tempo a ler o artigo original para compreender que ela estava a falar de voz principalmente como um dispositivo de entrada e não de saída.
+
+"Apesar disso, existem ligações entre as tecnologias, e por isso espera-se, também, que a confiança deste negócio será benéfica para os utilizadores cegos de computadores. Penso que se a entrada por voz se tornar tão assertiva quanto a entrada via teclado e algumas dificuldades adicionais forem reduzidas, as pessoas cegas que não consigam aprender a digitar irão tirar bastante partido desta nova tecnologia."
+
+[Fim da secção dois].
+
+++ SECÇÃO TRÊS: REPORTAGEM ESPECIAL
+- PRÉMIOS WEB.
+
++12: CONCEPÇÕES PARA A VIDA
+por Mel Poluck  mel@headstar.com .
+
+"É engraçado construir um Web site: as pessoas nem sempre têm consciência do que está envolvido no processo", diz Emma Charles, uma das seis produtoras de sítios Web que receberam o prémio "Visionary Designs" (http: //www. Visionary-design. org).
+
+O prémio, patrocinada pela National Library for the Blind (NLB) - Biblioteca Nacional dos Cegos - http://www.nlb-online.org, contou com dez portadores de deficiência da visão como jurados. A empresa de Emma Charles, TWI Interactive (http://www.twii.net) produziu o sítio Web para o clube de futebol Manchester United (http://www.manutd.com) que ganhou o prémio "organização de grande dimensão".
+
+O Manchester United plc tem uma política formal para ir ao encontro das necessidades dos seus adeptos com incapacidade (http://fastlink.headstar.com/mufc1), trabalhando com a Manchester United Disabled Supporters Association - Associação de Adeptos com Deficiência do Manchester United - (MUDSA - http://www.mudsa.com). A política inclui um compromisso com a acessibilidade à Web e os membros da MUDSA, dos quais um tem incapacidade da visão, ajudou a testar o sítio Web do clube antes do mesmo ser colocado on-line.
+
+Apesar de o sítio Web principal do clube não ser totalmente acessível, existe à parte um sítio acessível que mostra a maior parte das informações que podem ser encontradas no sítio principal. "Pode aumentar o tamanho do texto até um limite bastante elevado, mantendo a disposição da página (ver http://www.manutd.com/access); portanto, as pessoas com dificuldades de visão não precisam de usar necessariamente um ampliador de ecrã, o que por vezes causa um certo desconforto e desorientação", diz Charles.
+
+Também foi bem vista pelos juízes a forma como os utilizadores do sítio Web podem alterar a combinação de cores: "Pode decidir usar no sítio Web uma das cores do equipamento do Manchester United", diz Charles. Felizmente, as cores do clube coincidem com as combinações de cores que muitas pessoas com problemas de visão acham fácil de usar.
+
+O vencedor do prémio na categoria de governo foi o Rushcliffe Borough Council (http://www.rushcliffe.gov.uk) de Nottinghamshire.
+
+A sua criadora, Laura van Weyenbergh, alega que as características acessíveis do site "não têm nada de revolucionário". Diz ela: "Comecei porque me apaixonei pelo assunto, mas qualquer pessoa presente na cerimónia de entrega dos prémios sente essa mesma inspiração - isto entusiasma-me ainda mais".
+
+Referindo-se às Directrizes Internacionais da Iniciativa pela Acessibilidade da Web
+(http://www.w3.org/WAI/), cujo nível mais alto de conformidade é conhecido por 'AAA', ela disse "Fiquei surpreendida por termos ganho porque não estamos conformes AAA". O sítio tem, no entanto, uma funcionalidade que lhe permite aumentar a letra; teclas de atalho que auxiliam na navegação usando o teclado em detrimento do rato; e conselhos sobre como fazer ficheiros PDF mais acessíveis.
+
+Outro dos vencedores incluí o Birmingham Focus on Blindness (Enfoque Birmingham na Cegueira), o qual recebeu também, na semana passada, o prémio da British Interactive Media Association 
+(http://www.bima.co.uk/content_awards/2003-shortlist.html); e o Bradshaws Online (http://www.thebradshaws.biz), o sítio Web de um espectáculo de comédia radiofónico que retrata a classe operária de Mancunian nos anos 1960s. Ele começou a sua vida por ser uma espécie de culto a altas horas da noite que passava na Rádio Piccadilly de Manchester e é hoje uma sindicância de estações de todo o mundo.
+
+Darren Poyzer, designer do The Bradshaws Online, descreve-se a ele próprio como "um tipo que trabalha no quarto," que inicialmente desenhou o sítio como um favor para um amigo. Diz ele: "Não nos passou pela cabeça fazer uma versão acessível do sítio Web, não havia qualquer motivação para tal. Foi apenas algo natural a fazer - porque se trata de rádio, temos provavelmente uma grande audiência de pessoas com incapacidade da visão a seguirem-nos.
+
+Poyzer diz que incorporou a versão acessível no estilo do sítio, numa versão "tradicional" preto e branco. "Eu esqueci toda a ciência e usei um pouco de senso comum. Tem que olhar para as coisas do ponto de vista do utilizador, e não sempre do ponto de vista técnico".
+
+Porque pensa ele que ganhou o prémio? " [Na cerimónia], a primeira mensagem foi para o facto de ser muito fácil de navegar, e de ser agradável", disse Poyzer. "Não sou certamente um perito: uma pessoa com deficiência visual experimentou o sítio Web que fiz e funcionou."
+
+Poyzer diz que ficou "encantado com o entusiasmo" de uma mulher deficiente da visão que encontrou na cerimónia que nomeou o site. "Este foi o prémio", disse ele.
+
+[Fim da secção três].
+
+++ SECÇÃO TRÊS: REPORTAGEM ESPECIAL
+- PRÉMIOS WEB.
+
++12: CONCEPÇÕES PARA A VIDA
+por Mel Poluck  mel@headstar.com .
+
+"É engraçado construir um Web site: as pessoas nem sempre têm consciência do que está envolvido no processo", diz Emma Charles, uma das seis produtoras de sítios Web que receberam o prémio "Visionary Designs" (http: //www. Visionary-design. org).
+
+O prémio, patrocinada pela National Library for the Blind (NLB) - Biblioteca Nacional dos Cegos - http://www.nlb-online.org, contou com dez portadores de deficiência da visão como jurados. A empresa de Emma Charles, TWI Interactive (http://www.twii.net) produziu o sítio Web para o clube de futebol Manchester United (http://www.manutd.com) que ganhou o prémio "organização de grande dimensão".
+
+O Manchester United plc tem uma política formal para ir ao encontro das necessidades dos seus adeptos com incapacidade (http://fastlink.headstar.com/mufc1), trabalhando com a Manchester United Disabled Supporters Association - Associação de Adeptos com Deficiência do Manchester United - (MUDSA - http://www.mudsa.com). A política inclui um compromisso com a acessibilidade à Web e os membros da MUDSA, dos quais um tem incapacidade da visão, ajudou a testar o sítio Web do clube antes do mesmo ser colocado on-line.
+
+Apesar de o sítio Web principal do clube não ser totalmente acessível, existe à parte um sítio acessível que mostra a maior parte das informações que podem ser encontradas no sítio principal. "Pode aumentar o tamanho do texto até um limite bastante elevado, mantendo a disposição da página (ver http://www.manutd.com/access); portanto, as pessoas com dificuldades de visão não precisam de usar necessariamente um ampliador de ecrã, o que por vezes causa um certo desconforto e desorientação", diz Charles.
+
+Também foi bem vista pelos juízes a forma como os utilizadores do sítio Web podem alterar a combinação de cores: "Pode decidir usar no sítio Web uma das cores do equipamento do Manchester United", diz Charles. Felizmente, as cores do clube coincidem com as combinações de cores que muitas pessoas com problemas de visão acham fácil de usar.
+
+O vencedor do prémio na categoria de governo foi o Rushcliffe Borough Council (http://www.rushcliffe.gov.uk) de Nottinghamshire.
+
+A sua criadora, Laura van Weyenbergh, alega que as características acessíveis do site "não têm nada de revolucionário". Diz ela: "Comecei porque me apaixonei pelo assunto, mas qualquer pessoa presente na cerimónia de entrega dos prémios sente essa mesma inspiração - isto entusiasma-me ainda mais".
+
+Referindo-se às Directrizes Internacionais da Iniciativa pela Acessibilidade da Web
+(http://www.w3.org/WAI/), cujo nível mais alto de conformidade é conhecido por 'AAA', ela disse "Fiquei surpreendida por termos ganho porque não estamos conformes AAA". O sítio tem, no entanto, uma funcionalidade que lhe permite aumentar a letra; teclas de atalho que auxiliam na navegação usando o teclado em detrimento do rato; e conselhos sobre como fazer ficheiros PDF mais acessíveis.
+
+Outro dos vencedores incluí o Birmingham Focus on Blindness (Enfoque Birmingham na Cegueira), o qual recebeu também, na semana passada, o prémio da British Interactive Media Association 
+(http://www.bima.co.uk/content_awards/2003-shortlist.html); e o Bradshaws Online (http://www.thebradshaws.biz), o sítio Web de um espectáculo de comédia radiofónico que retrata a classe operária de Mancunian nos anos 1960s. Ele começou a sua vida por ser uma espécie de culto a altas horas da noite que passava na Rádio Piccadilly de Manchester e é hoje uma sindicância de estações de todo o mundo.
+
+Darren Poyzer, designer do The Bradshaws Online, descreve-se a ele próprio como "um tipo que trabalha no quarto," que inicialmente desenhou o sítio como um favor para um amigo. Diz ele: "Não nos passou pela cabeça fazer uma versão acessível do sítio Web, não havia qualquer motivação para tal. Foi apenas algo natural a fazer - porque se trata de rádio, temos provavelmente uma grande audiência de pessoas com incapacidade da visão a seguirem-nos.
+
+Poyzer diz que incorporou a versão acessível no estilo do sítio, numa versão "tradicional" preto e branco. "Eu esqueci toda a ciência e usei um pouco de senso comum. Tem que olhar para as coisas do ponto de vista do utilizador, e não sempre do ponto de vista técnico".
+
+Porque pensa ele que ganhou o prémio? " [Na cerimónia], a primeira mensagem foi para o facto de ser muito fácil de navegar, e de ser agradável", disse Poyzer. "Não sou certamente um perito: uma pessoa com deficiência visual experimentou o sítio Web que fiz e funcionou."
+
+Poyzer diz que ficou "encantado com o entusiasmo" de uma mulher deficiente da visão que encontrou na cerimónia que nomeou o site. "Este foi o prémio", disse ele.
+
+[Fim da secção três].
+
+++SECÇÃO QUATRO: OPINIÃO
+- TECHSHARE 2003.
+
++13: A NOVA ERA DO REALISMO?
+por Kevin Carey  humanity@atlas.co.uk
+
+A quarta conferência Techshare sobre o papel da tecnologia na vida diária das pessoas com problemas de visão marcou o limiar na forma como as TIC para pessoas com deficiência da visão são vistas quer pelos próprios interessados quer pela indústria. A conferência foi organizada pelo 
+RNIB em Birmingham o mês passado (http://www.rnib.org.uk/techshare - ver também "Acções legais Microsoft configuradas para continuar", nesta edição).
+
+Do lado dos defensores, o facto de que a maior parte das pessoas com problemas visuais estão mais preocupadas em ser capazes de usar electrodomésticos e telefones do que computadores. Finalmente a preocupação da acessibilidade chegou ao âmbito doméstico. E, do lado da indústria, numa reviravolta de proporções espectaculares, os principais actores, Microsoft e Vodafone, admitiram que o mundo não se divide entre um punhado de deficientes com problemas sérios e pessoas problemáticas de um lado e uma grande maioria de pessoas capazes e satisfeitas do outro lado. Finalmente descobriram o continuum da deficiência.
+
+Que maravilha! Não somos mais parte de um grupo de pessoas esquisitas, mas um segmento importante de mercado; e o objectivo da indústria não é acabar connosco, mas sim elogiar-nos!
+
+O facto da conversão da indústria de tecnologia Damascene ter chegado tão tarde é um reflexo directo da antiga tendência do sector de deficientes da visão de colocar o enfoque nos assuntos adequados, ainda que relativos a minorias, sobre como aceder à tecnologia na educação e no emprego. Mas assim como o acesso à televisão, rádio, telemóveis e similares são preocupações mais importantes compartilhadas por quase todas as pessoas com problemas de visão, é certo que haja agora uma mudança de ênfase voltada para esses aparelhos domésticos.
+
+É também adequado que as duas pessoas mais responsáveis por esta mudança de atitude possam compartilhar os créditos pelo sucesso da Techshare. Richard Orme e Steve Tyler do RNIB, cada um a seu modo, ampliaram os horizontes de todo o sector ao pensar em DVDs e telefones, bem como em processador de textos e programas de computação. Frequentemente acusada de ser impermeável ao progresso, esta é uma das áreas em que o RNIB está muito à frente da maior parte do sector da deficiência da visão.
+
+Isto foi obtido não porque o instituto se tem, cada vez mais, direccionado às políticas com base em provas, exemplificada pelos resultados de pesquisas sobre o "uso da tecnologia" conduzida pela Universidade de City: fiquem atentos.
+
+O outro grande prazer da Techshare este ano está relacionado com a redução da quantidade da "tecnofilia" e com um maior reconhecimento dos valores humanos. Mesmo quando o acesso à tecnologia funciona - e o nível de problemas é deprimente e previsivelmente alto a partir de um mercado até então fragmentado de fornecedores de pequenos nichos - a chave para o sucesso interactivo é a autoconfiança e a sensação de estar a controlar. Neste ponto o debate é muito mais equilibrado.
+
+Uma terceira mudança bem-vinda no tom, principalmente no evento deste ano, foi um novo desejo aparente entre os grupos de interesse de concordar com as complexidades tecnológicas e regulação da agenda da acessibilidade. A maior parte dos representantes foi certamente menos estridentemente dogmática neste ano; a cláusula subordinada, a bem dizer, volta para casa.
+
+Tudo isto, pode bem ser um ocaso falso. Na medida em que as tecnologias avançam, a desvantagem comparativa entre portadores de deficiência da visão e o resto do mundo amplia-se, apesar dos progressos concretos; e se o objectivo do sector comercial é usar palavras doces para desviar a atenção do problema, não seria nenhuma surpresa.
+
+Seria, no entanto, injusto, terminar com uma observação negativa. A Techshare foi uma boa e variada colagem de imagens de onde nos encontramos agora. A sua mudança será trabalhar uma forma de nos fascinar agora, sem que nem o azedume nem a busca do paraíso fiquem em agenda.
+
+[Fim da secção quatro]
+
++COMO RECEBER ESTE BOLETIM.
+
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com>. Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos a assinar!
+
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com
+
+Copyright 2003 Headstar Ltd http://www.headstar.com.
+O Boletim pode ser reproduzido desde que todas as partes incluam esta nota de copyright, e desde que as pessoas sejam encorajadas a contactar-nos por email para subscrever de forma individualizada. Informe também o editor quando pretenda reproduzir os nossos conteúdos. As secções deste relatório podem ser citadas desde que estejam claramente referenciadas com a indicação "retirado do boletim e-access, uma newsletter mensal enviada por email gratuitamente", citando também o endereço do nosso sítio Web http://www.e-accessibility.com.
+
+-**-
+Nota à edição Portuguesa: Caso os leitores portugueses estejam interessados em enviar os seus comentários e sugestões, bem como enviar alguns artigos que abordem as questões de acessibilidade à Sociedade da Informação podem remetê-los, em Inglês ou Português, para o seu editor Dan Jellinek através do e-endereço: dan@headstar.com, ou mesmo para gesta@gesta.org 
+-**-
+
+PESSOAL:
+Director - Dan Jellinek dan@headstar.com
+Vice-director - Phil Cain phil@headstar.com
+Redactor - Tamara Fletcher tamara@headstar.com
+Conselheiro Editorial - Kevin Carey humanity@atlas.co.uk 
+
+[fim da edição.]

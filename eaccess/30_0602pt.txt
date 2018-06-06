@@ -1,0 +1,299 @@
+* Boletim E-Access
+
+Boletim electrónico on-line de notícias sobre tecnologia para pessoas com deficiência visual.
+Endereço do Boletim E-Access, incluíndo os seus arquivos: 
+<http://www.e-accessibility.com>
+
+Patrocinado pelo Royal National Institute for the Blind:
+<http://www.rnib.org.uk>
+o National Library for the Blind (Biblioteca Nacional para os cegos):
+<http://www.nlbuk.org>
+e a Guide Dogs for the Blind Association (Associação de Cães-Guia para cegos):
+<http://www.guidedogs.org.uk>
+
+Versão portuguesa: cortesia do GESTA-MP (Grupo de Estudos Sociais, Tiflológicos e Associativos)
+<http://www.gesta.org>
+
+Divulgue, por favor, este boletim pelos seus amigos e colegas, e diga-lhes que o podem subscrever em Português, bastando para tal enviar uma mensagem para o endereço electrónico: <mailto:eab-pt-subs@headstar.com>. Veja os pormenores na parte final deste boletim.
+Quanto mais subscritores tivermos, melhor será o nosso serviço!
+
+NOTA: Para facilitar a navegação a todos aqueles que utilizam leitores de ecrã, todos os cabeçalhos agora iniciam-se com um asterisco e terminam com um ponto final. Diga-nos, por favor, se existe mais alguma coisa que possamos fazer de forma a facilitar a consulta do boletim. 
+
+[início DO BOLETIM]
+
+* BOLETIM 30, JUNHO 2002.
+
+* ÍNDICE:
+
+Notícias:
+- Preocupação no novo comité anti-discriminação.
+- RU lança portátil acessível.
+- Europa volta ao desenho comum normalizado.
+- 'Cynthia' interpreta a Web.
+- Techshare 2002: aprendizagem e trabalho.
+
+Notícias breves: iCan fazer - estudo do consumidor on-line; Pânico nos dedos - jogos grátis acessíveis; Linhas brilhantes - Campanha de recolha de fundos do RNIB; Sobre a bola - Sítio do Campeonato do Mundo.
+
+Secção dois: 'A receber'
+- Fórum dos leitores.
+
+Secção três: Perfil - jornais falados.
+- Todas as notícias que cabem no email: a associação de jornais falados do RU passou das cassetes áudio para um serviço de alta tecnologia que pode representar o futuro dos jornais para todos.
+
+Secção quatro: Reportagem Especial - sistema bancário acessível.
+- Usabilidade em teste: Tamara Fletcher traça o progresso incompleto dos serviços on-line acessíveis disponibilizados pelos bancos das principais praças.
+
+Secção cinco: Segredos do Comércio - teclas de atalho.
+- Ferramentas básicas de sobrevivência em informática de John Wilson.
+
+[Fim do índice.]
+
+
+*SECÇÃO UM: NOTÍCIAS.
+
+
+* PREOCUPAÇÃO NO NOVO COMITÉ ANTI-DISCRIMINAÇÃO.
+
+O governo planeia criar uma única e nova comissão anti-discriminação, substituindo as três actuais agências, o que pode tornar as leis relacionadas com incapacidades mais difíceis de implementar, alertou o RNIB.
+
+O plano, anunciado o mês passado ao parlamento pela ministra da Administração Interna, Barbara Roche (http://fastlink.headstar.com/anti), propunha a substituição da Comissão da Igualdade de Oportunidades, a Comissão para a Igualdade Racial e a Comissão dos Direitos das Pessoas com Incapacidades, por um único organismo que irá também abranger a com base na idade, na orientação sexual e religiosa.
+
+No entanto, o RNIB teme que o novo organismo vai perder o enfoque, o que pode deteorar a efectiva introdução de leis que abranjam as pessoas com incapacidades, com partes chave da Lei da Discriminação das Incapacidades e da Lei da Discriminação e das Necessidades Educativas Especiais a ter lugar durante os próximos anos. 
+
+'É importante que exista um organismo cujo o seu enfoque seja unicamente nas pessoas com incapacidades, fornecendo conselhos e consultadoria aos empregadores e às escolas, por exemplo', disse Steve Winyard do RNIB ao Boletim E-Access esta semana.
+
+O governo tem como objectivo pronunciar-se sobre o assunto para o  Outono, mas de acordo com Roche, qualquer mudança é indesejável no curto prazo. 'Não esperarei qualquer nova estrutura a estar operativa ainda no tempo de vida deste Parlamento', disse ela.
+
+* RU LANÇA PORTÁTIL ACESSÍVEL.
+
+O LapTalk, um computador portátil com leitor de ecrã integrado desenhado especificamente para utilizadores com deficiência visual, espera o seu lançamento para o final do verão deste ano no mercado de Sua Majestade.
+
+O produto, desenvolvido pela empresa dos EUA, Beyond Sight
+(http://www.beyondsight.com), será do mesmo tamanho e peso de um computador portátil convencional e terá incorporado o leitor de ecrã Window-Eyes.
+
+O LapTalk irá correr o sistema operativo Windows XP, fornecer acesso à Internet através de um modem interno ou porta de rede, e virá com uma versão completa do navegador Web, Internet Explorer, e do programa de gestão de correio electrónico, Outlook Express da Microsoft. Também estão planeados a incorporação de um processador de texto, folha de cálculo e uma aplicação de base de dados, compatíveis Microsoft.
+
+Se tudo correr como o seu fabricante deseja, o LapTalk pode substituir a combinação de um bloco de notas e de um computador, a que os utilizadores deficientes visuais já se habituaram, por metade do custo. A Beyond Sight também espera lançar o DeskTalk, uma versão de secretária do computador. Ambas as máquinas incluirão um conector para ecrã, o que permitirá aos utilizadores deficientes visuais partilharem informação com utilizadores normovisuais.
+
+
+* EUROPA VOLTA AO DESENHO COMUM NORMALIZADO.
+
+Os membros da União Europeia vão ter de adoptar normas comuns de desenho de sítios Web do sector público até 2003, tornando-os fáceis de aceder aos utilizadores com incapacidades, segundo a nova lei que passou no Parlamento Europeu.
+
+O parlamento debateu ontem um relatório que enquadra o desenho Web comum (http://fastlink.headstar.com/ep), o qual vai, eventualmente, formar as bases de uma Resolução do Conselho. A resolução vai também estabelecer a existência de organismos nacionais independentes que ficam responsáveis por tomar conta das queixas dos sítios Web.
+
+O relatório, compilado pelo Comité Parlamentar da Indústria, também revê o progresso verificado pelos estados membros no alcance da acessibilidade, objectivo já expresso no plano de acção da UE para a sociedade da informação 'eEurope 2002'. Em particular, o comité recomenda que os sítios Web do governo, da saúde e da educação incluam tecnologias de voz que permitam a navegação por comandos de voz.
+
+O relatório acrescenta que, apesar de todos os sítios Web utilizarem padrões com base em tecnologias, como o XML, na sua construção, fazem-no das formas mais diferenciadas, notando: "Isto é particularmente problemático para as pessoas com incapacidades que usam aparelhos especiais de navegação."
+
+Entretanto o Instituto Europeu da Normalização das Telecomunicações 
+(http://www.etsi.org), lançou uma primeira versão, não finalizada, de uma norma que irá definir os comandos por voz a usar nos computadores para a maior parte das línguas europeias, fazendo das tecnologias de reconhecimento de voz multilingue mais viáveis para uma maior gama de equipamentos: http://portal.etsi.org/HF/STFs/STF182.asp
+
+
+* 'CYNTHIA' INTERPRETA A WEB.
+
+Está a ser desenvolvido por uma empresa do sector das tecnologias com sede em Paris, Daumas Informatique (http://www.daumas-informatique.fr), um navegador Web com um "intérprete" incorporado que produz descrição em voz dos conteúdos da Web.
+
+'Cynthia', de seu nome, está a ser desenhado de forma a apresentar os conteúdos Web aos utilizadores em caracteres ampliados, nítidos, e de forma personalizáveis acompanhado ainda por uma descrição em Inglês, Francês ou Alemão, com vozes masculina ou feminina.
+
+De acordo com o seu fabricante, a tecnologia pode interpretar as imagens, nas quais os desenhadores Web tenham incorporado uma descrição em HTML. Também foi desenhado para revelar alguma da estrutura das páginas Web, tais como números de páginas e ligações, e pequenas descrições das suas funções. Cynthia também pode produzir respostas flexíveis de voz, com indicações em voz mais alta nos títulos dos documentos e mais baixa no corpo do texto, por exemplo.
+
+O navegador foi feito com base na tecnologia VoiceXML de forma a ser compatível com todos os sistemas operativos Unix, Mac e PC.
+
+A Daumas produziu também um pequeno equipamento, que cabe na palma da mão, cujas teclas foram etiquetadas com braille, que verbaliza conversões de moeda de e para o euro. Para obter mais informações sobre estes dois projectos use o email: info@daumas-informatique.fr
+
+
+* TECHSHARE 2002 - APRENDIZAGEM E TRABALHO.
+
+Aprendizagem, trabalho e o advento da sociedade digital, foram os três temas chave escolhidos para Techshare deste ano, a conferência anual do RNIB sobre tecnologia e pessoas com deficiência visual.
+
+Os organizadores do evento lançaram um apelo à apresentação de trabalhos, e na categoria aprendizagem, orgulham-se de já terem apresentações sobre aprendizagem electrónica, formação em computadores e regulamentação. O tema do trabalho cobre a política de aquisições, a normalização, formação e as formas de trabalhar; por outro lado os tópicos relacionados com a sociedade digital incluem os telemóveis, o voto pela Internet, a televisão digital e os livros electrónicos, conjuntamente com um tema parentesco que é a acessibilidade à Web.
+
+A conferência vai ter lugar a 21 e 22 de Novembro no International Convention Centre, em Birmingham. Para submeter um trabalho visite:
+http://www.rnib.org.uk/techshare/paperform.htm
+
+
+* NOTÍCIAS BREVES:
+
+* EU POSSO FAZER: O portal americano das pessoas com incapacidades sedeado nos EUA de seu nome iCan ("euPosso")
+(http://www.ican.com) lançou um inquérito ao consumidor dirigido às incapacidades. Para participar no inquérito, que se debruça sobre computadores, viagens, media e veículos, visite:
+http://www.ican.com/research.cfm?irs=ib1
+
+* DEDOS EM PÂNICO: A companhia de jogos acessíveis BSC relançou dois jogos grátis. Os recordes de pontuação desincentivam os seus computadores oponentes com o 'Deekout' http://www.bscgames.com/deek.asp e procurar pelo 'crackerjack' em 'Finger Panic': http://www.bscgames.com/finger.asp
+
+* LINHAS BRILHANTES: O RNIB está hoje a lançar uma campanha viral via email para encorajar as pessoas a desfazerem-se das suas roupas mais chocantes para o evento anual de recolha de fundos, de seu nome LookLoud (AparênciaChocante). Os utilizadores vão poder vestir um boneco virtual com roupas garridas e enviar por correio electrónico o resultado a um amigo: http://www.lookloud.co.uk
+
+* SOBRE A BOLA: Um novo sítio Web com o objectivo de oferecer cobertura em directo em texto de todos os jogos do campeonato do mundo a partir de 15 Junho. Os comentários dos utilizadores são encorajados:
+http://www.enableall.org
+
+[Fim da secção um.]
+
+* SECÇÃO DOIS - 'A RECEBER'
+- FÓRUM DOS LEITORES.
+- Envie, por favor, todas as contribuições ou respostas para inbox@headstar.com
+
+* ENTRETENIMENTO DOMÉSTICO: O leitor Paul Schomburg procura informação sobre acessibilidade às novas Plataformas Multimédia Domésticas, que farão parte das normas de televisão interactiva (MHP - http://www.mhp.org) desenvolvidas pelo consórcio industrial "Digital Video Broadcasting" 
+(DVB - Rede de transmissão de Vídeo Digital que se encontra em http://www.dvb.org).
+
+Diz ele: "Como a maior parte da informação disponibilizada pela TV interactiva estará em formato texto (incluindo os formatos de base XML), procuro informações relativas a ferramentas de acessibilidade aos desenvolvimentos de MHP. Se a TV interactiva for lançada sem acessibilidades então muitos utilizadores cegos ficarão impossibilitados de usufruir dos mesmos.
+
+"Nos EUA recentemente o consórcio de investigação da indústria por cabo, CableLabs, introduziu uma série de especificações ("opencable") com base na MHP, mas aparentemente não tiveram em conta as ferramentas de acessibilidade (ver http://www.opencable.com/specifications.html). As especificações da plataforma de aplicação OpenCable, OCAP 1.0, definem um ambiente de execução baseado em Java, enquanto que as OCAP 2.0 adicionam conteúdos formatados em tecnologias de base Web como o XML.
+
+"Qualquer informação sobre a situação Europeia, ou apontadores para fóruns de discussão relevantes, serão bem vindos." [Respostas para inbox@headstar.com]
+
+
+* TRÂNSITO DE SENTIDO ÚNICO: Na nossa última edição Larry Johnson, do Texas, deu conta de uma aparente anomalia no sistema de trocas entre as bibliotecas internacionais, dando-nos nota que a sua biblioteca regional para cegos para podia obter por empréstimo material a partir da Biblioteca Nacional para Cegos do Reino Unido, apesar destes recursos constarem dos catálogos internacionais.
+
+O Sr. Chris McMillan, um nosso correspondente regular dos EUA, confirma: "A resposta que o Larry forneceu está correcta. a Biblioteca Nacional para os Cegos tem um sistema que permite aos leitores do Canadá e do Reino Unido acederem a ambas as bibliotecas mas até momento é só. Acredito que existam negociações em curso para que isto seja possível de alargar a outros países de língua Inglesa. 
+
+"Devo fazer notar que a Biblioteca Nacional para Cegos do Reino Unido apenas tem material em braille. Tudo o que seja áudio deve ser tratado de outra forma. O RNIB fornece-nos quer material braille, quer material em áudio."
+
+
+* LOJA INTELIGENTE: Foram muitos os leitores que nos enviaram sugestões ao apelo feito o mês passado por David Porter, que em nome de uma sua amiga, com visão tubular, solicitava informação sobre, como poderia ajudá-la a evitar bater nas pessoas quando ia às compras num supermercado ou quando ia nadar para a piscina.
+
+Chris McMillan diz: "Ao longo de vários anos têm existido sistemas de alerta electrónicos ou equipamentos de navegação, mas são de forma caros que nunca entraram no mercado de forma consistente. Não ouvi que nada de semelhante tivesse existido no RU nos últimos anos." 
+
+Ela também tem amigos deficientes visuais, que nadam, e dizem-lhe para ou nadar com a ajuda de normovisuais ou nadar quando a piscina utiliza pistas. "Criados numa escola para amblíopes, aprendemos a nadar sem bater uns nos outros, e alguns dos meus colegas de escola chegaram mesmo a nadadores Olímpicos!"
+
+Rod Carne, chefe executivo da National Blind Children's Society (Sociedade Nacional das Crianças Cegas), também tem uns conselhos, nada tecnológicos, a dar: "Eu ando à frente do carrinho de compras e verifiquei que isto reduz os acidentes. Se você não tem queda natural em ser independente as lojas, normalmente, precipitam-se elas próprias em fornecer uma assistente para o ajudar".
+
+Na piscina, diz ele: "Resolvi este problema utilizando a piscina da minha localidade quando esta definiu as pistas. Consigo, na maioria das vezes, localizar as linhas pretas que se encontram no fundo da piscina a qual se encontra desenhada, felizmente, a meio das cordas delimitadoras das pistas. Antes de isto ter acontecido, eles colocavam uma pista só para mim, quando a piscina não estava cheia.
+
+"Penso que encontra um caso para este tipo de concessão ao abrigo do 
+Disability Discrimination Act (Lei da Discriminação das Incapacidades). Se não conseguir chegar a lado nenhum na piscina da sua localidade, tente escrever ao chefe executivo da sua Câmara Municipal, ou eu mesmo poderei negociar isso por si."
+
+Larry Johnson diz: "Para resolver o problema dela na piscina, ela deve nadar com um companheiro a seu lado para a alertar da proximidade de outros nadadores ou obstáculos. Outra técnica, que eu próprio sigo, é nadar junto à parede, tocando-lhe de quando em quando para manter a posição. Uma terceira alternativa é escolher nadar numa altura em que estejam poucos nadadores. Nenhuma destas soluções é perfeita, mas funcionam."
+
+[Fim da secção dois.]
+
+*SECÇÃO TRÊS: PERFIL
+
+- JORNAIS FALADOS.
+
+* TODAS AS NOTÍCIAS APROPRIADAS PARA EMAIL.
+por Phill Cain phil@headstar.com
+
+
+Actualmente, para nos mantermos informados, existem muitos serviços de notícias na Internet, muitos deles acessíveis às pessoas com deficiência visual. Contudo, a maior parte da informação que aparece nos jornais e revistas mais recentes, à venda no quiosque da esquina,  continua a não estar on-line.
+
+Até agora este problema tem sido resolvido por voluntários normovisuais que lêem publicações para um gravador - o jornal falado. Desde o princípio deste trabalho, no começo dos anos 70, o Reino Unido tornou-se na sede para a mais extensa rede de voluntários no mundo de leitores de jornais, constituída por 520 grupos locais, dos quais 430  estão filiados na Talking Newspaper Association UK "Associação do Jornal Falado do Reino Unido" (TNAUK - http://www.tnauk.org.uk).
+
+Ao todo, a rede nacional integra cerca de 1.100 dos 1.500 jornais locais do Reino Unido, para uma audiência de 200.000 deficientes visuais. A TNAUK, tem sede num pequeno estado industrial de Heathfield, em East Sussex, e é também responsável por dar voz aos jornais nacionais do Reino Unido e a cerca de 200 revistas e newsletters nos seus oito estúdios existentes no local. 
+
+Apesar de popular, o método de transcrição de uma cassete tem as suas desvantagens. O maior problema é que o processo é um trabalho extremamente intensivo; só o Sunday Times leva cerca de 30 horas a ser lido da primeira à última página. Quando a este tempo é acrescentado aquele que é necessário para copiar e enviar as cassetes, significa que é impossível acabar o serviço durante a noite, sem que se lhe cortem os cantos. Quando se trata de informação factual, existe uma linha muito fina entre cortar os cantos, ou seleccionar, e o acto de censurar. Segundo o ponto de vista do chefe executivo da TNAUK, Tim McDonald's, "Deveria de existir um direito de aceder aos jornais e aos livros à luz do Disability Discrimniation Act (Lei da Discriminação das Incapacidades)." 
+
+Contudo, agora as novas ferramentas de software e os métodos de entrega via Internet estão a revolucionar o serviço, tanto que agora, por vezes, é mais rápido que a entrega da versão em papel. Utilizando máquinas automatizadas de editar texto e entrega de emails, a TNAUK entrega jornais, com o texto integral às pessoas com deficiência visual, horas antes destes chegarem aos pontos de venda. Num dia em que tudo corra bem, a TNAUK diz que um jornal estará sobre o tapete da porta de entrada da caixa de correio electrónico do subscritor pelas 4.30h da madrugada.
+
+Os editores fazem o seu papel na cadeia de fornecimento digital, enviando à associação a cópia, em bruto, dos seus jornais nos formatos  de ambiente de trabalho de publicação, Quark e PageMaker. Ao fazerem-no, demonstram confiança, numa época em que os editores estão sempre desconfiados da pirataria. McDonald diz, reafirma, que podem ficar descansados: "Lutaremos contra a pirataria mais do que ninguém."
+
+O catálogo electrónico da TNAUK não fica só nos jornais nacionais, oferecendo também cerca de 200 outras revistas e newsletters electrónicas. De acordo com o programador da TNAUK, Ian McGregor, "Este tipo de publicações oferecem desafios consideráveis na forma de parametrizá-las para as pessoas deficientes visuais. São difíceis e muitas vezes impossíveis de ler, mesmo com um potente ampliador. As páginas são muitas vezes impressas em muitas cores em papel brilhante, e o texto é, não raras as vezes, sobreposto nas imagens."
+
+Antes de expedir uma publicação, existem um conjunto de tarefas a ter em conta, como seja o caso de substituir contracções por palavras inteiras e linearizar o texto das tabelas, muito apreciadas pelas revistas dedicadas aos consumidores das lojas de computadores. "A grande dificuldade que temos aqui é a grande inconsistência das normas de composição," diz McGregor. "Muitas pessoas não sabem a diferença entre um espaçamento linear suave ou um espaçamento acentuado. Ninguém tem em atenção o trabalho que nós temos que levar mais tarde."
+
+Apesar das suas vantagens, o rácio de subscrição dos formatos digitais da TNAUK continua baixo, com apenas 10 por cento dos seus 20.000 subscritores, entre eles associações, a preferirem este formato. O responsável máximo pelas Tecnologias da Informação da TNAUK explica que este valor baixo se deve ao facto de, a maior parte das pessoas com deficiência visual tenderem a ser idosas, menos familiarizadas com os computadores.
+
+Para as pessoas que preferem a voz humana, a TNAUK continuará a fornecer o formato em cassete. Mas mesmo este formato fiável está prestes a sofrer uma operação de limpeza cosmética de alta performance tecnológica, resultante da digitalização dos estúdios durante este ano.
+
+Ultimamente, estes desenvolvimentos tecnológicos na área da deficiência visual podem mesmo fechar o círculo e acabar por ensinar aos normovisuais uma ou duas coisinhas. Para Tim McDonald, a entrega via email é o futuro das notícias para todos, e as técnicas que estão a ser desenvolvidas pela TNAUK poderão liderar o caminho.
+
+NOTA: Para mais informações sobre como subscrever as publicações da TNAUK envie um email para info@tnauk.org.uk 
+
+[Fim da secção três.]
+
+* SECÇÃO QUATRO: REPORTAGEM ESPECIAL
+- SISTEMA BANCÁRIO ACESSÍVEL (Primeira Parte).
+
+* TESTES EM USABILIDADE.
+por Tamara Fletcher  tamara@headstar.com
+
+O sistema bancário on-line é, não raras as vezes, a primeira forma que as pessoas têm de tomar contacto e consciência da utilização da Internet nos nossos dias, mas para os que são deficientes visuais não tem sido assim tão fácil.
+
+Em Setembro de 2000, o RNIB testou a acessibilidade dos sítios Web de 17 empresas de negócios bem conhecidas das nossas ruas, incluindo quatro bancos: Abbey National, Alliance and Leicester, HSBC and NatWest. Destes quatro, nenhum deles passou integralmente o conjunto de teste básicos desenhados para o efeito, e um (o qual generosamente não revelamos o nome) não passou nenhum.
+
+O ano passado mesmo os testes mais extensivos à Usabilidade tiveram lugar em seis bancos a que se seguiu um relatório "Accessible e-banking" (e-banca acessível), que foi publicado em Outubro de 2001 pelo RNIB em conjunto com a Associação de Bancos Britânicos, durante uma conferência em Abril. 
+
+Na conferência ouviu-se dizer que se trata de algo que está a crescer muito rapidamente, mas que continua, de certa forma, ainda  longe da banca on-line se tornar totalmente acessível. Joe Norburn, coordenador da equipa Web que levou a efeito o Natwest.com e o site do Royal Bank da Escócia (http://www.rbs.co.uk), disse que não pretendia usar uma agência que não compreendesse a forma de fazer um sítio Web acessível, não apenas pela obrigação imposta pelo DDA de tornar os serviços digitais acessíveis.
+
+Aconselhou a que os desenhadores incorporem a acessibilidade desde o início do projecto uma vez que é mais difícil de redesenhar um sítio já existente e sublinhou a importância dos testes feitos pelos utilizadores por forma a afinar as incorrecções, pois fazer um sítio Web acessível é tornar a experiência do utilizador com o mesmo mais natural - dizendo que é possível empurrar as vedações do desenho enquanto se cumpre com as directrizes de acessibilidade. 
+
+O Abbey National recentemente relançou o seu serviço de e-banco (http://www.abbeynational.co.uk/ebanking_home.htm) e actualmente está a trabalhar numa versão só texto do seu sítio Web, o qual deverá estar disponível o mais tardar este ano. Um porta-voz do banco disse: "O RNIB tem sido bastante palavroso em relação ao nosso sítio Web anterior. Até ao final de Janeiro relançaremos o sítio, o qual tem sido alvo de uma série de modificações. Temo-nos sentado no escritório e utilizado o Jaws para navegar no sistema, por isso sabemos o que temos que fazer."
+
+O Nationwide (http://www.nationwide.co.uk) está também a fazer progressos. Um funcionário do edifício da sociedade disse ao Boletim E-Access: "Estamos a fazer as nossas páginas genericamente mais acessíveis. Partes do sítio estão já conformes, como seja por exemplo o sistema de banking, cartões de crédito, investimentos e pensões, mas a página de entrada está ainda muito inacessível - "ou seja ainda não tratámos da porta da frente mas os corredores já foram arranjados".
+
+A parte de banking on-line será relançada brevemente, e o banco disse que durante o processo de desenvolvimento do novo sítio Web, dado terem já aprendido bastante sobre o assunto da acessibilidade, vão continuar a incrementar esta área.
+
+Um cliente de um banco e experiente utilizador da Internet que tem vindo a manter contacto com o RNIB relativamente a problemas de acessibilidade é Ian Dawson, cego desde a idade dos 17 anos, e que tem conta no Nationwide e no NatWest. Ele diz que perdeu o registo original com o sítio Web da NatWest através de problemas que teve na entrada do, e desde então não conseguiu mais efectuar de novo o registo.
+
+"Cada banco tem o seu processo de segurança - com o Nationwide, o processo de entrada (log on) é relativamente fácil. Você tem um número de cliente, escolhe uma palavra-chave e um número-chave. Com o NatWest existe um elemento aleatório - você tem um número de utilizador somente para o identificar a si - depois eles perguntam-lhe por três letras da sua palavra-chave. 
+
+Ao usar um leitor de ecrã, você tem um tempo limite para efectuar a operação mas que depende também do tipo de leitor de ecrã que está a utilizar."
+
+O relatório do RNIB/British Banking Association coloca em evidência uma série de outras características chave da acessibilidade ao sistema bancário:
+
+- Tornar a entrada (log in) fácil de operar - faça do link login o primeiro a ser acedido quando se pressiona uma vez na tecla TAB. Quando o processo de login solicitar um número, utilize rotule o botão com "continuar" em vez de "enviar" ou "confirmar".  Certifique-se que o utilizador está bem informado relativamente à abertura de uma nova janela.
+
+- Mantenha-o simples - não use terminologia ambígua. Forneça um link para uma lista de abreviaturas, caso as utilize. Mensagens de erro devem ser concisas e darem ao utilizador uma indicação sobre o que este fazer a seguir.
+
+- Faça uso correcto das tabelas e considere a forma como as mesmas vão ser lidas.
+
+- Forneça ajuda e mensagens claras no ecrã e certifique-se que a navegação pelo sítio Web se faz de forma razoável - os formulários podem ser particularmente confusos, quando se acedem pela primeira vez, uma vez que não é possível a sua visualização integral numa só página.
+
+- Disponha os diversos elementos na página de forma clara - certifique-se que montantes como crédito e débito se distinguem facilmente.
+
+- Mantenha os utilizadores informados quando este efectuar o procedimento de saída (log out), e forneça um link para que este possa efectuar de novo o procedimento de entrada (log in) caso o deseje.
+
+NOTA: No próximo número vamos olhar para a acessibilidade dos caixas Multibanco. O relatório 'Accessible e-banking' está disponível em tinta a partir da BBA; os formatos braille e áudio estão disponíveis por 80 libras - email: publications@bba.org.uk
+
+[Fim da secção quatro.]
+
+* SECÇÃO CINCO: SEGREDOS COMERCIAIS
+- TECLAS DE ATALHO.
+
+* AS TECLAS PARA COMANDAR A CAIXA METÁLICA.
+por John Wilson  jwjw@onetel.net.uk
+
+Sou utilizador de computadores há cerca de dez anos, mas ainda me lembro de algumas frustrações e coisas que me pareciam impossíveis quando decidi enfrentá-los pela primeira vez. Apesar disso, agarrando o essencial das teclas de atalho, dos leitores de ecrã e das linhas braille, uma pessoa cega pode bastante rapidamente transformar uma caixa metálica frustrante numa importante ajuda e enriquecedora da sua vida e mesmo companheiro. 
+
+Existem programas que são especialmente escritos para pessoas cegas, desenhados para serem fáceis de operar, usando somente o teclado. Mas a realidade é que, quer em casa quer no trabalho, as pessoas com deficiência visual necessitam de aprender a usar os mesmos programas utilizados pelos seus colegas. Para as pessoas deficientes visuais isto significa aprender a usar teclas de atalho. Existem consideráveis diferenças, na forma de isto ser feito, entre os vários programas, havendo alguns que têm muito poucas, ou mesmo nenhumas, teclas de atalho. Mas o principal problema para as pessoas deficientes visuais é, não raras as vezes, obter retorno inteligível para verificar se executou correctamente um comando, sem necessitar de recorrer ao teclado ou de re-memorizar as teclas de atalho.
+
+Afortunadamente a grande maioria dos programas de base Windows, vêm com um número de teclas de atalho suficientes, o que conjuntamente com um bom leitor de ecrã lhe permite saber se está a executar os comandos com sucesso. Mas continua, nomeadamente para quem começa, a ser preciso aprender como usar alguns destes programas maçudos - tais como o processador MS Word, o sistema de áudio Sound Forge, ou o programa de cópia de CD's Nero-Burner - pode tornar-se uma perspectiva aflitiva.
+
+É aqui que se torna crucial a existência de uma formação de boa qualidade ou a existência de bons tutoriais, áudio ou texto, organizados especialmente para as necessidades dos utilizadores deficientes visuais.
+Com o melhor que existe no mundo, um formador normovisual de pessoas normovisuais utilizando métodos visuais não consegue, muitas vezes, agarrar de que maneira uma pessoa cega faz uso de métodos alternativos para alcançar os seus objectivos e verificar os resultados.
+
+Lembra-me ainda das dificuldades que experimentei, há alguns anos atrás, na aprendizagem do gestor de base de dados, DataEase, com um formador normovisual que dava também formação aos meus colegas normovisuais. Um dos problemas é que o formador não tinha resposta para a dificuldade que eu estava a enfrentar na leitura das tabelas que o programa produzia. A meio da página o conteúdo da tabela dissociava-se do seu cabeçalho. Mais tarde descobri que os relatórios do DataEase podem ser criados numa série de variedades de formatos, incluindo um, cujo formato é linha a linha, o que significa ler e perceber o relatório muito mais facilmente do que quando apresentado em colunas.
+
+Quando uso programas vulgares como Microsoft Word, Excel, WordPerfect, TextBridge Millennium, Sound Forge ou os principais navegadores Web, é mais importante aprender as teclas de atalho genéricas e as teclas embutidas nos programas Windows do que as teclas do leitor de ecrã.
+
+Ao tornarmo-nos dependentes das teclas de atalho de um dado leitor de ecrã em particular, defrontamo-nos com maiores dificuldades a trabalhar com uma máquina que tenha instalado um outro leitor de ecrã. Por exemplo, nas versões inglesas, as teclas de atalho como Control + O para abrir um ficheiro, Control + P para imprimir, Tecla Windows + M para ir para o desktop, Tab e Shift + Tab para andar pelos elementos de uma página Web, funcionam na maior parte dos programas Microsoft e pacotes que utilizam as convenções Windows.
+
+Isto significa, que é útil saber a tecla de atalho do leitor de ecrã quando o Windows não tem o equivalente respectivo. Por exemplo, com o leitor de ecrã Window Eyes, as teclas Insert + S revela o sistema Tray; com o leitor de ecrã JAWS, Shift + Insert + Seta para baixo revela-lhe o que está salientado; e no HAL, Control + 9 alterna entre o modo de leitura em coluna e leitura em linha. 
+
+Recomendo o uso de um computador moderno, padrão Windows, conjuntamente com uma impressora e um digitaliza dor, com sintetizador de voz, braille ou sistema de ampliação, para todos os que têm necessidade de ler literatura de sua preferência e deseje ser tão independente quanto possível. Precisam de saber e estar conscientes, antes de comprar um computador, que vai ser necessário despender uma considerável parte do seu tempo e esforço para se tornar proficiente, mas os resultados serão bem compensadores.
+
+NOTA: John Wilson é autor da série de tutoriais 'From the keyboard' (A partir do Teclado) para pessoas deficientes visuais. Para mais detalhes use o telefone 0113 2575957 ou visite:
+http://web.onetel.net.uk/~fromthekeyboard
+
+[Fim da secção cinco.]
+
+COMO RECEBER ESTE BOLETIM.
+
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com> Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos para assinar!
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com
+Copyright 2001 Headstar Ltd. http://www.headstar.com O Boletim no seu todo ou em parte pode ser reproduzido incluindo este aviso. As Secções do relatório devem ser colocadas entre aspas de forma a ficar claro a sua fonte: 'retirado do Boletim E-Access, uma newsletter mensal distribuída por email', e ainda a referência do nosso endereço do sítio Web http://www.e-accessibility.com.
+
+-**-
+Nota à edição Portuguesa: Caso os leitores portugueses estejam interessados em enviar os seus comentários e sugestões, bem como enviar alguns artigos que abordem as questões de acessibilidade à Sociedade da Informação podem remetê-los, em Inglês ou Português, para o seu editor Dan Jellinek através do e-endereço: dan@headstar.com, ou mesmo para gesta@gesta.org 
+-**-
+
+PESSOAL:
+Director - Dan Jellinek dan@headstar.com
+Vice-director - Phil Cain phil@headstar.com
+Redactor - Tamara Fletcher tamara@headstar.com
+Conselheiro Editorial - Kevin Carey humanity@atlas.co.uk 
+
+[fim da edição.]
+
+

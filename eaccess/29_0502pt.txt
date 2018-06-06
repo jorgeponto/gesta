@@ -1,0 +1,279 @@
+* Boletim E-Access
+
+Boletim electrónico on-line de notícias sobre tecnologia para pessoas com deficiência visual.
+Endereço do Boletim E-Access, incluíndo os seus arquivos: 
+<http://www.e-accessibility.com>
+
+Patrocinado pelo Royal National Institute for the Blind:
+<http://www.rnib.org.uk>
+o National Library for the Blind (Biblioteca Nacional para os cegos):
+<http://www.nlbuk.org>
+e a Guide Dogs for the Blind Association (Associação de Cães-Guia para cegos):
+<http://www.guidedogs.org.uk>
+
+Versão portuguesa: cortesia do GESTA-MP (Grupo de Estudos Sociais, Tiflológicos e Associativos)
+<http://www.gesta.org>
+
+Divulgue, por favor, este boletim pelos seus amigos e colegas, e diga-lhes que o podem subscrever em Português, bastando para tal enviar uma mensagem para o endereço electrónico: <mailto:eab-pt-subs@headstar.com>. Veja os pormenores na parte final deste boletim.
+Quanto mais subscritores tivermos, melhor será o nosso serviço!
+
+NOTA: Para facilitar a navegação a todos aqueles que utilizam leitores de ecrã, todos os cabeçalhos agora iniciam-se com um asterisco e terminam com um ponto final. Diga-nos, por favor, se existe mais alguma coisa que possamos fazer de forma a facilitar a consulta do boletim. 
+
+[início DO BOLETIM]
+
+* BOLETIM 29, MAIO 2002.
+
+* ÍNDICE:
+
+Notícias:
+- Multimédia incrementa o Braille.
+- Objecções aos testes da e-votação crescem.
+- Sítio governamental recebe prémio de acessibilidade.
+- Competição - ganhe um leitor de e-book.
+- Ir às compras através da voz com a Freedom Network (Rede Livre).
+
+Notícias breves: Internet Society (Sociedade da Internet) abre secção sobre incapacidades; Como procurar e-books acessíveis; Lei acessível. 
+
+Secção dois: 'A Receber'
+- Fórum dos Leitores.
+
+Secção três: Sobre o sítio Web
+- St Dunstan's (primeira parte). O seu trabalho tem sido reabilitar pessoas cegas, ex-combatentes, desde a Primeira Grande Guerra. Dan Jellinek descobriu que muitos veteranos estão a usar avidamente a Internet como novos recrutas.
+
+Secção quatro: Um leitor escreve
+- St Dunstan's (segunda parte): a história de um soldado. Mark Threadgold serviu 17 anos na Royal Corps of Signals até ter perdido a visão num acidente. Ele conta como dois ano no St Dunstan's que lhe abriu novas oportunidades e mudanças.
+
+Secção cinco: Em foco
+- Tecnologias de voz: tudo leva a crer que a voz na Web vai ser a interface mais largamente utilizado no futuro, e não apenas por pessoas cegas. Judith Markowitz dá-nos conta do estado da arte.
+
+[Fim do índice.]
+
+*SECÇÃO UM: NOTÍCIAS
+
+
+* MULTIMÉDIA RESGATA O BRAILLE?
+
+Uma criança cega deve poder tocar no braille num ambiente multimédia enriquecido, concluiu um grupo de peritos internacionais numa conferência realizada o mês passado em Copenhaga. 
+
+O simpósio, com o título 'O Braille na Era da Digitalização' (http://www.ibos.dk/braille), foi levado a efeito com o objectivo de examinar de que forma as tecnologias digitais podem ser utilizadas como energia para reverter a tendência descendente da utilização do Braille. De acordo com um estudo da americana National Federation of the Blind (Federação Nacional dos Cegos), os níveis de literacia Braille, quer nos EUA quer no RU, desceram de cerca de 50 por cento há 40 anos atrás para menos de 10 por cento agora. 
+(http://www.nfb.org/braille/brustoc.htm).
+
+O vice-presidente do RNIB, Kevin Carey, que representou o instituto em Copenhaga, disse que a Internet tem um papel importante no estimulo de revitalização do Braille. "Uma das razões que entusiasma as crianças a ler informação impressa tem a ver com a possibilidade de aceder àquilo que não foi dito, mas o conteúdo braille é muitas vezes inteiramente já prescrito, e por isso eles perdem o interesse," disse ele.
+
+Os delegados também elaboraram uma resolução para encorajar as casas de produção braille a juntarem os seus recursos no sentido de criarem um laboratório de investigação Braille unificado. O corpo unificado, disseram, deve ter como objectivo desenvolver ferramentas que serão postas à disposição, no sentido de tornar os conteúdos Internet disponíveis nos diversos graus de padronização de braille. Carey disse que a política comum de encorajar as pessoas a aprender o sofisticado braille, grau dois, sem ter em conta as suas necessidades não ajudou: "Aprender braille grau dois é difícil: e as pessoas cegas têm, de qualquer forma, demasiados problemas, e muitos pensarão - porquê adicionar mais outro?"
+
+Os conferencistas concordaram, no entanto, que a perspectiva unificada deve ter limites, e que a notação especializada necessária para a matemática braille, para a música e engenharia deve continuar a ser produzida pelas casas de produção especializadas. 
+
+* OBJECÇÕES CRESCEM EM RELAÇÃO AOS TESTES DE E-VOTAÇÃO.
+
+As objecções cresceram perante a inacessibilidade do sistema de votação electrónico que teve em teste durante este mês numa comissão local de eleições.
+
+O Departamento de Transportes, Governo Local e das Regiões levou a efeito uma série de testes piloto do sistema de e-votação em nove áreas administrativas locais de Inglaterra - Bolton, Chester, Borough of Crewe e Nantwich, Liverpool, Newham, Sheffield, St Albans, Stratford de Avon e Swindon. 
+Os testes incluíram o uso da Internet a partir de casa, quiosques de votação e mensagens móveis de texto.
+
+Em Sheffield, 36 por cento dos que votaram, fizeram-no electronicamente através do sistema de e-Votação "Sheffield e-Vote 2002"
+(http://www.votesheffield.com). Contudo Julian Scarlett, desenhadora Web do departamento de educação em Sheffield, que não esteve envolvida nas fases piloto, disse este mês na lista de discussão da Iniciativa de Acessibilidade à Web (WAI - http://www.w3.org/WAI): "Apesar de aplaudir o projecto [para] todos aqueles que achavam a forma tradicional de votar um método difícil de aceder, quase que desmaiei quando vi a acessibilidade do sítio; sem legendagem nas imagens, sem sumários nas tabelas, sem declaração da linguagem utilizada no corpo do texto, sem etiquetagem nos botões dos formulários, tamanhos de letra fixados".
+
+Os testes de Sheffield foram executados com parceiros do sector privado como a BT e a Election.com. Charel Aoun, director técnico da Election.com, admitiu que a plataforma Web utilizada para aceder on-line ao sistema de votação não se encontrava conforme com os verificadores Web de acessibilidade, como o Bobby, porque não houve tempo. No entanto ele disse, ao Boletim E-Access, que o motor de voto, por si só, está acessível. "O motor está conforme com as directrizes WAI até ao nível 3 - nesta fase piloto escapou-nos uma série de pormenores mas está definitivamente conforme com o nível 2. O projecto é piloto e estamos a tomar nota de qualquer trabalho ou aspecto a corrigir no futuro".
+
+Entretanto a organização ligada às pessoas com incapacidades, Scope (http://www.scope.org.uk) está a pedir opinião sobre a acessibilidade aos boletins de voto ou ao piloto de votação electrónico, durante as elecções locais, com o objectivo de produzir um relatório solicitado pela Comissão de Eleições. Para o formulário do inquérito ou para pedir mais informações, telefone para o número 020 7619 7252/3 ou use o endereço de correio electrónico: campaigns@scope.org.uk
+
+* SÍTIO DO GOVERNO LOCAL GANHOU PRÉMIO 'SEE IT RIGHT' (VEJA CORRECTAMENTE).
+
+IDeA Knowledge (http://www.idea.gov.uk/knowledge), o portal sobre e-governo do RU, desenvolvido pela agência local do governo, Improvement and Development Agency (IDeA - Agência para o Desenvolvimento e Aperfeiçoamento), é o primeiro sítio governamental a passar pela auditoria da campanha para a acessibilidade à Web do RNIB, a que deu o nome 'See It Right' (Veja Correctamente). O portal do governo central do RU, UK online, 
+(http://www.ukonline.gov.uk) foi já qualificado para um prémio.
+
+O sítio Web da IDeA Knowledge tem por objectivo a partilha de pontos de vista e boas práticas dos responsáveis pela política local do governo através de workshops, pacotes de ferramentas, estudos de caso e comunidades on-line. De acordo com a IDeA, o sítio constitui agora um padrão em termos de acessibilidade que as autoridades locais devem seguir. 
+
+Apesar da IDeA não poder impor os padrões de acessibilidade, avisa que as autoridades locais não podem ignorá-los. "Se o fizerem, ficaram mal vistos: se algumas entidades locais insistirem em ficar à margem ou se o fizerem incorrectamente, enquanto que outras o fizerem correctamente, as pessoas vão começar a interrogar-se", disse um porta-voz da agência ao Boletim E-Access.  
+
+De acordo com o RNIB, a campanha 'See It Right' é um grande passo em frente porque os prémios para os sítios Web com base numa auditoria humana independente, e não numa abordagem automática baseada em software como é o caso do Bobby (http://www.cast.org/bobby), ou com base nas directrizes do consórcio World Wide Web, as quais fornecem um conjunto de normas de acessibilidade, mas que não verifica a sua conformidade. Até à presente data, o RNIB apenas auditou uma mão cheia de sítios, mas espera adicionar cerca de 50 sítios dos sectores privados e públicos dentro de seis meses.
+
+O RNIB diz que projectos como a iniciativa "Accessible and 
+Personalised Local Authority Websites" (APLAWS - Sítios Web das Autoridades Locais Acessíveis e Personalizáveis -  
+http://www.aplaws.org.uk) a decorrer em Londres, representam o próximo passo importante para tornar os sítios Web governamentais mais acessíveis a pessoas com deficiência visual. APLAWS (aplauso) está a ser levado a cabo por um consórcio de autarquias que se encontram a desenvolver um sistema de gestão de conteúdos que vai normalizar a forma como os conteúdos vão ser apresentados e percorridos por quem visitar os sítios Web das autarquias. 
+
+* COMPETIÇÃO DE ESCRITORES - GANHE UM LEITOR DE E-BOOK.
+
+O Boletim E-Access está a oferecer a oportunidade dos escritores cegos ou amblíopes de ganharem a última tecnologia em leitura de e-books.
+
+O primeiro prémio da nossa competição para escritores é o leitor de e-book 'Victor'a avaliado em mais de 300 libras e que foi doado pela VisuAide (http://www.visuaide.com). O "Victor" lê o novo tipo de livros falados em, o qual permite uma leitura mais rápida, fácil de navegar (para rever as suas características veja o Boletim E-Access de Março de 2002). Os que ficarem em segundo lugar irão receber cada um, um conjunto de 10 e-livros clássicos em CD, avaliados em cerca de 100 libras. Os vencedores poderão também ver publicado numa das edições futuras do Boletim - actualmente com cerca de 3000 leitores em todo o mundo e traduzido em cinco línguas!
+
+Os trabalhos deverão ter um tamanho entre 500 e 800 palavras edebruçarem-see sobre o tema "Mantenha-se em contacto com a tecnologia". Os tópicos podem estar relacionados com aInternett, a vertigem da mudança tecnológica, a forma como a tecnologia mudou a sua vida, ou imaginar como será a vida no futuro. 
+
+A data de encerramento será sexta-feira, 26 Julho 2002, e os resultados serão anunciados na nossa edição de Agosto. Envie os trabalhos para o organizador da competição, Phil Cain através de phil@headstar.com ou contacte-o pelo 01273 231 291 para quaisquer perguntas.
+
+* IR ÀS COMPRAS COM ALTA VOZ.
+
+Foi adicionado um centro de compras activado por voz aos serviços oferecidos pela Freedom Network (http://www.freedombox.info), um portal Internet, com sede nos EUA, e dedicado à utilização de interfaces gráficas de utilizador.
+
+A Amazon, livraria on-line (http://www.amazon.com) e todos os seus retalhistas está a permitir aos subscritores da Freedom Network, registar e pesquisar os seus sítios Web usando a sua voz. Os subscritores vão também poder receber trechos de exemplos áudio e artigos informativos ao cliente.
+
+Num comunicado da Freedom Network, o seu chefe executivo Mike Calvo, ele próprio cego, disse: "O lançamento é um primeiro passo importante nos nossos esforços para levar os produtos e serviços dos muitos retalhistas existentes on-line aos cegos e a todas as pessoas incapazes de usar os sistemas normalizados, num ambiente onde a acessibilidade está garantida."
+
+* NOTÍCIAS BREVES:
+
+* CONEXÕES DA SOCIEDADE: A Internet Society (Sociedade Internet), sem fins lucrativos, é uma organização internacional de associados que liderou e ajudou o desenvolvimento da Internet, está a formar uma nova secção dedicada às incapacidades. A associação a esta organização é livre. Os interessados podem juntar-se à sociedade (de forma gratuita) em http://www.isoc.org e enviar depois um email a Michael Burks através de mburks952@worldnet.att.net dizendo que "I wish to join the disabilities chapter" (que deseja associar-se à secção sobre incapacidades).
+
+* NAVEGAÇÃO ELECTRÓNICA: 'Procurando e-books na Internet', novo livro cuja autora é cega e que é leitora do Boletim E-Access, de seu nome Anna Dresner, descreve como obter livros gratuitos e pagos a partir de muitos e vários sítios Web: http://www.nbp.org/ebook.html
+
+* CONSELHO LEGAL: O vencedor do prémio 'law on the web' (lei na Web) relacionado com a prática legal on-line, adoptou as directrizes do Web Standards Project (Projecto de Normalização da Web) sobre acesso à informação legal e aconselhamento difundida na internet (http://www.webstandards.org.uk). São bem vindas as opiniões sobre o sítio Web por parte de pessoas com deficiência visual: http://www.lawontheweb.co.uk
+
+[Fim da secção um.]
+
+* SECÇÃO DOIS - 'A RECEBER'
+- FÓRUM DOS LEITORES.
+- Envie, por favor, as suas contribuições e respostas para inbox@headstar.com
+
+* MODELOS DE ESCALA: Nos nossos dois últimos números, o acesso aos mapas on-line foram um tópico em discussão na secção "A Receber". John Gardner, director do projecto Acesso à Ciência da Universidade do Estado de Oregon, disse que estava particularmente interessado nas notas da edição do mês anterior feitas por Dave Pawson do RNIB a propósito do formato gráfico vectorial escalável (SVG - http://www.w3.org/Graphics/SVG).
+
+Gardner escreve: "O meu grupo está a desenvolver uma extensão para os navegadores SVG, "Open Source", e directrizes que permitem tornar o SVG universalmente utilizável por toda a informação gráfica, incluindo mapas. Publicámos vários trabalhos sobre este projecto, tal como o que podem ver em: 
+http://www.csun.edu/cod/conf2001/proceedings/0103gardner.html
+
+Ele cita também um projecto cartográfico do Canadá que está a fazer mapas acessíveis SVG, em: http://tactile.nrcan.gc.ca
+
+
+* SITUAÇÃO INTERNACIONAL: Larry Johnson do Texas escreve: "O Serviço Nacional Bibliotecário dos EUA (NLS) mantém um sítio Web com uma lista de livros em braille e áudio de organizações dos EUA, do Canadá e da Grã-Bretanha. Mas quando pedi à minha biblioteca local, específica para cegos, em Austin, Texas para a sua assistência para me emprestarem um livro existente na Biblioteca Nacional para Cegos do RU, disseram-me que não o poderiam fazer.
+
+"Fiquei chocado. Porque está então esta lista no sítio Web da NLS?! Responderam-me que o sítio Web era também para ser usado por bibliotecários normovisuais, e que estes tinham acesso especial ou acordos de empréstimos com aquelas organizações. Francamente, isto faz muito pouco sentido para mim. Existe alguma maneira, para uma pessoa cega residente nos EUA, possa solicitar, emprestado, livros às bibliotecas braille do Reino Unido?"[Respostas para inbox@headstar.com]
+
+* SINAL DE AVISO: O nosso leitor regular e correspondente David 
+Porter escreve-nos para pedir aconselhamento, em nome de uma amiga dele, já registada como cega. "Desde que lhe foi diagnosticado retinite pigmentar, ela começou a ficar com visão tubular. À medida que a situação evoluiu, o túnel foi ficando mais escuro. Quando vai às compras num supermercado, independentemente dos cuidados que tenha com o carrinho de compras, acaba sempre por bater nas outras pessoas.
+
+"Ficaria agradecido se algum leitor soubesse de algum pequeno equipamento (talvez uma lanterna com uma sirene luminosa, e mesmo um beep - chamando assim a atenção dos outros para a sua incapacidade) ou talvez um pequeno aparelho semelhante ao que actualmente é montado nos carros, que avisa os seus condutores que se estão a aproximar dos outros veículos, ou obstáculos. Se nunca viu um destes, eles emitem beeps rápidos, que vai aumentando de volume à medida que a distância diminui - alertando os condutores para parar. 
+
+"A minha amiga é também uma exímia nadadora mas, derivado da sua visão limitada, frequentemnte não consegue ver os outros nadadores antes de ir contra eles. Penso que um alerta electrónico não se daria muito bem com a água - por isso, aceita-se também qualquer sugestão para este problema.[Respostas para  inbox@headstar.com]
+
+* MATEMÁTICA UNIFICADA: Susan Jolly de Los Alamos, Novo Mexico, escreve: "Sou uma cientista computacional, normovisual, nos EUA com particular interesse em matemática braille, e devorei o vosso recente artigo informativo sobre o assunto (ver número 25, Janeiro 2002).
+
+"O que está actualmente a acontecer no que diz respeito à possibilidade de um código braille unificado é que existe uma proposta para fazer um novo código braille para a matemática que seja muito similar à grafia actualmente existente no RU e completamente diferente do código Nemeth actualmente em uso nos Estados Unidos. (Estes dois códigos são assim tão diferentes que não seja possível fundi-los ou que não se possa estabelecer uma base de compromisso mútuo). Esta proposta foi desenvolvida, principalmente, por pessoas que não são técnicas.
+Naturalmente, que os leitores, técnicos braille, daqui, têm uma perspectiva negativa sobre o simples facto de descartar os seus sentimentos do que é um código melhor, para aceitar os utilizados no RU.
+
+"Adoraria corresponder-me com alguém que actualmente utiliza a grafia matemática braille Inglesa a fim de saber a sua opinião a propósito da "unificação" que será, supostamente, votada no próximo ano." [Respostas para inbox@headstar.com]
+
+[Fim da secção dois.]
+
+* SECÇÃO TRÊS: NO SÍTIO
+- ST DUNSTAN'S (Primeira Parte).
+
+* SERVIÇOS DE PRIMEIRA CLASSE.
+por Dan Jellinek  dan@headstar.com
+
+O St Dunstan's, é uma organização social, para pessoas cegas, ex-combatentes (http://www.st-dunstans.org.uk) que foi fundada em 1915 pelo proprietário de jornais, Sir Arthur Pearson, que era ele próprio cego.  
+Pearson queria auxiliar os muitos homens e mulheres que ficaram cegos durante a Primeira Grande Guerra, muitas vezes por gás mustarda. À medida que o tempo foi passando e o número de conflitos foi reduzindo, a organização ficou liberta para poder alargar o seu campo de actuação, passando por auxiliar, não apenas os que eram feridos enquanto se encontravam no activo, mas também os ex-combatentes e as suas familias, e mesmo os que ficavam com problemas de visão derivados da idade. 
+
+Existem agora 753 'St Dunstaners' (São Dunstaneiros), e a organização ajuda mais 500 esposas e um número similar de viúvos e viúvas. Também gere o "Diana Gubbay Trust" em benefício das mulheres e dos homens que ficam cegos nos serviços de emergência.
+
+A sede da organização fica em Londres mas o seu centro de reabilitação profisional, que inclui formação em computadores, é em Ovingdean, 
+posicionado numa vasta área junto às escarpas da costa de Sussex perto de Brighton.
+
+A formação inicial em actividades da vida diária inclui o acesso aos computadores e outras tecnologias quando relevantes, e têm lugar, usualmente, durante os cursos residênciais em Ovingdean. O trabalho que se segue tem depois lugar na casa da pessoa (a qual é muitas vezes arrendada ou financiada em parte pela St Dunstan's), e podem ainda fornecer apoio adicional como seja o caso do aluguer de equipamento computacional.
+
+O gestor geral de Ovingdean é Dick Lake, que se juntou no ano passado, depois de 35 anos na Marinha como responsável pelo departamento de serviço social. Ele não tem dúvidas da importância das novas tecnologias para o tipo de trabalho de reabilitação, o qual é central para todas as pessoas que ficam cegas ou amblíopes.
+
+"Os computadores e as tecnologias a eles associadas representam um trampolim para as pessoas cegas em termos da sua qualidade de vida e acesso ao emprego. No passado, as pessoas tinham que aprender braille ou moon, enquanto que agora podem ajeitar-se com aquilo que sabem usando um teclado de computador", disse Lake.
+
+"Para as pessoas idosas, em particular, que ficam deficientes visuais, aprender um novo sistema como é o braille pode ser penoso e a sua sensibilidade táctil pode estar deteorada pelo que a tecnologia é de grande importância."
+
+O centro de Ovingdean é um edifício degradado desenhado em 1930 assemelhando-se a um avião, com um grande vidro frontal semelhante à cabine do avião, e umas asas simétricas, seguindo uma configuração padronizada em cada um dos andares, para tornar a movimentação das pessoas deficientes visuais mais fácil. 
+
+O centro de formação em tecnologia está situado num anexo mais moderno com uma dúzia de computadores com ecrãs grandes, impressoras especiais, digitalizadores e uma selecção de programas e equipamentos de acesso onde se inclui leitores de ecrã e programas de ampliação. Uma das máquinas tem ligada uma câmara de um CCTV de forma a que as pessoas possam ampliar documentos e vê-los no ecrã que pode ser divido ao meio e que é controlado por um pedal.
+
+O formador de tecnologia, Janis Sharp, disse que nos últimos dois anos o interesse entre os residentes e visitantes idosos de Ovingdean tem crescido rapidamente. "Ao principio diziam que era para os mais novos mas à medida que a Internet continuou a receber uma cada vez maior exposição por parte dos mass-media, e tudo o que aparecia tinha um 'www' agarrado, começaram gradualmente por vir e perguntar o que era afinal tudo aquilo."
+
+Actualmente temos pessoas a usar computador que vão desde um soldado idoso que tem um olho vendado, que devagar vai pressionando as teclas, com o seu dedo indicador, e fazendo sair poemas, até pessoas que acedem remotamente a máquinas que estão tão longe como a Irlanda.
+
+Os 'St Dunstaners' que vivem na comunidade têm a possibilidade de obter ajuda com o computador e respectivos periféricos através do telefone, dizendo-nos Sharp que é normalmente possível assistir as pessoas pelo telefone de uma forma bastante rápida, desde que se consiga ouvir o sintetizador lá do outro lado. "Recentemente tivemos uma chamada relativa a uma impressora encravada que foi provocado por envelopes amarrotados. No dia seguinte o 'St Dunstaner' pediu à sua empregada para que passasse todos os seus envelopes a ferro."
+
+As actividades levadas a cabo pelo St Dunstan's são sempre vistas como algo de estravagante e radical, pois é uma organização que trabalha para ex-combantentes incluíndo alguns de forças especiais. Os 'St Dunstaners' regularmente levam a efeito maratonas, corridas de bicicletas com guia via rádio, passeios de cavalo, ski ou entradas em corridas de barcos. Actualmente, com o pretexto de um clube de computador, actividade aparentemente mais sedentária que as anteriores, os não menos aventureiros, encontram-se duas vezes ao ano para construir máquinas, discutir as últimas novidades tecnológicas e trocar umas dicas.
+
+A formação em tecnologia pode ser também a chave para os ex-combatentes que perderam a visão, encontrarem novos empregos. "Nem todos encontram trabalho como nós queriamos, pois não é nada fácil levar de novo as pessoas a um local de trabalho", disse Lesley Styche, director de reabilitação e formação do St Dunstan's. "Mas existem 'St Dunstaners' a trabalhar em todo o lado, desde contabilistas a hidroterapeutas e mesmo na BBC a acompanharem cursos de computador."
+
+[Fim da secção três.]
+
+*SECÇÃO QUATRO: UM LEITOR ESCREVE
+- ST DUNSTAN'S (Segunda Parte)    
+
+* Mark Threadgold passou 17 anos no Royal Corps of Signals, entidade responsável pela rede de comunicações do Exército Britânico, antes de perder a visão há dois anos atrás, depois de ter sofrido um severo ferimento na cabeça. Foi posteriormente ajudado na sua reabilitação pelo St Dunstan's, a organização para os ex-militares deficientes visuais (ver secção anterior, sobre esta questão) e aqui escreve-nos, mais uma vez, sobre a sua experiência de como aprendeu a trabalhar com computadores.
+
+* ENGENHANDO UMA RECUPERAÇÃO DIGITAL.
+
+Fui extremamente sortudo em ter sido levado para a família do St Dunstan's depois de sair do hospital. Este foi o começo de um ano de excelente formação em mobilidade, actividades da vida diária tais como cozinhar, e utilização do computador.
+
+Como eu era engenheiro electrónico antes de perder a visão, parte do meu trabalho envolvia a manutenção e reparação de PCs de secretária. Era também algo em que eu me tentava manter actualizado fora do trabalho e como passatempo. Depois do meu acidente, presumi que o meu trabalho com os computadores tivesse terminado. A minha introdução aos leitores de ecrã foi, por esta razão, uma revelação absoluta!
+
+O primeiro nível no processo de reaprendizagem foi dominar o teclado. Depois de quatro ou cinco dias, com um professor muito paciente, eu já identificava o básico. Foi praticando bastante que dominei o teclado, tendo sido mais uma questão de confiança do que competência! A minha total falta de visão significaria que este esquema estava a tornar-se o meu único método, tanto para o controlo como para a aquisição de informação.
+
+Depois de ter ganho confiança suficiente para ir um pouco mais longe, o meu computador foi trazido para o St Dunstan's. O leitor de ecrã, HAL, da Dolphin Computer Access (http://www.dolphinuk.co.uk/products/hal.htm) foi instalado no meu computador, e assim com esta montagem no meu quarto, eu podia praticar toda a noite se quisesse. Conseguir dominar as diferentes aplicações era o próximo passo lógico. O programa Microsoft Word 97 tinha sido anteriormente a minha escolha para processamento de texto, e foi por aqui que começámos. Encontrar rapidamente os comandos através dos menus de lista tornou-se um "trabalho minucioso". As teclas de atalho eram a opção mais rápida, se eu me lembrasse de todas elas. Enquanto tentava encontrar uma lista, das mesmas, no ficheiro de ajuda, fui informado que as mesmas já estavam fora de validade. Como eram 60 páginas de tamanho A4, pensei que as teclas de atalho não eram para mim e passei então a usar, um pouco resignado, os menus de janela. 
+
+Acredito que a minha experiência anterior com os programas tenha ajudado bastante. Como me lembrava das várias caixas de diálogo e do seu formato, a explicação para eles foi mais simples. Esta teoria foi reforçada quando fui questionado por outro aluno do St Dunstan's, que era quase mais velho duas gerações do que eu e nunca tinha visto computadores. À mesa do jantar ele perguntou-me, "O que é o cursor?", pensei sobre isto durante algum tempo! Como seria possivel descrever o que é um cursor a alguém que nunca tinha visto um? Tivemos uma discussão hilariante sobre a pequena e vistosa maiúscula letra "I", que mostra onde a escrita vai aparecer. Utrapassado isso, isto move-se por si só cada vez que se pressiona uma tecla e deverá fazer um som tal como a magia negra. Passei a semana seguinte a rezar para que ninguém o apresentasse ao rato!
+
+Rapidamente vieram outras aplicações. À noite eu experimentaria com o meu próprio computador e no dia seguinte perguntava como se arranjava! Dizem que se aprende pelos próprios erros, e eu criei muitas oportunidades de aprendizagem. As diversas aplicações requeriam agora esquemas diferentes para funcionar. Instalar a impressora e o modem foi bastante simples. O sistema de telefone interno "não gostava" de ser ligado através do modem normal e por isso eu tinha o meu suave modem do telemóvel instalado. Assim consegui configurar as definições da minha conta da internet e estava agora a utilizar outra vez o correio electrónico. Sou um grande fã da internet e utilizando-a estava agora em contacto com alguns dos meus amigos novamente. Utilidades como a procura de ferramentas da web, o Webferret (http://www.zdnet.com/ferret) e o compressor de ficheiros Winzip (http://www.winzip.com) foram reinstalados e de novo aprendidos. Personalizar as definições do ambiente de trabalho e fazer teclas de atalho para abrir programas foi tudo actualizado.
+
+Como salto principal para a independência, fui encontrá-lo no software de leitura de texto que funciona com o digitalizador e que lê texto impresso. Depois de ser apresentado à aplicação Cicero, mais uma vez da Dolphin Computer Access (http://www.dolphinuk.co.uk/products/cicero.htm), eu podia simplesmente ler o meu correio em privado pressionando numa única tecla. Isto, claro, pressupondo que se tem o texto voltado para o digitalizador! Perdi a conta das vezes que obti a mensagem que a folha estava em branco. Isto levou-me a um método simples de marcar o papel dobrando o canto superior esquerdo da página conforme o tiro do envelope. Continuo a usar esta técnica com os documentos que imprimo ou recebo por correio.
+
+Com a minha preparação profissional como engenheiro os meus pensamentos viraram-se agora para um futuro emprego. Depois de uma longa procura, encontrei uma empresa local de formação em TI, e depois de uma visita para lhes apresentar o leitor de ecrã e apresentar-me como cego mas sobretudo lúcido, concordaram em me aceitar num curso. Encontro-me agora a meio do seu curso "Microsoft Certified System Engineer (MCSE)" para trabalhar com o Windows 2000.
+
+Isto é uma prova muito interessante, assim como um desafio. O principal desafio não é com os computadores, mas com o curso textual de informação. Esquecemo-nos todos que eu não podia ler os dois livros de finas polegadas que integravam o material do curso! Se o pessoal do St Dunstans não tivesse feito um tão bom trabalho na minha formação anterior, eu não me debateria só agora com este problema!
+
+[Fim da secção quatro]
+
+* SECÇÃO CINCO: EM FOCO
+- TECNOLOGIA DA VOZ.
+
+* FALAR PARA MÁQUINAS.
+Por Judith Markowitz  judith@jmarkowitz.com
+
+Os profissionais do processamento da voz, apontam muitas vezes a 'Web por voz' como a chave para atingir o objectivo do desenvolvimento de conteúdos que podem ser acessíveis a qualquer hora, em qualquer lugar e em qualquer equipamento.
+
+A 'Web por voz' tem sido definida de várias formas. No essencial, significa que é possível aceder ao conteúdo da Internet através de voz, com entrada de voz ou saída, funcionando como uma parte ou totalidade de um interface humano. Podemos ligarmo-nos a este canal, mas espera-se que seja feito primordialmente sem fios, e os equipamentos 'Web por voz' de entrada alargam-se, passando pelos vulgares telefones até às futuras gerações de equipamentos multi-funções, compatíveis Internet.
+
+A excitação relativa à 'Web por voz' é previsível dado o contínuo e forte crescimento da Internet, e ao despoletar da globalização sem fios, e à colagem daquelas duas tecnologias. O Grupo Gartner, por exemplo, estimou que o número de telefones móveis existentes em todo o mundo vai ultrapassar um bilião antes de 2005 e indicou que espera que 80 por cento dos novos equipamentos de mão, vão ter uma qualquer forma de ligação à Internet.
+
+Outra força que está a conduzir a 'Web por voz' é a formação de padrões, dos quais o mais importante é o VoiceXML. Este padrão define a gramática que será utilizada na interpretação da voz e as extensões XML necessárias para criar as aplicações 'Web por voz' dos nossos dias. O poder do VoiceXML reside no seu patrocínio pelo  Consórcio World Wide Web (http://www.w3.org) e à larga divulgação por parte das companhias que detêm a tecnologia por voz, das organizações não governamentais e da indústria.
+
+O Fórum VoiceXML (http://www.voicexml.org), uma organização da indústria fundado pela AT&T, IBM, Lucent e Motorola, está a trabalhar no alargamento dos padrões desenhados para suportar a próxima geração de equipamentos de entrada. E não está só. Em Outubro de 2001, a
+Microsoft, a Cisco, a Comverse, a Intel, a Philips e os especialistas de tecnologias de voz, SpeechWorks, anunciaram a iniciativa Speech Applications Language Tags (SALT - http://www.saltforum.org). A SALT vai formular as extensões XML para incorporar voz na futura geração de equipamentos de entrada capazes de conseguir uma verdadeira comunicação multi-modal.
+
+Todo este trabalho está a ser desenhado para levar a indústria e o mercado para mais perto do: a qualquer hora, em qualquer lugar, com qualquer equipamento. Este objectivo é eventualmente alcançável, uma vez que as aplicações 'Web por voz' que estão a deslocar-se para o mercado actual estão ainda em estado prematuro da sua evolução. Ainda estão altamente constrangidas pelo conteúdo onde podem ser acedidas, pois a interacção é ainda orientada por menú, desenhados primordialmente para os telefones vulgares e muitas vezes a operar apenas num idioma.
+
+Ao dizer isto, significa que os consumidores já podem, hoje, usar portais de voz para aceder às informações do tempo, localizar o Starbucks (cadeia de lojas de café americana) mais próximo ou ouvir o que está a passar nos cinemas locais. Os sistemas de Unified messaging (mensagens unificadas) fornecem aos profissionais 'móveis' e a todos os outros que tenham apenas um único ponto de acesso à caixa de correio de voz, ao correio electrónico e ao fax. Os sistemas de gestão de contactos de clientes institucionais (CRM), como o que foi lançado pela companhia de manutenção automóvel JiffyLube (http://www.jiffylube.com), iniciando a oferta aos seus clientes  de agendamento de reuniões e serviço de alertas. A rede de aplicações voz dentro das empresas permite aos vendedores e a outros profissionais 'móveis' aceder à combinação da Web com as fontes de dados corporativos, incluindo 'unified messaging' (mensagem unificada) e acesso à informação dos clientes. 
+
+Muitas aplicações 'Web por voz' da primeira geração, dos nossos dias, parecem já estar na outra margem dos normais telefones. Nos grandes armazéns e nas fábricas, a entrada/saída de voz está a ser utilizada através de equipamentos "vestíveis" (que podemos transportar) e transmissores de frequência rádio. A rede de tecnologia de aplicações de voz já alargou a riqueza daqueles sistemas, aos sistemas de encomendas do comércio electrónico e ao suporte do just-in-time (resposta imediata). Estão a ser instalados sistemas In-veículos, tais como o Conselheiro Virtual da OnStar (http://www.onstar.com), o qual incorpora microfones com campo de captação para longe que permite fornecer muitos dos serviços disponíveis a partir dos portais de voz e das redes de aplicação de voz.
+
+A tecnologia voz distribuida permitirá a próxima geração de PDAs (Assistentes Pessoais Digitais), como os iPaq da Compaq, aceder a um leque de serviços através de 'Web por voz', incluindo o ditado e as mensagens unificadas. Sistemas biométricos de voz, extremamente compactos, estão a ser incorporados nos brinquedos e telemóveis. Eles estão também a ser colocados nos cartões inteligentes para autenticação por voz nos pontos de venda locais.
+
+A 'Web por voz' não é a única categoria de aplicações que está a fazer com que a indústria se aproxime do acesso 'a qualquer hora, em qualquer lugar, com qualquer equipamento'. A capacidade para usar tecnologia avançada de ditado em combinação com as ferramentas de retorno de informação, e algumas vezes com identificação por voz, independestes de texto, está a tornar possível a adição de fontes áudio e áudiovisual (transmissão de notícias, chamadas para um centro de atendimento, filmes) ao conteúdo que pode ser uma mina para a informação. Esta constelação de tecnologias é também chamada de audio-mining (extracção das minas de áudio) ou audio-indexing (Indexação áudio). Antes de ter ocorrido o seu despoletar, a indexação das fontes áudio requeriam um grande consumo de horas de trabalho manual.
+
+Hoje, é possível indexar, pesquisar e recolher informação a partir de uma grande base de dados de fontes áudio e áudiovisual muito próximo já do 'em tempo real'. Por exemplo, é possível indexar e pesquisar a transmissão da CNN de ontem e efectuar perguntas como "O que disse George W Bush sobre Saddam Hussein?". É também possível a um supervisor de um centro de atendimento procurar nas chamadas do mês passado sobre um determinado produto.
+
+Muitos dos avanços e tendências descritas atrás estão disponíveis comercialmente pela virtude dos avanços verificados na infraestrutura computacional e das comunicações. A existência da 'Web por voz', como o seu nome indica, deriva do sucesso da Internet. O sucesso do processor Pentium III deve-se ao chip "ASR" porque o conjunto das suas instruções suporta o tipo de operações necessárias para o inovador ASR (reconhecimento automático de voz). Nas telecomunicações, os sistemas da geração 2,5 e geração 3 (terceira geração) prometem o apoio aos avanços dos equipamentos multi-modal. As recentes quedas da economia atrasaram, mas não paráram, a evolução desta infraestrutura.
+
+Algumas vezes a voz actua como uma tecnologia capacitante. Um dos melhores exemplos deste efeito são os sistemas in-veículo. Continua a discutir-se sobre onde é que a voz poderá ser a pedra da esquina da telemática, mas essas discussões não estão a ser feitas por corpos legislativos. Um por um, os legisladores estão a escalar no sentido da moda das mãos-livres.
+
+As suas acções fez crescer o sentimento do valor crescente da voz como potenciador do escritório no carro. A rápida miniaturização dos telemóveis e de outros equipamentos de mão fez surgir ferramentas como apontadoras para colocar nos dedos. No entanto, nenhuma destas ferramentas é tão flexível como o falar, fazendo da voz uma tecnologia a potenciar nas próximas gerações de equipamentos de mão.
+
+NOTA: Esta é a segunda parte de um artigo que surgiu em primeira mão na Revista Speech Technology (Tecnologias da Voz) (http://www.speechtek.com/st.mag/index.shtml), cuja a edição é americana. A primeira parte foi publicada no nosso último número, e cobriu tópicos que incluiram tecnologias texto para voz; biométrica da voz; e tecnologia do microfone. Judith Markowitz 
+(http://www.jmarkowitz.com) é editora associada da revista e é uma analista independente, especialista em tecnologias da voz e do campo da biométrica da voz.
+
+[Fim da secção cinco.]
+
+COMO RECEBER ESTE BOLETIM.
+
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com> Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos para assinar!
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com
+Copyright 2001 Headstar Ltd. http://www.headstar.com O Boletim no seu todo ou em parte pode ser reproduzido incluindo este aviso. As Secções do relatório devem ser colocadas entre aspas de forma a ficar claro a sua fonte: 'retirado do Boletim E-Access, uma newsletter mensal distribuída por email', e ainda a referência do nosso endereço do sítio Web http://www.e-accessibility.com.
+
+-**-
+Nota à edição Portuguesa: Caso os leitores portugueses estejam interessados em enviar os seus comentários e sugestões, bem como enviar alguns artigos que abordem as questões de acessibilidade à Sociedade da Informação podem remetê-los, em Inglês ou Português, para o seu editor Dan Jellinek através do e-endereço: dan@headstar.com, ou mesmo para gesta@gesta.org 
+-**-
+
+PESSOAL:
+Director - Dan Jellinek dan@headstar.com
+Vice-director - Phil Cain phil@headstar.com
+Redactor - Tamara Fletcher tamara@headstar.com
+Conselheiro Editorial - Kevin Carey humanity@atlas.co.uk 
+
+[fim da edição.]

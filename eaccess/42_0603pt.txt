@@ -1,0 +1,205 @@
++++BOLETIM E-ACCESS.
+- EDIÇÃO 42, JUNHO 2003.
+
+Notícias de tecnologia para pessoas com deficiência da visão
+(http://www.e-accessibility.com).
+
+Patrocinado pelo RNIB (http://www.rnib.org.uk)
+e pela National Library for the Blind (http://www.nlbuk.org).
+
+A edição Portuguesa é uma cortesia da Rede SACI (http://www.saci.org.br) 
+e do GESTA-MP (http://www.gesta.org). 
+Foram tradutores e revisores para Português desta edição:
+Jorge Fernandes - Coordenador, Tradutor, Revisor; GESTA.
+Cláudia Cardoso - Tradutora; GESTA.
+Cynthia Berriel - Tradutora; SACI.
+Marta Gil - Revisora; SACI.
+
+NOTA: Reencaminhe, por favor, este boletim gratuito (detalhes de subscrição no final). Estamos em conformidade com a norma Text Email Newsletter (TEN). Por exemplo, todos os itens estão numerados. Para mais detalhes ver: http://www.headstar.com/ten .
+
+++ÍNDICE DA EDIÇÃO 42.
+
+01: Módulos Web acessíveis para o governo local
+- projecto nacional obtém 2.9 milhões de libras.
+
+02: Lista dos desejos para a televisão digital
+- pesquisa revela que os espectadores querem flexibilidade.
+
+03: RNIB relança sítio Web
+- dois anos de projecto trouxe serviço actualizado.
+
+04: Publicadas linhas orientadoras para a educação profissional
+- ajuda com acesso à tecnologia pelos estudantes.
+
+Notícias breves: 05: Conselho de Condução - formação padrão; 06: Prémios interactivos - nova categoria acesso; 07: Cidade das pessoas - Eventos de Birmingham.
+
+Secção dois: 'A Receber' - Fórum dos Leitores.
+08: Sítios-B - são os sítios-A acessíveis? 09: Prémio Fulbright - Investigação dos Estados Unidos pede. 
+
+Secção três: Análises - verificadores de acesso.
+10: O factor humano: Derek Parkinson reporta-nos porque os verificadores automáticos da acessibilidade Web nunca vão poder substituir o conhecimento e julgamento de um designer.
+
+Secção quatro: Opinião - e-democracia.
+11: Karl Marx e a brecha tecnológica: na pressa de usar as novas tecnologias para incrementar os trabalhos da democracia, podemos vir a ter precisamente o contrário se sectores da sociedade forem deixados para trás e desvinculados, diz Kevin Carey.
+
+[Fim do índice].
+
+++SECÇÃO UM: NOTÍCIAS.
++01: MÓDULOS DE ACESSIBILIDADE WEB PARA O GOVERNO LOCAL.
+
+A partir de Março do próximo ano, todas as autoridades locais do RU estarão em condições de usar um conjunto, desenvolvido centralmente, de componentes Web acessíveis, na sequência da cabimentação de 2.9 milhões de libras de fundos governamentais do Projecto Nacional de Sítios Web de Autoridades Locais (LAWS - http://www.laws-project.org.uk).
+
+LAWS irá desenvolver tecnologia Web que vai permitir efectuar transacções públicas em centenas de categorias de serviços, baseado numa arquitectura que encoraja as câmaras a construir segundo a acessibilidade e usabilidade desde a fase da concepção. 
+
+O projecto, que está a ser coordenado pelo West Sussex County Council (http://www.westsussex.gov.uk), irá produzir uma série de módulos que são fáceis de distribuir e instalar. Irá também ser concebido e partilhadas directrizes de boas práticas para design acessível, e identificadas as funcionalidades em que será necessário um maior trabalho do ponto de vista de acessibilidade.
+
+"É importante para os designers dos serviços on-line pensar tendo em conta o que estão a tentar alcançar. LAWS irá fornecer uma arquitectura informacional que encoraje este procedimento," disse o director de projecto Roland Mezulis do West Sussex. "Designers devem pensar sobre a forma mais fácil de navegar pelo sítio Web em direcção a um dado ponto, e não apenas preocuparem-se com a combinação de cores a ter," disse ele. De acordo com Mezulis, a mudança específica inclui conceber serviços transaccionais acessíveis tais como os pagamentos on-line, e a forma como apresentar conteúdos armazenados em sistemas herdados em formatos acessíveis.
+
+O novo projecto nacional LAWS está baseado em trabalho anterior feito pelo projecto APLAWS (http://www.aplaws.org.uk - ver também boletim E-Access, edição 29, Maio 2002).
+
++02: LISTA DOS DESEJOS PARA A TELEVISÃO DIGITAL.
+
+A capacidade de mudar o tamanho do texto e o balanceamento das cores dos guias de programação electrónicos será a função de acessibilidade mais útil a construir nos serviços de televisão digital interactiva, de acordo com uma pesquisa feita com mais de 200 pessoas com deficiência da visão publicado pelo RNIB no mês passado. 
+
+Saída com sintetizador de fala para todas as funções foi também eleita por 165 dos 204 inquiridos, enquanto que um número idêntico pediu programação e funções áudio descritas.
+
+Um inquirido disse: "Gostaria de uma função de leitura de ecrã (semelhante ao JAWS para o PC) em todos os ecrãs de base texto que me permita usar a minha TV tal como uso o meu PC." Outro disse: "Se este equipamento pudesse ter um interface selectivo (visual ou outro qualquer), texto, língua gestual, saída áudio (falado) e configurações variáveis então todos os utilizadores poderiam personalizá-la para as suas necessidades pessoais." 
+
+Um terceiro inquirido vislumbrou longe, para uma Era da convergência tecnológica: "No longo prazo eu gostaria de ter uma máquina que serve como se se tratasse de um centro de entretenimento , PC e equipamentos de comunicação, por forma a que tudo aquilo que eu actualmente faço com um PC, um telefone, uma TV, um estéreo, um vídeo, um leitor DVD e assim sucessivamente possa existir num único Kit com um ecrã, um par de altifalantes e um teclado, rato ou controlo remoto. Agora tenho demasiadas tomadas e fichas para ligar!"
+
+O inquérito foi a quarta etapa de um programa de investigação com cinco etapas, conduzido por Sylvie Perera da Unidade de Investigação Científica do RNIB. As primeiras três partes fornecem uma visão geral sobre a matéria; um diagnóstico sobre o uso de cartões inteligentes como forma das pessoas guardarem configurações pessoais; e um diagnóstico de usabilidade por pessoas com baixa visão. A última etapa pretende criar uma especificação de design para algumas das funções requeridas.
+
+Para descarregar o relatório veja: http://www.tiresias.org/itv/intro.htm .
+
++03: RNIB RELANÇA SÍTIO WEB.
+
+O RNIB prepara-se para relançar o seu sítio Web principal (http://www.rnib.org.uk) na próxima semana, tornando-o mais amigável ao utilizador com deficiência da visão.
+
+De acordo com o gestor do sítio Web Margaret O'Donnell o sítio anterior, que entrou em funcionamento em 1995, cresceu muito e como resultado ficou com informação desactualizada e possui layout (estrutura) inconsistente entre as diversas secções. "Antes, tínhamos um problema grande com a manutenção de 20,000 ficheiros HTML no sítio Web e uma equipa de apenas três pessoas." Para combater isto, um novo sistema de gestão de conteúdos acessível foi instalado, o qual passou também a ser aplicado à intranet do RNIB.
+
+No novo "site", que demorou dois anos a ser feito, é também mais fácil de navegar com tecnologias de apoio. "Documentos mais bem estruturados tornam a tarefa de leitura mais fácil com para quem percorre os documentos com leitores de ecrã," disse O'Donnell. O pessoal teve também formação sobre a forma de escrever para software texto-fala, e outros aspectos da acessibilidade Web incluindo estilo e como evitar a utilização de jargão.
+
+O site incluirá informação sobre acesso à tecnologia, com dados e recursos.
+
++04: PUBLICADO LINHAS ORIENTADORAS PARA AS ESCOLAS PROFISSIONAIS.
+
+Foram publicados pelo "further education technology information service - Ferl" (Serviço de tecnologias de Informação da Educação Profissional) as linhas orientadoras para os fornecedores de educação profissional, em que se abordam estratégias para ultrapassar as dificuldades de acesso enfrentadas pelos estudantes, incluindo acesso à tecnologia. 
+
+Uma série de 13 trabalhos cobrem tópicos que vão desde os requisitos legais básicos das Necessidades Educativas Especiais, incluindo o Disability Act 2001, até indicações práticas sobre como conseguir maximizar a educação de uma pessoa com incapacidades (http://fastlink.headstar.com/ferl1).
+
+Outros trabalhos incluem formas de incrementar o diagnóstico on-line; tecnologias de apoio; plataformas de aprendizagem e experiências de aprendizagem.
+
+++NOTÍCIAS BREVES.
++05: CONSELHO DE CONDUÇÃO: A British Computer Society (Sociedade Britânica de Computadores) prepara-se para criar um placar de notícias on-line para assuntos relacionados com a acessibilidade da Licença Europeia de Condução de Computadores - European Computer Driving Licence - (ECDL), um curso de formação normalizado para as competências básicas em computador  (ver Boletim E-Access, edição 40, Abril 2003, história 02). A partir de Setembro o serviço irá oferecer conselhos e informação sobre a participação no ECDL por parte de pessoas com incapacidades, incluindo diferentes níveis de deficiência da visão:
+http://www.ecdl.co.uk .
++06: PRÉMIOS INTERACTIVOS: Os prémios da British Interactive Media Association para inovação tecnológica, este ano, adicionaram uma nova categoria dedicada à acessibilidade e usabilidade em associação com o RNIB, coincidindo com o Ano Europeu das Pessoas com Deficiência. A data final para entrega dos trabalhos pelas empresas e pelas pessoas individualmente é 30 Junho:
+http://fastlink.headstar.com/bima1 .
++07: CIDADE DAS PESSOAS: A "British Computer Association of the 
+Blind" (Associação Britânica de Computadores dos Cegos) está a levar a efeito um seminário especial, aproveitando a exposição anual 'Sight Village' que tem lugar durante todo o ano no Colégio Queen Alexandra, para pessoas com deficiência da visão em Birmingham de 15 a 17 Julho 
+(http://www.qac.ac.uk/sightvillage). 'Sight village plus' a 18 Julho irá cobrir a segurança dos computadores e medidas que podem ser tomadas para proteger informação pessoal:
+http://www.bcab.org.uk .
+[Fim da secção um].
+
+++SECÇÃO DOIS: 'A RECEBER'
+- FÓRUM DOS LEITORES. 
+- Por favor envie todas as contribuições ou respostas para inbox@headstar.com .
+
++08: B-SITES: Leesa Lavigne, uma webmestre e operadora informática no estado de Maine no Canadá, escreveu com alguma preocupação sobre o novo portal dos sítios Web acessíveis 'A-SITES' da National Library for the Blind (Biblioteca Nacional para Cegos) (ver Boletim E-Access, Maio 2003, história 03).
+
+"Fiquei mesmo entusiasmada quando vi a listagem dos sítios Web acessíveis e mal podia esperar para passar a outros colegas do Estado do Maine como um exemplo. Mas o primeiro sítio que visitei, 'Cats Online' na categoria 'Animais e vida selvagem' (http://www.cats.org.uk), faltava o atributo alt no texto para os botões de navegação e na maioria das imagens das páginas. 
+
+"Está perto mas ainda não está ... continuem a tentar. Precisamos mesmo de um recurso como aquele mas alguém tem que manter o controlo da qualidade. Vou verificar alguns dos outros sítios que constam da listagem. Talvez este tenha sido só um acaso."
+[mais respostas para inbox@headstar.com].
+
++09: PRÉMIO FULBRIGHT: Jenny van Tinteren, líder actual das soluções de acessibilidade com o serviço governamental de emprego JobCentre Plus (http://www.jobcentreplus.gov.uk), está prestes a embarcar com uma bolsa de estudos do serviço civil do RU - Fulbright (ver http://www.fulbright.co.uk) - para os Estados Unidos.
+
+Ela irá investigar o impacto da secção 508 do Rehabilitation Act dos Estados Unidos, que exige que estruturas do sector público adquiram sistemas acessíveis, na medida em que o melhoramento do acesso on-line facilite o alargamento dos serviços do governo.
+
+No final do período da bolsa de estudo Jenny pretende produzir um livro de referência sobre acessibilidade dirigido a gestores de projecto, incluindo dicas sobre como envolver os utilizadores na construção de sistemas e um relatório de boas práticas contendo estudos de caso que poderão ser aplicados ao Departamento do Trabalho e Pensões do RU.
+
+Ela gostaria de saber se algum dos leitores do Boletim E-Access tem sugestões ou contactos úteis que ela possa seguir nos Estados Unidos. Envie-os directamente para ela através do email jvantinteren@yahoo.co.uk ou pelo telefone: 00 44 0114 291 1766 .
+[Fim da secção dois].
+
+++SECÇÃO TRÊS: ANÁLISE
+- VERIFICADORES DE ACESSO.
+
++10: O FATOR HUMANO
+por Derek Parkinson derek@headstar.com .
+
+Um número cada vez maior de Web sites demonstram orgulhosamente sua adesão à acessibilidade, exibindo os logotipos para os verificadores de acessibilidade automática como o Bobby (http://bobby.watchfire.com), o WAVE (http://wave.webaim.org) ou o A-Prompt (http://apromptsnow.utoronto.ca").
+
+Amontoados no rodapé das home pages, estes banners podem dar a impressão, para a maioria das pessoas, de que os sites são razoavelmente acessíveis. Mas um verificador automático não é nenhuma panacéia. Em ternos gerais, eles indicam a um webdesigner onde as alterações podem ser necessárias, e produtos mais modernos vão oferecer algumas opções para resolver estes problemas, mas não analisam a coerência geral do site, e alguns aspectos de acessibilidade simplesmente não podem ser avaliados mecanicamente.
+
+Isto se deve ao fato de que a maioria dos verificadores baseia as análises dos sites em padrões reconhecíveis, tais como a Web Accessibility Initiative - Iniciativa de Acessibilidade à Web (WAI - http://www.w3.org/WAI), e os padrões por si só não dão uma receita simples para a acessibilidade. "É importante lembrar que a WAI é apenas um manual de orientação, não de regras ou lista de procedimentos", diz Julie Howell do RNIB.  "As orientações recomendam, por exemplo, que imagens em um site sejam ligadas a descrições em texto, mas isto não garante que as descrições sejam úteis ou claras," diz ela. "Acredito que a maioria das pessoas concordará que os verificadores nunca são suficientemente bons sozinhos".
+
+Para serem eficazes, os verificadores devem fazer parte de um processo mais amplo, que inclua uma pessoa bem informada agindo de acordo com suas recomendações. "Fazer a verificação de acessibilidade é um pouco como fazer a revisão ortográfica de um documento. O corretor ortográfico pode detectar palavras com erros ortográficos com base em padrões que conhece. "No entanto, é necessário um ser humano para tomar a decisão final", diz Wendy Chisholm, chefe do grupo que trabalha com avaliação de ferramentas na WAI.
+
+Quer dizer então que um bom webdesigner, que faça uso do corretor, produzirá sempre um site mais acessível? Não necessariamente, de acordo com uma pesquisa recente da Universidade de Stanford nos EUA, em um dos primeiros estudos sobre o assunto, a equipe apresentou a webdesigners experientes dois grupos de sites para modificar sendo que, no primeiro, deveriam fazer uso apenas de seu próprio conhecimento, e no segundo, fariam uso de dicas de somente três corretores ortográficos bastante usados, Bobby, LIFT E Validator.
+
+Os sites modificados foram testados por voluntários com problemas de visão, e os resultados foram comparados. Este estudo constatou, talvez para a surpresa de todos que, em muitos casos, os sites modificados usando um corretor não eram mais acessíveis do que os sites modificados usando apenas o conhecimento dos designers.
+
+Os resultados sugerem que as três ferramentas de avaliação automática não demonstraram eficiência em ajudar os designers a melhorar a usabilidade e a acessibilidade dos Web sites.
+
+Há, no entanto, várias formas de melhorar esta baixa performance, de acordo com os peritos. Será preciso mais pesquisa para tornar as instruções de uso e as próprias ferramentas mais usáveis", diz o relatório Stanford. Manuais de uso são em geral longos demais para serem entendidos por designers que não possuam formação na área de ciências humanas. Portanto, os designers tiveram dificuldades em interpretá-los, o que por outro lado interferiu em suas habilidades de implementar as alterações adequadas.
+
+Conforme os relatos de Wendy Chisholm, vários grupos internacionais estão trabalhando para harmonizar os critérios de teste. Para o próximo ano, podemos esperar mais harmonia nos testes que precisam ser avaliados e também entre as ferramentas, diz ele.
+
+Haverá vantagens da integração mais precisa de testes de acessibilidade com o processo de produção de conteúdo. "Os resultados dessa pesquisa não me surpreenderam. Há uma grande diferença entre o fato de podermos identificar as alterações que precisam ser feitas e sua realização", diz Helen Petrie, Professora de Interação de Computação Humana na Universidade London City. "Se um designer, que codifique as Web pages for a única pessoa responsável por fazer as mudanças, certamente teremos dificuldades. Este é um trabalho muito mais adequado para o autor. O autor compreende melhor o que o conteúdo deverá significar", diz ela.
+
+Talvez o maior perigo que teremos que enfrentar seja presumirmos que as ferramentas de automação poderão, de alguma forma, substituir o envolvimento humano no aprimoramento da acessibilidade. 
+
+"Estas ferramentas devem, sem dúvidas, ser usadas, mas devemos nos lembrar que elas são apenas uma parte de um conjunto de ferramentas", diz Julie Howell. "Usem portadores de deficiências na fase de testes, consultem as pessoas antes de iniciarem o processo".
+
+Quando se trata de acessibilidade, o fator humano é essencial.
+[Fim da secção três].
+
+++SECÇÃO QUATRO: OPINIÃO
+- E-DEMOCRACIA.
+
++11: KARL MARX E A BRECHA TECNOLÓGICA
+por Kevin Carey  humanity@atlas.co.uk .
+
+A unidade de missão e-Envoy (OeE) começa a mostrar um interesse admirável pelo tema da "e-democracia", definido como o uso de tecnologias de informação e comunicação para aumentar a participação dos cidadãos, em oposição ao "e-government", que visa aprimorar os serviços governamentais para os cidadãos.
+
+Apesar de o marxismo estar hoje quase em total descrédito como teoria política, algumas de suas teorias sociais ainda se mantêm, e baseiam-se em análises históricas e não em cinismo maldoso. Duas destas observações são: que em períodos de mudanças os ricos têm maiores benefícios que os pobres - portanto, a distância entre os dois grupos se amplia; e que quanto maior a mudança, maior a distância.
+
+Estas bobagens se aplicam ao desenvolvimento econômico e tecnológico. Em Economia, por exemplo, são demonstrados pelo fato de que apesar de o governo ter tido uma estratégia antipobreza séria e contínua desde 1997, a diferença entre o rico e o pobre no final da década de 90 foi na verdade ampliada, devido à taxa de crescimento econômico. 
+
+Não há porque acreditarmos que o desenvolvimento econômico será diferente, e se o governo quiser usar a tecnologia como base da participação do cidadão na democracia, estamos então em terreno perigoso.
+
+Para começar, na medida em que o governo usa a consulta on-line ao invés de usar o tedioso método face a face, os períodos de consultas são abreviados.  Isto, por outro lado, ignora intermediários em quem os consumidores confiam, como o RNIB ou a Ação Para Pessoas Cegas. Ao invés de documentos de consulta que são passados de funcionários para depositários eleitos, e deles para seus constituintes, com um fluxo de volta para os funcionários, os membros dos grupos de interesse poderão ter que tomar decisões imediatas em favor dos cidadãos, para que as idéias da organização sejam incluídas. Todo o sistema de sociedade civil que construímos no século 20 corre o risco de desabar em menos de uma década.
+
+Em segundo lugar, o uso de computadores domésticos para referendo local, e outros tipos de votos vão afetar os resultados em favor dos que possuem computadores - em outras palavras, dos ricos e poderosos.
+
+Caso um comitê queira saber a opinião das pessoas sobre uma proposta de planejamento para construir uma fábrica de elementos químicos, por exemplo, quem será mais eficiente para fazer o lobby, e qual seria o melhor local para se construir a fábrica?
+
+Em terceiro lugar, a maioria das pessoas expressa seus pontos de vista na urna eleitoral. Podem não votar em massa como gostaríamos, mas coletivamente nós definimos um mandato democrático para um comitê ou para um governo. Como poderão os pobres e os deficientes expressar sua opinião, se a votação for conduzida através de PC de banda larga, televisão digital e mensagens de texto?
+
+Se estas preocupações não fossem o suficiente, existe ainda uma relutância considerável por parte do governo para garantir o acesso dos cegos e pessoas com baixa visão à transmissão digital, por meio da Lei das Comunicações, que atualmente está tramitando na House of Lords, equivalente à Assembléia Legislativa da Inglaterra. Apenas após uma campanha feroz do RNIB foi o assunto relutantemente inserido na pauta. 
+
+No mínimo, devemos insistir para que todos os processos democráticos usem todos os canais disponíveis, inclusive linhas de telefone fixo. Devemos nos lembrar também que apesar da importância da informática, o acesso à transmissão nunca foi tão crucial para todos nós, em uma época de convergência tecnológica e e-democracia. 
+[Fim da secção quatro].
+
++COMO RECEBER ESTE BOLETIM.
+
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com>. Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos a assinar!
+
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com
+
+Copyright 2003 Headstar Ltd http://www.headstar.com.
+O Boletim pode ser reproduzido desde que todas as partes incluam esta nota de copyright, e desde que as pessoas sejam encorajadas a contactar-nos por email para subscrever de forma individualizada. Informe também o editor quando pretenda reproduzir os nossos conteúdos. As secções deste relatório podem ser citadas desde que estejam claramente referenciadas com a indicação "retirado do boletim e-access, uma newsletter mensal enviada por email gratuitamente", citando também o endereço do nosso sítio Web http://www.e-accessibility.com.
+
+-**-
+Nota à edição Portuguesa: Caso os leitores portugueses estejam interessados em enviar os seus comentários e sugestões, bem como enviar alguns artigos que abordem as questões de acessibilidade à Sociedade da Informação podem remetê-los, em Inglês ou Português, para o seu editor Dan Jellinek através do e-endereço: dan@headstar.com, ou mesmo para gesta@gesta.org 
+-**-
+
+PESSOAL:
+Director - Dan Jellinek dan@headstar.com
+Vice-director - Phil Cain phil@headstar.com
+Redactor - Tamara Fletcher tamara@headstar.com
+Conselheiro Editorial - Kevin Carey humanity@atlas.co.uk 
+
+[fim da edição.]

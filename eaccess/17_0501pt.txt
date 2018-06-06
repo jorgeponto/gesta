@@ -1,0 +1,249 @@
+Boletim E-Access
+Boletim electrónico on-line de notícias sobre tecnologia para pessoas com deficiência visual.
+Endereço do Boletim E-Access: 
+<http://www.e-accessibility.com>
+
+Patrocinado pelo Royal National Institute for the Blind:
+<http://www.rnib.org.uk>
+o National Library for the Blind (Biblioteca Nacional para os cegos):
+<http://www.nlbuk.org>
+e a Guide Dogs for the Bliind Association (Associação de Cães-Guia para cegos):
+<http://www.guidedogs.org.uk>
+
+Divulgue, por favor, este boletim pelos seus amigos e colegas, e diga-lhes que o podem subscrever em Português, bastando para tal enviar uma mensagem para o endereço electrónico: <mailto:eab-pt-subs@headstar.com>. Veja os pormenores na parte final deste boletim.
+
+Quanto mais subscritores tivermos, melhor será o nosso serviço!
+
+[início DO BOLETIM]
+
+BOLETIM 17. MAIO DE 2001
+NESTE BOLETIM: 
+Secção 1: Notícias.
+- O Site do TESCO ganha novo prémio do RNIB; Eleições livres e justas?; Novas experiências de acesso à Internet precisam-se!; Física via leitores de ecrã e anilhas de borracha; Testes dirigidos a cursos on-line; Grupo de ouvintes de rádio - actualização; Sight Village 2001; Relatório on-line da Ricability.
+
+Secção 2: Perfil.
+- Cearbhall O'Medhra.
+
+Secção 3: Enfoque legal.
+- O sítio Web das Olimpíadas.
+
+Secção 4: Respostas ao leitor.
+- Detectores de cor.
+
+[fim do índice.]
+
+SECÇÃO 1: NOTÍCIAS.
+
+SÍTIO WEB DO TESCO GANHA NOVO PRÉMIO DA RNIB.
+A cadeia de Supermercados TESCO acaba de ganhar o recentemente criado prémio do RNIB "See It Right" (Veja-o Bem) pelo "TESCO ACCESS", um sítio Web acessível, lançado esta semana, destinado a encomendar produtos de supermercado: (http://www.tesco.com/access).
+
+O supermercado tem a intenção de complementar este sítio Web treinando pessoal, dando-lhes mais tempo para desembrulharem e descreverem os produtos aos clientes deficientes visuais.
+
+O TESCO nem sempre foi acessível: no ano passado a RNIB levantou a sua voz numa campanha solicitando à companhia que disponibilizasse uma versão acessível do seu sítio Web. Assim que o TESCO decidiu atender aos protestos demorou apenas cerca de 6 meses a desenvolver o seu sítio.
+
+Entre os concorrentes do TESCO, a Asda disse ao Boletim E-Access que não tinha planos para criar uma versão acessível do seu sítio Web. O sítio Web de compras on-line da Sainsbury's é formado basicamente por Frames (painéis), tornando-o assim difícil de ler por programas de leitura de ecrã.
+
+O prémio "See It Right" do RNIB será entregue a sítios Web comerciais e não comerciais, quando estes respeitarem as directivas de acessibilidade do RNIB. 
+
+ELEIÇÕES LIVRES E JUSTAS?
+A campanha "Polls Apart 3" que chama a atenção para o direito de voto dos deficientes, está a convidar as pessoas a avaliarem a acessibilidade das suas assembleias de voto locais, através do seu novo sítio (http://www.pa3.org.uk).
+
+A campanha foi lançada pela Disability Charity Scope com o apoio da Disability Rights Commission (Comissão dos Direitos dos Deficientes). O sítio Web será utilizado para publicar informações em tempo real a partir de cada mesa de voto no dia das eleições, 7 de Junho.
+
+Os promotores da campanha esperam que o facto de terem à disposição esta sondagem on-line permitirá a participação de mais pessoas do que em duas sondagens anteriores levadas a cabo através dos jornais. As respostas on-line e off-line estão previstas a partir de 2/3 das assembleias de voto do Reino Unido.
+
+A Scope planeia utilizar os resultados para denunciar e envergonhar os concelhos que não tomem as providências adequadas que tornem a votação acessível. A intenção é promover modelos piloto que facilitem a acção dos votantes deficientes, incluindo ensaios com sistemas electrónicos de voto.
+
+Nas eleições gerais de 1997, mais ou menos 94% das pessoas inquiridas detectaram uma ou mais barreiras que os podiam ter impedido de votar. Existem em média 13.000 deficientes em cada distrito do Reino Unido.
+
+EXPERIÊNCIAS DE ACESSO À INTERNET PRECISAM-SE!
+O Boletim E-Access está a planear uma série de artigos para investigar os problemas práticos que os deficientes visuais enfrentam quando acedem à Internet pela primeira vez. Pretendemos concentrarmo-nos em quatro temas: custos; fontes de financiamento de apoio; formação específica; fornecedores de apoio técnico.
+
+Para basear esta pesquisa nas experiências reais das pessoas, ficaríamos muito agradecidos com os contributos que os nossos leitores nos pudessem enviar. Para isso, se nos quer relatar as suas opiniões, observações, experiências e conselhos, envie-as para Phil Cain, através do endereço electrónico phil@headstar.com. 
+
+FÍSICA ATRAVÉS DE LEITORES DE ECRÃ E ANILHAS DE BORRACHA.
+A última novidade nas colunas de John M. Wlliams sobre tecnologia de apoio na revista "Business Week on-line", disponível na Internet, dá uma perspectiva fascinante do trabalho de um dos mais destacados físicos cegos em todo o mundo, Kent Cullers. 
+
+Cullers, cientista destacado do "Search for Extra Terrestrial Intellegence Institute" (SETI) (Instituto para a Pesquisa de Inteligência Extra Terrestre) na Califórnia, utiliza tecnologia antiga e nova para o ajudar no seu trabalho, desde conjuntos desenhados em alto relevo usando anilhas de borracha e cera até aos mais recentes blocos de notas Braille e leitores de ecrã.
+
+Para mais informações sobre a tecnologia que Cullers utiliza na concepção de radiotelescópios para "caçar" extraterrestres, consulte:
+http://businessweek.com/bwdaily/dnflash/may2001/nf20010516_176.htm.
+
+TESTES DIRIGIDOS A CURSOS ON-LINE.
+A companhia de ensino on-line Duncans sedeada em Saskatchewan, Canadá, procura deficientes visuais para testar os seus cursos on-line.
+
+São cerca de 600 cursos, disponíveis gratuitamente para teste durante 60 dias, incluindo cursos na área da computação, empresarial e competências pessoais. Os cursos da Duncans custam geralmente 69 a 149 dólares canadianos por ano.
+
+Qualquer interessado deve enviar um ou dois parágrafos sobre o seu currículo para:
+admin@duncans.ca. A companhia (http://www.duncans.ca) também está interessada em receber contactos de consultores técnicos e pessoal de organizações que trabalhem no campo da acessibilidade.
+
+GRUPO DOS OUVINTES DE RÁDIO - ACTUALIZAÇÃO.
+No nosso último boletim (Abril 2001) disponibilizámos uma peça sobre o grupo de discussão de ouvintes de rádio iniciado pelo Visual Impaired Radio and Electronic Society (VIRES) (Sociedade de Rádio e Electrónica de Deficientes Visuais).
+
+A peça sugeria que este grupo de discussão se dedicava ao comentário de programas de rádio já passados, mas a nossa fonte, Clive Lever - um subscritor da VIRES - fez-nos notar que o grupo é mais dinâmico do que isso, e cobre todos os tópicos relacionados com a rádio, incluindo os programas mais recentes e actuais.
+
+Alguns exemplos citados por Lever incluem temas como: quais os satélites ou rádios que vão mudar de frequência, quem vai ser premiado, franchising para novas estações e quais são as características da grelha de programação colocada no ar pelas emissoras como a Rádio 4.
+
+Para aderir a este grupo envie uma mensagem em branco para: uk-radio-listeners-subscribe@yahoogroups.com.
+
+SIGHT VILLAGE 2001.
+Mais de 60 companhias especializadas no desenvolvimento de tecnologias acessíveis vão juntar-se na exposição "Sight Village 2001" em Birmingham este Verão. Os seminários previstos incluem sessões dirigidas pela "British Computer Association of the Blind" (Associação de Cegos Britânica de Computadores) e demonstrações de novos produtos por alguns fornecedores.
+
+Este evento decorrerá de 17 a 19 de Julho. Para mais informações consulte:
+http://www.qac.ac.uk/sight.htm
+
+RELATÓRIO ON-LINE DA RICABILITY.
+O novo relatório da Ricability sobre os novos direitos das pessoas com deficiência foi feito em colaboração com as companhias de telecomunicações. O relatório "It's Your Call" (é para si) (ver E-Access de Março 2001) está disponível em:
+http://www.ricability.org.uk.
+
+O relatório também está disponível em suporte áudio, Braille e caracteres ampliados podendo ser pedido pelo telefone 020 7427 2460.
+
+[fim da secção 1]
+
+SECÇÃO DOIS: PERFIL.
+
+- Cearbhall O'Meadhra.
+COMISSÁRIO IRLANDÊS PARA A IGUALDADE EMERGE APÓS UM DURO PERCURSO.
+Cearbhall O'Meadhra, a primeira pessoa cega a ser nomeada para a Autoridade para a Igualdade da Irlanda (http://www.equality.ie), emerge após um duro percurso como um activo defensor dos direitos dos deficientes visuais ao acesso à tecnologia.
+
+O'Meadhra é cego total. Aos quatro anos de idade foi-lhe diagnosticado retinite pigmentar - característica genética do olho que afecta a retina progressivamente. Começou a sentir os seus efeitos quando, em 1970, a cegueira afectou o seu já reduzido campo de visão e se tornou num cego nocturno.
+
+Formou-se como arquitecto em 1969 e era especialista de técnicas de investigação em arqueologia. Ocasionalmente o seu emprego exigia que trabalhasse de noite, o que se tornou cada vez mais difícil - muitas vezes só conseguia ouvir as vozes dos seus colegas. Foram, eventualmente, as dificuldades que o levaram a desistir da arquitectura e seguir a sua paixão pelo flamenco, formando-se como professor de música em Espanha.
+
+Em 1978, a sua falta de visão originou a queda de um lanço de escadas que lhe causou graves danos. Voltou à Irlanda, e visto não conseguir emprego optou por ensinar Inglês, como língua estrangeira, durante três anos em Dublin. A primeira vez que fora discriminado resultou na perda do seu emprego - a escola recebeu a queixa de uma agência Italiana dizendo que os alunos sofreram de esgotamento ao serem ensinados por um professor cego, por este motivo retornou novamente à música e criou uma escola.
+
+"Eu ainda não tinha perdido a minha visão completamente mas não conseguia ler livros, por isso aprendi a fazer programas de música e passei um ano a projectar um complexo programa de 'note speller' (soletrar notas) para que os alunos se familiarizassem com um teclado."
+
+Este foi o começo para o avanço na sua relação com computadores, o que lhe permitiu solicitar emprego ao Banco da Irlanda, em 1983. O banco aceitou o seu pedido na condição de concluir um rigoroso curso programado de preparação profissional do RNIB, fundado pela Comissão Nacional de Reabilitação na Irlanda.
+
+"A minha escrita, quer no teclado quer em Braille, era muito lenta - como não havia monitores de computadores nem terminais, tínhamos que codificar no papel de escrita Braille que não podíamos ver e, se fizéssemos um pequeno erro no código o programa não funcionava," diz O'Meadhra. "Não havia pessoas normovisuais para nos ajudarem a rever o trabalho. Não havia sistema para gravar o código Braille no computador, por isso tínhamos que o instalar nós próprios - ditavam-nos o código e nós escrevíamos o Braille com punção. Era um curso de 12 semanas com prazos restritos - e a minha eficiência de teclado melhorou, caramba!".
+
+O'Meadhra é mordaz quanto aos sofisticados sistemas de ensino da informática que se encontram disponíveis nas instituições de caridade. "Existe uma horrível atitude caridosa em rebaixar-se, submeter-se, aceitar o destino. Eu estive activo na área da deficiência durante 16 anos e, testemunhei milhões de pessoas a entrarem para os cursos e a saírem sem qualquer perícia em computadores. Conheço apenas seis pessoas portadoras de deficiência que se encontram a trabalhar".
+
+"Não existiam cursos no sector comercial que explicassem às pessoas cegas o funcionamento das coisas, daí eu ter ficado num nível baixo. Ninguém espera que as pessoas cegas cheguem a ter o seu posto de trabalho". 
+
+Inicialmente contratado pelo banco como programador componente, O'Meadhra depressa se apercebeu que o seu telefone se tornara numa informal 'linha de ajuda' para as pessoas que requeriam informação sobre tecnologia acessível. O banco estava a criar e a adaptar para O'Meadhra um novo posto como consultor assistente de tecnologia, com a incumbência de mostrar os benefícios que os diferentes tipos de tecnologia podem trazer às vidas dos cegos e dos amblíopes.
+
+Um ano após ter entrado para o banco, ele e mais outros dois deficientes visuais formaram a "Visually Impaired Computer Society" (Sociedade da Computação para Deficientes Visuais) (http://www.iol.ie/~vics) com o objectivo de irem ao encontro das necessidades dos programadores cegos e amblíopes. A VICS trabalha com os criadores de software e com os empregadores, assegurando-se assim que as pessoas com problemas de visão têm acesso à tecnologia.
+
+A chegada do Windows 95 enfureceu os membros da sociedade pois era completamente inacessível às pessoas com deficiência visual. Foi então que a VICS se juntou aos Norte Americanos na sua campanha para fazerem o software acessível.
+
+Como resultado a Microsoft tem dado passos para bater os seus recordes em acessibilidade - a Microsoft inclusive gaba-se de ter um sítio na Internet sobre acessibilidades com recursos e informação para as pessoas com deficiência (http://www.microsoft.com/enable/). 
+
+Entre muitos outros factores que persuadiram a Microsoft a agir, um deles foi um rumor de que as Forças da Defesa Norte Americana não comprariam um produto que não estivesse acessível aos cegos.
+
+Recentemente o banco consentiu a O'Meadhra uma licença de dois anos, para se concentrar mais no seu papel como presidente no Irish Institute of Design and Disability - um corpo que representa as necessidades e os direitos dos deficientes a levarem uma vida normal (http://www.idd.ie). No Reino Unido existe uma organização congénere ao IDD - o Institute for Inclusive Design (http://www.ukiid.org).
+
+Actualmente tem trabalhado muito no Institute of Design and Disability procurando promover a adopção da declaração de Barcelona (http://www.idd.ie/Barcelona_Declaration.htm) por todas as autoridades locais do Estado Livre da Irlanda e do Norte da Irlanda. O governo atribuiu fundos no valor de 300,000 Libras Irlandesas (381580 euros) durante 3 anos, para ajudar a estender a implementação da declaração, que visa promover a inclusão e a acessibilidade por todas as regiões em que foi assinada.
+
+Entre muitas outras tarefas que executa para o instituto, construiu a página da organização na Internet em 10 dias. Ao construir a página, O'Meadhra deliberadamente tentou construí-la sem o HTML, usando o FrontPage da Microsoft e deparou-se com outro problema com as companhias de software. Descobriu que a estrutura hierarquicamente navegável do programa, era difícil para uma pessoa cega se organizar. Desde essa altura publica um relatório onde destaca a sua experiência com a utilização do FrontPage para desenhar um sítio na Internet, que brevemente estará disponível no sítio da VICS.
+
+O lema do instituto é 'Bons desenhos facilitam, maus desenhos incapacitam'. "A minha derradeira aspiração é ver a indústria e as escolas de desenho a ensinarem desenho acessível. Tem que se ter em conta que uma pessoa deficiente é um utilizador e temos que servir a toda a gente", diz O'Meadhra.
+
+"Para fazer tudo aquilo que sempre quis, tive que trepar por uma parede muito alta. Existe uma significativa discriminação na Irlanda. É necessário o dobro do trabalho para ascender a um cargo directivo - os testes nem sequer estão num formato acessível. Há uma mudança generalizada para o bom caminho, mas continua obstruído. Temos ainda um longo caminho a percorrer".
+
+SECÇÃO TRÊS: ENFOQUE LEGAL
+
+- O sítio Web das Olimpíadas.
+O CASO AUSTRALIANO É UM AVISO AOS DESENHADORES WEB.
+* Em Agosto de 2000 o Comité Organizador dos Jogos Olímpicos de Sidney (SOCOG) verificou ter entrado numa conduta ilegal por ter construído um sítio Web em larga medida inacessível para as pessoas cegas (veja o Boletim E-Access 9, 10 e 11). Neste artigo Tom Worthington, uma das testemunhas peritas, chamado neste caso singular, descreve como o queixoso Bruce Maguire ganhou o dia.
+
+Em 7 de Junho de 1999, Bruce Maguire um dos entusiastas do desporto para cegos fez uma queixa junto da Comissão Australiana dos Direitos do Homem e da Igualdade de Oportunidades (HREOC) (http://www.hreoc.gov.au) afirmando que foi ilegalmente discriminado pela SOCOG dada a sua falha ao construir um sítio Web a que ele não podia aceder. 
+
+Como parte no caso, e a pedido do Centro de Advocacia dos Interesses Públicos, duas testemunhas peritas prepararam para Maguire relatórios sobre a acessibilidade do sítio Web das Olimpíadas. Essas testemunhas foram Jutta Treviranus, gestora do Adaptive Technology Resource Centre (Centro de Recursos em Tecnologias Adaptadas) da Universidade de Toronto, e eu próprio.
+
+Durante o caso, o SOCOG nunca forneceu os pormenores técnicos do sítio Web solicitados pelos peritos do queixoso, refugiando-se no argumento de que a informação pretendida era "informação altamente sensível do ponto de vista comercial". A dada altura o SOCOG argumenta que qualquer problema relativo ao seu sítio Web é da responsabilidade do seu contratante, o gigante americano IBM. No entanto, isto não foi aceite e a queixa não foi feita contra a IBM.
+
+A informação técnica solicitada consistia no fornecimento de uma simples página em formato electrónico contendo a proposta de Tabelas dos Resultados no sítio Web do SOCOG relacionados com os Jogos Olímpicos; o plano de conteúdos do sítio Web das Olimpíadas; o número de modelos (templates) a serem utilizados; os pormenores das ferramentas utilizadas para gerar as páginas do sítio Web das Olimpíadas; e os cálculos detalhados de certas tarefas base do projecto. 
+
+Como esta informação não foi fornecida, foi necessário que os peritos fizessem a análise, da informação disponível no sítio Web bem como do desenho do mesmo e assim efectuar uma estimativa dos custos e o tempo necessário para tornar o sítio acessível. 
+
+Para testar a acessibilidade foi utilizada a ferramenta Web 'Bobby' (http://www.cast.org/bobby) para verificar três páginas seleccionadas. As páginas foram visualizadas com o Internet Explorer (Versão 5.0 para Windows 95), com as imagens desactivadas de forma a simular a navegação feita por uma pessoa cega. A forma de apresentação das páginas Web foi ainda inspeccionadado ponto de vista da usabilidade e foi ainda examinado o código fonte HTML. 
+
+O uso da ferramenta Bobby foi difícil, dado o uso extensivo de frames, requerendo a submissão de cada frame separadamente. 
+
+Baseados na inspecção, a conclusão foi que o sítio Web do SOCOG era inacessível para pessoas cegas por três grandes razões: 
+
+Primeiro, o atributo 'ALT', contendo as legendas descritivas, não foi incluído em todas as imagens. Como exemplo o gráfico existente no topo da página com ligação a 'home' (página de entrada) que se encontra sem legenda. 
+
+Segundo, os diversos elementos das tabelas não se encontram agrupados pelo que só é possível lê-las de forma linear. 
+As tabelas são compostas por múltiplas linhas de texto partido, às quais, equipamentos como dispositivos Braille lêem de forma não inteligível ao longo das linhas.
+
+Terceiro, a página das modalidades desportivas 'Sports home page' que contém uma lista das modalidades num grande mapa de imagens, ao qual os softwares de leitura de ecrã, usados pelas pessoas cegas, não acedem. 
+
+Na ausência da informação técnica solicitada ao SOCOG foram feitos uma série de pressupostos com a finalidade de estimar os custos de modificação do sítio Web para o tornar acessível. 
+
+Tendo em conta o formato dos jogos, composto por 300 eventos disseminados por 28 modalidades desportivas com alguns modelos (templates) adicionais necessários para páginas genéricas foi estimado um total de 357 modelos de páginas Web. Para além disto foi ainda assumido que as ferramentas utilizadas no desenho do sítio Web eram suficientes para incorporar as opções de usabilidade, tais como a inclusão dos rótulos no atributo 'ALT', não sendo necessário despender mais dinheiro em novas ferramentas.
+
+Finalmente, foi calculado a necessidade de um único perito Web durante três semanas para efectuar o levantamento dos modelos Web (templates) necessários, corrigi-los e efectuar os respectivos testes. O custo das alterações, com base num rácio de consultadoria diário de 1.900 Dólares Americanos (2227 euros), foi avaliado em 29,450 Dólares (34520 euros).
+
+A decisão foi tomada a 24 de Agosto de 2000, com o SOCOG a descobrir que tinha violado a secção 24 do Australian Disability Discrimination Act de 1992. Uma nota de desculpabilização é enviada ao HREOC pelo comité em que reafirma que o custo e a dificuldade de tornar o sítio Web acessível impunham ao respondente "um nível de problemas adicionais difíceis de justificar".
+
+Esta nota de desculpabilização reafirma ainda que o número de modelos Web (templates) era elevado (1.295) e que a necessidade de reformatação destes modelos levaria horas para cada um deles - "uma estimativa mais realista para as alterações mínimas a efectuar indicam a necessidade de 10 minutos para cada um . . . o custo para tornar o sítio acessível seria de montante modesto".
+
+A declaração que o SOCOG fez tudo o que foi necessário para tornar o seu sítio Web acessível desde o começo dos Jogos Olímpicos foi tomada em conta. Consequentemente, a 6 de Novembro de 2000 (já depois das Olimpíadas) o sítio Web foi classificado de estar parcialmente acessível, tendo sido aplicado uma coima de 20.000 Dólares Australianos (11971 euros) pelos danos causados, os quais o SOCOG 
+pagou.
+
+Deve ser notado que nenhum desenhador Web da IBM ou do SOCOG deu evidentes razões à comissão sobre quem, como ou porquê que o sítio Web foi desenhado desta forma. 
+
+A Associação Australiana da Indústria da Internet (http://www.iia.net.au) emitiu em sequência um aviso em que afirma que a sanção aplicada ao SOGOC significa que : "O acesso por parte das pessoas com deficiência é uma séria consideração para qualquer empresário Australiano que queira estar presente na Internet. Sítios Web que tenham como clientes alvo o mercado além fronteiras devem também estar de acordo com a legislação equivalente existente nos Estados Unidos, Canadá, Reino Unido ou em qualquer outro país."
+
+No entanto, existem poucas indicações de que as companhias Australianas tenham levado o julgamento seriamente. 
+
+* Tom Worthington é um consultor independente do sector electrónico e um membro convidado do Departamento de Ciência da Computação na Universidade Nacional Australiana. Este artigo é baseado no trabalho apresentado na INET 2001 - Conferência da Sociedade da Internet realizada em 8 de Junho em Estocolmo - http://www.isoc.org/inet2001.
+
+[Fim da secção três.]
+
+SECÇÃO QUATRO: PARTICIPAÇÃO DOS LEITORES
+
+Detectores de Cor
+LINGUAGEM DAS CORES
+Houve uma grande participação dos leitores em relação ao último tema levantado por David Porter, sobre um dispositivo portátil para ajudar as pessoas cegas a seleccionarem as roupas para vestirem, sem escolherem cores que colidam, através da emissão de sinais sonoros (Boletim E-Access de Abril 2001).
+
+Fred Gissoni da American Printing House for the Blind (APH) foi um dos muitos a descrever detalhadamente um dispositivo fabricado pela companhia Austríaca Caretec conhecido como "Colortest". Nos Estados Unidos, o detector de cor, é vendido por esta organização pelo preço de 595 dólares americanos (697 euros) (http://sun1.aph.org/products/colortes.htm).
+
+Ele descreve o dispositivo como tendo aproximadamente 15 centímetros de comprimento, 4 cm de largura e 3 cm de espessura. É alimentado por uma bateria recarregável. Na frente do dispositivo, junto à extremidade do sensor, existem dois botões, um convexo e outro côncavo. Quando o botão convexo é pressionado, uma voz sintetizada diz o nome duma cor a partir duma biblioteca com cerca de 150 (estão disponíveis versões em várias línguas). Quando o botão côncavo é pressionado, é dada informação sobre três outros aspectos da cor: brilho, tonalidade e saturação.
+
+O brilho é apresentado numa escala de 0 a 9. Nove, representa a quantidade de luz reflectida na cor. A tonalidade indica onde se situa a cor observada dentro do espectro visual. O Vermelho é o 3, o azul é o 6, o verde é o 9 e o amarelo é o 12 - assim por exemplo, uma leitura de 7.5 deverá ser a cor turquesa. Saturação é a indicação da intensidade ou profundidade da cor. 
+
+Se pressionarmos o "olho" do instrumento contra uma peça de roupa e carregarmos no botão convexo ouvimos um som. Movendo a extremidade do instrumento pela superfície, a informação sobre a variação de tons ajuda-nos a determinar se uma peça de vestuário é lisa, às riscas ou noutro padrão, embora não disponibilize detalhes.
+
+Gissoni tem experiência pessoal com o dispositivo: - "A minha mulher e eu usamos o dispositivo há mais de 3 anos e apesar de algumas falhas estamos satisfeitos com ele. Permite-nos executar tarefas que de outro modo seriam impossíveis".
+
+No Reino Unido o mesmo dispositivo é comercializado como "Colourtest-150" pela Vis-ability (http://www.vis-ability.co.uk). Richard West é um utilizador Britânico e tece o seguinte comentário: "é um dispositivo portátil, semelhante a uma lanterna. Ele trabalhava bastante bem, mas tinha marcado um preço de várias centenas de libras (actualmente é comercializado por 450 libras inglesas - cerca de 670 euros), portanto, eu nunca achei que valesse a pena adquiri-lo. Porém, para uma pessoa que viva sozinha, poderá trazer benefícios suficientes que justifiquem a despesa".
+
+Vários outros leitores escreveram a recomendar o Colortest. Inclui-se entre eles Lindy van der Merwe de Joanesburgo, Africa do Sul, que diz: "É um dispositivo verdadeiramente maravilhoso, mas não suficientemente conhecido dos deficientes visuais. O Colortest também detecta um ponto de luz, permitindo-me assim, como cega total, saber se as luzes estão ligadas ou desligadas. Eu usei-o até mesmo para saber a cor das rosas do meu jardim. Contudo, embora o dispositivo possa identificar cores, cabe ainda assim à pessoa decidir quais as cores que combinam. Poderia por exemplo, ser uma boa ideia tentar e encontrar nos livros alguma informação sobre combinação de cores".
+
+Outros defensores onde se incluem Marie-Lewis que diz que o Colortest é "extremamente seguro"; Pratik Patel, gerente de projectos da CUNY Assistive Technology Services, chama-lhe "um excelente dispositivo".
+
+Robert Mortimer enviou-nos um link útil para a secção de 'produtos falantes' da página americana Independent Living Aids:
+http://www.marcom.nu/vhosts/IndependentLivingAids/Talking_Products.html aqui não só pode comprar um detector de cores, (que é o dispositivo Colortest mas sob outro nome), mas também uma gama de outros dispositivos desde identificadores de dinheiro falantes até bússolas falantes e termómetros falantes.
+
+Peter Meijer, inventor do visor verbal "Soundescape vOICe" (veja E-Access nº 13 de Janeiro 2001) escreveu-nos a salientar que a sua invenção podia também ser usada para descrever cores.
+
+"Pode usar o visor verbal 'vOICe' (http://www.seeingwithsound.com/winvoice.htm) com uma webcam a cores de baixo custo para ter a cor falada de tudo o que está no centro da visão da câmara". 
+
+Este software tem também um link que o envia para uma tabela que inclui e compara todos os outros tipos de detectores de luz e detectores de cor, mantida pelo projecto Tiresias, em: http://www.dinf.org/tiresias/Equipment/eb14table.htm
+
+Finalmente, Janet Wicks escreve-nos para mencionar que a companhia britânica Lextil Braille desenvolveu uma forma de colocar etiquetas Braille nas roupas. Para mais informações contactar Chris Macmillan pelo telefone: 0118 926 5450. 
+
+[fim da Secção Quatro]
+
+COMO RECEBER ESTE BOLETIM.
+
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com> Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos para assinar!
+
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+
+Envie, por favor, os seus comentários sobre possíveis reportagens ou condução de assuntos para Dan Jellinek cujo endereço é: dan@headstar.com
+
+Copyright 2001 Headstar Ltd. http://www.headstar.com O Boletim no seu todo ou em parte pode ser reproduzido incluindo este aviso. As Secções do relatório devem ser colocadas entre aspas de forma a ficar claro a sua fonte: 'retirado do Boletim E-Access, uma newsletter mensal distribuída por email', e ainda a referência do nosso endereço do sítio Web http://www.e-accessibility.com.
+
+PESSOAL:
+Director - Dan Jellinek dan@headstar.com
+Vice-director - Phil Cain phil@headstar.com
+Redactor - Tamara Fletcher tamara@headstar.com
+Conselheiro Editorial - Kevin Carey humanity@atlas.co.uk 
+
+[fim da edição.]

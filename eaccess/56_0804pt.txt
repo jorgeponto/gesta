@@ -1,0 +1,363 @@
++++BOLETIM E-ACCESS.
+- EDIÇÃO 56, AGOSTO 2004.
+
+Notícias de Tecnologia para pessoas com deficiência da visão
+http://www.headstar.com/eab .
+Patrocinado pelo RNIB
+http://www.rnib.org.uk .
+
+NOTA: Encaminhe este boletim gratuito para outros (detalhes de inscrição encontram-se no final). O presente boletim está conforme com a norma TEN - Text Email Newsletter:
+http://www.headstar.com/ten .
+
+++Índice da Edição 56.
+
+Secção Um: Notícias.
+01: Reparação Profunda da Norma Para Boletins Via Correio Electrónico
+- Editor do boletim E-Access procura signatários.
+
+02: Criado o Fórum de Acessibilidade ao UNIX
+- tentativas para diminuir diferenças entre as comunidades de código livre.
+
+03: Adaptador Para Navegador Web On-line Chega ao Reino Unido
+- utilizadores podem aceder às suas preferências a partir de qualquer computador.
+
+04: Aplausos Para o Jogo de Aventura 'Chillingham'
+- vila assombrada navegada pelo som.
+
+Notícias Breves: 05: A Era DAISY - biblioteca procura participantes para teste de livros electrónicos; 06: Campanha Pelo Emprego - empregadores são o alvo; 07: Prémio Europeu - desenho para todos.
+
+Secção Dois: 'A Receber' - Fórum dos Leitores.
+08: Declarações Fortes: apoio aos extratos bancários por email; 09: Mais Chips: sistema bancário 'chip and pin'; 10: Leitor Grátis - programas de leitura de ecrã baratuchos.
+
+Secção Três: Em Foco - Compras On-line.
+11: Diário de Um Cliente Insatisfeito: Mel Poluck analisa uma troca de emails entre a compradora on-line cega desgostosa, Karen Turner, e o pessoal do serviço de assistência ao cliente do gigante supermercado Tesco.
+
+Secção Quatro: Conceitos de Acesso - O Portal Totalmente Integrado.
+12: Serviço Universal: um portal controlado apenas pela voz que faça uso de um menu com uma estrutura de opções hierarquizadas poderá dar às pessoas com deficiência um acesso vasto a um leque de serviços e informação, afirma Ken Matthews.
+
+[Fim do índice].
+
+
+++Notícia Especial: Techshare 2004
+- 18-19 Novembro 2004, Jury's Inn, Birmingham, UK
+
+A conferência Techshare 2004 do RNIB é um importante evento para profissionais que tenham interesse na tecnologia e no papel que esta desempenha no ensino, no trabalho e na sociedade para pessoas com problemas de visão.
+
+Para mais informações use o correio electrónico
+techshare@rnib.org.uk ou visite:
+http://www.rnib.org.uk/techshare .
+
+[Fim da notícia especial].
+
+
+++Secção Um: Notícias.
+
++01: Reparação profunda da norma para boletins via correio electrónico.
+
+Foi lançada a última versão da norma Text Email Newsletter (TEN), desenhada pelos editores do Boletim E-Access como uma especificação original para a formatação de boletins enviados por correio electrónico fáceis de navegar por pessoas que usem tecnologias especiais de acesso tais como leitores de ecrã.
+
+A norma revista 
+(http://www.headstar.com/ten ; versão portuguesa: http://www.acesso.umic.pcm.gov.pt/ten.html)
+concebida com base nas sugestões e melhoramentos recebidos das organizações líderes do processo que aceitaram subscrever e aconselhar os seus princípios assim como aplicar a norma nas suas próprias comunicações.
+
+Entre os signatários contam-se actualmente o Departamento do Trabalho e Pensões do governo do Reino Unido; duas autoridades locais - The London Borough of Brent
+(http://www.brent.gov.uk) e a Tunbridge Wells (http://www.tunbridgewells.gov.uk); e dos grupos além mar encontra-se a biblioteca da Canadian National Institute for the Blind
+(http://www.cnib.ca/library) e a Rede European Design for All e-
+Accessibility (http://www.e-accessibility.org).
+
+A versão 1.1 das directrizes TEN incluem novas sugestões sobre estilos de fontes, o melhor uso das caixas altas e baixas, e a melhor forma de incorporar no corpo do texto as ligações Web. Existem novas indicações sobre como estruturar o boletim para permitir uma mais fácil navegação, com sugestões sobre onde posicionar o índice e a informação de enquadramento, e de como iniciar e finalizar uma secção do boletim. 
+
+As organizações que desejarem ser signatárias da norma, o que significa que irão recomendar os seus principios gerais, devem enviar um email para
+ten-standard@headstar.com .
+
+NOTA: a página principal do Boletim E-Access (http://www.headstar.com/eab) sofreu também remodelação e tornou-se mais acessível, permitindo uma navegação mais fácil fazendo agora uso de teclas de atalho, enquanto que elementos importantes das páginas como o menú do site se encontram agora claramente assinalados. Os utilizadores podem agora saltar entre um formato vulgar de imagens e um texto ampliado, bastando para tal um simples clique do rato. Agora, o sítio web cumpre todos os pontos de verificação de prioridade 1 e 2 e grande parte dos de 3 das directrizes de acessibilidade do conteúdo da Web do consórcio World Wide Web
+(http://www.w3.org/TR/WAI-WEBCONTENT).
+
++02: Criado o Fórum de Acessibilidade ao UNIX.
+
+Os esforços para incrementar a acessibilidade do sistema operativo UNIX teve progressos com o lançamento este mês do Fórum de Acessibilidade ao UNIX
+(UAF - http://accessibility.kde.org/forum).
+
+O anfitrião do fórum é o projecto KDE (http://www.kde.org), um grupo de engenheiros de software de código livre que estão a desenvolver um ambiente de trabalho similar aos dos sistemas operativos Windows e Mac, o qual o UNIX pode usar.
+
+O UAF congrega produtores de leitores de ecrã e tecnologias de ampliação para UNIX, o sistema operativo em código livre mais utilizado em todo o mundo.
+
+Apesar dos desenvolvimentos que têm vindo gradualmente a incrementar as ferramentas de ampliação de caracteres do UNIX ao longo dos últimos dez anos, os trabalhos de desenvolvimento em redor de software de interface necessários para dotar os sistemas UNIX de leitores de ecrã são recentes. 
+
+"Isto é importante porque os sistemas internos de muitos dos grandes empregadores no qual se inclui a banca correm em UNIX," afirma o Dr Terry Barnaby da Beam
+(http://www.beam.ltd.uk), um produtor de tecnologias de apoio para UNIX e Linux, o popular sistema operativo derivado do UNIX. "Muitos empregadores do sector bancário têm de usar uma interface de janelas UNIX para verificar transacções de clientes, tais como quando um cheque é pago através de uma conta, por exemplo," diz ele.
+
+De acordo com Barnaby, tornar o UNIX acessível é complicado pela simples razão que as aplicações, tais como as interfaces gráficas de utilizador, e os navegadores Web são construidos por diferentes comunidades de desenvolvimento, e não raras as vezes não é possível pô-las a trabalhar em conjunto sem que haja um conhecimento técnico aprofundado. 
+
+Por exemplo, os leitores de ecrã têm vindo a ser desenvolvidos pelas comunidades de desenvolvimento do KDE e da GNOME (http://www.gnome.org), que trabalham sobre as aplicações UNIX, de forma separada.
+
++03: Adaptador Para Navegador Web On-line Chega ao Reino Unido.
+
+Um novo sistema desenvolvido pela IBM que permite às pessoas configurar as preferências de navegação na Web como tamanhos de texto, podem depois ser acedidas através de um qualquer computador, vai ter o suporte no Reino Unido da associação Abilitynet.
+
+O sistema trabalha através da combinação de uma pequena peça de software ou 'plug-in' descarregado para o computador do utilizador - o qual deverá correr o navegador Web Internet Explorer versão 5.5 ou superior - em que as preferências e configurações são armazenadas num servidor Web remoto ao qual cada utilizador tem acesso mediante palavra-chave. Quando o utilizador entra no servidor Web através de um qualquer computador, em casa ou no trabalho, que tenha o dito plug-in instalado, ao introduzir o seu nome de utilizador e a sua palavra-chave, as suas preferências e configurações são de imediato activadas.
+
+Tecnologia de Adaptação Web, ou no seu nome original Web Adaptation Technology (WAT - http://www.webadapt.org) pode conter configurações armazenadas tais como: ampliação da página, tamanho do texto e espaçamento, cores, visualização de gráficos, e saída áudio.
+
+As pessoas e as organizações sem fins lucrativos podem usar a tecnologia gratuitamente, sendo que as outras organizações o poderão fazer mediante negociação das licenças com a IBM. A tecnologia tem vindo a ser distribuida nos EUA, em associação com várias instituições e organismos de investigação.
+
+"Apesar de alguns proprietários de sítios Web serem muito rigorosos no que diz respeito à acessibilidade, vai levar provavelmente muitos anos até que a maior parte dos sítios Web sejam acessíveis.
+
+Entretanto, este tipo de serviço será de alguma mais valia," disse Mark Wakefield, Gestor de Relações Comunitárias da IBM no Reino Unido.
+
+De acordo com Wakefield, é espectável que muitas pessoas com deficiência da visão venham a precisar de assistência para descarregar e usar o programa. A AbilityNet
+(http://www.abilitynet.org.uk) presta informação e suporte técnico a utilizadores individuais e formação para organizações signatárias do serviço WAT.
+
++04: Aplausos Para o Jogo de Aventura 'Chillingham'.
+
+A informação recebida dos jogadores de Chillingham, um jogo de aventura de computador que faz uso apenas de som, e que não exige o sentido da visão para ser jogado, foi extremamente positivo, de acordo com os seus criadores da Bavisoft
+(http://www.bavisoft.com).
+
+O jogo foi assim intitulado graças à vila fantasma que serve de cenário à acção. Os jogadores encarnam o papel do protagonista Frederick, o qual se encontra numa missão de busca da sua amiga Lily. A aventura é controlada usando apenas as quatro setas de cursor de um teclado de computador, permitindo aos jogadores seleccionar objectos, vaguear pela vila e optar por falar com os seus residentes como é o caso do velho ermita Bill.
+
+Para conseguir os objectos tão necessários à sua aventura, Frederick precisa de solucionar os puzzles, ultrapassar obstáculos e defender-se dos inimigos como as bruxas gargalhantes usando os objectos adquiridos pelo caminho como armas.
+
+"A inspiração para o Chillingham baseou-se na recreação de jogos que nós adorávamos jogar quando eramos jovens, principalmente dos textos de aventuras," disse Russ Byer, vice-presidente de Vendas e Marketing da Bavisoft. "O conceito de juntar à aventura um pouco de estilo de jogo de galerias pareceu-nos que cabia perfeitamente," diz ele.
+
+Ele diz ainda que a empresa recebeu os parabéns dos recentes jogadores pela qualidade do som, a mudança dos puzzles, a história, e a diversidade das galerias. "Defendendo-se contra monstros, apanhando insectos, navegando pelas plataformas flutuantes e emitando o ermita, foram todos mencionados como aspectos agradáveis. E mesmo pensando que todos eles fazem uso de uma interface de 4 teclas, os controlos e os jogos dentro dos jogos são o suficientemente diversificados para não se tornar aborrecido," diz Byer.
+
+O Chillingham custa 44 dólares americanos. As criações anteriores da Bavisoft incluem Grizzly Gulch, o primeiro jogo de aventura alguma vez feito com base no som. Confira em Wild West (veja o Boletim E-Access, Edição 5, Maio 2000 e Edição 24, Dezembro 2001).
+
+++Notícias Breves:
+
++05: A Era DAISY: A National Library for the Blind procura pessoas com defici~encia da visão para testar uma selecção de livros electrónicos em formato DAISY, construídos com o programa 'EaseReader' da Dolphin. O objectivo é aumentar o acesso; a relação custo-benefício; e a qualidade dos livros electrónicos. Em troca do apoio, os participantes irão receber uma selecção de livros DAISY em CD e respectivo suporte técnico:
+http://fastlink.headstar.com/nlb1 .
+
++06: Campanha pelo Emprego: O RNIB e a Action for Blind People lançaram uma campanha para salientar aos empregadores que a perda da visão não precisa de ser vista obrigatoriamente como uma barreira à empregabilidade. Foi publicado o relatório 'Beyond the stereotypes: Blind and partially sighted people and work,' (Para além dos estereótipos: pessoas cegas e com baixa visão e o trabalho), acompanhado de uma carta, 'Work matters' (O trabalho conta). Foi igualmente lançado um DVD contendo entrevistas com empregadores e empregados com deficiência da visão:
+http://fastlink.headstar.com/rnib5 .
+
++07: Prémio Europeu: A Comissão Europeia anunciou o seu primeiro prémio 'Desenho para todos e tecnologias de apoio', a ter lugar em Novembro. Os designers Europeus, engenheiros, estudantes e empresas de design estão convidados a submeter os projectos que assegurem o envolvimento dos utilizadores em todas as áreas da sociedade:
+http://www.dfa-at-awards.org .
+
+[Fim da secção um].
+
+++Notícia Especial: Conferência da Association of Braille Producers (Associação dos Produtores de Braille) do Reino Unido
+- Outubro 4-5, 2004
+- Hotel Albright Hussey, Shrewsbury.
+
+A Associação dos Produtores de Braille do Reino Unido está a preparar uma conferência que terá lugar em Shrewsbury na Segunda-feira, 4 e Terça-feira, 5 de Outubro 2004. Os dois dias serão ocupados com apresentações, demonstrações e grupos de trabalho de interesse para qualquer pessoa envolvida na produção Braille incluíndo pessoal ligado às associações, às unidades Braille existentes nas prisões, centros de recursos escolares e sociedades locais, produtores comerciais, e transcritores voluntários. Serão tópicos da conferência as alterações do código Braille, as regras dos direitos de autor, o formato DAISY, os diagramas tácteis e a produção de Moon. Os produtores de software de tratamento de Braille, de impressoras e das máquinas de impressão de diagramas estarão presentes para demonstrar os seus mais recentes produtos.
+
+Para mais detalhes e inscrição veja:
+http://www.ukabp.org/conference.asp
+ou email conference@ukabp.org
+ou telefone 0870 765 9388.
+
+[Fim da notícia especial].
+
+++Secção Dois: 'A Receber'
+- Fórum dos Leitores.
+
+Envie todos os contributos ou respostas para o email inbox@headstar.com .
+
++08: Declarações Fortes: Tem havido um larguíssimo apoio da parte dos nossos leitores à sugestão de Amar Latif para que os bancos disponibilizem os extractos bancários através de email, sem fazer menção ao número da conta por questões de segurança, como o formato mais acessível.
+
+Kawal Gucukoglu disse: "Estou inteiramente de acordo com [Amar Latif]. Até porque para consultar o banco temos que entrar nos sítios Web dos bancos, os quais são na sua maioria não acessíveis e eu tenho repetidamente perguntado ao meu banco acerca do que que vão fazer para tornar o seu local na Web acessível a pessoas com deficiência da visão. Nunca recebi uma resposta satisfatória e continuo à espera que os bancos façam os seus locais na Web acessíveis a leitores de ecrã. Também gostaria de receber o meu extracto bancário via email!"
+
+Carl Jolley diz: "Gostaria de registar o meu voto para que o meu extracto bancário me fosse enviado por correio electrónico. Quando tenho tempo, uso o Halifax on-line, mas como já disseram, o registo de entrada e assim leva tempo e o mundo de pressão em que vivemos não nos permite aquilo. Não precisamos que o extracto tenha informação confidencial, por isso sem número de conta ou a necessidade de imprimir um qualquer outro código desde que nós tenhamos efectuado o registo do nosso email com eles, penso que é informação suficiente do ponto de vista de segurança para se certificarem que estão a enviar a informação correcta à pessoa certa. O único risco possível existe no caso da pessoa com deficiência da visão introduzir o endereço de email de forma incorrecta, então alguém irá ficar a saber quanto é que você gastou no supermercado!"
+
+A consultora de acessibilidade Julia Schofield diz que ela também gostaria de ter os extractos por email, e diz: "Não me parece particulamente seguro que os extractos em braille saiam dos bancos para serem impressos noutras organizações."
+
+E Simon Cavendish concorda: "Sim, penso que será uma excelente ideia ter acesso aos detalhes bancários menos o número da conta. Que desculpa estúpida usam os bancos. Parece-me que as razões de segurança e de sã funcionamento dos processos é usado por muitas organizações para discriminar pessoas com deficiência."
+
+Outros dois leitores recomendam o uso do banco via telefone como uma boa alternativa aos locais na Web inacessíveis. Bart Simons, especialista em acessibilidade Web na empresa Belga de soluções de governação electrónica, ASCii, diz: "O meu banco na Bélgica dispõe de um serviço bancário via telefone. Significa isto que posso ouvir o meu extracto e a lista das transacções efectuadas através do telefone. Este é um serviço vulgar e que não foi criado em exclusivo para os clientes com uma qualquer desvantagem. Este método é muito conveniente e rápido. Eu considero-o mesmo mais seguro que receber esta informação por email."
+
+E a Debbie Payne da Hereford diz: "Não utilizo o sistema bancário via Internet, mas uso o serviço bancário via telefone, o qual descobri ser de um valor incalculável. Ele fornece-lhe acesso através da voz ao balanço da conta, às transacções recentes e por aí fora e ainda lhe permite falar com um operador caso deseje obter informações detalhadas das transacções existentes em extractos anteriores. Isto é ideal, particulamente se você não lê braille, ou considerar o sistema bancário disponível na Internet uma perda de tempo."
+
++09: Mais Chips: Também do tema bancário, o debate continua sobre a acessibilidade ou melhor dizendo sobre o novo sistema 'Chip and
+PIN' o qual viu ser substituído, nos cartões de crédito e débito, a assinatura pelos códigos electrónicos.
+
+Debbie Payne escreve: "Concordo com Clare Page, que ficou incrédula ao saber que as pessoas com deficiência da visão se defrontam com problemas na utilização do sistema 'Chip and PIN'. Pessoalmente não posso esperar por começar a usá-lo. Sendo eu uma pessoa totalmente cega, evito usar o meu cartão nas lojas, porque o uso de uma assinatura é-me extremamente difícil, e quase sempre me sinto desconfortável e preocupada com a opinião dos outros a respeito. Como a Clare correctamente aponta, o único problema deverá ser saber a posição das teclas. Certamente, será de longe mais simples introduzir um número de quatro digitos do que colocar a sua assinatura num pedaço de papel."
+
+E Julia Schofield pergunta: "Será que nós, no Reino Unido, sempre temos que responder negativamente à mudança? Será a pobre educação sobre algo que é novo, e muitas vezes a posição de reivindicação assumida pelas organizações de cegos, que nos conduz a reagir sempre assim ao progresso?
+
+"Detesto ter que pegar numa caneta e ter de perguntar onde devo assinar num cartão de crédito ou em qualquer recibo. Se consegue usar um telefone móvel, certamente que um 'pinpad' não será mais penoso de usar? Talvez devessemos apenas pressionar para que existam diferentes superfícies para teclas importantes como o 'enter' ou o  'validar'?
+
+"Talvez alguma informação de 'como fazer' e um pouco de ajuda na primeira vez que se utilize possa modificar as opiniões - é mais fácil e seguro. Penso que as pessoas tendem a não gostar daquilo que não conhecem, e pelo meu passado de consultora nos postos dos correios, verifico que se as pessoas introduzirem o PIN pessoalmente, elas converterão-se de imediato ao sistema."
+
++10: Leitores Grátis: Continuando a nossa discussão sobre programas de leitores de ecrã baratos, Nick Freear da Bunbury IS diz: "Uso o navegador Web áudio 'pwWebSpeak' da Productivity Works:
+http://www.soundlinks.com/pwgen.htm
+
+"O seu termo de utilização inclui: 'Se for uma pessoa com deficiência da visão ou estiver a usar o programa para efeitos de avaliação da acessibilidade de sítios Web, pode usar o programa gratuitamente, mas não será considerado para efeitos de assistência'. Ao contrário da maioria dos leitores de ecrã, o 'pwWebSpeak' não precisa de um navegador em separado para aceder à Web - este está auto-contido. O ficheiro para o descarregar tem 6.3 Megabytes."
+
+[Fim da secção dois].
+
+
+++Notícia Especial: Fórum de Acessibilidade à Web.
+
+O Fórum Accessify é um fórum de discussão dedicado a todos os tópicos relacionados com acessibilidade à Web. Os tópicos cobrem tudo desde "Iniciantes" e "Concepção de Sítios Web e teste" até a projectos tais como a novíssima ferramenta de testes WaiZilla e a acessibilidade do próprio software do fórum em código aberto.
+
+Tudo o que precisa para se registar é de um endereço de email de trabalho, e depois vir daí e divertir-se em: http://www.accessifyforum.com .
+
+[Fim da notícia especial].
+
+++Secção Três: Em Foco
+- Compras On-line.
+
++11: Diário de Um Cliente Insatisfeito
+por Karen Turner e Mel Poluck.
+
+Karen Turner, leitora do Boletim E-Access começou a usar o supermercado on-line Tesco, com serviço de entrega ao domicílio quando ela própria ficou impossibilitada de sair de casa por motivos de doença. No entanto, mesmo sabendo que o Tesco tem disponível um local na Web com um 'serviço de loja acessível' especial com o objectivo de servir aqueles que usam tecnologias de apoio, Turner descobriu que o processo de encomenda de produtos, enquanto utilizadora cega, estava assustadoramente cheio de dificuldades.
+
+De facto, Turner não usou o local 'Acessível' 
+(http://www.tesco.com/access/about.htm) porque, diz ela, ele não tem todas as ofertas especiais apresentadas no site principal, e não é possível corrigir uma encomenda depois de ter sido efectuada. 
+
+O que se segue é uma selecção editada de uma série de correios electrónicos trocadas, como resultado destes problemas, entre a Turner e o departamento de serviço ao cliente do Tesco.
+
+1 Março 2004.
+De: Karen Turner.
+Caro Tesco,
+Enquanto pessoa cega, o meu navegador preferido é o Opera uma vez que ele me fonece a maioria dos controlos através do teclado em vez de ter que usar um rato. Ao completar a nota de encomenda, e ao introduzir os meus detalhes de pagamento, obtive uma mensagem de erro. Tentei várias vezes com outras formas de pagamento e recebi consecutivamente o erro, tendo ficado chateada e com um sentimento de frustração pois tinha acabado de gastar quatro horas a navegar no vosso site.
+
+4 Março 2004.
+De: Suzi Harris, Gestora do Serviço ao Cliente, Tesco.com.
+Cara Karen,
+Se tiver quaisquer problemas na colocação de futuras encomendas no Tesco.com, contacte por favor a nossa linha de atendimento onde um dos nossos operadores terá todo o gosto em ajudar.
+
+5 Março 2004.
+De: Karen Turner.
+Cara Suzi Harris,
+Você não fez quaisquer comentários às dificuldades que eu tive na utilização do Tesco.com e do meu navegador preferido. Diz que devo contactar um operador do vosso serviço de atendimento. No entanto, fiquei sem perceber porque não me pode dar uma razão para a minha dificuldade actual, e seria formidável que me explicasse como a posso contactar a si por telefone ao mesmo tempo que estou a visualizar o Tesco.com dado que tenho apenas uma linha para Internet e telefone e não disponho de telefone móvel?
+
+9 Março 2004.
+De: Sean McKellican, Gestor do Serviço ao Cliente, Tesco.com.
+Cara Karen,
+Lamento ouvir que enfrentou problemas com o nosso local Web e o navegador Opera. O site não foi desenhado nem codificado para clientes que usem navegadores diferentes do Internet Explorer ou Netscape. Sempre foi assim desde o dia um do sítio Web mas à medida que os anos passam é compreensível que isto tenha que ser alterado.
+
+No presente momento apenas três por cento dos nossos clientes usam o navegador Opera - houve alguns que nos reportaram este problema. Entretanto, até que procedamos à alteração do site de qualquer forma, apenas lhe podemos pedir que use o Internet Explorer ou o Netscape, ou pode tentar o nosso outro site em 
+http://www.tesco.com/access .
+
+
+11 Março 2004.
+De: Karen Turner.
+Obrigado pela vossa gentil informação de resposta. Hoje decidi que precisava de mais produtos do Tesco e contrariada usei o navegador Internet Explorer. Não vou dar-lhe informação de toda a minha saga. Como adicionei cada elemento e naveguei com a tecla tab nesta página longa e tediosa, nem de como tive que ouvir do meu leitor de ecrã toda a verbalização de cada elemento. Ao adicionar os elementos ao cesto das compras, a caixa de texto para os produtos era omitida quando pressionava na tecla tab e consequentemente não era lida pelo meu leitor de ecrã. Vi-me obrigada a recorrer a alguém que me pudesse ler estas caixas na esperança de vir a ser capaz de encomendar os produtos que queria.
+
+Depois de cada adição, voltei à lista original de produtos e começei novamente o procedimento, em vez de ter a possibilidade de regressar à minha última escolha. Depois tentei actualizar os elementos seleccionados à minha encomenda original, e depois seguir para o 
+'check out' (verificação de saída). Descobri então que, agora tinha duas encomendas, a compra que fiz na página 'access' tinha sido tratada como uma nova encomenda.
+
+Sem saber ao certo qual deveria ser o próximo passo, contactei a vossa linha de atendimento, e expliquei que pretendia que estes produtos fossem entregues com a minha encomenda original. Perguntei se isto significava que eu tinha duas taxas de entrega dos produtos separada, à qual o vosso operador me confirmou. Parece que vocês não têm vontade em esquecer uma das taxas de encomenda assim como não podem amalgamar estas duas encomendas.
+
+17 Março 2004.
+De: Stuart Robertson, Gestor do Serviço ao Cliente, Tesco.com.
+Cara Karen,
+Desde já agradeço o seu email. Queira aceitar, por favor, as minhas desculpas pela demora na resposta à sua pergunta. Infelizmente, recebi apenas o seu email a partir do momento em que houve autorização para corrigir a sua encomenda. As encomendas para entrega antes das seis da tarde podem ser emendadas até às duas e quarenta e cinco da manhã do mesmo dia. Uma vez mais, aceite, por favor, as nossas desculpas por qualquer inconveniente causado.
+
+17 Março 2004.
+De: Karen Turner.
+Obrigado pela resposta ao meu email. No entanto, sinto que aquilo que quiseram significar foi que se atrasaram no tratamento do meu email. Aprecio todo o tempo e esforço gasto na ajuda à minha compra on-line. Infelizmente, derivado do aconselhamento incompleto por vocês fornecido às minhas perguntas em tempo oportuno, não sinto que tenham mostrado crença, empatia ou satisfação para com o vosso cliente.
+
+18 Março 2004.
+De: Elaine Pople, Gestora de Serviço ao Cliente, Tesco.com.
+Cara Karen,
+Apreciei bastante os seus comentários. Gostamos de fornecer o melhor serviço possível aos nossos clientes e qualquer comentário ou sugestão é sempre benvinda. O departamento relevante para o efeito foi notificado e posso assegurar-lhe que isto será tido em conta.
+
+Nota: Se outros leitores tiverem trocas que possam ser interessantes de ler, por favor dê-nos conta delas. Correio electrónico do editor
+inbox@headstar.com .
+
+[Fim da secção três].
+
+++Notícia especial: Teste a Acessibilidade do Seu Site.
+
+Headstar, o editor do Boletim E-Access, está a oferecer um conjunto de pacotes de assessoria especializada e independente para se certificar se os seus serviços Web cumprem a lei e as melhores práticas. Queremos dar-lhe um relatório claro e detalhado sobre o estado actual de acesso do seu site, e uma lista de tarefas a empreender para assegurar a conformidade com os requisitos governamentais.
+
+Os relatórios incluem também resultados de testes de qualidade geral tal como verificação de links. Tomar acções na área da acessibilidade beneficiará qualquer utilizador, tornará o seu sítio Web mais fácil de manter, e pode incrementar a assertividade do seu motor de busca! O serviço é particularmente útil para grandes organizações com serviços e sítios Web de grande dimensão.
+
+Para mais informações use o email:
+access-consult@headstar.com .
+
+[Fim da notícia especial].
+
+++Secção Quatro: Conceitos de Acesso
+- O Portal Totalmente Integrado.
+
++12: Serviço Universal
+por Ken Matthews.
+
+O Totally Integrated Portal (TIP)- Portal Totalmente Integrado -, é o nome que dei ao conceito de desenvolvimento de um sítio Web fortemente estruturado para integrar completamente as pessoas com deficiência da visão ou pessoas com dislexia no domínio digital, permitindo-lhes interagir entre si e com o mundo exterior simplemente como qualquer outra pessoa que tem acesso à Internet.
+
+Acredito que o conceito possa também englobar outros grupos de pessoas com deficiência, e que possa ser aplicado com relativa facilidade. A tecnologia está disponível: tudo o que é necessário é a vontade de o fazer.
+
+Aqui está como pode funcionar. As pessoas que acessem o sítio Web seriam recebidos por uma mensagem de voz dando-lhes as opções numeradas num menu. O computador, ou outro tipo de dispositivo, que o cliente usasse seria activado através da voz, e o utilizador apenas teria que dizer um número. Aqui está um exemplo de opções numeradas, através das quais pode ser oferecido qualquer coisa:
+
+1: Notícias em destaque.
+2: Estante dos Jornais.
+3: Grelha da Rádio
+4: Biblioteca
+5: Última informação para grupos específicos.
+6: Comunicação.
+7: Outros sites acessíveis.
+8: Sala de jogos on-line.
+9: Sala de conversas.
+10: Conversas gravadas.
+11: Fale com o moderador.
+12: Estações de rádio.
+
+Depois de escolher um número, é fornecido ao indivíduo mais um conjunto de opções com maiores detalhes relativamente à opção seleccionada. No exemplo apresentado atrás, a opção um e dois poderia levar às principais notícias dos jornais mais importantes com, vamos dizer assim, 10 artigos de cada um dos jornais.
+
+A opção número três, Grelha da Rádio, apresentaria de forma estrutura a tabela de programação e respectivos horários.
+
+A opção número quatro, Biblioteca, ofereceria uma selecção de livros áudio que poderiam ser ouvidos como áudio streaming [ficheiros que embora grandes se encontram num formato - streaming - que lhes permite serem tocados de imediato mesmo em banda estreita; não precisam de ser descarregados].
+
+A opção número cinco, Última informação para grupos específicos, poderia cobrir por exemplo anúncios do RNIB para pessoas cegas, informação para disléxicos, ou informação para pessoas com dificuldades de coordenação motora como sucede com as pessoas com paralísia cerebral.
+
+A opção número seis, Comunicação, poderia oferecer listas telefónicas e ligação directa a um conjunto de serviços incluíndo voicemail ou serviços hospitalares ou especialistas de saúde. O conceito é que esta área seja passível de configurar de acordo com as necessidades de cada pessoa.
+
+A opção número sete, Outros sítios acessíveis, estaria ligado a outros sítios Web que cumprissem os mesmos critérios que o Portal. Mais uma vez, as possibilidades serão cada mais alargadas à medida que surgirem mais locais na Web acessíveis.
+
+A opção número oito, Salas de jogos on-line, iria oferecer jogos acessíveis que decorrem em tempo real, como o jogo do bingo ou jogos de pergunta/resposta.
+
+A opção número nove, Salas de conversação, seria ao vivo e na sua maioria moderadas, apesar do conceito pressupôr basicamente a lideranaça por parte do cliente. Em qualquer uma das salas de conversação, o moderador poderia criar uma sala para um conselho privado caso seja necessário numa base de um para um. As opções podem incluir o trabalho social; gabinetes de assessoria ao cidadão; consulta médica; um fórum de advocacia; uma sessão de benefícios fiscais; um fórum político.
+
+A opção número dez, Conversações gravadas, teria uma funcionalidade de gravação para pessoas que tenham perdido eventos já passados.
+
+A opção número onze, Falar com o moderador, iria permitir ultrapassar problemas de serviço ou solicitar novas funcionalidades.
+
+A opção número doze, Estações de rádio, iria combinar o acesso às actuais estações de rádio com um novo tipo de rádio Web 24 horas no ar com conteúdos de interesse para qualquer grupo de clientes com deficiência. A estação poderá tornar-se um ponto de ligação ou um local de reunião para todos os grupos.
+
+O conceito TIP irá na generalidade usar reconhecimento de voz disponível no equipamento do cliente que lhe permitirá comunicar com o serviço, e o cliente pode ainda emitir um qualquer som que estará associado com um determinado número. Outros grupos de deficientes que estejam incapacitados de emitir qualquer som ou movimento, deverão ser capazes de interagir com o equipamento através de outros meios; estou a pensar no movimento ou no piscar do olho, pois estes métodos têm vindo a ser utilizados noutras áreas. O 'Eyetracker system' (sistema de acompanhamento do olhar) parece ser extremamente eficaz no controlo de equipamentos para deficientes que apenas são capazes de comunicar com o movimento do olho. Este parece ser um óbvio interface para o portal para qualquer grupo com este tipo de incapacidade severa. Teclados numéricos poderão igualmente ser utilizados por clientes que tenham uma amplitude de movimentos limitada.
+
+A assistência de sociedades especializadas que em conjunto com grupos de interesse desfavorecidos identifiquem as necessidades das pessoas ajudando no fornecimento do hardware e do software necessários é fundamental para a consistência de todo o modelo.
+
+A porta TIP é vista como um servidor com os seus próprios direitos e disponibilizando todos os seus serviços como uma só aplicação individual. A integração com outros servidores em diferentes campos pode ocorrer no longo prazo. Por exemplo, o servidor TIP pode integrar um servidor de uma biblioteca para permitir aos seus clientes o acesso a livros áudio, de forma a que quando o cliente acesse a biblioteca a partir do menu do portal, o sub-menu dos livros e o áudio streaming do livro possa ser descarregado por um servidor remoto.
+
+O portal será igualmente concebido para permitir aos seus clientes comunicar com as suas familias e amigos, estejam estes em qualquer parte do mundo, abrindo um mundo de oportunidades. Outros serviços como os serviços de aconselhamento e assessoria poderão ser acedidos de formas similares.
+
+O simples facto que as pessoas com incapacidades severas podem ter melhores opções de se integrar com o resto do mundo faz do conceito TIP algo que merece todo o tempo e dinheiro que se possa dispender para o seu desenvolvimento. Não acredito que o dinheiro necessário para implementar estas ideias possa ser excessivo, e o incremento da qualidade de vida para os seus destinatários será imensurável.
+
+NOTA: Os Direitos de Autor do artigo pertencem a Ken Matthews, 2004. Ken Matthews é vice-administrador do Mid-Fife Newstape, uma empresas de serviços de jornais falados e revistas áudio para pessoas com deficiência da visão em Glenrothes e Kirkcaldy. As pessoas ou organizações interessadas em discutir formas de desenvolver o conceito TIP deverão contactá-lo por 
+kenmatthews@blueyonder.co.uk .
+
+[Fim da secção quatro].
+
+++ Notas Finais
++Como Receber Este Boletim.
+
+Para subscrever em Português este boletim mensal, envie um e-mail para <eab-pt-subs@headstar.com>. Pode ainda colocar uma lista de endereços, potenciais leitores, no corpo da mensagem. Encoraje, por favor, todos os seus amigos a assinar!
+
+Para retirar o seu endereço da lista Portuguesa do E-Access, envie uma mensagem para:
+<eab-pt-unsubs@headstar.com>.
+
+Envie comentários para coberturas e indicações para Dan Jellinek através de:
+dan@headstar.com .
+
+COPYRIGHT 2004 HEADSTAR Ltd http://www.headstar.com .
+O Boletim pode ser reproduzido desde que todas as partes incluindo esta nota sobre 
+copyright seja incluída, e desde que as pessoas sejam encorajadas a subscrever o boletim por email. Dê igualmente destaque ao editor quando reproduzir o nosso conteúdo. As secções das reportagens podem ser citadas desde que fique claro que foi "retirado do boletim e-Access, uma newsletter mensal com distribuição via correio electrónico", e o endereço da nossa página Web se encontra igualmente referenciada http://www.headstar.com/eab .
+
++EQUIPA:
+Editor - Dan Jellinek
+Vice-editor - Derek Parkinson
+Reporter Sénior - Mel Poluck
+Reporter das Notícias - Julie Hill
+Conselheiro Editorial - Kevin Carey.
+
++EQUIPA PORTUGUESA:
+Coordenação e tradução - Jorge Fernandes
+
+ISSN 1476-6337 .
+
+[Fim da edição].
