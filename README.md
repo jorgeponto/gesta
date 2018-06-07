@@ -5,7 +5,7 @@ Bem-vindo à página de arquivo do GESTA-MP, Grupo de Estudos Sociais, Tiflológ
 **Menu principal**
 
 - [Documentação do GESTA-MP](docs.md)
-- [Corpos Sociais do GESTA-MP](orgaos.htm)
+- [Corpos Sociais do GESTA-MP](orgaos.md)
 - [Diretório](sites.htm)
 - [Cadernos GESTA](gesta01/indice.htm)
 - [Revista Grande Angular](grandeangular.htm)
