@@ -4,7 +4,7 @@ Bem-vindo à página de arquivo do GESTA-MP, Grupo de Estudos Sociais, Tiflológ
 
 **Menu principal**
 
-- [Estatutos e Princípios GESTA-MP](docs.md)
+- [Documentação do GESTA-MP](docs.md)
 - [Corpos Sociais do GESTA-MP](orgaos.htm)
 - [Diretório](sites.htm)
 - [Cadernos GESTA](gesta01/indice.htm)
