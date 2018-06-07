@@ -8,8 +8,8 @@ title: Corpos Sociais do GESTA-MP
 
 **Nesta página:**
 
-- [Mandato 2004 - 2006](#n1)
-- [Mandato 2001 - 2003](#n2)
+- [Mandato 2004 - 2006](#mandato-2004---2006)
+- [Mandato 2001 - 2003](#mandato-2001---2003)
 
 ## Mandato 2004 - 2006
 
