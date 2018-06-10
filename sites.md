@@ -22,8 +22,7 @@ Nota prévia: para proceder a uma pesquisa de qualquer organização nesta pági
 
 ### - B -
 
-<ul>
-- [BND - Biblioteca Nacional Digital](http://bnd.bn.pt/ecrans/main-menu.html
+- [BND - Biblioteca Nacional Digital](http://bnd.bn.pt/ecrans/main-menu.html)
 
 ### - C -
 
