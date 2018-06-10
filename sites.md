@@ -59,9 +59,7 @@ Nota prévia: para proceder a uma pesquisa de qualquer organização nesta pági
 
 ### - T -
 
-<ul>
-- [Telecentro.org - Teletrabalho para Deficientes](http://www.telecentro.org")
-  </a>.</li>
+- [Telecentro.org - Teletrabalho para Deficientes](http://www.telecentro.org)
 - [Tiflot&eacute;cnica - Consultoria e Distribui&ccedil;&atilde;o](http://www.tiflotecnia.com/)
 
 ### - U -
