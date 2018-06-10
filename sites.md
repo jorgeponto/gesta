@@ -111,44 +111,13 @@ Nota prévia: para proceder a uma pesquisa de qualquer organização nesta pági
 
 ### P&aacute;ginas Pessoais Personalizadas
 
-<ul>
-<li><a href="http://intervox.nce.ufrj.br/~elizabet/">Banco de
-Escola - Elisabeth Dias de S&aacute; (Brasil)</a>..</li>
-
-<li><a href="http://www.bengalalegal.com">Bengala Legal
-(Brasil)</a>.</li>
-
-<li><a href="http://intervox.nce.ufrj.br/~airton">Biblioteca do
-Airton Simille Marques (Brasil)</a>.</li>
-
-<li><a href="http://www.geocities.com/aulas_html">Curso de HTML
-para Cegos (Brasil)</a>.</li>
-
-<li><a href="http://intervox.nce.ufrj.br/~elizabet">O Banco de
-Escola (Brasil)</a>.</li>
-
-<li><a
-href="http://www.terravista.pt/guincho/6795,">P&aacute;gina de
-Carlos Lopes (Portugal)</a>.</li>
-
-<li><a href="http://eduardo.main-page.com/">P&aacute;gina de
-Eduardo Botelho (Portugal)</a>.</li>
-
-<li><a
-href="http://www.terravista.pt/AguaAlto/4371/">P&aacute;gina de
-Eunice Santos (Portugal)</a>.</li>
-
-<li><a href="http://www.lerparaver.com/filipe">P&aacute;gina de
-Filipe Azevedo (Portugal)</a>.</li>
-
-<li><a href="http://www.estaaqui.net">P&aacute;gina de Francisco
-Figueiredo (Portugal)</a>.</li>
-</ul>
-</div>
-
-<div class="rodape">
-<p>&Uacute;ltima actualiza&ccedil;&atilde;o efectuada em 20 Setembro 2006
-<br />
-Webmaster: <a
-href="mailto:gesta@gesta.org">gesta@gesta.org</a>.</p>
-</div>
+- [Banco de Escola - Elisabeth Dias de S&aacute; (Brasil)](http://intervox.nce.ufrj.br/~elizabet/)
+- [Bengala Legal (Brasil)](http://www.bengalalegal.com)
+- [Biblioteca do Airton Simille Marques (Brasil)](http://intervox.nce.ufrj.br/~airton)
+- [Curso de HTML para Cegos (Brasil)](http://www.geocities.com/aulas_html)
+- [O Banco de Escola (Brasil)](http://intervox.nce.ufrj.br/~elizabet)
+- [P&aacute;gina de Carlos Lopes (Portugal)](http://www.terravista.pt/guincho/6795)
+- [P&aacute;gina de Eduardo Botelho (Portugal)](http://eduardo.main-page.com)
+- [P&aacute;gina de Eunice Santos (Portugal)](http://www.terravista.pt/AguaAlto/4371/)
+- [P&aacute;gina de Filipe Azevedo (Portugal)](http://www.lerparaver.com/filipe)
+- [P&aacute;gina de Francisco Figueiredo (Portugal)](http://www.estaaqui.net)
