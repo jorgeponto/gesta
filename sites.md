@@ -16,224 +16,100 @@ Nota prévia: para proceder a uma pesquisa de qualquer organização nesta pági
 - [ADFA - Associação de Deficientes das Forças Armadas](http://www.adfa-portugal.com)
 - [APD - Associa&ccedil;&atilde;o Portuguesa de Deficientes](http://www.apd-sede.rcts.pt)
 - [APEC - Associa&ccedil;&atilde;o Promotora de Ensino dos Cegos](http://www.apec-rcne.rcts.pt)
+- [APEDV - Associa&ccedil;&atilde;o Promotora de Emprego de Deficientes Visuais](http://www.apedv.rcts.pt)
+- [ARP - Associa&ccedil;&atilde;o de Retinopatia de Portugal](http://www.arp.rcts.pt)
+- [Ataraxia - Estudos e Sistemas em Tecnologias de Informa&ccedil;&atilde;o, Lda](http://www.ataraxia.pt)
 
-<li><a href="http://www.apedv.rcts.pt/">APEDV -
-Associa&ccedil;&atilde;o Promotora de Emprego de Deficientes
-Visuais</a>.</li>
-
-<li><a href="http://www.arp.rcts.pt/">ARP -
-Associa&ccedil;&atilde;o de Retinopatia de Portugal</a>.</li>
-
-<li><a href="http://www.ataraxia.pt/">Ataraxia - Estudos e
-Sistemas em Tecnologias de Informa&ccedil;&atilde;o,
-Lda</a>.</li>
-</ul>
-
-<h1>- B -</h1>
+### - B -
 
 <ul>
-<li><a href="http://bnd.bn.pt/ecrans/main-menu.html">BND -
-Biblioteca Nacional Digital</a>.</li>
-</ul>
+- [BND - Biblioteca Nacional Digital](http://bnd.bn.pt/ecrans/main-menu.html
 
-<h1>- C -</h1>
+### - C -
 
-<ul>
-<li><a href="http://www.cidef.org/">CIDEF - Centro de
-Inova&ccedil;&atilde;o para Deficientes</a>.</li>
+- [CIDEF - Centro de Inova&ccedil;&atilde;o para Deficientes](http://www.cidef.org)
+- [CNOD - Confedera&ccedil;&atilde;o Nacional das Organiza&ccedil;&otilde;es de Deficientes](http://www.cnod.rcts.pt)
+- [CRDV - Centro de Recursos da Defici&ecirc;ncia Visual de Lisboa](http://www.esec-passos-manuel.rcts.pt/crdv)
 
-<li><a href="http://www.cnod.rcts.pt">CNOD -
-Confedera&ccedil;&atilde;o Nacional das
-Organiza&ccedil;&otilde;es de Deficientes</a>.</li>
+### - E -
 
-<li><a href="http://www.esec-passos-manuel.rcts.pt/crdv">CRDV -
-Centro de Recursos da Defici&ecirc;ncia Visual de
-Lisboa</a>.</li>
-</ul>
+- [ElectroSertec - Ajudas T&eacute;cnicas para Deficientes Visuais](http://www.electrosertec.pt)
+- [Escola de C&atilde;es-Guia para Cegos](http://www.ep-beira-aguieira-mtg.rcts.pt/caes-guias/apresent.html) 
 
-<h1>- E -</h1>
+### - G -
 
-<ul>
-<li><a href="http://www.electrosertec.pt/">ElectroSertec - Ajudas
-T&eacute;cnicas para Deficientes Visuais</a>.</li>
+- [GAED - Gabinete de Apoio ao Estudante com Defici&ecirc;ncia / Universidade do Minho](http://www.uminho.pt/Alunos/GAED/Default.htm)
 
-<li><a
-href="http://www.ep-beira-aguieira-mtg.rcts.pt/caes-guias/apresent.html">
-Escola de C&atilde;es-Guia para Cegos</a>.</li>
-</ul>
+### - I -
 
-<h1>- G -</h1>
+- [INR - Instituto Nacional para a Reabilitação, IP](http://www.inr.pt)
 
-<ul>
-<li><a href="http://www.uminho.pt/Alunos/GAED/Default.htm">GAED -
-Gabinete de Apoio ao Estudante com Defici&ecirc;ncia /
-Universidade do Minho</a>.</li>
-</ul>
+### - L -
 
-<h1>- L -</h1>
+- [LerParaVer - Portal da Vis&atilde;o Diferente](http://www.lerparaver.com)
+
+### - N -
+
+- [N&uacute;cleo de Apoio &agrave; Defici&ecirc;ncia Visual](http://www.drec.min-edu.pt/nadv/index.html)
+
+
+### - P -
+
+- [PAUI - P&aacute;gina de Ajuda e Utilidades para Invisuais](http://student.dei.uc.pt/~edgar/paui/)
+- [Portal do Cidad&atilde;o com Defici&ecirc;ncia](http://www.pcd.pt)
+
+### - T -
 
 <ul>
-<li><a href="http://www.lerparaver.com">LerParaVer - Portal da
-Vis&atilde;o Diferente</a>.</li>
-</ul>
+- [Telecentro.org - Teletrabalho para Deficientes](http://www.telecentro.org")
+  </a>.</li>
+- [Tiflot&eacute;cnica - Consultoria e Distribui&ccedil;&atilde;o](http://www.tiflotecnia.com/)
 
-<h1>- N -</h1>
+### - U -
 
-<ul>
-<li><a
-href="http://www.drec.min-edu.pt/nadv/index.html">N&uacute;cleo
-de Apoio &agrave; Defici&ecirc;ncia Visual</a>. </li>
-</ul>
+- [Unidade de Equipamentos Tiflot&eacute;cnicos, Lda](http://www.acapo.pt)
 
-<h1>- P -</h1>
+### S&iacute;tios Internacionais
 
-<ul>
-<li><a href="http://student.dei.uc.pt/~edgar/paui/">PAUI -
-P&aacute;gina de Ajuda e Utilidades para Invisuais</a>.</li>
+- [IBSA - International Blind Sport Association (Associa&ccedil;&atilde;o Internacional de Desporto de Cegos](http://www.ibsa.es/)
+- [UEC - Uni&atilde;o Europeia de Cegos](http://www.euroblind.org)
+- [ULAC - Uni&atilde;o Latino-Americana de Cegos](http://ulac.fbraille.com.uy)
+- [UMC - Uni&atilde;o Mundial de Cegos](http://umc.once.es/)
 
-<li><a href="http://www.pcd.pt">Portal do Cidad&atilde;o com
-Defici&ecirc;ncia</a>.</li>
-</ul>
+### S&iacute;tios Estrangeiros
 
-<h1>- S -</h1>
+- [ACLB - Associa&ccedil;&atilde;o de Cegos LOUIS BRAILLE (Brasil)](http://www.deficientesvisuais.org.br/Aclb.htm)
+- [Audioteca Sal e Luz (Brasil)](http://www.audioteca.com.br/)
+- [Blind Citizens Australia (Austr&aacute;lia)](http://www.bca.org.au/Welcome.html)
+- [Biblioteca Argentina para Ciegos (Argentina)](http://bac.org.ar)
+- [BrailleNet - Associa&ccedil;&atilde;o Braillenet (Fran&ccedil;a)](http://www.braillenet.jussieu.fr)
+- [COMPADRES - Conselho Mundial de Pais e Amigos do Deficiente Visual (Brasil)](http://www.compadres.org.br/)
+- [DAB - Associa&ccedil;&atilde;o de Cegos Dinamarqueses (Dinamarca)](http://www.dkblind.dk)
+- [DBSV - Federa&ccedil;&atilde;o dos Cegos e Ambl&iacute;opes Alem&atilde;es (Alemanha)](http://www.dbsv.org/)
+- [FAF - Federation des Aveugles de France - Federa&ccedil;&atilde;o de Cegos Franceses (Fran&ccedil;a)](http://www.faf.asso.fr)
+- [Fundaci&oacute;n Braille del Uruguay (Uruguai)](http://www.fbraille.com.uy)
+- [Fundaci&oacute;n de Ciegos M. Caragol de Barcelona (Espanha)](http://www.funcaragol.org)
+- [LARAMARA - Associa&ccedil;&atilde;o Brasileira de Assistencia ao Deficiente Visual (Brasil)](http://www.laramara.org.br)
+- [ONCE - Organiza&ccedil;&atilde;o Nacional de Cegos de Espanha (Espanha)](http://www.once.es)
+- [Rede SACI (Brasil)](http://www.saci.org.br)
+- [RNIB - Instituto Nacional de Cegos (Reino Unido)](http://www.rnib.org.uk)
+- [SRF - Associa&ccedil;&atilde;o dos Deficientes Visuais Suecos (Su&eacute;cia)](http://www.srfriks.org/english.htm)
+- [Tiresias - Colect&acirc;nea de informa&ccedil;&atilde;o para pessoas que trabalham no campo da Defici&ecirc;ncia Visual (Reino Unido)](http://www.tiresias.org)
+- [UIC - Uni&atilde;o Italiana de Cegos (It&aacute;lia)](http://www.uiciechi.it)
+- [UPC - Uni&atilde;o Paranaense de Cegos (Brasil)](http://www.upc.parana.net)
+- [VoirPlus - O Portal da Defici&ecirc;ncia Visual Franc&ecirc;s (Fran&ccedil;a)](http://www.voirplus.net)
 
-<ul>
-<li><a href="http://www.snripd.msst.gov.pt">SNRIPD - Secretariado
-Nacional de Reabilita&ccedil;&atilde;o e Integra&ccedil;&atilde;o
-de Pessoas Deficientes</a>.</li>
-</ul>
+### Outros Direct&oacute;rios
 
-<h1>- T -</h1>
+- [Direct&oacute;rio Bengala Legal (Brasil)](http://www.bengalalegal.com.br/ender.htm)
+- [Direct&oacute;rio Blind Citizens (Austr&aacute;lia)](http://www.bca.org.au/ausblind.htm)
+- [Direct&oacute;rio IBSA (Internacional)](http://www.ibsa.es/text/espanol/espanol.html)
+- [Direct&oacute;rio Portal VoirPlus (Fran&ccedil;a)](http://www.voirplus.net/assoc)
+- [Direct&oacute;rio RNIB (Reino Unido)](http://www.rnib.org.uk/linksite/visove.htm)
+- [Direct&oacute;rio Tiresias (Reino Unido)](http://www.tiresias.org/agencies/agencies_a.htm)
 
-<ul>
-<li><a href="http://www.telecentro.org">Telecentro.org -
-Teletrabalho para Deficientes</a>.</li>
 
-<li><a href="http://www.tiflotecnia.com/">Tiflot&eacute;cnica -
-Consultoria e Distribui&ccedil;&atilde;o</a>.</li>
-</ul>
-
-<h1>- U -</h1>
-
-<ul>
-<li><a href="http://www.acapo.pt">Unidade de Equipamentos
-Tiflot&eacute;cnicos, Lda</a>.</li>
-</ul>
-
-<h3>S&iacute;tios Internacionais</h3>
-
-<ul>
-<li><a href="http://www.ibsa.es/">IBSA - International Blind
-Sport Association (Associa&ccedil;&atilde;o Internacional de
-Desporto de Cegos)</a>.</li>
-
-<li><a href="http://www.euroblind.org">UEC - Uni&atilde;o
-Europeia de Cegos</a>.</li>
-
-<li><a href="http://ulac.fbraille.com.uy">ULAC - Uni&atilde;o
-Latino-Americana de Cegos</a>.</li>
-
-<li><a href="http://umc.once.es/">UMC - Uni&atilde;o Mundial de
-Cegos</a>.</li>
-</ul>
-
-<h3>S&iacute;tios Estrangeiros</h3>
-
-<ul>
-<li><a href="http://www.deficientesvisuais.org.br/Aclb.htm">ACLB
-- Associa&ccedil;&atilde;o de Cegos LOUIS BRAILLE
-(Brasil)</a>.</li>
-
-<li><a href="http://www.audioteca.com.br/">Audioteca Sal e Luz
-(Brasil)</a>.</li>
-
-<li><a href="http://www.bca.org.au/Welcome.html">Blind Citizens
-Australia (Austr&aacute;lia)</a>.</li>
-
-<li><a href="http://bac.org.ar/">Biblioteca Argentina para Ciegos
-(Argentina)</a>.</li>
-
-<li><a href="http://www.braillenet.jussieu.fr/">BrailleNet -
-Associa&ccedil;&atilde;o Braillenet (Fran&ccedil;a)</a>.</li>
-
-<li><a href="http://www.compadres.org.br/">COMPADRES - Conselho
-Mundial de Pais e Amigos do Deficiente Visual (Brasil)</a>.</li>
-
-<li><a href="http://www.dkblind.dk/">DAB -
-Associa&ccedil;&atilde;o de Cegos Dinamarqueses
-(Dinamarca)</a>.</li>
-
-<li><a href="http://www.dbsv.org/">DBSV - Federa&ccedil;&atilde;o
-dos Cegos e Ambl&iacute;opes Alem&atilde;es (Alemanha)</a>.</li>
-
-<li><a href="http://www.faf.asso.fr/">FAF - Federation des
-Aveugles de France - Federa&ccedil;&atilde;o de Cegos Franceses
-(Fran&ccedil;a)</a>.</li>
-
-<li><a href="http://www.fbraille.com.uy">Fundaci&oacute;n Braille
-del Uruguay (Uruguai)</a>.</li>
-
-<li><a href="http://www.funcaragol.org">Fundaci&oacute;n de
-Ciegos M. Caragol de Barcelona (Espanha)</a>.</li>
-
-<li><a href="http://www.laramara.org.br/">LARAMARA -
-Associa&ccedil;&atilde;o Brasileira de Assistencia ao Deficiente
-Visual (Brasil)</a>.</li>
-
-<li><a href="http://www.once.es">ONCE - Organiza&ccedil;&atilde;o
-Nacional de Cegos de Espanha (Espanha)</a>.</li>
-
-<li><a href="http://www.saci.org.br">Rede SACI (Brasil)</a>.</li>
-
-<li><a href="http://www.rnib.org.uk">RNIB - Instituto Nacional de
-Cegos (Reino Unido)</a>.</li>
-
-<li><a href="http://www.srfriks.org/english.htm">SRF -
-Associa&ccedil;&atilde;o dos Deficientes Visuais Suecos
-(Su&eacute;cia)</a>.</li>
-
-<li><a href="http://www.tiresias.org">Tiresias - Colect&acirc;nea
-de informa&ccedil;&atilde;o para pessoas que trabalham no campo
-da Defici&ecirc;ncia Visual (Reino Unido)</a>.</li>
-
-<li><a href="http://www.uiciechi.it/">UIC - Uni&atilde;o Italiana
-de Cegos (It&aacute;lia)</a>.</li>
-
-<li><a href="http://www.upc.parana.net">UPC - Uni&atilde;o
-Paranaense de Cegos (Brasil)</a>.</li>
-
-<li><a href="http://www.voirplus.net/">VoirPlus - O Portal da
-Defici&ecirc;ncia Visual Franc&ecirc;s (Fran&ccedil;a)</a>.</li>
-</ul>
-
-<h3>Outros Direct&oacute;rios</h3>
-
-<ul>
-<li><a
-href="http://www.bengalalegal.com.br/ender.htm">Direct&oacute;rio
-Bengala Legal (Brasil)</a>.</li>
-
-<li><a
-href="http://www.bca.org.au/ausblind.htm">Direct&oacute;rio Blind
-Citizens (Austr&aacute;lia)</a>.</li>
-
-<li><a
-href="http://www.ibsa.es/text/espanol/espanol.html">Direct&oacute;rio
-IBSA (Internacional)</a>.</li>
-
-<li><a href="http://www.voirplus.net/assoc/">Direct&oacute;rio
-Portal VoirPlus (Fran&ccedil;a)</a>.</li>
-
-<li><a
-href="http://www.rnib.org.uk/linksite/visove.htm">Direct&oacute;rio
-RNIB (Reino Unido)</a>.</li>
-
-<li><a
-href="http://www.tiresias.org/agencies/agencies_a.htm">Direct&oacute;rio
-Tiresias (Reino Unido)</a>.</li>
-</ul>
-
-<h3>P&aacute;ginas Pessoais Personalizadas.</h3>
+### P&aacute;ginas Pessoais Personalizadas
 
 <ul>
 <li><a href="http://intervox.nce.ufrj.br/~elizabet/">Banco de
